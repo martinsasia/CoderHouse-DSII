@@ -1,0 +1,785 @@
+id,name,artists,duration_ms,release_date,year,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,mode,key,popularity,explicit,genre
+7bOxfbOrtVlw5qBtpD5tPC,A Good Man Is Hard to Find,"Lizzie Miles, Sharkey & His of Dixieland",168453,1922-07-08,1922,0.526,0.718,0.409,0.0,0.0539,-8.764,0.0578,102.664,0.689,1.0,0.0,16,False,"classic female blues, new orleans blues"
+4jhUNBqlFI21O7L0sKl507,As If I Didn't Have Enough On My Mind,Dick Haymes,148440,1922,1922,0.991,0.32,0.246,0.85,0.419,-15.79,0.0463,84.275,0.312,1.0,0.0,10,False,"british dance band, deep adult standards, swing, tin pan alley"
+1cVTcBBIJDSORGrcl5GrC3,A Good Man Is Hard to Find (Alternate Take),"Lizzie Miles, Sharkey's Kings Of Dixieland",168533,1922-07-08,1922,0.758,0.696,0.47,0.0,0.134,-6.647,0.0423,103.574,0.815,1.0,5.0,5,False,"classic female blues, new orleans blues"
+3dZW4yEp24TmcQYrJrHdI7,For All We Know,Nick Lucas,184253,1922-06-03,1922,0.916,0.528,0.189,1.52e-05,0.115,-11.159,0.0553,70.974,0.325,1.0,7.0,9,False,"british dance band, vintage jazz"
+5XjGdjP1oJdOGuvSFBk6gf,Always,Nick Lucas,145720,1922-06-03,1922,0.98,0.65,0.128,0.000452,0.119,-9.321,0.0489,108.653,0.432,1.0,7.0,0,False,"british dance band, vintage jazz"
+3dqUpsUEAFX9rEghsfdrnt,All Alone,Paul Whiteman,175842,1922-01-24,1922,0.996,0.429,0.196,0.874,0.193,-18.242,0.0478,78.697,0.526,1.0,5.0,1,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+1u37Vo6ZG5Bpev9kMzBanj,Tip Toe Thru' the Tulips (Alternate Take),Nick Lucas,135773,1922-06-03,1922,0.91,0.522,0.165,0.0,0.142,-13.519,0.0476,133.015,0.439,1.0,3.0,17,False,"british dance band, vintage jazz"
+5d72jeEFlnQLM8crLgRPX3,Jack I'm Mellow (Alternate Take 2),Trixie Smith,165573,1922-06-03,1922,0.915,0.704,0.546,0.947,0.182,-6.29,0.0953,97.684,0.807,1.0,3.0,13,False,"harlem renaissance, vintage swing"
+2XG07VHt2n3MLr0pgkCbl5,In a Little Spanish Town,Nick Lucas,125933,1922-06-03,1922,0.985,0.608,0.0708,0.000111,0.114,-8.652,0.042,89.2,0.549,1.0,3.0,0,False,"british dance band, vintage jazz"
+1xhUPsqPcA8m1KsTNDWxJ8,2 A.M. Blues,Trixie Smith,199893,1922-06-03,1922,0.995,0.429,0.463,0.922,0.387,-12.408,0.32,101.356,0.473,1.0,2.0,0,False,"harlem renaissance, vintage swing"
+6Dwa7sVA1AcD1XK8wbAMW3,Messin' Around (Alternate Take),Trixie Smith,175533,1922-06-03,1922,0.995,0.847,0.474,0.703,0.191,-9.547,0.0714,105.426,0.925,0.0,7.0,1,False,"harlem renaissance, vintage swing"
+0GbLP6Zfs51hD28ObIYltn,I Know Why (And So Do You),"Glenn Miller Orchestra, Paula Kelly, The Four Modernaires",223600,1922,1922,0.984,0.229,0.403,0.206,0.26,-5.386,0.0289,82.511,0.251,0.0,7.0,3,False,"adult standards, big band, easy listening, swing"
+7chcaiGWROXjCzI1x4PksH,I'm Looking at the World Through Rose Colored Glasses,Nick Lucas,179933,1922-06-03,1922,0.994,0.783,0.229,0.902,0.139,-14.483,0.116,127.6,0.74,1.0,8.0,0,False,"british dance band, vintage jazz"
+48PsXTQg8oTXw9sEmc8Faw,Jack I'm Mellow (Alternate Take),Trixie Smith,164440,1922-06-03,1922,0.909,0.709,0.445,0.853,0.219,-9.677,0.0657,98.189,0.881,1.0,3.0,4,False,"harlem renaissance, vintage swing"
+4SSFe9ns1ZeT7oyKKgHct2,"Brown Eyes, Why Are You Blue",Nick Lucas,184973,1922-06-03,1922,0.996,0.683,0.191,0.0602,0.138,-14.973,0.0798,116.279,0.558,1.0,1.0,0,False,"british dance band, vintage jazz"
+2bOEA1omBqAJJB9LdnuFVo,We Don't Need A Hook,"Mood, Donte The Gr8, Crunch Ex",214481,1922-09-01,1922,0.0654,0.817,0.424,3.04e-06,0.305,-18.275,0.217,89.948,0.437,0.0,10.0,0,True,golden age hip hop
+2FLnMsj39j2U90bnnUEClv,The World's Jazz Crazy and so Am I,Trixie Smith,184173,1922-06-03,1922,0.994,0.506,0.337,0.0497,0.164,-8.601,0.0607,94.409,0.548,1.0,0.0,0,False,"harlem renaissance, vintage swing"
+2kOS7PAU1nsSVnbiQmQv4A,I Don't Know and I Don't Care Blues,Trixie Smith,173226,1922-06-03,1922,0.996,0.563,0.146,0.575,0.494,-12.376,0.0476,88.721,0.46,1.0,3.0,0,False,"harlem renaissance, vintage swing"
+434mnCatW0YAfwJDvB3rIV,I'm Looking over a Four Leaf Clover,Nick Lucas,99453,1922-06-03,1922,0.957,0.722,0.34,0.0103,0.105,-9.954,0.0762,124.659,0.632,0.0,7.0,1,False,"british dance band, vintage jazz"
+06Zk49yvrq5GE4glwer1af,Freight Train Blues (Alternate Take),Trixie Smith,189133,1922-06-03,1922,0.995,0.398,0.295,0.854,0.39,-14.294,0.13,88.656,0.584,1.0,5.0,0,False,"harlem renaissance, vintage swing"
+6Ixnkcn6Sbh2JoUmX8CILO,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,360000,1922-12-25,1922,0.112,0.14,0.0989,0.88,0.11,-25.665,0.0463,34.118,0.0289,1.0,0.0,0,False,
+05PU0EoWyuJzyUTfcWfccL,Adelaide,"Young Astronauts Club, The Poison Control Centre",240000,1922-01-19,1922,0.000284,0.785,0.274,0.926,0.0907,-17.904,0.0697,150.002,0.831,0.0,4.0,0,False,
+3mKkXvr3QKiGB7Z1h39cjL,All Alone Again,Young Astronauts Club,210000,1922-01-20,1922,0.11,0.516,0.682,0.0373,0.156,-13.341,0.0511,120.006,0.277,1.0,1.0,0,False,
+3PCNuGNTQbFqSoz2Rr8GqL,AK Cash Refund,Young Astronauts Club,85655,1922-12-25,1922,0.86,0.382,0.0923,0.805,0.154,-24.553,0.501,98.551,0.26,1.0,1.0,0,False,
+7BOkRPTJv5bRVzyWXWZ4hu,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,340000,1922-01-20,1922,0.0778,0.232,0.116,0.859,0.111,-25.475,0.0435,137.57,0.0302,1.0,2.0,0,False,
+7p94hrYktZStgIu6TCj3cZ,Antoine,Fortugé,165200,1922,1922,0.994,0.537,0.153,0.0,0.419,-15.217,0.0898,129.134,0.558,1.0,8.0,0,False,
+7CDaqLwviNkzYWxtKClJWQ,Achin' Hearted Blues,Jazzbo Carolina Serenaders,160236,1922-09-14,1922,0.981,0.453,0.523,0.882,0.921,-12.035,0.186,178.225,0.806,1.0,4.0,0,False,
+0zKDk94R9QxWFtOUmj9C5a,Ain't We Got Fun,Benson Orchestra,179330,1922-09-19,1922,0.996,0.527,0.364,0.00338,0.318,-13.019,0.0523,183.726,0.718,1.0,4.0,0,False,
+2IcHQrdgoOTyAiUQXuIHmk,Afriendisjustanenemywhotabsyouinthefront,Young Astronauts Club,360000,1922-01-01,1922,0.1,0.119,0.0949,0.872,0.109,-25.81,0.0535,32.689,0.0304,1.0,0.0,0,False,
+2ntfulD6GfUJvjUOvRke66,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix III,Young Astronauts Club,435043,1922-01-04,1922,0.000587,0.279,0.136,0.904,0.619,-26.893,0.0467,140.376,0.0384,1.0,2.0,0,False,
+06NPwNGRmmdtsKDyon647M,All Alone Again,Young Astronauts Club,210000,1922-01-01,1922,0.11,0.516,0.682,0.0373,0.156,-13.341,0.0511,120.006,0.277,1.0,1.0,0,False,
+6S5CLq6Kzh4Oeo6j0fYcTd,Afriendisjustanenenywhostabsyouinthefront,Young Astronauts Club,360000,1922-01-17,1922,0.1,0.119,0.0949,0.872,0.109,-25.81,0.0535,32.689,0.0304,1.0,0.0,0,False,
+6b5d9QvOyqtVtdTKSFuPeD,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix VIII,Young Astronauts Club,435043,1922-01-11,1922,0.000244,0.223,0.273,0.735,0.619,-23.755,0.0399,93.135,0.114,1.0,2.0,0,False,
+4uudR9tyidd9KilUTQiB6W,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix V,Young Astronauts Club,435043,1922-01-11,1922,9.15e-06,0.463,0.176,0.682,0.619,-25.245,0.0401,139.973,0.0989,1.0,2.0,0,False,
+16AlO9PQspPH1j5hULjUXB,An Entrance 2 Hope,Young Astronauts Club,510000,1922-01-01,1922,0.0228,0.469,0.181,0.621,0.119,-18.411,0.0396,119.945,0.0344,1.0,7.0,0,False,
+3474iRRME9sGzgCs4gQHCE,Amsterdam,Young Astronauts Club,190000,1922-01-14,1922,0.102,0.728,0.14,0.84,0.0255,-18.86,0.0385,91.494,0.23,1.0,2.0,0,False,
+0B2hZjeGzeBaiqkrh8YWsR,An Entrance 2 Hope - Lemon Melon Remix I,Young Astronauts Club,510000,1922-03-05,1922,0.0143,0.608,0.299,0.73,0.115,-19.895,0.0352,120.055,0.0732,1.0,2.0,0,False,
+0piHjpPJlbRCIv66qsTuTF,All Alone Again - Move Ohn Remix I,Young Astronauts Club,480000,1922-01-03,1922,0.000592,0.742,0.459,0.016,0.263,-21.783,0.0478,119.982,0.78,1.0,1.0,0,False,
+5J2TiWi1swsjW2dE7aqtDU,An Entrance 2 Hope,Young Astronauts Club,510000,1922-01-14,1922,0.0228,0.469,0.181,0.621,0.119,-18.411,0.0396,119.945,0.0344,1.0,7.0,0,False,
+53iZNGTPPaJyQKPIIaXzY5,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix VII,Young Astronauts Club,435043,1922-01-11,1922,0.000123,0.356,0.284,0.825,0.619,-26.019,0.0659,140.079,0.209,1.0,2.0,0,False,
+0iTTf1V4pyVDbMh4O56TNi,All Alone Again,Young Astronauts Club,210000,1922-01-18,1922,0.11,0.516,0.682,0.0373,0.156,-13.341,0.0511,120.006,0.277,1.0,1.0,0,False,
+4pbZzZjEf974LpgstwnrRR,An Entrance 2 Hope,Young Astronauts Club,510000,1922-03-05,1922,0.0228,0.469,0.181,0.621,0.119,-18.411,0.0396,119.945,0.0344,1.0,7.0,0,False,
+3msQCZxqalHipcYt2ohixe,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,360045,1922-01-16,1922,0.0656,0.23,0.12,0.876,0.108,-25.589,0.0433,137.291,0.0282,1.0,2.0,0,False,
+67FX50ufb13bTYDFyFuK27,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,340000,1922-01-11,1922,0.0778,0.232,0.116,0.859,0.111,-25.475,0.0435,137.57,0.0302,1.0,2.0,0,False,
+3LbL71ExYMA330mggtvjK4,Amsterdam,Young Astronauts Club,190000,1922-01-15,1922,0.102,0.728,0.14,0.84,0.0255,-18.86,0.0385,91.494,0.23,1.0,2.0,0,False,
+5Vtk3sICqPYudCWyAy4u4X,All Alone Again - Infra Red Remix I,Young Astronauts Club,450000,1922-01-03,1922,0.0237,0.64,0.628,0.655,0.0987,-23.024,0.0454,119.972,0.0543,1.0,1.0,0,False,
+00zzJhaeXohh70Dgxsj8Dj,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix III,Young Astronauts Club,435043,1922-01-11,1922,0.000587,0.279,0.136,0.904,0.619,-26.893,0.0467,140.376,0.0384,1.0,2.0,0,False,
+641pdDsIq7fFwtkGmJgscj,An Entrance 2 Hope - Hopeless Remix I,Young Astronauts Club,510000,1922-03-05,1922,0.00473,0.598,0.305,0.821,0.121,-18.043,0.03,119.989,0.0376,1.0,2.0,0,False,
+59iYjbJ6Td8yt8Skts0ZvQ,"Afriendisjustanenemywhostabsyouinthefront - Live @ Budokan, Tokyo, Japan - Error Message Remix I",Young Astronauts Club,525000,1922-01-15,1922,0.000822,0.352,0.23,0.866,0.103,-26.288,0.0407,139.937,0.0397,1.0,7.0,0,False,
+4bTDbY0mAJkaqoWlb7UzkT,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix I,Young Astronauts Club,435043,1922-01-04,1922,3.41e-05,0.25,0.194,0.873,0.619,-25.427,0.0458,140.069,0.0359,1.0,2.0,0,False,
+3pyGgHaI5ojbH2oHRyWdSR,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix II,Young Astronauts Club,435043,1922-01-04,1922,0.000501,0.359,0.124,0.854,0.57,-27.142,0.0435,140.13,0.0686,1.0,2.0,0,False,
+7JRyNux8H9AGqeRZjZtCV2,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix I,Young Astronauts Club,435043,1922-01-11,1922,3.41e-05,0.25,0.194,0.873,0.619,-25.427,0.0458,140.069,0.0359,1.0,2.0,0,False,
+6oM9Chqgeh6ESnFn9IzyBI,AK Cash Refund,Young Astronauts Club,85681,1922-01-01,1922,0.824,0.385,0.084,0.816,0.127,-24.707,0.246,99.812,0.242,1.0,1.0,0,False,
+4QCMnDtxDkymujZIkIHTbi,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix IV,Young Astronauts Club,435043,1922-01-04,1922,0.000175,0.184,0.181,0.843,0.569,-27.068,0.0618,139.928,0.0477,1.0,2.0,0,False,
+4FHEa6IBaqeoHDa8ZMO5AM,All Alone Again,Young Astronauts Club,210000,1922-01-13,1922,0.11,0.516,0.682,0.0373,0.156,-13.341,0.0511,120.006,0.277,1.0,1.0,0,False,
+33vY4LBbDon7RBOPmAciS8,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix V,Young Astronauts Club,435043,1922-01-04,1922,9.15e-06,0.463,0.176,0.682,0.619,-25.245,0.0401,139.973,0.0989,1.0,2.0,0,False,
+5rowoFqCAMrU4PF7bCMGof,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix VI,Young Astronauts Club,435043,1922-01-11,1922,0.000107,0.457,0.402,0.957,0.562,-23.457,0.0903,139.882,0.0725,1.0,2.0,0,False,
+4WRzyZf9OpnkDMGMZ6p1Bj,All Alone Again - Imma Bout 2 Remix I,Young Astronauts Club,440000,1922-01-03,1922,0.00475,0.316,0.546,0.00822,0.221,-22.365,0.0436,119.985,0.236,1.0,1.0,0,False,
+2cT1GpjLerwOkBbnoEppD6,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix II,Young Astronauts Club,435043,1922-01-11,1922,0.000501,0.359,0.124,0.854,0.57,-27.142,0.0435,140.13,0.0686,1.0,2.0,0,False,
+3xtsOfBfIYZLtVZQJKTOG3,All Alone Again - I Feel Dub Remix I,Young Astronauts Club,450000,1922-01-03,1922,0.017,0.523,0.369,0.534,0.179,-23.8,0.0536,119.967,0.0443,1.0,1.0,0,False,
+4S1n7Sc0o9UoGflsh5jPzX,Afriendisjustanenemywhostabsyouinthefront - Diodism Remix IV,Young Astronauts Club,435043,1922-01-11,1922,0.000175,0.184,0.181,0.843,0.569,-27.068,0.0618,139.928,0.0477,1.0,2.0,0,False,
+6YiY45JBd4FDqi0B5bwyWP,A Love Song Hasn't Been Sung,"Glenn Miller Orchestra, Ray Eberle",122893,1922,1922,0.994,0.327,0.238,0.528,0.291,-9.304,0.0287,69.773,0.138,0.0,0.0,0,False,"adult standards, big band, easy listening, swing"
+0bPVFwFScN8hkm2HXZkORw,Anvil Chorus,Glenn Miller Orchestra,158493,1922,1922,0.817,0.363,0.942,0.909,0.158,-2.454,0.18,132.465,0.315,0.0,7.0,0,False,"adult standards, big band, easy listening, swing"
+3h8ioTTWfrC25hrHwQQpLc,All Or Nothing at All,"Dick Haymes, Harry James, His Orchestra",164320,1922,1922,0.812,0.237,0.555,0.000262,0.366,-6.611,0.0401,92.213,0.292,0.0,2.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+1MD0Obbza9l0t0Zpgcwagy,And Mimi,"Dick Haymes, Gordon Jenkins, His Orchestra",186146,1922,1922,0.98,0.284,0.223,0.0813,0.345,-15.733,0.0453,77.234,0.226,0.0,9.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+0gTxOs6SpMGecKNQTTi0UM,Among My Souvenirs,Nick Lucas,181440,1922-06-03,1922,0.995,0.412,0.103,0.161,0.127,-13.72,0.0408,94.231,0.208,1.0,5.0,0,False,"british dance band, vintage jazz"
+1pkaK1adOMFciZajIZ93mo,Ada Jane's Blue,Trixie Smith,189733,1922-06-03,1922,0.996,0.527,0.196,0.0735,0.198,-11.923,0.0527,106.874,0.51,0.0,9.0,0,False,"harlem renaissance, vintage swing"
+1xEAMmFGUtPGgZsCNXVHvO,Always (Alternate Take),Nick Lucas,182413,1922-06-03,1922,0.993,0.273,0.216,0.68,0.142,-12.538,0.041,77.199,0.147,1.0,7.0,0,False,"british dance band, vintage jazz"
+4w2qnygn6E2GaQXIshDLOR,After Tonight,James P. Johnson,121955,1922-02-20,1922,0.919,0.325,0.348,0.948,0.169,-18.282,0.0457,166.595,0.894,1.0,11.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+6D88M0dbjAivfevuOodYwY,April Showers,Paul Whiteman,196719,1922-06-14,1922,0.995,0.4,0.184,0.903,0.156,-16.909,0.0367,183.071,0.522,1.0,5.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+3yLNRAlvN66LqNZLDwNm9f,A Good Man Is Hard to Find (Alternate Take 2),Lizzie Miles,179160,1922-07-08,1922,0.995,0.578,0.205,0.0733,0.487,-16.143,0.0675,101.51,0.743,1.0,0.0,0,False,"classic female blues, new orleans blues"
+0BRXJHRNGQ3W4v9frnSfhu,Ave Maria,Dick Haymes,178933,1922,1922,0.994,0.227,0.261,0.247,0.0977,-12.343,0.0382,118.891,0.0539,1.0,5.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+2BVWvGSdgUZtC2La5P3Jtv,L'amour Au Clair De Lune,Adolphe Bérard,156960,1922,1922,0.991,0.467,0.328,1.57e-05,0.0705,-13.227,0.0354,87.132,0.701,1.0,7.0,0,False,
+5d5gQxHwYovxR5pqETOIAa,J'en Ai Marre,Mistinguett,208266,1922,1922,0.995,0.511,0.206,0.0,0.418,-15.514,0.0592,70.443,0.481,1.0,0.0,0,False,vintage chanson
+10u9ZWsOnhEyqFJCC2rQVy,J'ai Vendu Mon Âme,Adolphe Bérard,168000,1922,1922,0.972,0.582,0.152,0.0,0.31,-13.742,0.0914,95.779,0.546,1.0,10.0,0,False,
+3aynsWyvRwa1r5ekqaWxD3,Mirage,Adolphe Bérard,176000,1922,1922,0.992,0.497,0.218,0.0,0.311,-13.547,0.0345,88.412,0.56,1.0,4.0,0,False,
+4bnhC7wnH0YFyNnjKNp8TF,There Aren't Any Beaches In Omaha,Young Astronauts Club,225040,1922-02-25,1922,0.139,0.66,0.444,0.908,0.174,-13.809,0.0503,131.989,0.597,1.0,0.0,0,False,
+6YyyiUdUs4vXHFOWDaRP3T,Dance It Again with Me,Art Hickman,184216,1922-01-18,1922,0.996,0.657,0.403,0.851,0.254,-13.319,0.0393,126.013,0.686,0.0,5.0,0,False,
+5afaILCue4QVZBZlpsKFFo,Put and Take,Johnny Dunn,184791,1922-02-08,1922,0.994,0.554,0.476,0.846,0.566,-12.903,0.049,124.344,0.352,0.0,4.0,0,False,"harlem renaissance, jazz trumpet"
+63IcPgVIW0PWeJTaIY7GCu,Le Petit Amant,Jeanne Saint Bonnet,120760,1922,1922,0.996,0.656,0.283,0.00597,0.155,-14.113,0.191,126.085,0.67,1.0,4.0,0,False,
+0RHaKUsTDKPbY7gG3UK5jx,National Anthem of Armenia,The Nationalism,33539,1922,1922,0.723,0.249,0.108,0.899,0.276,-12.566,0.034,100.506,0.482,1.0,2.0,0,False,
+6YfN7QH8pbndAqQf7t4aG0,"Rules and Regulations ""Signed Razor Jim""",Edith Wilson & Johnny Dunn's Original Jazz Hounds,194325,1922-12-13,1922,0.993,0.677,0.33,0.0,0.549,-12.598,0.12,116.15,0.585,1.0,3.0,0,False,
+5F1yBFQVLGAzjsYytr6lsq,Cardboard America,Young Astronauts Club,155000,1922-01-04,1922,0.614,0.451,0.167,0.637,0.0955,-27.263,0.037,140.146,0.308,0.0,11.0,0,False,
+75wyLrI8Wu65tIsTEvGQrf,It's a Blue World,"Glenn Miller Orchestra, Ray Eberle",197960,1922,1922,0.995,0.243,0.147,0.955,0.275,-14.767,0.0362,165.039,0.165,0.0,7.0,0,False,"adult standards, big band, easy listening, swing"
+691GZB3zDZz6lxQe3u0xOH,I AINT GONNA RUN NO MORE,Mateo Robert Garcia,53589,1922-12-20,1922,0.8,0.508,0.416,0.000583,0.412,-21.711,0.0643,91.358,0.962,1.0,6.0,0,False,
+2B9d7LBGJvQEKiLEAexCOP,Toda Alma - Remasterizado,Ignacio Corsini,180253,1922-03-21,1922,0.995,0.545,0.268,0.92,0.112,-23.029,0.191,126.614,0.648,1.0,1.0,0,False,vintage tango
+7oFTyhMcdsOsRPfL1rCXFF,I’ll Always Remember You,Paul Whiteman,153190,1922-01-24,1922,0.994,0.565,0.19,0.769,0.422,-18.944,0.0428,129.732,0.74,1.0,1.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+7eQ3813r8IJqjQp8pB71GK,Raag Adana,Shareef Khan,334036,1922-12-31,1922,0.99,0.353,0.376,0.000417,0.421,-11.253,0.26,78.197,0.656,1.0,1.0,0,False,
+7lbMnLIAQkxY2IqX7gUw4k,Messin' Around,Trixie Smith,179426,1922-06-03,1922,0.994,0.802,0.501,0.658,0.257,-10.212,0.0897,102.511,0.922,1.0,3.0,0,False,"harlem renaissance, vintage swing"
+2UU5t5j325ofKGcg7oUQNh,Sin Amor - Remasterizado,Ignacio Corsini,130986,1922-03-21,1922,0.99,0.543,0.424,0.0379,0.861,-18.425,0.269,68.567,0.659,1.0,5.0,0,False,vintage tango
+4yTwNqT53nEaIMMxDsnNr3,When a Gypsy Makes a Violin Cry,Dick Haymes,180586,1922,1922,0.958,0.31,0.342,0.00217,0.371,-10.751,0.0415,82.51,0.111,0.0,0.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+3gTDt5ikz4QVXHvDh1CKW0,Linger Awhile,Paul Whiteman,164072,1922-01-24,1922,0.994,0.653,0.231,0.868,0.112,-13.668,0.0372,98.551,0.628,1.0,5.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6rYTg8Atk4ROFGrVWTLFVe,Nigahe Arjoo,Inayati Bai,181463,1922-12-31,1922,0.994,0.55,0.0762,0.0243,0.367,-8.821,0.129,129.842,0.501,0.0,1.0,0,False,
+63kcgvnMkHU5fTNYNWZPAQ,Kiss and Make Up,Nick Lucas,192000,1922-06-03,1922,0.995,0.574,0.133,0.516,0.14,-14.366,0.0806,127.375,0.372,1.0,9.0,0,False,"british dance band, vintage jazz"
+60L7UDBRuotsr1VIJQ2gWt,Phir Aaeen Lo Baharein,Mogubai Kurdikar,176355,1922-12-31,1922,0.991,0.337,0.422,0.941,0.472,-12.751,0.109,170.546,0.678,0.0,3.0,0,False,"hindustani vocal, indian classical"
+1G59bIK3M684IK5jhKD0gT,You're Always Messin' Round with My Man,Lizzie Miles,208007,1922-07-08,1922,0.995,0.511,0.285,4.7e-05,0.141,-8.05,0.0503,177.181,0.63,1.0,8.0,0,False,"classic female blues, new orleans blues"
+6k2vUcufGUPo6aeDkZ6UKJ,Prague (Michael Macintosh & Crystal Macintosh Astronomical Clock Remix) - Version I,"Young Astronauts Club, The Poison Control Centre",560000,1922-01-19,1922,0.516,0.747,0.131,0.914,0.0695,-28.144,0.0356,140.021,0.485,1.0,2.0,0,False,
+6wQ3gMwUh4uMk4PvVdqOhb,Shaping Tha Sea - Avant Dub Remix I,Young Astronauts Club,465000,1922-12-25,1922,8.71e-05,0.482,0.761,0.886,0.148,-17.2,0.0321,140.0,0.636,0.0,10.0,0,False,
+3PiykX2ouwK7H4cPruNAK0,"Pet Rocks / Goldfish - Live @ Club 3, Somerville, Massachusetts, U.S.A.",Young Astronauts Club,650000,1922-01-05,1922,0.531,0.381,0.355,0.0074,0.173,-11.632,0.0386,92.763,0.114,1.0,7.0,0,False,
+6goCE3ZO5x6GDiysAwveuU,1879,Young Astronauts Club,165120,1922-12-25,1922,8.56e-05,0.542,0.576,0.917,0.214,-13.352,0.0451,90.083,0.201,1.0,2.0,0,False,
+0vxIlejjBZCLDFGecQnrG0,Lonesome Ghost Blues,Lizzie Miles,174773,1922-07-08,1922,0.996,0.535,0.249,0.895,0.285,-17.066,0.0555,89.839,0.489,0.0,0.0,6,False,"classic female blues, new orleans blues"
+6LR67G4u6uDp9bgv9YO9ud,Freight Train Blues,Trixie Smith,197320,1922-06-03,1922,0.955,0.658,0.183,0.000117,0.231,-11.324,0.0472,94.194,0.519,1.0,0.0,5,False,"harlem renaissance, vintage swing"
+25daxVbvZgVSUlBx16fdpU,Cotton Belt Blues,Lizzie Miles,190226,1922-07-08,1922,0.995,0.49,0.211,0.307,0.162,-10.511,0.0401,67.185,0.319,0.0,2.0,2,False,"classic female blues, new orleans blues"
+3puG7GoVn4zUqO4BxDvICK,Trixie Blues,Trixie Smith,192946,1922-06-03,1922,0.967,0.715,0.205,0.0188,0.427,-9.1,0.08,97.271,0.621,1.0,0.0,2,False,"harlem renaissance, vintage swing"
+63x2m7Z4z3KFHF51IUMjYb,Sorrowful Blues,Trixie Smith,184333,1922-06-03,1922,0.996,0.665,0.247,0.609,0.128,-9.644,0.0499,85.212,0.526,1.0,2.0,0,False,"harlem renaissance, vintage swing"
+4F3qT7G35mS2eCfurmJSyf,My Blue Heaven,Nick Lucas,175400,1922-06-03,1922,0.994,0.492,0.166,0.246,0.122,-13.353,0.0527,82.61,0.447,1.0,5.0,0,False,"british dance band, vintage jazz"
+5nyjDk3jGw6QCva1LpChKR,Desperate Blues,Trixie Smith,197760,1922-06-03,1922,0.996,0.539,0.258,0.895,0.15,-13.33,0.0777,116.672,0.396,0.0,0.0,0,False,"harlem renaissance, vintage swing"
+2xZ8iAOIRTXfKOtIYCwCL0,I'll Get By,Nick Lucas,136600,1922-06-03,1922,0.941,0.738,0.304,0.00575,0.117,-8.797,0.0358,74.546,0.664,0.0,2.0,1,False,"british dance band, vintage jazz"
+7hYgitfGV9PzNWYVPlzGxu,He May Be Your Man (But He Comes to See Me Sometime),Trixie Smith,163986,1922-06-03,1922,0.99,0.768,0.199,0.00164,0.187,-11.402,0.071,102.153,0.486,1.0,1.0,4,False,"harlem renaissance, vintage swing"
+4ixN3M4x8pHUpqlFmr7si9,Mining Camp Blues,Trixie Smith,184293,1922-06-03,1922,0.996,0.595,0.208,0.0141,0.417,-11.392,0.0434,84.918,0.682,1.0,3.0,1,False,"harlem renaissance, vintage swing"
+3kVpe5xJzYdltFyr8EebTv,Log Cabin Blues,Trixie Smith,198533,1922-06-03,1922,0.996,0.751,0.31,0.914,0.384,-11.826,0.0618,121.703,0.372,0.0,6.0,0,False,"harlem renaissance, vintage swing"
+5eWUzAmzoZVhvrICjn5ADL,Voo Doo Blues,Trixie Smith,187493,1922-06-03,1922,0.996,0.632,0.224,0.929,0.501,-12.788,0.188,126.676,0.295,1.0,2.0,0,False,"harlem renaissance, vintage swing"
+0cz6OmC8rWtbRDwaZNuIfP,You've Got to Beat Me to Keep Me,Trixie Smith,186063,1922-06-03,1922,0.996,0.481,0.206,0.000563,0.319,-11.038,0.163,180.403,0.558,1.0,7.0,0,False,"harlem renaissance, vintage swing"
+2q18425b49NC6XnyTlFvtr,Tired of Waitin' Blues,Trixie Smith,190240,1922-06-03,1922,0.996,0.544,0.231,0.0647,0.162,-10.24,0.0387,74.728,0.333,1.0,10.0,0,False,"harlem renaissance, vintage swing"
+6MiM0l0oIJEc3vj3bfNp9d,Black Eyed Blues,Ladd's Black Aces,163266,1922-02-08,1922,0.99,0.406,0.6,0.831,0.846,-12.881,0.196,169.292,0.782,0.0,2.0,0,False,hot jazz
+2CpZX7may8WYF4xXOzxalY,Blue,Loren McMurray's California Thumpers,169032,1922-01-24,1922,0.995,0.782,0.42,0.922,0.229,-12.331,0.0455,96.482,0.899,1.0,9.0,0,False,
+6X9uAPwVlLsIUCF2XiW6LY,Based On Pure Murderism,"Mood, Donte The Gr8",273134,1922-09-01,1922,0.00911,0.811,0.259,0.000712,0.139,-18.667,0.424,86.662,0.599,1.0,2.0,0,True,golden age hip hop
+4jFqmlfUJnatylEVNFS7LM,Bright Eyes Medley with You Oughta See My Baby,Paul Whiteman,180901,1922-06-14,1922,0.994,0.47,0.174,0.731,0.105,-14.406,0.0401,184.621,0.455,0.0,0.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+7EdrJ9CRWrc8EG6fzXtU0M,Brain Rushes,"Mood, Donte The Gr8",200967,1922-09-01,1922,0.114,0.814,0.458,0.0,0.12,-17.264,0.311,90.973,0.606,0.0,9.0,0,True,golden age hip hop
+6gT5fI5qvsKGrQtJ4qnVEq,Bangkok,Young Astronauts Club,160000,1922-01-14,1922,0.000593,0.426,0.739,0.627,0.0917,-13.421,0.0706,160.694,0.368,1.0,1.0,0,False,
+4WXFZY8xdHuNbMXHSvkVst,BITTERSWEET,Mateo Robert Garcia,206714,1922-12-20,1922,0.177,0.673,0.566,0.768,0.386,-6.971,0.0324,83.983,0.566,1.0,9.0,0,False,
+75zko1xQOJoWZJFL4FzrvF,Black Coffee Blues,Young Astronauts Club,495000,1922-01-04,1922,0.33,0.721,0.135,0.871,0.304,-25.961,0.0819,120.092,0.198,0.0,5.0,0,False,
+1B1oSGWbEysw9ia9S2A1Cu,Black Bottom Hop,Trixie Smith,175653,1922-06-03,1922,0.996,0.638,0.242,0.197,0.26,-12.923,0.227,104.075,0.559,1.0,8.0,0,False,"harlem renaissance, vintage swing"
+6Y0OsOOJLJSLzPsaU72rtt,Black Man (Be on Yo' Way),Lizzie Miles,200573,1922-07-08,1922,0.995,0.455,0.281,0.0055,0.237,-10.697,0.078,74.46,0.596,0.0,1.0,0,False,"classic female blues, new orleans blues"
+5ewlI5Bi5Hzce3dk3iGFcC,Bhairavi Tarana,Kaalay Khan,146842,1922-12-31,1922,0.996,0.548,0.0908,0.605,0.687,-14.779,0.33,70.754,0.691,1.0,3.0,0,False,
+3IvOyDG5pFIgAE3Sa9c9OG,Baker's Dozen,"Schnooty Records, Yung Schnooty",220000,1922-02-17,1922,0.145,0.584,0.519,0.0445,0.231,-10.299,0.035,84.957,0.564,0.0,3.0,0,True,
+5DDBMBAlD1iZrVgcfLjz2E,Because They All Love You,Nick Lucas,175173,1922-06-03,1922,0.996,0.311,0.0621,0.82,0.108,-19.515,0.0409,85.488,0.122,1.0,1.0,0,False,"british dance band, vintage jazz"
+2ckjWiaspa32pgT3VVC3Pp,Blue Dream,"Schnooty Records, Yung Schnooty",343874,1922-02-17,1922,0.109,0.448,0.4,0.312,0.0952,-13.437,0.0488,149.999,0.125,1.0,7.0,0,True,
+2mDFNEBF2Sg8X7B5krrxQL,Bangkok,Young Astronauts Club,160000,1922-01-15,1922,0.000593,0.426,0.739,0.627,0.0917,-13.421,0.0706,160.694,0.368,1.0,1.0,0,False,
+7I18A7mqLUCa6Ml0KqGP4e,Satanic Blues,Ladd's Black Aces,182688,1922-03-07,1922,0.992,0.452,0.571,0.868,0.966,-11.757,0.0603,169.03,0.857,1.0,7.0,0,False,hot jazz
+1dlpuYmTtZUx4ZKUb0Ma8n,Carolina Blues,The Synco Jazz Band,197330,1922-02-08,1922,0.89,0.534,0.271,0.458,0.629,-21.375,0.0455,73.317,0.641,1.0,1.0,0,False,
+2hwQ2mRBogEHFI9kIfCVOW,Clover Blossom Blues,The Synco Jazz Band,170293,1922-07-18,1922,0.983,0.421,0.574,0.867,0.917,-11.848,0.166,178.048,0.66,1.0,3.0,0,False,
+5aRwMoMawRmCkMc8yknbVz,Moanful Blues,Johnny Dunn,186306,1922-11-14,1922,0.993,0.406,0.468,0.833,0.646,-13.409,0.0493,137.454,0.596,1.0,8.0,0,False,"harlem renaissance, jazz trumpet"
+3Pu53G2qoUQ2dRsOtpRcZ1,Dixie Blues,Edith Wilson and Johnny Dunn's Original Jazz Hounds,184321,1922-01-11,1922,0.995,0.638,0.28,0.000248,0.889,-13.281,0.0577,122.013,0.468,1.0,8.0,0,False,
+2zyYqD2q6vvbV27g3yIoZ9,Gypsy Blues,Lanin's Southern Serenaders,148478,1922-11-15,1922,0.991,0.521,0.563,0.879,0.458,-11.556,0.0409,104.997,0.912,1.0,3.0,0,False,
+4QAoe3BUI4o6LT5DFhLF8p,Choo-Choo Blues,The Virginians,185783,1922-08-28,1922,0.981,0.419,0.54,0.822,0.882,-11.21,0.148,158.6,0.695,1.0,4.0,0,False,vintage jazz
+0dNdQIITTIdHYFMAx7h3IA,Send Back My Honeyman,The Virginians,191818,1922-11-22,1922,0.985,0.544,0.571,0.833,0.859,-11.612,0.0867,140.818,0.664,1.0,8.0,0,False,vintage jazz
+435xMWotJQm9fuSj5Oh0H9,That Barking Dog - Woof! Woof!,Original Memphis Five,170789,1922-08-01,1922,0.993,0.44,0.473,0.947,0.909,-10.793,0.0493,169.716,0.858,0.0,9.0,0,False,"dixieland, hot jazz, vintage jazz"
+00RIlTJdtWXJYwti2jMQML,Memphis Blues,The Virginians,175200,1922-02-07,1922,0.989,0.627,0.597,0.652,0.474,-12.707,0.134,128.626,0.791,0.0,10.0,0,False,
+3bm0rkqJk8lJY6E8F0zkNy,Virginia Blues,Lizzie Miles,176301,1922-04-04,1922,0.987,0.601,0.232,0.0,0.438,-12.889,0.0702,122.685,0.386,1.0,4.0,0,False,"classic female blues, new orleans blues"
+5uwXCtXgDKasjiFAadEf0G,Gee! But I Hate To Go Home Alone,The Virginians,189806,1922-11-22,1922,0.986,0.533,0.388,0.65,0.967,-12.757,0.0518,143.402,0.806,1.0,4.0,0,False,
+6QYsMbzjSLuUqffbV4l5MZ,Hawaiian Blues,Johnny Dunn,172200,1922-08-16,1922,0.995,0.489,0.178,0.934,0.267,-18.338,0.0366,116.578,0.557,1.0,5.0,0,False,
+0pXUGQcBxfoQXg2e7G9Wwk,Ta Bouche,Jeanne Saint Bonnet,180933,1922,1922,0.996,0.335,0.304,0.0832,0.102,-14.062,0.0506,76.576,0.215,1.0,7.0,0,False,
+1fgBJnBYX6OurEA812eSoN,Raag Bay,Pandit Hari-Bhau Ghangrekar,183913,1922-12-31,1922,0.995,0.594,0.214,0.556,0.309,-12.179,0.389,127.383,0.733,1.0,1.0,0,False,
+5hKpjBagcMNfJcP1xXJvYc,Make Believe,Paul Whiteman,180059,1922-01-24,1922,0.995,0.57,0.236,0.823,0.154,-15.734,0.0343,98.148,0.696,1.0,0.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+5gFGgi5njaWlKHMK1aO9LO,Railroad Blues (Alternate Take),Trixie Smith,176093,1922-06-03,1922,0.996,0.543,0.13,0.308,0.358,-12.617,0.0635,94.217,0.607,1.0,10.0,0,False,"harlem renaissance, vintage swing"
+1XvjCUyXogjhBdw1Mx0xxT,Raag Bahar,Vilayat Hussain Khan,198170,1922-12-31,1922,0.99,0.306,0.638,0.936,0.407,-10.062,0.0816,73.861,0.554,1.0,9.0,0,False,
+0Dd9ImXtAtGwsmsAD69KZT,La Butte Rouge,Francis Marty,134466,1922,1922,0.965,0.51,0.355,0.0,0.155,-12.833,0.124,85.754,0.727,1.0,4.0,0,False,
+7rueikpE47ElUIjjcSOBDQ,Raag Barwa,Vilayat Hussain Khan,199865,1922-12-31,1922,0.989,0.287,0.77,0.904,0.547,-10.372,0.107,73.004,0.507,0.0,8.0,0,False,
+7c5CXXsQGnkSPP6To4itYK,Pensacola Blues,Trixie Smith,191613,1922-06-03,1922,0.996,0.373,0.156,0.935,0.36,-13.548,0.0592,71.46,0.449,1.0,3.0,0,False,"harlem renaissance, vintage swing"
+4rxIfBu7ElPL4L51BwIE66,Praying Blues,Trixie Smith,194000,1922-06-03,1922,0.996,0.53,0.146,0.519,0.26,-13.005,0.0328,78.21,0.291,1.0,0.0,0,False,"harlem renaissance, vintage swing"
+0ZOza2BkBesuiFybrbtcSZ,Hello Bluebird,Nick Lucas,194173,1922-06-03,1922,0.995,0.573,0.177,0.0539,0.127,-13.873,0.277,167.51,0.503,0.0,4.0,0,False,"british dance band, vintage jazz"
+1fvhcfDkqK7W2JK7v8lx98,Triflin' Blues,Trixie Smith,176773,1922-06-03,1922,0.995,0.631,0.273,0.00549,0.242,-8.846,0.056,92.943,0.52,1.0,10.0,0,False,"harlem renaissance, vintage swing"
+6mEOe2nKMOVlTGgwowdgyc,So Blue,Nick Lucas,202573,1922-06-03,1922,0.995,0.456,0.0924,0.679,0.367,-14.834,0.0531,78.33,0.239,1.0,7.0,0,False,"british dance band, vintage jazz"
+7IqcSb9HUK8SkHSvBu6aOn,Haitian Blues (A Wild Weepin' Moan),Lizzie Miles,197600,1922-07-08,1922,0.994,0.515,0.364,4.59e-05,0.17,-8.205,0.077,93.056,0.635,1.0,7.0,0,False,"classic female blues, new orleans blues"
+0cFvmPUjTFbyHafso3YLvV,Side by Side,Nick Lucas,174613,1922-06-03,1922,0.994,0.797,0.188,0.000629,0.269,-11.408,0.297,124.552,0.474,0.0,9.0,0,False,"british dance band, vintage jazz"
+2px99D4FZyDNvMfzVotke8,Railroad Blues,Trixie Smith,180266,1922-06-03,1922,0.996,0.462,0.444,0.797,0.55,-10.484,0.097,62.393,0.594,1.0,10.0,0,False,"harlem renaissance, vintage swing"
+55ZBHfofmUuzWfKxBRoR6o,Sunshine Boy,Young Astronauts Club,255000,1922-01-13,1922,0.57,0.612,0.807,0.223,0.127,-13.688,0.0623,120.016,0.0433,1.0,0.0,0,False,
+0PH9AACae1f957JAavhOl2,Lazy Boi,Uli,157333,1922-02-22,1922,0.521,0.298,0.46,0.856,0.436,-18.645,0.453,87.921,0.402,1.0,1.0,0,False,
+4I5X8EFVB0FQimn13QMRzj,Trixie's Blues,Trixie Smith,192933,1922-06-03,1922,0.996,0.509,0.231,0.967,0.273,-14.001,0.0419,116.272,0.52,0.0,9.0,0,False,"harlem renaissance, vintage swing"
+7C0EdEeXKOrp7hQffxe6a6,Lamb's Bread,"Schnooty Records, Yung Schnooty",180000,1922-02-17,1922,0.00408,0.836,0.419,1.28e-06,0.133,-16.273,0.349,139.958,0.563,1.0,8.0,0,True,
+0tJHVKA7chQXa6FRzUFTO6,Police Blues,Lizzie Miles,185293,1922-07-08,1922,0.996,0.684,0.184,4.01e-05,0.388,-11.519,0.199,88.478,0.692,1.0,10.0,0,False,"classic female blues, new orleans blues"
+6oc8dLXHAY03XPhfA04RWp,I’ll Build A Stairway To Paradise,Paul Whiteman,169231,1922-01-24,1922,0.993,0.595,0.263,0.884,0.359,-14.636,0.0879,153.534,0.759,1.0,0.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+5wg1nnx7c2kri8kx5xlCFH,El Beso de la Muerte - Remasterizado,Ignacio Corsini,158586,1922-03-21,1922,0.996,0.493,0.0997,0.481,0.192,-23.446,0.0607,127.023,0.587,1.0,5.0,0,False,vintage tango
+6wKARVQAG6Qgf750WxcICi,Muscle Shoals Blues,Ladd's Black Aces,168281,1922-01-24,1922,0.992,0.519,0.618,0.884,0.501,-12.803,0.0868,88.843,0.944,1.0,0.0,0,False,hot jazz
+7wnVJ8Os3DOJi4wmsgAWU5,'Neath The South Sea Moon,Bailey's Lucky Seven,174786,1922-10-31,1922,0.977,0.723,0.54,0.187,0.416,-11.373,0.0427,97.376,0.724,1.0,7.0,0,False,
+2sMNCcY86nvoDWJ6qoWjKz,Dancing Fool,Bailey's Lucky Seven,168778,1922-02-24,1922,0.986,0.706,0.666,0.155,0.826,-12.054,0.108,97.314,0.849,0.0,7.0,0,False,
+6zLR50nEQ6SmNtBp5tWtt5,Sweet Indiana Home,Bailey's Lucky Seven,185261,1922-11-08,1922,0.98,0.514,0.6,0.854,0.901,-11.805,0.116,184.237,0.753,1.0,8.0,0,False,
+23wOHQk6ja9ZCp84OY1LbH,Casey Jones,Billy Jones,258096,1922-04-10,1922,0.938,0.584,0.417,0.0,0.426,-12.903,0.345,84.198,0.842,1.0,0.0,0,False,"vaudeville, vintage jazz"
+76cibnPBuWlmMxYpyVUstF,Worldwide drill (punks flip) - slopped not chopped) (Polus Explicit Version,"cire 2, Pan, Astrotokyo, Tyz, Raidzx, Polus!, Polussy, I AM POLUS, No Hes Not Polus I Am, BITCH IM POLUS FUCK UP HOE, Battle of the Polus, Dat Polussy wët, big b0000ty david",409730,1922-10-31,1922,0.77,0.593,0.775,7.74e-06,0.273,-8.966,0.273,136.617,0.632,1.0,2.0,0,False,
+2R39LoLkbi1cWZ0XiFO14p,Hallelujah,"blackz147, Armani lucas",161541,1922-04-15,1922,0.0322,0.538,0.851,0.0,0.182,-2.309,0.25,105.006,0.684,0.0,10.0,0,False,
+2YKMZdDuj8ZKC7Nf4SZDVY,Micheal phelps,"Lil lerk, Baby smoke",156316,1922-02-22,1922,0.00121,0.618,0.581,0.00771,0.131,-10.663,0.0342,86.028,0.072,0.0,6.0,0,False,
+5tL1DL9vQCSVa1azg4L4n3,Run It Back,TrillTuga,111968,1922-09-01,1922,0.206,0.61,0.557,0.0,0.109,-9.6,0.523,164.129,0.296,1.0,8.0,0,True,
+5TUReL0kAbFdxcFpfm68n6,State Street Blues,Lizzie Miles,192810,1922-02-15,1922,0.991,0.573,0.263,2.83e-06,0.437,-12.309,0.0439,122.426,0.616,1.0,3.0,0,False,"classic female blues, new orleans blues"
+7qBUoJ3DyEuoJixKCbc8NG,Four O'Clock Blues,Johnny Dunn,186254,1922-03-13,1922,0.995,0.516,0.372,0.759,0.46,-16.112,0.0376,107.901,0.46,1.0,6.0,0,False,
+0ZlY2v6ARCuw5fsDiDGEI5,Cuddle Up Blues,The Virginians,187299,1922-05-10,1922,0.992,0.575,0.483,0.886,0.912,-12.053,0.117,151.756,0.594,1.0,8.0,0,False,
+5obOW4jaUU0SS97voDJ0Gd,Cuddle Up Blues,Original Memphis Five,147402,1922-03-06,1922,0.995,0.665,0.553,0.954,0.653,-11.679,0.0765,97.665,0.931,1.0,7.0,0,False,"dixieland, hot jazz, vintage jazz"
+3vabvNGdLiUdgEyiRbs5Id,Lonesome Mama Blues,The Virginians,192810,1922-01-03,1922,0.981,0.577,0.54,0.722,0.41,-12.112,0.201,139.978,0.792,1.0,3.0,0,False,vintage jazz
+00W0wtbXdkWlu4BVW4f94I,Tin Roof Blues,New Orleans Rhythm Kings,153536,1922-08-16,1922,0.994,0.442,0.341,0.513,0.524,-12.942,0.0339,123.294,0.36,1.0,10.0,0,False,"dixieland, new orleans jazz"
+37b5EASfzk74vLLHyXq7Y3,Hudson Parkway Blues - Canadian Single,Michael Macintosh,215000,1922-01-11,1922,0.672,0.197,0.0648,0.858,0.212,-20.269,0.0376,86.732,0.039,0.0,7.0,0,False,
+4fkPZK1g8KSC9pjyREpaDM,Some Little Bird,Coon-Sanders Novelty Orchestra,188814,1922-02-08,1922,0.995,0.393,0.374,0.936,0.395,-13.821,0.0413,82.819,0.503,1.0,8.0,0,False,
+1XHuE4omLLwXzaj8166lLc,Hymn of Bolshevik Party,USSR,234580,1922-09-26,1922,0.984,0.614,0.293,0.0528,0.331,-9.771,0.0364,95.971,0.653,0.0,1.0,0,False,
+0rDaU8xQznstqhcoj2AK0G,La strada buia,Ribelli Cromati,172453,1922-04-23,1922,0.257,0.308,0.663,5.93e-05,0.241,-10.966,0.0391,165.707,0.91,0.0,4.0,0,False,
+5tJLhTEsLsg9ZlhyCYeAiL,Shaking The Blues Away,Paul Whiteman,153251,1922-01-24,1922,0.992,0.705,0.281,0.928,0.142,-16.041,0.0481,118.977,0.823,1.0,3.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4RkPi1jMNJUbwfVYc6Q3ts,Cherry Time Blues,James P. Johnson,154669,1922-02-20,1922,0.966,0.587,0.312,0.848,0.163,-16.832,0.0449,107.692,0.948,1.0,6.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+1Un52EoYL1VIe48t8kZGVs,You Walk By,"Glenn Miller Orchestra, Ray Eberle",204186,1922,1922,0.968,0.325,0.359,0.745,0.881,-6.756,0.0292,84.188,0.133,0.0,9.0,0,False,"adult standards, big band, easy listening, swing"
+0QWvoGh82qx7ofrkrkRmJi,I Can't Believe You're in Love,Nick Lucas,167253,1922-06-03,1922,0.995,0.531,0.0999,0.0174,0.112,-15.726,0.0607,83.465,0.456,1.0,2.0,0,False,"british dance band, vintage jazz"
+5njkoKyXBD0lNkqMywEBou,IGNORANCE IS BLISS,Mateo Robert Garcia,67453,1922-12-20,1922,0.397,0.676,0.297,0.392,0.177,-13.91,0.0523,92.884,0.944,0.0,3.0,0,False,
+3IfVks55PEokDrnsnU6Ibh,Shootin' Star Blues,Lizzie Miles,174293,1922-07-08,1922,0.996,0.671,0.307,0.00126,0.198,-10.244,0.0504,90.592,0.585,1.0,5.0,0,False,"classic female blues, new orleans blues"
+0xBOHE2YPrIqyRRCKGszmI,Down Home Blues,James P. Johnson,234022,1922-02-20,1922,0.963,0.475,0.319,0.858,0.269,-16.463,0.0552,132.305,0.931,1.0,0.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+2Tm45cIlMWeDUxr7ccC5qy,Mean Old Bedbug Blues,Lizzie Miles,183760,1922-07-08,1922,0.99,0.335,0.66,0.761,0.755,-8.237,0.22,86.878,0.717,1.0,5.0,0,False,"classic female blues, new orleans blues"
+3MqefVLUgYHeTxcudp38f0,Family Trouble Blues,Lizzie Miles,205773,1922-07-08,1922,0.995,0.603,0.275,0.00909,0.116,-11.134,0.0329,76.853,0.371,1.0,3.0,0,False,"classic female blues, new orleans blues"
+5L1GqoFcMNmox2KzOGBQnz,He May Be Your Man (Alternate Take),Trixie Smith,169573,1922-06-03,1922,0.996,0.551,0.186,0.915,0.199,-12.808,0.078,130.786,0.417,0.0,9.0,0,False,"harlem renaissance, vintage swing"
+0SQnBdOiBHwLDSwhF60cWG,Choo Choo Blues (Alternate Take),Trixie Smith,185346,1922-06-03,1922,0.994,0.617,0.287,0.00239,0.269,-9.85,0.142,77.9,0.439,0.0,5.0,0,False,"harlem renaissance, vintage swing"
+3f4naO1vAXXYwREXw7MuMI,Joe Turner Blues,James P. Johnson,249889,1922-02-20,1922,0.967,0.316,0.314,0.858,0.109,-17.965,0.0424,170.179,0.804,1.0,2.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5UypDNXFshUDVn1Pdj1upg,Mining Camp Blues (Alternate Take),Trixie Smith,176773,1922-06-03,1922,0.996,0.511,0.145,0.602,0.287,-10.514,0.098,88.338,0.679,1.0,9.0,0,False,"harlem renaissance, vintage swing"
+4rfDdWMJFpttAfqhEj6iLH,Grievin' Mama Blues,Lizzie Miles,173226,1922-07-08,1922,0.992,0.568,0.181,0.0,0.397,-8.526,0.073,89.277,0.664,0.0,4.0,0,False,"classic female blues, new orleans blues"
+2U0sirN6YOMTdX4CELrhDb,Dil Mein Rahi Nazar Ki Baat Rozan-E-Dil Ko Kya Kahoon,Jaddan Bai,178040,1922-12-31,1922,0.995,0.549,0.246,0.403,0.477,-10.93,0.425,176.689,0.842,1.0,6.0,0,False,
+4ZdFXuZ1ghcsq5hWg0IxER,Capítulo 2 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",181069,1922,1922,0.476,0.681,0.0316,2.88e-05,0.329,-16.012,0.597,107.633,0.473,1.0,11.0,0,False,
+2sosz1de1OmqOrvXDQrBVx,Capítulo 4 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",182045,1922,1922,0.6,0.691,0.0709,2.16e-05,0.222,-15.744,0.919,100.425,0.47,0.0,2.0,0,False,
+18DrsI38kGP9wmUrZ4i57z,Capítulo 8 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",294659,1922,1922,0.16,0.627,0.0464,3.39e-06,0.248,-18.627,0.859,101.876,0.425,1.0,2.0,0,False,
+50Fs4HVkVFSAysQtco7fZO,Capítulo 3 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",183182,1922,1922,0.352,0.699,0.0876,0.000166,0.124,-15.219,0.932,93.191,0.233,0.0,2.0,0,False,
+2VC37SKQWbtGI7A0A5Vdxy,Capítulo 5 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",184992,1922,1922,0.401,0.616,0.068,0.000103,0.284,-16.492,0.91,175.841,0.317,0.0,1.0,0,False,
+2aLS3lz5KlegzcufQw9ek4,Capítulo 6 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",187107,1922,1922,0.136,0.635,0.0525,2.05e-06,0.453,-17.815,0.866,91.341,0.314,0.0,1.0,0,False,
+075aWxrbEXRG0Rs26doFO3,Capítulo 7 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",185456,1922,1922,0.186,0.603,0.0678,1.49e-06,0.279,-17.035,0.494,165.655,0.334,0.0,1.0,0,False,
+3E4cffkzQN7dBCHT42lsHN,Capítulo 1 - En el bosque,"Ryunosuke Akutagawa, Muriel Niebla",185056,1922,1922,0.393,0.623,0.0654,1.03e-05,0.371,-16.828,0.925,167.319,0.262,0.0,2.0,0,False,
+4DE7VBCgyTjqV0Plc9Ra0U,Hush-A-Bye (Wee Rose of Kilarney),"Dick Haymes, Victor Young, His Orchestra",156880,1922,1922,0.994,0.279,0.128,0.613,0.116,-19.793,0.0406,79.121,0.145,1.0,0.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+3A5J8bh3dgO6ZwLZdGGbXE,Capítulo 7 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.838,0.743,0.245,0.0,0.133,-16.432,0.932,91.52,0.813,0.0,6.0,0,False,
+3ykOvAjrBhPPKPVNWpZDwx,Capítulo 9 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.892,0.646,0.296,9.06e-06,0.111,-16.925,0.936,89.551,0.775,1.0,9.0,0,False,
+0dYU86RdYkAx7ia5VKVtsl,Capítulo 10 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.815,0.71,0.263,0.0,0.108,-17.191,0.926,111.069,0.79,1.0,9.0,0,False,
+4d6Db7jkEkfRFbWwa8RR5X,Capítulo 1 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.921,0.683,0.324,0.0,0.169,-13.643,0.931,90.995,0.751,0.0,11.0,0,False,
+3Nii2sWETWRuEXN3T9u4n1,Capítulo 11 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",314288,1922,1922,0.87,0.62,0.25,0.0,0.123,-17.818,0.941,174.277,0.742,1.0,2.0,0,False,
+2VVfq1Rw99AtyyNMcVYWp3,Capítulo 6 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.893,0.642,0.237,0.0,0.132,-15.983,0.937,88.17,0.75,0.0,11.0,0,False,
+3V5lFKRjjTUWj7U22gj2C0,Capítulo 8 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.792,0.621,0.252,0.0,0.179,-16.983,0.948,175.296,0.812,1.0,9.0,0,False,
+0dexnk6DURcwUPyPjVTkkN,Capítulo 2 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.844,0.624,0.276,0.0,0.124,-15.701,0.933,172.115,0.785,0.0,6.0,0,False,
+2su9pv4NqfA4JgwFEsbUus,Capítulo 5 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.844,0.63,0.264,1.18e-06,0.13,-16.691,0.913,87.179,0.815,1.0,9.0,0,False,
+20wXXZ6QNUiAfxbagaWw5L,Capítulo 3 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.861,0.712,0.288,0.0,0.158,-15.551,0.918,128.199,0.821,1.0,2.0,0,False,
+0YocExjW3Nw8wRynvYudv6,Capítulo 4 - La hoya de las brujas,"H.P. Lovecraft, Luis Marquez",180010,1922,1922,0.779,0.655,0.282,0.0,0.17,-16.567,0.918,93.89,0.844,1.0,1.0,0,False,
+347RRQTt8CMhhml4xA6FLy,Is Minic A Bhris Beál Duine A Shrón - Reversion I (Aqua),Young Astronauts Club,230086,1922-01-18,1922,0.748,0.599,0.323,0.0732,0.246,-15.799,0.0535,74.875,0.0396,1.0,7.0,0,False,
+0PyUIIwPvvjg0T8g1pdTch,I'm Tired of Everything but You,Nick Lucas,171293,1922-06-03,1922,0.996,0.585,0.13,0.082,0.112,-15.346,0.0504,145.314,0.476,1.0,8.0,0,False,"british dance band, vintage jazz"
+4CM9GGMIDZXZqu0qVMy36V,Song of the Volga Boatmen,"Glenn Miller Orchestra, The Four Modernaires",186120,1922,1922,0.95,0.64,0.556,0.943,0.68,-7.264,0.241,137.688,0.441,0.0,1.0,0,False,"adult standards, big band, easy listening, swing"
+76WKPYJIw44Su7hpmNQLp5,I'm Through with You (As I Can Be),Trixie Smith,205946,1922-06-03,1922,0.996,0.555,0.182,0.927,0.125,-15.203,0.0432,81.239,0.385,0.0,9.0,0,False,"harlem renaissance, vintage swing"
+5KAtKNUhPmB6LcCqUjbWR0,Lines N Tha Sky - Berlin Reaction Remix I,Young Astronauts Club,260571,1922-01-13,1922,0.0153,0.46,0.513,0.0,0.104,-19.1,0.0437,139.835,0.159,0.0,10.0,0,False,
+0cvh0yEKaNsO8OwuLBEpFU,Lines N Tha Sky - Boston Barium After Dark Remix I,Young Astronauts Club,360000,1922-01-13,1922,0.163,0.327,0.412,1.89e-05,0.102,-20.006,0.0557,139.841,0.147,1.0,3.0,0,False,
+4Vw0vSS31VCTYZXML5mMNX,Serenade of the Bells,Dick Haymes,181200,1922,1922,0.984,0.269,0.255,0.00263,0.178,-9.041,0.0536,79.186,0.154,1.0,0.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+4QdbKbhJyYpK77VTOTGrT3,Is Minic A Bhris Beál Duine A Shrón - Reversion II (Blonde),Young Astronauts Club,340088,1922-01-18,1922,0.261,0.727,0.422,0.0413,0.171,-23.571,0.139,140.076,0.372,1.0,7.0,0,False,
+3ni5wfGYYUVneM6Xa7Lohi,Selections from 'Show Boat',Paul Whiteman,232176,1922-01-24,1922,0.955,0.378,0.301,6.47e-06,0.346,-13.437,0.045,96.833,0.589,1.0,10.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6bPCSEz3Jdb3PCpCq6fMWi,Put Your Arms Where They Belong,Nick Lucas,193120,1922-06-03,1922,0.993,0.332,0.158,0.00555,0.19,-13.586,0.0859,68.184,0.15,1.0,4.0,0,False,"british dance band, vintage jazz"
+1U4hoQJ2FhogGg2skmw7uo,It Looks Like Rain in Cherry Blossom Lane,Nick Lucas,112613,1922-06-03,1922,0.971,0.66,0.0998,8.93e-05,0.114,-9.538,0.043,119.271,0.472,0.0,7.0,0,False,"british dance band, vintage jazz"
+4jYZb1sjyrQ6seKS91xcpR,"Long Lost, Weary Blues",Trixie Smith,187293,1922-06-03,1922,0.989,0.533,0.286,0.0,0.309,-11.74,0.0492,119.002,0.522,1.0,3.0,0,False,"harlem renaissance, vintage swing"
+7k80C5kt2w3kXg9hiWYNcD,Nobody Shows What My Baby Shows,Lizzie Miles,176773,1922-07-08,1922,0.995,0.406,0.262,0.00716,0.374,-12.418,0.104,200.757,0.711,1.0,8.0,0,False,"classic female blues, new orleans blues"
+7cmKPvHTXImL67PPBpMZMJ,Everybody Loves My Baby,Trixie Smith,172493,1922-06-03,1922,0.996,0.465,0.223,0.965,0.195,-16.557,0.0586,170.95,0.639,1.0,0.0,0,False,"harlem renaissance, vintage swing"
+2VE0nilWoOkqjHCbUkbL1x,Everybody Loves My Baby (But My Baby Don't Love Me),Glenn Miller Orchestra,163480,1922,1922,0.931,0.647,0.837,0.769,0.482,-2.949,0.059,118.961,0.631,0.0,2.0,0,False,"adult standards, big band, easy listening, swing"
+5nCDQDBpIj97DBOw55NdM5,Lines N Tha Sky - Boston Barium Noise Funk Remix I,Young Astronauts Club,360000,1922-01-13,1922,0.156,0.333,0.356,1.07e-05,0.0516,-20.323,0.0469,139.797,0.348,1.0,5.0,0,False,
+0kCB1bDVBC8gWCFcnJyIZc,Ca C'est Une Chose,Victor Boucher,188000,1922,1922,0.996,0.352,0.334,0.00746,0.36,-13.038,0.0594,76.403,0.414,1.0,5.0,0,False,
+1sHJ3Vdc86xBFZ7oQt1I6d,I Called to Say Goodnight,Nick Lucas,188840,1922-06-03,1922,0.995,0.335,0.129,0.000295,0.373,-12.707,0.0391,73.998,0.184,1.0,10.0,11,False,"british dance band, vintage jazz"
+35iwgR4jXetI318WEWsa1Q,Carve,Uli,126902,1922-02-22,1922,0.674,0.645,0.445,0.744,0.151,-13.338,0.451,104.851,0.127,1.0,0.0,2,False,
+28AeVWlDr3UoQPGAtWwVhf,Crinoline Days,Paul Whiteman,162307,1922-01-24,1922,0.994,0.462,0.221,0.566,0.275,-15.925,0.0339,188.81,0.674,1.0,3.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+27IxkYHrFkLpoZVa5CL7q0,How Come You Do Me Like You Do,Trixie Smith,184400,1922-06-03,1922,0.996,0.585,0.197,0.949,0.396,-15.497,0.0919,70.272,0.611,1.0,7.0,0,False,"harlem renaissance, vintage swing"
+3cx7Y69IiurtRxBasF9xpj,Rosy Cheeks,Nick Lucas,174453,1922-06-03,1922,0.995,0.693,0.202,0.0514,0.113,-13.042,0.129,112.4,0.581,0.0,6.0,0,False,"british dance band, vintage jazz"
+4gqzQ6fbXQAe4HxVD5Q7dV,You Can't Have It Unless I Give It to You,Lizzie Miles,177053,1922-07-08,1922,0.995,0.851,0.281,0.0,0.358,-6.935,0.0561,100.346,0.817,1.0,5.0,0,False,"classic female blues, new orleans blues"
+49CBAob5lITuKnDqjT1AjH,Indian Love Call,Paul Whiteman,162818,1922-01-24,1922,0.994,0.659,0.172,0.509,0.111,-17.458,0.0435,106.453,0.668,0.0,8.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+2nom3VSvRgTMjNcJSGpI1T,Painting the Clouds with Sunshine,Nick Lucas,143560,1922-06-03,1922,0.978,0.742,0.256,0.000113,0.23,-7.786,0.0475,79.348,0.703,1.0,7.0,1,False,"british dance band, vintage jazz"
+7hchud1s2eW78GCSjr0GcD,Parade Of The Wooden Soldiers,Paul Whiteman,149242,1922-06-14,1922,0.99,0.882,0.212,0.833,0.15,-18.583,0.13,121.789,0.848,1.0,10.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4RR5RKLA2vTQxkWrMIeHem,Cap Polonio - Remasterizado,Ignacio Corsini,161080,1922-03-21,1922,0.996,0.541,0.161,0.907,0.129,-21.25,0.094,143.105,0.708,1.0,3.0,0,False,vintage tango
+1v0HtSUeQOu3ba28pvYE5y,Chicago (That Toddlin' Town),Jim Chapman,111255,1922,1922,0.626,0.491,0.439,0.0,0.321,-11.356,0.105,180.653,0.792,0.0,4.0,0,False,
+4vRhdBugLI9JQGsx3UfrAt,Cachonguita - Remasterizado,Ignacio Corsini,190653,1922-03-21,1922,0.996,0.45,0.0522,0.929,0.158,-29.357,0.0583,72.401,0.413,0.0,1.0,0,False,vintage tango
+2MHbLEapczIltPOYYEzQtE,Como una Flor - Remasterizado,Ignacio Corsini,151040,1922-03-21,1922,0.981,0.218,0.394,0.301,0.505,-19.492,0.0388,82.287,0.749,0.0,10.0,0,False,vintage tango
+1doO1nMUfdXZar8ccWT3PQ,Can U Hear Me?,"Young Astronauts Club, MC Area 51",225000,1922-01-20,1922,0.0367,0.499,0.96,0.667,0.203,-11.403,0.145,120.006,0.0358,0.0,3.0,0,False,
+6pVgZFIcRRzmKwx7qg1KAm,Carving Knives + Coat Tails,Young Astronauts Club,245000,1922-01-15,1922,0.19,0.267,0.588,0.0051,0.759,-14.872,0.0646,91.877,0.249,1.0,9.0,0,False,
+1fNxQn3GqBFPqsJXHNSDVR,Chicago,The Synco Jazz Band,171756,1922-11-22,1922,0.972,0.456,0.57,0.739,0.459,-11.463,0.31,181.4,0.864,1.0,5.0,0,False,
+6MD9XSLD4VmVI5SFRPm6By,Car Loans,Uli,172802,1922-02-22,1922,0.474,0.651,0.574,0.713,0.0597,-11.999,0.104,99.878,0.412,0.0,10.0,0,False,
+4f9YhoXpJWl2oQHISdIBmO,Charleston,James P. Johnson,164868,1922-02-20,1922,0.972,0.361,0.236,0.845,0.103,-17.561,0.059,185.255,0.781,0.0,6.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5IkwcUDcCZMPNpjpYJ16bu,Carolina in the Morning,Paul Whiteman,160282,1922-06-14,1922,0.984,0.566,0.329,0.869,0.282,-17.716,0.052,172.222,0.843,1.0,3.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+0Y5HccHUPbmzRsYDCBEY93,Cherie,Paul Whiteman,195762,1922-06-14,1922,0.986,0.808,0.24,0.0915,0.0739,-13.848,0.09,99.125,0.424,1.0,5.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+1CZkVPFUK7wO1sMOlBHxJr,C'est La Mode Et Voila Tout,Perchicot,180400,1922,1922,0.993,0.592,0.408,1.54e-06,0.413,-11.585,0.271,81.126,0.766,0.0,10.0,0,False,
+5EIjkLXJvbeOWTh8PfSIxI,Capítulo 3 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",181603,1922,1922,0.573,0.694,0.26,0.0,0.113,-15.021,0.955,81.21,0.64,1.0,8.0,0,False,
+5u04ZpI1DZNJ065VsP2w4C,Capítulo 8 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",185775,1922,1922,0.663,0.717,0.25,0.0,0.371,-16.226,0.948,106.997,0.726,1.0,11.0,0,False,
+4ChaFzYLxg4duGvtebBQYI,"Capítulo 12 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",182612,1922,1922,0.724,0.632,0.247,0.0,0.232,-10.527,0.909,168.484,0.379,1.0,2.0,0,False,
+00pwW1Ssplf8lpwHyHApPT,"Capítulo 18 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185312,1922,1922,0.543,0.715,0.211,0.0,0.167,-11.929,0.762,110.076,0.357,1.0,8.0,0,False,
+63bvSRfT29j48BbYSQyEhL,Capítulo 1 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",182700,1922,1922,0.576,0.717,0.265,0.0,0.16,-14.929,0.931,124.125,0.718,1.0,1.0,0,False,
+7A6CBrUF6n3ZuSwAZdwyzH,"Capítulo 6 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",181026,1922,1922,0.732,0.698,0.242,0.0,0.125,-10.457,0.747,137.532,0.548,1.0,2.0,0,False,
+5DFfn1Uujc4Y10Q0HSzJq8,Capítulo 2 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",181254,1922,1922,0.572,0.686,0.274,0.0,0.381,-15.322,0.952,84.932,0.761,1.0,1.0,0,False,
+5PvYRbhufzroDjl0GeoDBt,Capítulo 10 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",181603,1922,1922,0.602,0.708,0.189,0.0,0.23,-16.803,0.935,127.219,0.771,1.0,1.0,0,False,
+0eYRxD02Sst1pLTja1evNu,"Capítulo 22 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",184624,1922,1922,0.566,0.663,0.249,0.0,0.119,-11.23,0.91,82.69,0.471,1.0,1.0,0,False,
+0dXr13VhTYiBhYEjrYm5e4,"Capítulo 24 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",182445,1922,1922,0.683,0.713,0.235,0.0,0.351,-11.444,0.717,129.019,0.39,1.0,8.0,0,False,
+4te3wImpsqxbM5N4IhwEiU,"Capítulo 7 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",190713,1922,1922,0.758,0.747,0.244,0.0,0.119,-11.97,0.944,78.062,0.328,1.0,7.0,0,False,
+4D4oCyFOvZ6E2Tx0A5s1Y6,"Capítulo 5 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185062,1922,1922,0.711,0.685,0.208,0.0,0.309,-10.743,0.878,82.82,0.615,0.0,4.0,0,False,
+59ggdZXB5H21tRfecxjD17,"Capítulo 30 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",182169,1922,1922,0.554,0.702,0.261,0.0,0.283,-10.573,0.932,79.238,0.27,1.0,9.0,0,False,
+2pImtBnHfTFTHAFylGs4RO,"Capítulo 32 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",181783,1922,1922,0.59,0.707,0.203,0.0,0.338,-10.969,0.665,107.547,0.465,1.0,2.0,0,False,
+4xBfymQedsMrlH7js0gwrC,Capítulo 7 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",187460,1922,1922,0.576,0.718,0.22,0.0,0.288,-16.315,0.945,121.85,0.759,1.0,1.0,0,False,
+4xCZShNShlxngseMx6dx3J,"Capítulo 3 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183936,1922,1922,0.741,0.619,0.247,0.0,0.137,-10.462,0.878,71.604,0.549,1.0,2.0,0,False,
+2zzUCNPuKuHBfk8lQS8hrE,Capítulo 9 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",181077,1922,1922,0.449,0.697,0.26,0.0,0.194,-17.085,0.947,105.02,0.712,1.0,8.0,0,False,
+4JjGSfIJ2zY1k2ven7yekf,"Capítulo 13 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183241,1922,1922,0.729,0.702,0.192,0.0,0.112,-12.285,0.662,134.994,0.494,1.0,7.0,0,False,
+0ZTjEsRKUoWueb0v0nVqwt,Capítulo 6 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",182847,1922,1922,0.479,0.662,0.292,0.0,0.351,-15.463,0.951,93.124,0.815,0.0,11.0,0,False,
+34x2mp8MYRCiF4uSm2NPc1,Capítulo 4 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",181430,1922,1922,0.442,0.677,0.256,0.0,0.388,-15.672,0.95,84.461,0.779,0.0,11.0,0,False,
+4weBsTte83wkHGwqgYYwbR,"Capítulo 34 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",184555,1922,1922,0.454,0.634,0.209,0.0,0.3,-12.228,0.92,168.355,0.296,1.0,9.0,0,False,
+1U7unXXJBRdmdKVVFLfOpv,"Capítulo 11 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185893,1922,1922,0.722,0.736,0.257,0.0,0.128,-10.899,0.9,100.787,0.445,1.0,2.0,0,False,
+1nV6enqIuV5l07WfsOYb4G,"Capítulo 19 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183441,1922,1922,0.523,0.723,0.213,0.0,0.306,-11.298,0.791,120.198,0.56,1.0,7.0,0,False,
+1pJyqy5NNhko6SYHZZ3LAN,"Capítulo 16 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183588,1922,1922,0.629,0.75,0.228,0.0,0.124,-11.978,0.776,93.437,0.528,1.0,0.0,0,False,
+6kOpEsizYWjC9QHl2aUDMy,"Capítulo 33 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",181529,1922,1922,0.547,0.718,0.238,0.0,0.118,-10.859,0.823,127.925,0.424,1.0,9.0,0,False,
+7dfm2wlS1bVC7IorZBqOGN,"Capítulo 2 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",181114,1922,1922,0.781,0.696,0.239,0.0,0.143,-9.835,0.732,77.831,0.567,0.0,11.0,0,False,
+0xxwY5HErLrreWrXhdoGAw,"Capítulo 31 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183925,1922,1922,0.552,0.721,0.24,0.0,0.129,-10.844,0.749,123.449,0.431,1.0,9.0,0,False,
+5EPjBSG0IbqqO1qXwfhE5E,"Capítulo 27 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",182962,1922,1922,0.609,0.628,0.242,0.0,0.212,-10.767,0.755,173.378,0.423,1.0,9.0,0,False,
+1ajp2R3aT5KI3PRToyAf4l,"Capítulo 21 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",181567,1922,1922,0.534,0.636,0.233,0.0,0.114,-10.823,0.846,169.092,0.425,1.0,9.0,0,False,
+2eH19h2c2kNkgEqKQHAXa4,Capítulo 5 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",185004,1922,1922,0.514,0.725,0.248,0.0,0.268,-14.607,0.954,77.794,0.702,1.0,1.0,0,False,
+10dKVy3I0iDNc4Ll3zQyyZ,"Capítulo 17 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185030,1922,1922,0.643,0.717,0.256,0.0,0.117,-11.331,0.892,107.146,0.43,0.0,1.0,0,False,
+1uCDPY0TKIomT0tl9XWiL7,"Capítulo 15 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",189457,1922,1922,0.64,0.718,0.238,0.0,0.135,-12.155,0.814,125.988,0.474,0.0,11.0,0,False,
+0st30SSyC5JdjTWPA2C3qR,"Capítulo 8 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183880,1922,1922,0.644,0.649,0.205,0.0,0.154,-12.163,0.93,87.436,0.313,1.0,7.0,0,False,
+2LSP5d6OXV4pCTd5d8kLgA,Capítulo 11 - Fiesta en el jardín,"Katherine Mansfield, Luis Marquez",294252,1922,1922,0.504,0.608,0.131,0.0,0.382,-18.535,0.917,171.998,0.631,1.0,8.0,0,False,
+7Lll2LIVT2R5GmzO6Tmh3r,"Capítulo 26 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",181905,1922,1922,0.65,0.718,0.247,0.0,0.131,-11.435,0.787,112.735,0.42,0.0,1.0,0,False,
+3bbqUX9m1gSwwzKI1ekEkZ,"Capítulo 29 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",182066,1922,1922,0.509,0.69,0.24,0.0,0.22,-11.536,0.878,140.373,0.316,0.0,11.0,0,False,
+1yd2RKojLIli9U4UV7qw68,"Capítulo 25 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",182427,1922,1922,0.633,0.71,0.242,0.0,0.226,-11.022,0.884,130.719,0.317,1.0,9.0,0,False,
+0rHlhj3RuCvNT08oITxcbx,"Capítulo 23 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183700,1922,1922,0.57,0.719,0.235,0.0,0.164,-12.064,0.845,125.664,0.43,0.0,4.0,0,False,
+21ajzcwqsREmavFSovY0rM,"Capítulo 14 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185980,1922,1922,0.683,0.707,0.221,0.0,0.165,-11.623,0.743,134.519,0.562,0.0,11.0,0,False,
+0k5q2gZHsArJJjCjaFnljQ,"Capítulo 1 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183141,1922,1922,0.819,0.695,0.222,0.0,0.316,-11.67,0.858,104.832,0.506,1.0,7.0,0,False,
+4PgCDth6xyY4UALgj6wB1M,"Capítulo 28 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",183367,1922,1922,0.605,0.671,0.225,0.0,0.323,-11.606,0.856,148.465,0.362,1.0,9.0,0,False,
+7z8P9ztm6dQnypyLt9oK35,"Capítulo 35 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",243861,1922,1922,0.4,0.719,0.198,0.0,0.109,-11.251,0.621,124.241,0.346,0.0,11.0,0,False,
+4hB5USSx9T3NEwtTnYFid2,"Capítulo 20 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",186405,1922,1922,0.567,0.726,0.232,0.0,0.344,-11.34,0.747,120.194,0.484,1.0,9.0,0,False,
+6d291WGLawi8zsc3u0Gn1x,"Capítulo 9 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185390,1922,1922,0.622,0.718,0.229,0.0,0.166,-11.474,0.905,126.164,0.542,1.0,7.0,0,False,
+1zKLGQJUtF6dlPaDYcUHRj,"Capítulo 4 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",185226,1922,1922,0.714,0.629,0.213,0.0,0.152,-11.326,0.935,171.341,0.34,0.0,1.0,0,False,
+5xAjGz6g3u9nzy0cdnjQTG,"Capítulo 10 - Herbert West, Reanimador","H.P. Lovecraft, Mariana Godward",186581,1922,1922,0.731,0.656,0.248,0.0,0.234,-11.131,0.936,84.802,0.451,1.0,7.0,0,False,
+7p4JRm0pHokSBZizOHyRoO,Capítulo 8 - Un artista de hambre,"Franz Kafka, Mariana Godward",279318,1922,1922,0.765,0.696,0.146,0.0,0.166,-12.534,0.9,101.715,0.474,1.0,4.0,0,False,"german literature, writing"
+7ljVJn7tr6pm6yDE2DEdvH,Capítulo 2 - Un artista de hambre,"Franz Kafka, Mariana Godward",184052,1922,1922,0.771,0.772,0.183,0.0,0.108,-12.355,0.926,103.985,0.552,1.0,3.0,0,False,"german literature, writing"
+1VVrLATosUgmEuokIzxSRC,Capítulo 4 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",182822,1922,1922,0.711,0.682,0.36,0.000466,0.28,-15.689,0.906,112.688,0.687,0.0,5.0,0,False,
+6T46B43L1u0M55BJeBUq6l,Capítulo 8 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",180948,1922,1922,0.522,0.638,0.348,4.31e-06,0.256,-16.542,0.931,87.0,0.666,1.0,1.0,0,False,
+7vlHzRHqLAojzhYlzzwStB,Capítulo 6 - Un artista de hambre,"Franz Kafka, Mariana Godward",182911,1922,1922,0.67,0.673,0.154,0.0,0.165,-11.857,0.933,87.012,0.599,0.0,7.0,0,False,"german literature, writing"
+0WLWnLVES9CLe2QsDkOoTa,Capítulo 6 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",184442,1922,1922,0.586,0.675,0.293,2.05e-05,0.316,-17.54,0.94,106.457,0.517,0.0,5.0,0,False,
+3ZWkqvlFEd3tLJcrZow5Jf,Chemdawg,"Schnooty Records, Yung Schnooty",589500,1922-02-17,1922,0.0552,0.558,0.522,7.87e-05,0.353,-12.987,0.402,139.936,0.403,1.0,8.0,0,True,
+1UuAumeuvBPf0PfTreNnj7,Careless,"Glenn Miller Orchestra, Ray Eberle",186080,1922,1922,0.993,0.411,0.115,0.938,0.55,-15.042,0.03,99.398,0.195,0.0,2.0,0,False,"adult standards, big band, easy listening, swing"
+6tzHKohrVutRmRLmIjOIzj,Capítulo 9 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",321696,1922,1922,0.535,0.664,0.301,1.99e-05,0.124,-17.54,0.937,148.266,0.601,1.0,1.0,0,False,
+0b5CVOzhKsHW3uYUGLZwmp,Capítulo 5 - Un artista de hambre,"Franz Kafka, Mariana Godward",184506,1922,1922,0.716,0.645,0.161,0.0,0.145,-12.86,0.938,163.601,0.559,1.0,3.0,0,False,"german literature, writing"
+5f5QWAOuJdgdZCr3uAolOi,Capítulo 7 - Un artista de hambre,"Franz Kafka, Mariana Godward",193952,1922,1922,0.741,0.72,0.17,0.0,0.173,-11.754,0.931,63.612,0.599,1.0,10.0,0,False,"german literature, writing"
+7vPmiFb4aDPjXgiZKxQbxF,Capítulo 1 - Un artista de hambre,"Franz Kafka, Mariana Godward",189967,1922,1922,0.794,0.719,0.159,0.0,0.126,-12.099,0.925,80.701,0.483,1.0,4.0,0,False,"german literature, writing"
+4TEANxFtK88RnMgxnl9OSB,Capítulo 3 - Un artista de hambre,"Franz Kafka, Mariana Godward",181255,1922,1922,0.794,0.721,0.172,0.0,0.111,-11.972,0.934,125.131,0.611,1.0,3.0,0,False,"german literature, writing"
+4A1n4vwuHfS9ahOZ4ldwJb,Capítulo 7 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",185419,1922,1922,0.647,0.604,0.312,4.46e-05,0.218,-16.805,0.949,178.797,0.534,0.0,5.0,0,False,
+4XFUiFKnSKez5DF2LnSNSc,Capítulo 2 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",196000,1922,1922,0.636,0.706,0.311,8.85e-05,0.389,-15.945,0.936,126.527,0.517,1.0,1.0,0,False,
+47zPNkUjVB24rXs9y4mA7Y,Capítulo 4 - Un artista de hambre,"Franz Kafka, Mariana Godward",185725,1922,1922,0.822,0.636,0.131,0.0,0.131,-11.884,0.926,170.815,0.659,1.0,4.0,0,False,"german literature, writing"
+5PPILLEUjVhDaSTcyp8kJp,Choo Choo Blues,Trixie Smith,192120,1922-06-03,1922,0.985,0.58,0.42,0.402,0.52,-15.665,0.336,75.905,0.814,1.0,5.0,0,False,"harlem renaissance, vintage swing"
+0a9rasEf5lz601EzwtFWvt,Capítulo 3 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",188487,1922,1922,0.648,0.702,0.287,0.000146,0.232,-15.728,0.944,84.004,0.617,1.0,1.0,0,False,
+5qFwMzMjyLWyxL1ftdC5mj,Capítulo 5 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",183658,1922,1922,0.664,0.7,0.302,0.000123,0.37,-16.892,0.928,109.842,0.59,1.0,1.0,0,False,
+3YQ8eg6ex9Rs0FGyYgt85g,Capítulo 1 - La música de Erich Zann,"H.P. Lovecraft, Marcos Ballate",189259,1922,1922,0.624,0.692,0.236,2.98e-05,0.377,-16.506,0.919,115.745,0.566,0.0,5.0,0,False,
+3XxlglpLYkpZIfU1c1C5e4,Pobre Cotorro - Remasterizado,Ignacio Corsini,159800,1922-03-21,1922,0.996,0.564,0.053,0.927,0.117,-25.041,0.127,140.216,0.407,0.0,6.0,0,False,vintage tango
+69mWzKmxFFwIAJS8nzcCgO,Recuerdo Criollo - Remasterizado,Ignacio Corsini,186200,1922-03-29,1922,0.985,0.313,0.102,0.97,0.102,-30.026,0.0436,67.575,0.312,0.0,10.0,0,False,vintage tango
+7mFmbNkbJjrvDMukkza3OF,Pobre China - Remasterizado,Ignacio Corsini,158573,1922-03-21,1922,0.995,0.564,0.178,0.921,0.112,-26.435,0.0432,60.422,0.706,1.0,9.0,0,False,vintage tango
+1VuFIir7DL0mc6bppGMa3r,La Canción del Cabaret - Remasterizado,Ignacio Corsini,141440,1922-03-29,1922,0.992,0.458,0.178,0.817,0.413,-18.754,0.0614,69.128,0.286,1.0,8.0,0,False,vintage tango
+1w59aiCYPISB0kMbn1Cfnd,"Sing, Cuckóu! (Somer Is Y-Comen In) - Michael Macintosh & Crystal Macintosh Remix Version II","Young Astronauts Club, Jenni Y, Michael Macintosh, Crystal Macintosh",160040,1922-03-18,1922,0.0252,0.665,0.34,0.0058,0.125,-15.264,0.0393,135.067,0.219,0.0,6.0,0,False,
+3mb3FiQRdvrWTFeXSfvmLW,"Sing, Cuckóu! (Somer Is Y-Comen In) - Michael Macintosh & Crystal Macintosh Remix Version I","Young Astronauts Club, Jenni X, Michael Macintosh, Crystal Macintosh",215000,1922-03-17,1922,0.272,0.508,0.287,0.0757,0.123,-15.826,0.0355,89.914,0.0425,1.0,0.0,0,False,
+0MzTiy3arfxQMgb7fLfnbk,Tha Color Ov Yr Love,Young Astronauts Club,295000,1922-01-05,1922,0.906,0.229,0.0214,0.89,0.134,-30.195,0.033,102.683,0.263,1.0,8.0,0,False,
+2kcJ4e1t91T8lJbsno0Oco,Harpa cristã instrumental / 547 - Instrumental,Lucelia chavito,282161,1922,1922,0.828,0.648,0.213,0.914,0.166,-13.48,0.0843,183.109,0.497,1.0,7.0,0,False,
+7xEhgdS4m8aBlckefgjMwf,Harpa Cristã 547 (O Rei está voltando),Lucelia chavito,288840,1922,1922,0.865,0.747,0.25,0.00259,0.0982,-12.665,0.0333,91.37,0.553,1.0,7.0,0,False,
+3ucdF1B5TwDsw6tSKKu2AN,R+D (Track C) - Version I,Young Astronauts Club,600000,1922-01-14,1922,0.134,0.499,0.254,0.638,0.558,-12.227,0.0362,120.03,0.35,0.0,0.0,0,False,
+34stENstpvXazi7NOuIL0B,Jolly Coppersmith,Walter B. Rogers,194064,1922-02-17,1922,0.995,0.641,0.278,0.276,0.324,-15.503,0.0784,135.206,0.684,1.0,10.0,0,False,
+5ltOwpwcONr9PCAMuUuJfs,King Cotton March,Walter B. Rogers,187873,1922-02-17,1922,0.995,0.642,0.31,0.89,0.512,-14.003,0.107,131.288,0.791,0.0,0.0,0,False,
+6WiH3vn0TTveih1cfMAPAA,Green Crack,"Schnooty Records, Yung Schnooty",181000,1922-02-17,1922,0.00891,0.47,0.236,0.0214,0.0876,-17.958,0.346,143.97,0.114,0.0,10.0,0,True,
+4YNHzI8sswQZFzCvY0KmH2,Wedding Cake,"Schnooty Records, Yung Schnooty",103750,1922-02-17,1922,0.0359,0.785,0.463,0.000453,0.0378,-13.354,0.272,90.078,0.379,0.0,6.0,0,True,
+5dkyuNfA616PDxJZZqLw9k,Shaping Tha Sea - Clankz Remix I,Young Astronauts Club,510000,1922-12-25,1922,0.0228,0.33,0.432,0.861,0.674,-19.739,0.0725,140.14,0.164,0.0,10.0,0,False,
+6iIjayUMZYzquBAXtmTm39,Las Vegas (Michael Macintosh & Crystal Macintosh Golden Nugget Remix) - Version I,"Young Astronauts Club, The Poison Control Centre",985000,1922-01-19,1922,0.000279,0.752,0.523,0.881,0.0782,-18.985,0.0396,140.011,0.182,0.0,10.0,0,False,
+1xqvAB1u4sOuNuaat76gsh,My Daddy Rocks Me,Trixie Smith,174173,1922-06-03,1922,0.954,0.783,0.135,8.61e-05,0.251,-10.019,0.101,101.606,0.615,0.0,0.0,24,False,"harlem renaissance, vintage swing"
+4CTXG55t3aFrb5qgmOcCo2,Salty Dog,"Lizzie Miles, Sharkey's Kings Of Dixieland",144053,1922-07-08,1922,0.826,0.567,0.632,0.0,0.171,-7.774,0.164,196.986,0.843,1.0,0.0,1,False,"classic female blues, new orleans blues"
+5Vajxa23qEDYIESo0SCwUF,My Daddy Rocks Me No. 2,Trixie Smith,170906,1922-06-03,1922,0.979,0.789,0.175,0.00426,0.124,-10.004,0.126,103.475,0.617,1.0,8.0,2,False,"harlem renaissance, vintage swing"
+3iHp1yVPyXN8iZrYixUT0Z,Give Me That Old Slow Drag,Trixie Smith,174573,1922-06-03,1922,0.996,0.439,0.196,0.87,0.354,-14.352,0.0818,208.532,0.493,0.0,7.0,0,False,"harlem renaissance, vintage swing"
+38EP9J8FRSZD8BZJkwP5OD,In the Mood,"Lizzie Miles, Sharkey's Kings Of Dixieland",158453,1922-07-08,1922,0.833,0.374,0.713,0.858,0.0728,-8.736,0.0754,189.033,0.871,1.0,0.0,0,False,"classic female blues, new orleans blues"
+1HXdv1z9RlvrcUernyf0MY,The Dear Little Shamrock,Dick Haymes,191613,1922,1922,0.991,0.347,0.197,0.000133,0.196,-15.652,0.0504,109.338,0.246,1.0,10.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+6aJ0YLRs60fGWLSD0WvxTh,Dark Horse,The David Joseph Apocadelia,256346,1922-10-31,1922,0.016,0.438,0.924,0.68,0.244,-8.45,0.0764,138.186,0.42,0.0,11.0,0,False,
+33uPAImJX4qvBiC1JphJt0,Daniel,The David Joseph Apocadelia,222053,1922-10-31,1922,0.386,0.261,0.51,1.86e-05,0.135,-9.385,0.0287,178.386,0.39,0.0,11.0,0,False,
+4WHe20oOU8t4qmF6wNhnaQ,Do You Ever Think of Me,Isham Jones Orchestra,188208,1922-03-08,1922,0.994,0.384,0.327,0.192,0.942,-13.068,0.121,175.708,0.681,1.0,4.0,0,False,vintage jazz
+6WLK3acwEOWtFJG4R6WAHY,Dry Loop - Fakeland Phlox Remix II,Young Astronauts Club,960052,1922-01-17,1922,0.907,0.388,0.414,0.96,0.0777,-18.982,0.0781,120.02,0.0703,1.0,8.0,0,False,
+4yEXEuF813veGUthBvU1VX,Dry Loop,Young Astronauts Club,600000,1922-01-01,1922,0.654,0.456,0.437,0.84,0.0848,-20.448,0.0697,120.02,0.0317,1.0,8.0,0,False,
+0ezuFKmCz3H2gbyzl2b5lk,Dry Loop - Fakeland Phlox Remix I,Young Astronauts Club,670040,1922-01-17,1922,0.938,0.158,0.282,0.916,0.103,-23.01,0.0703,78.492,0.0394,0.0,5.0,0,False,
+0bG22dUm2cjOD8wHRqdx4T,Dry Loop,Young Astronauts Club,600000,1922-03-05,1922,0.654,0.456,0.437,0.84,0.0848,-20.448,0.0697,120.02,0.0317,1.0,8.0,0,False,
+3iedQ3IzdGBDmnEBv6iUcp,Dry Loop - Fakeland Phlox Remix III,Young Astronauts Club,960052,1922-01-17,1922,0.859,0.234,0.27,0.481,0.0777,-19.15,0.0517,111.54,0.0362,0.0,5.0,0,False,
+6CoQ6vLMNn6nXtXDNZeUXF,Dry Loop,Young Astronauts Club,600000,1922-01-13,1922,0.654,0.456,0.437,0.84,0.0848,-20.448,0.0697,120.02,0.0317,1.0,8.0,0,False,
+79a4S39PfidBRB8Cc7BwY9,Dry Loop,Young Astronauts Club,600000,1922-01-17,1922,0.654,0.456,0.437,0.84,0.0848,-20.448,0.0697,120.02,0.0317,1.0,8.0,0,False,
+3pRkgeBw0bX8ZFIH5kR5oB,Deep Purple,Glenn Miller Orchestra,109706,1922,1922,0.982,0.227,0.273,0.978,0.401,-12.438,0.0437,79.753,0.243,1.0,8.0,0,False,"adult standards, big band, easy listening, swing"
+783VUwLp3wUHKlLv6MRqkJ,Dear Old Southland,Paul Whiteman,176489,1922-06-14,1922,0.99,0.553,0.173,0.12,0.159,-14.383,0.0377,95.904,0.482,1.0,5.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6oZ7roJacwKWvRVAPUMbNw,Down Yonder,Peerless Quartet,162396,1922-08-30,1922,0.995,0.555,0.137,0.019,0.116,-18.138,0.0898,147.698,0.593,1.0,5.0,0,False,
+2ae68lNFJ060asfpxizqeC,Don't Shake It No More,Trixie Smith,183653,1922-06-03,1922,0.996,0.601,0.263,0.766,0.609,-12.119,0.0526,106.872,0.538,0.0,9.0,0,False,"harlem renaissance, vintage swing"
+4sAPfFxCxKIF571z6JwL4r,De Mil Amores - Remasterizado,Ignacio Corsini,174453,1922-03-29,1922,0.994,0.442,0.177,0.000896,0.491,-19.632,0.0571,128.395,0.562,1.0,9.0,0,False,vintage tango
+5Pe4JVkq2Po3BZhHBLZgtu,Don't Mess with Me,James P. Johnson,204537,1922-02-20,1922,0.952,0.398,0.328,0.91,0.123,-18.094,0.0438,151.714,0.847,0.0,4.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+4dGBZuDvkySYipskKRHs5o,Don't Tell Your Monkey Man,James P. Johnson,240854,1922-02-20,1922,0.971,0.388,0.317,0.834,0.146,-17.958,0.058,139.482,0.873,1.0,2.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+23hPdYtuhrrF8Jq8kOvF0z,Don't Let Your Love Come Down,Lizzie Miles,178440,1922-07-08,1922,0.996,0.631,0.166,0.894,0.207,-16.944,0.0444,48.715,0.71,0.0,2.0,0,False,"classic female blues, new orleans blues"
+0xiEvi5bCCnMP9zLXV8Ulw,Durban Poison,"Schnooty Records, Yung Schnooty",374500,1922-02-17,1922,0.0179,0.536,0.439,7.98e-06,0.0803,-16.429,0.282,164.163,0.623,1.0,0.0,0,True,
+6E4t6Sor5rWOLQDCAdI0vN,Despedida - Remasterizado,Ignacio Corsini,178373,1922-03-29,1922,0.98,0.425,0.308,0.0,0.631,-21.085,0.0534,64.738,0.509,0.0,1.0,0,False,vintage tango
+5SB8vVP2D73dMsDreQaY73,Hush Little Darlin',Dick Haymes,195346,1922,1922,0.985,0.328,0.201,0.517,0.113,-16.491,0.0408,79.883,0.31,1.0,10.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+1rHAuPbv2L25vl1Qosqe1m,Murda Dem,"Mood, Donte The Gr8",199759,1922-09-01,1922,0.497,0.816,0.447,1.86e-06,0.164,-15.468,0.149,91.997,0.629,0.0,10.0,0,True,golden age hip hop
+1O9iZyzufN1fUdVO97mmm5,How High the Moon,"Dick Haymes, Harry James, His Orchestra",175333,1922,1922,0.989,0.328,0.307,0.277,0.21,-11.573,0.0484,117.225,0.259,1.0,0.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+6hH0kKnTWoGq5wppHKj5ie,Stardust,Dick Haymes,172933,1922,1922,0.985,0.208,0.226,0.81,0.219,-14.518,0.0331,74.03,0.22,1.0,8.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+08y9GfoqCWfOGsKdwojr5e,Lady of the Evening,Dick Haymes,163080,1922,1922,0.989,0.402,0.158,0.13,0.311,-16.9,0.039,103.22,0.196,0.0,3.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+6GhbZRE9N2TPf86zI1dIxQ,You'll Never Know,"Dick Haymes, The Pied Pipers",165253,1922,1922,0.994,0.392,0.128,0.153,0.0983,-15.22,0.0378,126.728,0.226,1.0,2.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+2IMcezGQzHgqH8gIvXJM3Q,Till the End of Time,Dick Haymes,182226,1922,1922,0.986,0.208,0.234,0.656,0.234,-15.427,0.0426,85.288,0.209,1.0,8.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+38u3k7zUGTp48G1oA3ky3R,The Girl That I Marry,Dick Haymes,182920,1922,1922,0.985,0.185,0.151,0.798,0.151,-17.822,0.0391,88.945,0.135,1.0,7.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+46NvxfK2FwCMpMsRTBFkjR,Soft Lights and Sweet Music,Dick Haymes,171080,1922,1922,0.985,0.328,0.323,0.0395,0.357,-12.78,0.0331,125.653,0.153,1.0,7.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+42lF2Ke3RUCoptNImf3SBj,I Ought to Know More About You,Dick Haymes,185653,1922,1922,0.989,0.607,0.253,1.99e-06,0.225,-9.944,0.0414,132.161,0.555,0.0,9.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+3hkX4bDXEzd4w6aTiDkvrR,Keepsakes,Dick Haymes,180733,1922,1922,0.989,0.176,0.358,0.335,0.102,-9.713,0.0459,83.026,0.111,0.0,0.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+1kXWSsJkBVZ1jSoI8NnEDm,Marta,Dick Haymes,177693,1922,1922,0.987,0.255,0.343,0.0153,0.326,-9.373,0.0305,101.096,0.313,1.0,0.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+7qiy1Sp4KTJKzQifOhY0IP,Everytime I Meet You,"Dick Haymes, Gordon Jenkins, His Orchestra",178653,1922,1922,0.989,0.295,0.277,0.122,0.194,-10.849,0.0346,81.05,0.174,1.0,7.0,0,False,"british dance band, deep adult standards, swing, tin pan alley"
+2kYI38e52lZLbwpwaxF9Sa,I Dü Not Live,Young Astronauts Club,420000,1922-01-29,1922,0.655,0.556,0.656,0.803,0.175,-13.093,0.0293,140.052,0.218,1.0,2.0,0,False,
+6KCbj6tQV2hpz3TnpsP1Ru,I'll Dream of You,Vincent Lopez Orchestra,224863,1922-11-22,1922,0.994,0.454,0.291,0.947,0.743,-18.527,0.0754,105.157,0.641,1.0,0.0,0,False,
+1b8HZQCqcqwbzlA1jRTp6E,En Douce,Mistinguett,223440,1922,1922,0.989,0.427,0.18,0.0,0.128,-15.375,0.067,78.459,0.431,1.0,10.0,0,False,vintage chanson
+112adU33vo4C1eRZct2hWy,Nuits De Chine,Louis Lynel,180800,1922,1922,0.994,0.42,0.288,0.000216,0.196,-14.005,0.0701,139.575,0.4,1.0,7.0,0,False,
+2svBYUDrPM1iFRZO3maUqZ,I Dü Not Live - Xtremely Remix I,Young Astronauts Club,585000,1922-12-25,1922,0.205,0.553,0.425,0.751,0.0563,-13.764,0.0292,69.978,0.613,1.0,2.0,0,False,
+43bfPlsYUmXtWliTReBeYf,I Dü Not Live,Young Astronauts Club,420000,1922-01-17,1922,0.655,0.556,0.656,0.803,0.175,-13.093,0.0293,140.052,0.218,1.0,2.0,0,False,
+4a2Hw5UQHt19Xnjjhbyg3y,I Dü Not Live,Young Astronauts Club,420000,1922-12-25,1922,0.655,0.556,0.656,0.803,0.175,-13.093,0.0293,140.052,0.218,1.0,2.0,0,False,
+1TdS6YqiDcG0o8nGDunZGh,I Don't Support Yr Troops,Young Astronauts Club,250000,1922-01-17,1922,0.00189,0.666,0.409,0.581,0.0432,-17.511,0.0444,140.005,0.368,0.0,3.0,0,False,
+0EuxIpuI91wYxLbg1eBsfI,I Don't Support Yr Troops,Young Astronauts Club,250000,1922-01-05,1922,0.00189,0.666,0.409,0.581,0.0432,-17.511,0.0444,140.005,0.368,0.0,3.0,0,False,
+1aaDK0JNi6qNyNtiOsBNio,Way Down Yonder in New Orleans,Peerless Quartet,136817,1922-08-30,1922,0.996,0.676,0.129,0.00583,0.199,-16.628,0.0477,89.801,0.583,1.0,7.0,0,False,
+5PJCXNLtJSB3XerASHg7eA,Ensueño de Oro - Remasterizado,Ignacio Corsini,151026,1922-03-29,1922,0.995,0.43,0.155,0.952,0.202,-26.685,0.116,96.58,0.564,0.0,1.0,0,False,vintage tango
+6G7u8nWLBnhbBvveaiYSsg,Everybody's Doing That Charleston Now,Trixie Smith,190893,1922-06-03,1922,0.996,0.62,0.311,0.642,0.16,-12.092,0.137,146.84,0.756,0.0,11.0,0,False,"harlem renaissance, vintage swing"
+6EOxV6Kudo0dt4KDITkW3C,Way Down Yonder In New Orleans,Paul Whiteman,146957,1922-01-24,1922,0.995,0.659,0.211,0.888,0.194,-17.887,0.075,101.247,0.891,1.0,7.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+1ZYRk4U7EuJwdRZNHpEBIz,Éléonore,Dréan,164600,1922,1922,0.994,0.52,0.262,0.000852,0.227,-12.619,0.132,69.125,0.575,0.0,11.0,0,False,
+4TLxAqxq0ZsNukzUo1Ri36,The Highway,"Mood, Donte The Gr8, Darryl, Crunch Ex",311517,1922-09-01,1922,0.0485,0.835,0.849,0.227,0.325,-7.792,0.175,89.955,0.43,0.0,5.0,0,True,golden age hip hop
+1j7wF175APj8DoZ4HNGiXo,Forest,The David Joseph Apocadelia,331573,1922-10-31,1922,0.407,0.39,0.834,0.169,0.116,-10.41,0.0685,126.877,0.401,1.0,9.0,0,False,
+7hqk802EZ8ts8U5emSnYdW,Hide,The David Joseph Apocadelia,292173,1922-10-31,1922,0.0533,0.36,0.676,0.551,0.131,-8.657,0.0331,107.57,0.331,0.0,11.0,0,False,
+5VvClfWFSUeC6cCju1UUcy,Telethapy,"Mood, Donte The Gr8",215688,1922-09-01,1922,0.00362,0.862,0.0908,0.0318,0.0437,-16.718,0.347,90.982,0.754,1.0,7.0,0,True,golden age hip hop
+75YJgmfKv69Z7E8R4WNAOs,Playfair,The David Joseph Apocadelia,237106,1922-10-31,1922,0.161,0.324,0.662,0.196,0.31,-9.226,0.0323,176.321,0.644,1.0,11.0,0,True,
+23JipAijH3mhtpGLGUKDEw,Meningitis,The David Joseph Apocadelia,245053,1922-10-31,1922,0.125,0.418,0.647,0.0485,0.151,-8.791,0.0634,124.306,0.433,0.0,11.0,0,False,
+5P35CyOEQiMqf8Hd6Pty5p,Méfiez Vous D'anatole,Georgius,192933,1922,1922,0.984,0.625,0.35,0.0,0.0988,-15.916,0.312,81.567,0.808,1.0,10.0,0,False,vintage chanson
+1FnTOwM5cW5N9wzCWziLKC,La Ronde De Nuit,Perchicot,177400,1922,1922,0.992,0.55,0.31,0.0,0.204,-15.423,0.168,125.829,0.568,0.0,10.0,0,False,
+4CjnVzvSu86vqI5gY8SjPx,Elle Vendait Des P'tits Gateaux,Félix Mayol,151573,1922,1922,0.987,0.716,0.301,0.0,0.277,-14.07,0.105,129.153,0.969,1.0,5.0,0,False,vintage chanson
+4cuOUj8hy60K3SWScARfv4,Numbers - Derelict Remix II,Young Astronauts Club,434571,1922-01-05,1922,0.107,0.729,0.925,0.915,0.609,-12.919,0.0485,139.964,0.0301,0.0,5.0,0,False,
+3BzAOY0xHU7VQoo93TYpDS,1945 - Dresden Rathaus Remix I,Young Astronauts Club,435000,1922-01-01,1922,0.000162,0.644,0.767,0.928,0.61,-17.423,0.042,140.084,0.224,0.0,5.0,0,False,
+5IxdIWhO6M0CBsBZGa2ViS,Numbers - Derelict Remix I,Young Astronauts Club,434571,1922-01-05,1922,0.634,0.12,0.97,0.901,0.915,-20.865,0.493,70.047,0.0196,1.0,1.0,0,False,
+77TXAn1sOLC1iXbfOy6EGI,My Old Dutch,Albert Chevalier,198766,1922-05-22,1922,0.994,0.618,0.0355,0.0,0.162,-23.611,0.189,85.823,0.305,1.0,10.0,2,False,
+37nhiPaklmi6CXOM4fTVC1,"Take It Daddy, It's All Yours",Trixie Smith,168586,1922-06-03,1922,0.996,0.534,0.213,0.78,0.187,-13.442,0.0545,115.187,0.419,1.0,2.0,0,False,"harlem renaissance, vintage swing"
+4cXOsC2MltdicZ3QjrV5D3,Radhay Gaari Doon Gee Mori Nindiya Na Jagawo,Indu Baala,175728,1922-12-31,1922,0.995,0.44,0.245,0.481,0.287,-11.075,0.0486,71.745,0.549,1.0,10.0,0,False,
+6tl1bsB5SXbsLjOndGiM7Q,El Poder de Tus Ojos - Remasterizado,Ignacio Corsini,172800,1922-03-21,1922,0.993,0.357,0.244,0.0455,0.274,-21.2,0.0478,72.51,0.559,1.0,1.0,0,False,vintage tango
+3oiBuTiBUrV016sJLJp493,Second Hand Daddy,Lizzie Miles,179493,1922-07-08,1922,0.995,0.487,0.407,0.785,0.25,-15.16,0.123,86.264,0.692,1.0,10.0,0,False,"classic female blues, new orleans blues"
+7yWdEDmuqweoRkhZeftRtR,Sur La Pointe Des Pieds,Georgius,187733,1922,1922,0.995,0.528,0.343,0.0,0.385,-14.963,0.315,83.2,0.634,0.0,0.0,0,False,vintage chanson
+5Tpyispvtryt7a3OnXz52o,Montréal - Alien Techno Extended Dub Drone Ambient Remix I,Young Astronauts Club,3430400,1922-01-12,1922,0.67,0.199,0.323,0.854,0.234,-22.278,0.277,150.004,0.0749,1.0,1.0,0,False,
+0IeuNCkrrTnYtrKrlJRKR6,E1 - Upside Down Remix I,Young Astronauts Club,534999,1922-01-13,1922,0.0166,0.497,0.539,0.809,0.0685,-18.341,0.0314,140.022,0.352,1.0,0.0,0,False,
+7fZZRWqtKEpXbPA4o4VImw,Montréal - Ping Pong Dubtronica Remix I,Young Astronauts Club,345000,1922-01-12,1922,0.814,0.457,0.527,0.784,0.282,-15.127,0.148,74.942,0.0341,1.0,8.0,0,False,
+2k3YJI2LnL2gOyDoj3xGjB,I Know What 2 Dü,Young Astronauts Club,465000,1922-01-17,1922,0.00161,0.311,0.214,0.456,0.27,-24.913,0.0446,91.118,0.219,1.0,8.0,0,False,
+6fRpIsPaSyDQf1TLr7wATj,Home - Future Dub Remix I,Young Astronauts Club,195000,1922-01-03,1922,0.117,0.819,0.401,0.813,0.0523,-25.512,0.058,120.104,0.685,1.0,8.0,0,False,
+1iS1snhd6CpCq15VsVfCur,Theme Phrom An Urban Desert,Young Astronauts Club,320000,1922-01-04,1922,0.138,0.636,0.393,0.829,0.133,-22.434,0.0667,120.011,0.0792,1.0,2.0,0,False,
+0fXdM9F9KP5bFK25sDa055,I Know What 2 Dü,Young Astronauts Club,465000,1922-01-05,1922,0.00161,0.311,0.214,0.456,0.27,-24.913,0.0446,91.118,0.219,1.0,8.0,0,False,
+4DnhDKuSH0iqUXkh4khIQk,Home - Extraneous Slo Dub Instrumental Remix I,Young Astronauts Club,1030285,1922-01-03,1922,0.138,0.34,0.0236,0.858,0.225,-28.719,0.0356,133.268,0.0925,1.0,8.0,0,False,
+3efdFiv1gl6sgLoxwzWwmU,I Know What 2 Dü,Young Astronauts Club,465000,1922-01-01,1922,0.00161,0.311,0.214,0.456,0.27,-24.913,0.0446,91.118,0.219,1.0,8.0,0,False,
+1XLoItsagAlqoNjNcvPKd8,Montréal - Alien Techno Dubtronic Remix I,Young Astronauts Club,1220000,1922-01-12,1922,0.493,0.589,0.481,0.873,0.193,-18.496,0.0408,150.04,0.232,1.0,8.0,0,False,
+7cdIuj6HxsI9bu4qjVO12q,Montréal - Alien Techno Super Deluxe Remix I,Young Astronauts Club,2560000,1922-01-12,1922,0.0272,0.818,0.423,0.8,0.0609,-20.188,0.142,149.991,0.164,1.0,1.0,0,False,
+6Tst3pczc3ILP6pqYyKW1F,"Kapitel 1 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",217631,1922-01-01,1922,0.62,0.606,0.342,0.0,0.445,-15.952,0.96,52.257,0.187,0.0,6.0,7,False,"german literature, poetry"
+1RuoUnC7ypLBgsXXQtjHt7,The Song Is Ended,Nick Lucas,124813,1922-06-03,1922,0.968,0.651,0.107,1.56e-06,0.161,-8.514,0.0346,88.558,0.483,1.0,5.0,0,False,"british dance band, vintage jazz"
+04xD6LIdIIpQ5ox93RQCgv,Ex / Y - Part XXX,Young Astronauts Club,239999,1922-01-08,1922,0.081,0.349,0.242,0.948,0.121,-17.012,0.0421,131.634,0.218,1.0,6.0,0,False,
+5CJAsFdbAM2woJSOvXAjdD,Ex / Y - Part XII,Young Astronauts Club,239999,1922-01-08,1922,0.0651,0.392,0.236,0.882,0.173,-17.172,0.0335,128.676,0.0399,1.0,11.0,0,False,
+3S18YNBrS1zl4uFNe0SYGu,Ex / Y - Part XX,Young Astronauts Club,239999,1922-01-08,1922,0.0158,0.464,0.159,0.767,0.11,-18.324,0.0415,121.985,0.296,1.0,6.0,0,False,
+7jwVphvJpCLrRzrdtaqVGF,Ex / Y - Part XXIX,Young Astronauts Club,239999,1922-01-08,1922,0.367,0.568,0.224,0.841,0.141,-17.387,0.0565,125.157,0.04,0.0,7.0,0,False,
+4gxeoyUMaexll9qfcwH2IE,Ex / Y - Part III,Young Astronauts Club,170000,1922-01-08,1922,0.609,0.57,0.245,0.891,0.11,-16.23,0.0335,116.663,0.118,1.0,1.0,0,False,
+2vRpRqVbXyGSbg9hUTrGQV,Ex / Y - Part XV,Young Astronauts Club,239999,1922-01-08,1922,0.00472,0.445,0.14,0.71,0.118,-17.811,0.0421,135.969,0.323,1.0,6.0,0,False,
+4QfWJyPMrE1b4UNdCkeKQf,Ex / Y - Part IX,Young Astronauts Club,214999,1922-01-08,1922,0.424,0.606,0.202,0.82,0.0956,-19.008,0.0392,127.909,0.115,1.0,1.0,0,False,
+3Rm1QvLOvbMnmqy51wun1f,Ex / Y - Part XXVII,Young Astronauts Club,239999,1922-01-08,1922,0.604,0.329,0.1,0.856,0.185,-18.124,0.0434,137.967,0.0369,0.0,8.0,0,False,
+0dn1ZJhSGr8nC64IqsW0mh,Ex / Y - Part II,Young Astronauts Club,85000,1922-01-08,1922,0.0308,0.385,0.862,0.663,0.402,-14.86,0.0402,180.11,0.345,1.0,8.0,0,False,
+2HLF8gThKlptQFO9e22gA2,Ex / Y - Part XXII,Young Astronauts Club,239999,1922-01-08,1922,0.718,0.587,0.224,0.875,0.112,-16.236,0.0414,124.082,0.074,1.0,9.0,0,False,
+7pRD1KwmjFp80ygc0Smcvv,Ex / Y - Part XXVIII,Young Astronauts Club,239999,1922-01-08,1922,0.711,0.482,0.196,0.838,0.506,-16.281,0.0356,125.613,0.342,1.0,6.0,0,False,
+6GJb0Uf4fvSxhPzn6MvvSl,Ex / Y - Part XXIII,Young Astronauts Club,239999,1922-01-08,1922,0.073,0.489,0.348,0.67,0.219,-16.503,0.0385,160.079,0.674,1.0,7.0,0,False,
+0255CcPmgnNQgK46CajUNU,Ex / Y - Part VII,Young Astronauts Club,205000,1922-01-08,1922,0.075,0.636,0.239,0.756,0.112,-17.473,0.0347,114.011,0.039,1.0,10.0,0,False,
+3MeXCYcQ7NrbYwouCiQ05h,Ex / Y - Part XXIV,Young Astronauts Club,239999,1922-01-08,1922,0.899,0.413,0.217,0.814,0.111,-17.844,0.0362,80.129,0.102,1.0,3.0,0,False,
+5MW8A73dxdfJCLBSvjLqwJ,Ex / Y - Part IV,Young Astronauts Club,170000,1922-01-08,1922,0.249,0.578,0.317,0.717,0.322,-16.721,0.0504,170.336,0.406,1.0,4.0,0,False,
+34xXcuMq6E6hkbxteJv0lS,Ex / Y - Part XIX,Young Astronauts Club,239999,1922-01-08,1922,0.0732,0.548,0.258,0.854,0.131,-17.703,0.047,82.988,0.0934,0.0,1.0,0,False,
+0yLXeGQ1G4C7RJVoYxRsSs,Ex / Y - Part XIII,Young Astronauts Club,239999,1922-01-08,1922,0.882,0.535,0.419,0.849,0.143,-15.153,0.0342,96.0,0.0699,1.0,7.0,0,False,
+5Fx77M1Mb9ubIJlGprXpUY,Ex / Y - Part XXI,Young Astronauts Club,239999,1922-01-08,1922,0.339,0.479,0.352,0.901,0.39,-18.318,0.0391,140.026,0.176,1.0,9.0,0,False,
+1Egwhg9P0KaFqDJzN4rCki,Europa,Young Astronauts Club,585000,1922-07-14,1922,0.165,0.5,0.127,0.914,0.0831,-18.147,0.0372,69.908,0.463,0.0,0.0,0,False,
+5dJPxT4bTn5IdGV9mN4OYy,Ex / Y - Part I,Young Astronauts Club,239999,1922-01-08,1922,0.00866,0.438,0.284,0.76,0.171,-15.481,0.0344,146.551,0.176,0.0,1.0,0,False,
+5wulZw73MD1lS21rdEmg5E,Ex / Y - Part XVII,Young Astronauts Club,239999,1922-01-08,1922,0.309,0.48,0.235,0.915,0.12,-17.531,0.0508,129.984,0.037,1.0,11.0,0,False,
+7gUHbsumlCVOpU7ylDTnPT,Ex / Y - Part XXVI,Young Astronauts Club,239999,1922-01-08,1922,0.000379,0.223,0.196,0.621,0.154,-17.181,0.0365,166.719,0.274,1.0,6.0,0,False,
+77sZ27VQm959qvrer8HlIe,Ex / Y - Part XIV,Young Astronauts Club,239999,1922-01-08,1922,0.812,0.42,0.187,0.788,0.182,-19.239,0.0441,121.273,0.108,0.0,11.0,0,False,
+76EOVEMSJ4TeCpWPlIVtXs,Ex / Y - Part V,Young Astronauts Club,194999,1922-01-08,1922,0.0958,0.609,0.3,0.807,0.18,-15.46,0.0531,165.028,0.608,1.0,7.0,0,False,
+4gSS03XmZBKy0arV1JUFXf,Ex / Y - Part XXV,Young Astronauts Club,239999,1922-01-08,1922,0.0113,0.688,0.388,0.826,0.0634,-14.537,0.0461,136.011,0.352,0.0,4.0,0,False,
+0xV7wY6Qphhjxj9L9YNuJe,Ex / Y - Part VI,Young Astronauts Club,200000,1922-01-08,1922,0.437,0.438,0.134,0.751,0.11,-19.402,0.035,92.361,0.0561,0.0,11.0,0,False,
+7vSTpdkEsJtNoChd7zopsL,Ex / Y - Part XVIII,Young Astronauts Club,239999,1922-01-08,1922,0.147,0.651,0.268,0.918,0.243,-16.597,0.0559,120.016,0.0385,0.0,2.0,0,False,
+0NXMWHEs4SUxssf4KMVdxl,Ex / Y - Part XI,Young Astronauts Club,230000,1922-01-08,1922,0.313,0.585,0.295,0.781,0.108,-16.758,0.0413,110.042,0.0533,1.0,6.0,0,False,
+7nHvj1lXSVDxGsyU80n3ug,Ex / Y - Part XVI,Young Astronauts Club,239999,1922-01-08,1922,0.539,0.395,0.355,0.872,0.107,-15.135,0.0361,147.993,0.055,1.0,3.0,0,False,
+0Nc2zmRTzW8jA3p7C34Pwb,Ex / Y - Part VIII,Young Astronauts Club,205000,1922-01-08,1922,0.00171,0.34,0.332,0.78,0.289,-16.568,0.0437,84.423,0.405,1.0,9.0,0,False,
+76xftSNR4MZyflWbwG5ce0,Ex / Y - Part X,Young Astronauts Club,215000,1922-01-08,1922,0.0929,0.348,0.0719,0.733,0.111,-19.885,0.0427,112.521,0.216,1.0,8.0,0,False,
+1HJRj2XztAhgO7dLBw6b7s,El Patotero Sentimental - Remasterizado,Ignacio Corsini,145626,1922-03-29,1922,0.996,0.482,0.0283,0.77,0.0989,-23.414,0.0732,77.642,0.33,0.0,0.0,0,False,vintage tango
+1lrdXbyVp9y80SJzinmEEv,Europa,Young Astronauts Club,585000,1922-01-13,1922,0.165,0.5,0.127,0.914,0.0831,-18.147,0.0372,69.908,0.463,0.0,0.0,0,False,
+15BEv0mKGqHHxyDAcLJ7ei,En la Huella del Querer - Remasterizado,Ignacio Corsini,150160,1922-03-29,1922,0.994,0.373,0.176,0.866,0.157,-22.045,0.0703,106.595,0.383,0.0,4.0,0,False,vintage tango
+50ogYKVutVcQhgzlXNdbac,Electrum,Young Astronauts Club,325167,1922-01-18,1922,0.441,0.284,0.168,0.872,0.156,-24.67,0.053,81.934,0.104,1.0,5.0,0,False,
+1YusocVRjC9B6vS6qdCtav,E1,Young Astronauts Club,390000,1922-01-13,1922,0.126,0.446,0.303,0.888,0.075,-17.677,0.0334,139.953,0.362,1.0,7.0,0,False,
+5ubN4f9Lf5krcPBNpkDmYL,Errormirrorterror,Young Astronauts Club,1800000,1922-01-17,1922,0.966,0.189,0.13,0.929,0.206,-31.408,0.244,71.241,0.0279,1.0,5.0,0,False,
+5cUFFY2Atw4QeFitueQCt2,El Huerfano - Remasterizado,Ignacio Corsini,159800,1922-03-29,1922,0.996,0.366,0.0749,0.924,0.117,-26.34,0.0806,90.969,0.515,1.0,7.0,0,False,vintage tango
+0TWsNj5iSvbMTtbEDP7A4V,Elle Prend L'boulevard Magenta,Félix Mayol,172026,1922,1922,0.967,0.709,0.289,0.0,0.119,-14.978,0.18,107.515,0.84,1.0,2.0,0,False,vintage chanson
+3XAIh9DUjpQ1PN0vsKfwsR,E1,Young Astronauts Club,390000,1922-01-19,1922,0.127,0.416,0.287,0.902,0.0701,-17.668,0.0355,139.972,0.333,1.0,7.0,0,False,
+75wlqCvH7Esnm6ds1shmd5,Europa,Young Astronauts Club,585000,1922-01-20,1922,0.165,0.5,0.127,0.914,0.0831,-18.147,0.0372,69.908,0.463,0.0,0.0,0,False,
+0l3BQsVJ7F76wlN5QhJzaP,El Vendaval - Remasterizado,Ignacio Corsini,153533,1922-03-21,1922,0.985,0.37,0.372,0.000681,0.929,-17.138,0.0865,159.669,0.753,1.0,2.0,0,False,vintage tango
+3BfGoZJyvpHYtJrlrPSb8Q,E1,Young Astronauts Club,390000,1922-01-14,1922,0.126,0.446,0.303,0.888,0.075,-17.677,0.0334,139.953,0.362,1.0,7.0,0,False,
+4jI9Vk3DeZEfS8iVMSuL7Y,E1,Young Astronauts Club,390000,1922-01-13,1922,0.126,0.446,0.303,0.888,0.075,-17.677,0.0334,139.953,0.362,1.0,7.0,0,False,
+1PGLk4jyXA8oWTBtMyYlwX,El Huerfano - Remasterizado,Ignacio Corsini,171013,1922-03-21,1922,0.996,0.462,0.119,0.88,0.0773,-20.938,0.0793,122.895,0.407,0.0,4.0,0,False,vintage tango
+08FmqUhxtyLTn6pAh6bk45,El Prisionero - Remasterizado,Ignacio Corsini,176906,1922-03-21,1922,0.995,0.321,0.0946,0.918,0.104,-27.961,0.0504,169.98,0.397,1.0,7.0,0,False,vintage tango
+69bldKeYaUZRDV4OSQoOGt,E1,Young Astronauts Club,300000,1922-01-20,1922,0.235,0.215,0.291,0.884,0.379,-17.018,0.0384,139.956,0.344,1.0,7.0,0,False,
+5XKnIa85nJVnyUZ6oDGdoe,Europa,Young Astronauts Club,585000,1922-01-14,1922,0.165,0.5,0.127,0.914,0.0831,-18.147,0.0372,69.908,0.463,0.0,0.0,0,False,
+0I5buDspO0SU73j0CdktL9,E.U. Phony II,Young Astronauts Club,2400000,1922-01-17,1922,0.0235,0.3,0.0808,0.884,0.106,-31.569,0.0709,118.879,0.0377,1.0,2.0,0,False,
+1VKemK7pxQoZjJMiTlfy3y,Europa,Young Astronauts Club,585000,1922-03-05,1922,0.165,0.5,0.127,0.914,0.0831,-18.147,0.0372,69.908,0.463,0.0,0.0,0,False,
+16PNB4Ezcv4Dk9UCZ7AjRj,E1 - Megalomaniacal Remix I,Young Astronauts Club,444999,1922-01-13,1922,0.0079,0.478,0.435,0.599,0.0988,-18.182,0.0306,140.01,0.212,1.0,0.0,0,False,
+3K54Q9Yq4pOKnCTguy6zXq,E1 - Neurophonik Remix I,Young Astronauts Club,534999,1922-01-13,1922,0.0146,0.282,0.489,0.5,0.254,-18.112,0.0353,140.061,0.19,1.0,0.0,0,False,
+1R7SZvlWBk18yBgBUa1BDk,Electrum,Young Astronauts Club,325146,1922-01-14,1922,0.453,0.292,0.157,0.87,0.159,-24.669,0.0513,84.275,0.0708,1.0,5.0,0,False,
+1HrRgnyVkJFXyYM9HKFI8z,E.U. Phony IV,Young Astronauts Club,2400000,1922-01-17,1922,0.204,0.485,0.0778,0.829,0.102,-34.16,0.0652,119.957,0.0392,1.0,5.0,0,False,
+3pG6YKWAvrIayxN4ywFTbY,E1 - Anacreon Remix I,Young Astronauts Club,390000,1922-01-13,1922,0.0118,0.422,0.43,0.958,0.0866,-16.105,0.0346,70.008,0.415,1.0,7.0,0,False,
+0g1aAEbBnNjTqdYtQ6xHET,Electrum,Young Astronauts Club,325167,1922-01-15,1922,0.453,0.3,0.167,0.851,0.158,-24.676,0.0546,87.373,0.0915,1.0,5.0,0,False,
+3ROtnqCtqrMbaDkivZyV5n,Entrerriana - Remasterizado,Ignacio Corsini,183720,1922-03-21,1922,0.995,0.431,0.2,0.821,0.139,-23.557,0.0322,108.65,0.543,0.0,5.0,0,False,vintage tango
+3EQtlx0Dqaox6Uetxn9ofT,Electrum,Young Astronauts Club,325167,1922-01-01,1922,0.453,0.3,0.167,0.851,0.158,-24.676,0.0546,87.373,0.0915,1.0,5.0,0,False,
+7KeEsAAiP2NDru2hefKC51,E.U. Phony I,Young Astronauts Club,2400000,1922-01-17,1922,0.877,0.278,0.0119,0.962,0.0984,-37.663,0.053,119.114,0.0367,1.0,2.0,0,False,
+3e2OCUaLZRdr2V6yMIFW8A,E1,Young Astronauts Club,300000,1922-01-18,1922,0.235,0.215,0.291,0.884,0.379,-17.018,0.0384,139.956,0.344,1.0,7.0,0,False,
+5GvlcYEq35rZNpfPXW4WVJ,E.U. Phony III,Young Astronauts Club,2400000,1922-01-17,1922,0.354,0.48,0.0712,0.885,0.0943,-36.177,0.0563,119.989,0.0372,1.0,5.0,0,False,
+3X0454VHEiHk17QclXHW6J,Europa,Young Astronauts Club,585000,1922-01-17,1922,0.186,0.516,0.127,0.926,0.0831,-18.126,0.0357,69.983,0.471,0.0,0.0,0,False,
+1VDxYPfvlCH1Fa4Zw2ASu7,Post Everything - Radio Edit,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",574999,1922-01-23,1922,0.00326,0.552,0.35,0.904,0.342,-15.633,0.0412,140.223,0.221,1.0,8.0,0,False,
+2NATyhUyRnbJxzKNNgWuKB,Post Everything I,Young Astronauts Club,574999,1922-01-17,1922,0.00727,0.21,0.452,0.78,0.344,-16.114,0.0554,201.121,0.133,0.0,5.0,0,False,
+7qvsw5kkuWb7C2ALMhdVSS,Post Everything II,Young Astronauts Club,574999,1922-01-17,1922,0.0143,0.299,0.448,0.741,0.344,-18.184,0.0417,139.862,0.0906,0.0,5.0,0,False,
+45RziDqB7iCQQR57iBsUHp,Nobody Ever Wants Me,"Glenn Miller Orchestra, The Four Modernaires",161440,1922,1922,0.984,0.636,0.444,4.31e-05,0.711,-5.455,0.248,125.269,0.716,1.0,5.0,0,False,"adult standards, big band, easy listening, swing"
+6d4KV7Mv6qpoZOl4jNIDII,"Kapitel 10 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",258292,1922-01-01,1922,0.663,0.635,0.392,0.0,0.66,-12.532,0.961,85.228,0.228,1.0,9.0,0,False,"german literature, poetry"
+1YidSjxnIo59RJI0z1u63I,"Kapitel 15 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",214430,1922-01-01,1922,0.646,0.613,0.314,0.0,0.346,-15.692,0.947,74.267,0.288,1.0,2.0,0,False,"german literature, poetry"
+7myoOKsskjxIooMuhQWog3,"Kapitel 4 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",227126,1922-01-01,1922,0.444,0.63,0.329,0.0,0.105,-15.419,0.957,83.793,0.122,1.0,11.0,0,False,"german literature, poetry"
+74pIGDZm9lnXFDaRhKK6aM,"Kapitel 9 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",240677,1922-01-01,1922,0.519,0.722,0.414,0.0,0.0994,-14.793,0.911,124.384,0.183,0.0,11.0,0,False,"german literature, poetry"
+72PIo0PvVe7A4cL1sI7AaH,"Kapitel 16 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",188271,1922-01-01,1922,0.363,0.624,0.299,0.0,0.131,-17.734,0.954,175.561,0.0822,0.0,8.0,0,False,"german literature, poetry"
+0S5wB8ZFjNYcrXPdWsRI3X,"Kapitel 20 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",200631,1922-01-01,1922,0.419,0.695,0.434,0.0,0.17,-13.591,0.944,101.535,0.178,0.0,8.0,0,False,"german literature, poetry"
+5iHqZaNJM2HBO4IhaMCsV4,"Kapitel 8 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",182055,1922-01-01,1922,0.315,0.712,0.436,0.0,0.328,-14.531,0.921,131.018,0.106,1.0,5.0,0,False,"german literature, poetry"
+1svZwXFZ61htwvh6r1JoQg,"Kapitel 22 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",240771,1922-01-01,1922,0.632,0.709,0.727,0.0,0.21,-14.394,0.904,126.59,0.325,1.0,2.0,0,False,"german literature, poetry"
+1L0ywINhS8hT3TmTDGWKgZ,"Kapitel 5 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",262647,1922-01-01,1922,0.393,0.647,0.425,0.0,0.35,-14.341,0.947,87.623,0.123,1.0,11.0,0,False,"german literature, poetry"
+017WlUybfsQVeEDbbY0UXj,"Kapitel 18 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",223961,1922-01-01,1922,0.454,0.748,0.274,0.0,0.554,-16.145,0.933,114.651,0.281,1.0,4.0,0,False,"german literature, poetry"
+5N2eKnWshuRGzaQUrkPR8L,"Kapitel 14 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",187281,1922-01-01,1922,0.536,0.739,0.295,0.0,0.55,-15.448,0.943,102.818,0.153,0.0,6.0,0,False,"german literature, poetry"
+5gkHO5SsQqDOy9q8SCcxvO,"Kapitel 17 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",228262,1922-01-01,1922,0.371,0.696,0.37,0.0,0.15,-16.073,0.92,98.867,0.112,0.0,11.0,0,False,"german literature, poetry"
+5TDboygianpeUK9sVKfS9N,"Kapitel 11 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",209175,1922-01-01,1922,0.647,0.658,0.357,0.0,0.308,-14.39,0.96,80.779,0.167,1.0,9.0,0,False,"german literature, poetry"
+2Sk0iiojgi2MwwTji8GTR6,"Kapitel 12 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",272937,1922-01-01,1922,0.416,0.69,0.478,0.0,0.34,-13.595,0.933,100.801,0.156,0.0,11.0,0,False,"german literature, poetry"
+1Ov3yLryBOX34MnFFd2g4I,"Kapitel 7 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",242134,1922-01-01,1922,0.515,0.709,0.325,0.0,0.143,-15.147,0.939,124.626,0.2,1.0,2.0,0,False,"german literature, poetry"
+0qr2Xm0cbuMVrYqki80BzH,"Kapitel 6 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",275745,1922-01-01,1922,0.669,0.685,0.341,0.0,0.298,-13.528,0.945,102.09,0.192,0.0,6.0,0,False,"german literature, poetry"
+4QvQgNmdmKIYHUhjMNKzIm,"Kapitel 3 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",202018,1922-01-01,1922,0.589,0.625,0.375,0.0,0.354,-15.426,0.958,166.695,0.222,1.0,2.0,0,False,"german literature, poetry"
+00cFEJdO1C6KwO6BjiePtc,"Kapitel 21 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",204609,1922-01-01,1922,0.573,0.677,0.404,0.0,0.313,-14.282,0.955,97.99,0.195,1.0,4.0,0,False,"german literature, poetry"
+2BXMqoPwrXlLiVOByUCdBm,"Kapitel 19 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",220624,1922-01-01,1922,0.533,0.719,0.298,0.0,0.282,-15.95,0.931,124.445,0.217,1.0,2.0,0,False,"german literature, poetry"
+7KM3hQ4tIGptf41XKR5BV5,My Old Kentucky Home,Edward M. Favor,114249,1922-01-31,1922,0.98,0.3,0.221,0.0591,0.738,-26.906,0.19,78.041,0.648,0.0,10.0,0,False,vaudeville
+2L9GhnAlXVjwTjDOfWqHE8,Homesick,Velvetone Dance Orchestra,182440,1922-03-14,1922,0.994,0.82,0.319,0.911,0.203,-14.423,0.0713,103.55,0.78,1.0,0.0,0,False,
+2a7h2GA5MC7BkQ6Ltt0dfg,Swanee,Peerless Quartet,168464,1922-08-30,1922,0.995,0.645,0.101,0.0,0.183,-17.137,0.0361,110.202,0.718,1.0,5.0,0,False,
+3Kk1bCtxw7d407fHUIWliv,Mister Gallagher and Mister Shean,Ed Gallagher & Al Shean,324013,1922-10-26,1922,0.991,0.766,0.3,0.000533,0.18,-14.301,0.373,125.448,0.69,1.0,10.0,0,False,
+6L92ju8CKdmWAMdw8JCcUm,Goodbye France,Peerless Quartet,168696,1922-08-30,1922,0.991,0.737,0.142,0.0,0.242,-17.99,0.0524,125.946,0.633,1.0,0.0,0,False,
+4arRKvWMDOkqKdov1Nwaq1,In My Home Town,Velvetone Dance Orchestra,167707,1922-03-14,1922,0.994,0.888,0.389,0.844,0.304,-15.163,0.0472,102.556,0.855,1.0,3.0,0,False,
+7iE2io2jGlJYfTNEE7RMQQ,Turn Your Eyes Upon Jesus,"Szabó Balázs, Tyna Maria",236039,1922,1922,0.212,0.47,0.717,0.0,0.0889,-6.022,0.0319,150.065,0.223,1.0,5.0,0,False,dicsoites
+0E1zT54vPI07fTRHXWpMMP,Home - Extrinsic Speed Remix I,Young Astronauts Club,600000,1922-01-03,1922,0.0972,0.487,0.13,0.363,0.114,-26.378,0.0583,119.995,0.146,0.0,0.0,0,False,
+7FwlebWP46YmgpH2P6o7he,Home - Extraneous Remix I,Young Astronauts Club,600000,1922-01-03,1922,0.533,0.689,0.0639,0.723,0.0959,-28.061,0.102,119.921,0.231,0.0,5.0,0,False,
+3HdTkfwVLjcXDQVOfNN3vO,Teasing the Frets,Nick Lucas,167373,1922-06-03,1922,0.971,0.588,0.527,0.882,0.163,-10.2,0.0499,84.991,0.885,0.0,9.0,2,False,"british dance band, vintage jazz"
+3VR5gJet1AJoFHMbbHhQDK,Fickle Flo,Marion Harris,164232,1922-03-15,1922,0.983,0.591,0.477,0.0,0.741,-11.552,0.221,81.371,0.545,0.0,9.0,0,False,"torch song, vaudeville, vintage jazz"
+7iG84xpZfiIQ7nkVC36i4Y,Follow Me,Young Astronauts Club,390000,1922-01-14,1922,0.193,0.362,0.29,0.272,0.101,-14.294,0.0291,79.631,0.133,1.0,5.0,0,False,
+2zGWt4AVSwgu0loN08RD74,Fukushima,Young Astronauts Club,280000,1922-01-14,1922,0.000171,0.612,0.231,0.897,0.112,-18.188,0.217,119.998,0.035,1.0,2.0,0,False,
+5DteMfxK3FyAQIEVa5ixhh,Fallujah,"Young Astronauts Club, The Poison Control Centre",240000,1922-01-19,1922,0.0556,0.752,0.483,0.901,0.124,-21.137,0.0326,112.517,0.161,1.0,3.0,0,False,
+2cK20o1IdLmUIC4NoPWzOt,Flor Marchita - Remasterizado,Ignacio Corsini,153133,1922-03-29,1922,0.994,0.36,0.0954,0.726,0.107,-24.17,0.064,76.3,0.344,0.0,0.0,0,False,vintage tango
+1s2tZmcN7BNoXDegsZKSvC,Fallujah (Michael Macintosh & Crystal Macintosh Tiith Remix) - Version I,"Young Astronauts Club, The Poison Control Centre",435000,1922-01-19,1922,0.000221,0.677,0.406,0.155,0.351,-18.139,0.0488,139.994,0.606,1.0,2.0,0,False,
+0IgI1UCz84pYeVetnl1lGP,Old Fashioned Girl,Greg Fieler,310073,1922,1922,0.62,0.488,0.475,0.00645,0.107,-16.222,0.0399,139.952,0.544,0.0,0.0,0,False,
+4pOaUaCWzQdTUoYP2gVrvr,R+D (Track F) - Version I,Young Astronauts Club,600000,1922-01-14,1922,0.145,0.645,0.0284,0.926,0.108,-22.97,0.039,119.957,0.0752,1.0,8.0,0,False,
+496LQ7KlXpI0Xo3ZCCjRpc,Phase Four,Young Astronauts Club,180000,1922-01-13,1922,0.134,0.184,0.0505,0.441,0.0943,-23.586,0.0391,69.646,0.0305,1.0,9.0,0,False,
+5TSOPLVM6HJn3myky0vvQF,Jet Fuel,"Schnooty Records, Yung Schnooty",121374,1922-02-17,1922,0.293,0.518,0.357,0.0,0.111,-12.272,0.498,105.266,0.889,0.0,11.0,0,True,
+659NnQLOqHsaLbDqku1MxC,Phase Four,Young Astronauts Club,180000,1922-01-17,1922,0.134,0.184,0.0505,0.441,0.0943,-23.586,0.0391,69.646,0.0305,1.0,9.0,0,False,
+3lajEB0RY71XgZPEF7C8pH,Phase Four,Young Astronauts Club,180000,1922-03-05,1922,0.134,0.184,0.0505,0.441,0.0943,-23.586,0.0391,69.646,0.0305,1.0,9.0,0,False,
+0JV4iqw2lSKJaHBQZ0e5zK,Martín Fierro - Remasterizado,Ignacio Corsini,181173,1922-03-29,1922,0.996,0.548,0.0391,0.933,0.148,-23.228,0.153,75.595,0.612,1.0,6.0,0,False,vintage tango
+1KgBLlvPR6BxDyBNDtCUP0,Ojos Funestos - Remasterizado,Ignacio Corsini,194200,1922-03-21,1922,0.993,0.373,0.244,0.0478,0.214,-22.711,0.0538,115.51,0.623,1.0,8.0,0,False,vintage tango
+64QZmcRPBcuGixTEluyfRb,"Kapitel 2 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",212523,1922-01-01,1922,0.551,0.669,0.415,0.0,0.432,-13.52,0.957,70.609,0.218,0.0,4.0,0,False,"german literature, poetry"
+4lbn4EUuYfWc0Y6eF0CXuJ,"Kapitel 13 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes ""Duineser Elegien"". Live-Mitschnitt","Rainer Maria Rilke, Edgar Selge, Franziska Walser",187808,1922-01-01,1922,0.582,0.679,0.319,0.0,0.429,-13.811,0.952,83.819,0.189,1.0,0.0,0,False,"german literature, poetry"
+4iy1fsAHBgR2STJjPDhjY2,Mes Parents Sont Venus Me Chercher,Fortugé,183840,1922,1922,0.995,0.554,0.204,1.24e-06,0.153,-14.764,0.0598,97.337,0.62,1.0,7.0,0,False,
+5iBtQxawbusTfrxjOuAygw,1945,Young Astronauts Club,240000,1922-01-14,1922,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,
+5daGpEIb8De6MKTMRPBZg2,Greenwich Witch,Frank Westphal and His Orchestra,184112,1922-03-07,1922,0.995,0.579,0.329,0.913,0.207,-12.935,0.184,184.014,0.844,1.0,10.0,0,False,hot jazz
+5udklnZK6vJOT3V2Q5NXnc,Scar Song - Airstrip Studios Version,Young Astronauts Club,255000,1922-01-14,1922,0.969,0.518,0.0098,0.177,0.0943,-26.387,0.0437,139.462,0.11,1.0,10.0,0,False,
+7y7reXyAK3dk30OswFAF9U,Panama,Friars Society Orchestra,148115,1922-03-22,1922,0.995,0.622,0.537,0.97,0.404,-8.383,0.0335,105.027,0.921,1.0,4.0,0,False,
+2FBTGYWWakfUo7mLJKb7C5,My Man,Fanny Brice,213368,1922-02-17,1922,0.903,0.34,0.406,0.0,0.34,-6.003,0.0325,113.672,0.296,1.0,7.0,0,False,torch song
+2K7YhhtJxSMs4oKVr3pXcd,Goldfish - Neuro Studios Version,Young Astronauts Club,340080,1922-01-14,1922,0.0998,0.318,0.572,0.285,0.122,-12.043,0.0425,143.123,0.0715,1.0,7.0,0,False,
+7j2Sn3S726yYDjpZUzDg5z,I Know Tha Future V - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-02-06,1922,0.109,0.341,0.0331,0.545,0.102,-20.108,0.0401,70.027,0.0585,1.0,2.0,0,False,
+35wsXIaSZsgQkIMEt527X3,I Know Tha Future IV - US 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-02-05,1922,0.109,0.298,0.0232,0.937,0.0819,-17.038,0.0722,138.669,0.0387,1.0,2.0,0,False,
+3k7IC78vGpV7qJ8n5J7DV0,I Know Tha Future VIII - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-02-09,1922,0.0802,0.427,0.216,0.877,0.114,-20.772,0.0486,140.029,0.103,1.0,2.0,0,False,
+0imONIVgLvSTEikDehB7gj,I Know Tha Future VI - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-02-07,1922,0.0677,0.515,0.261,0.759,0.0849,-20.696,0.036,139.985,0.0364,1.0,2.0,0,False,
+3HCiPv92daYXfZybmP1IrT,So Long + Thanks 4 All Tha Fish II - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-03-24,1922,0.0206,0.527,0.52,0.807,0.0832,-17.929,0.0442,140.027,0.105,1.0,1.0,0,False,
+7ABOb87sKkboJ56ayQ1Rjf,I Know Tha Future VII - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-02-08,1922,0.0524,0.384,0.26,0.77,0.111,-19.143,0.0414,139.985,0.0374,1.0,2.0,0,False,
+5IyUUp2govKTSCc4f94DGr,So Long + Thanks 4 All Tha Fish I - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1922-03-23,1922,0.00189,0.523,0.534,0.982,0.0268,-20.914,0.0319,140.021,0.451,1.0,1.0,0,False,
+7x9s25F3pLUlNpr9lXQ85v,Re I - Full Length Version,Macintosh,6299999,1922-01-01,1922,,,,,,,,,,,,0,False,
+4hohdrSgIdyHC7uCsp59tF,Re II - Full Length Version,Macintosh,6299999,1922-01-02,1922,,,,,,,,,,,,0,False,
+1I3BxnThaYMme0lBDZDTNh,Shaping Tha Sea - Frankish Remix I,Young Astronauts Club,510000,1922-12-25,1922,0.00825,0.385,0.323,0.837,0.16,-19.194,0.0332,69.986,0.305,0.0,0.0,0,False,
+24IpA1fCnkrqm6VihAks99,I'm Looking over Four Leaf Clover,Nick Lucas,171453,1922-06-03,1922,0.992,0.848,0.229,0.802,0.126,-14.082,0.19,121.526,0.737,0.0,9.0,0,False,"british dance band, vintage jazz"
+6FMFxt68XQkDqTbFaw2K8N,Moonbeam Kiss Her for Me,Nick Lucas,190173,1922-06-03,1922,0.994,0.583,0.133,0.634,0.245,-15.388,0.0406,101.787,0.411,1.0,7.0,0,False,"british dance band, vintage jazz"
+102T7Atc9cPzelboZOPjzP,Three O’Clock in the Morning,Carl Fenton,187320,1922-02-27,1922,0.996,0.29,0.0794,0.749,0.178,-20.008,0.0406,78.386,0.417,1.0,9.0,0,False,
+6CfWt9L67s3Jo1GbBMn40R,Parade of the Wooden Soldiers,Carl Fenton,194900,1922-03-21,1922,0.988,0.8,0.207,0.724,0.181,-18.103,0.0743,103.169,0.592,1.0,10.0,0,False,
+1kxeVizRuxGZzWPHTYv9hA,Railroad Man,Original Memphis Five,190799,1922-04-06,1922,0.969,0.611,0.607,0.362,0.895,-12.242,0.0632,114.426,0.899,1.0,10.0,0,False,"dixieland, hot jazz, vintage jazz"
+1xoKrf7g7ZAep38xdjub7j,I Wish I Could Shimmy Like Sister Kate,Original Memphis Five,184085,1922-06-14,1922,0.995,0.531,0.373,0.928,0.305,-8.898,0.0301,92.789,0.46,0.0,4.0,0,False,"dixieland, hot jazz, vintage jazz"
+1JLz5VRt8EFbcyWZlvuwCc,Seven-O-Five,Glenn Miller Orchestra,150120,1922,1922,0.856,0.439,0.802,0.838,0.792,-3.508,0.0367,83.741,0.671,1.0,7.0,0,False,"adult standards, big band, easy listening, swing"
+3Ck3JGNc2lf25cHltjSeKB,Stop Your Kidding,Original Memphis Five,184791,1922-01-03,1922,0.994,0.506,0.487,0.504,0.535,-11.243,0.0503,90.522,0.787,1.0,10.0,0,False,"dixieland, hot jazz, vintage jazz"
+3d8zXYhG3sFx4uL9vv8IRu,Le Tango Neurasthénique,Georgius,187040,1922,1922,0.979,0.564,0.433,3.74e-06,0.226,-14.619,0.356,72.003,0.601,0.0,2.0,0,False,vintage chanson
+0QiT0Oo5QdLXdFw6RDOj7h,Tu Verras Montmartre,Lucien Boyer,186800,1922,1922,0.995,0.703,0.28,6.84e-05,0.163,-15.39,0.174,127.531,0.897,1.0,0.0,0,False,
+1lia44teZBfbv0PnPkc5dK,Machinalement,Victor Boucher,145400,1922,1922,0.996,0.457,0.193,0.348,0.0809,-16.816,0.0655,177.097,0.671,1.0,4.0,0,False,
+0IA0Hju8CAgYfV1hwhidBH,La Java,Mistinguett,161426,1922,1922,0.993,0.563,0.184,1.55e-05,0.325,-13.757,0.0512,133.088,0.654,1.0,4.0,0,False,vintage chanson
+1QDTYyfndMN9SDtRKDv9XO,Pas Pour Moi,Maurice Chevalier,204773,1922,1922,0.995,0.532,0.375,1.22e-06,0.276,-13.321,0.298,80.379,0.508,1.0,7.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+6hhP9i3yrRu29U4qRxvXTk,Gay Ranchero,Nick Lucas,110960,1922-06-03,1922,0.917,0.724,0.329,0.000224,0.0979,-8.528,0.0577,113.761,0.835,1.0,0.0,0,False,"british dance band, vintage jazz"
+7uZSWBoavvwMJ7vroqzIZt,Picking the Guitar,Nick Lucas,181586,1922-06-03,1922,0.948,0.65,0.623,0.919,0.128,-8.884,0.0389,102.8,0.95,1.0,0.0,4,False,"british dance band, vintage jazz"
+3mFaGesNHcEWQv3yy7bL4F,No Good Man,Trixie Smith,165933,1922-06-03,1922,0.99,0.802,0.366,0.0265,0.473,-7.506,0.141,109.933,0.753,1.0,8.0,3,False,"harlem renaissance, vintage swing"
+47Q8gd0YgnzOUZ4H0wGSwa,I'm Gonna Get You,Trixie Smith,190053,1922-06-03,1922,0.996,0.656,0.294,0.907,0.336,-13.562,0.109,122.985,0.45,1.0,1.0,0,False,"harlem renaissance, vintage swing"
+3eGQ2rGFoLLp7aBJp2XP6C,Sleepy Time Gal,Nick Lucas,155573,1922-06-03,1922,0.978,0.784,0.105,5.96e-06,0.0943,-10.154,0.0504,106.951,0.348,0.0,9.0,0,False,"british dance band, vintage jazz"
+62ZxnH8Vgue1EsxNw2j5VZ,Georgia Rose,The California Ramblers,171259,1922-01-26,1922,0.992,0.512,0.376,0.142,0.92,-10.802,0.0316,97.004,0.388,1.0,5.0,0,False,"hot jazz, vaudeville, vintage jazz"
+5y8aZsQObDumtJnt3rVPrO,Glen Island Special,Glenn Miller Orchestra,193440,1922,1922,0.936,0.755,0.15,0.839,0.0729,-13.221,0.0947,160.991,0.885,1.0,5.0,0,False,"adult standards, big band, easy listening, swing"
+0AXsWYYZyB5vDgwMUPi0rA,GONE SWIMMING,"Mateo Robert Garcia, the rivers",112786,1922-12-20,1922,0.156,0.371,0.458,0.318,0.103,-16.512,0.377,82.366,0.491,0.0,0.0,0,True,
+598LlBn6jpEpVbLjmZPsYV,Graphite,Uli,104400,1922-02-22,1922,0.144,0.644,0.684,0.802,0.0847,-8.247,0.199,100.031,0.138,1.0,7.0,0,False,
+7kJSVjQJmMS7PZJvrkyg4R,Got My Habits On,James P. Johnson,179972,1922-02-20,1922,0.955,0.317,0.347,0.857,0.0859,-17.314,0.0475,170.688,0.931,1.0,10.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+4nRrv0mq7zsl3FsXd7GhIa,God's Gift,"Schnooty Records, Yung Schnooty",49500,1922-02-17,1922,0.267,0.663,0.317,0.0,0.102,-15.871,0.276,91.104,0.235,0.0,8.0,0,False,
+04l0yc06aTKE66cMyahqaX,God Inna Suitcase,Young Astronauts Club,205714,1922-03-05,1922,0.175,0.53,0.359,0.743,0.657,-18.196,0.0373,69.999,0.0752,1.0,8.0,0,False,
+7Krhhk0IFiTSM4GawLO1Av,Little Grey Sweetheart of Mine,The Golden Gate Orchestra,185078,1922-02-21,1922,0.992,0.66,0.378,0.921,0.237,-14.492,0.0337,102.205,0.661,1.0,10.0,0,False,"hot jazz, vintage jazz"
+15ITAB7CpxeEhSAcWiz63N,Raag Gaurr,Pandit Hari-Bhau Ghangrekar,181127,1922-12-31,1922,0.995,0.568,0.356,0.714,0.386,-9.537,0.202,127.418,0.922,1.0,6.0,0,False,
+213QIyv1KZIeGg7oXAMbah,Mi Guitarra - Remasterizado,Ignacio Corsini,169853,1922-03-29,1922,0.995,0.236,0.124,0.981,0.149,-22.971,0.0515,71.524,0.409,1.0,1.0,0,False,vintage tango
+2m7VsWGOmQPatXTmXKYDUp,I Got the Girl,Nick Lucas,203360,1922-06-03,1922,0.995,0.641,0.192,0.0379,0.14,-13.735,0.253,164.783,0.545,1.0,7.0,0,False,"british dance band, vintage jazz"
+6qXSeW8iUiHpbgRiqQO3aJ,Pobre Gaucho - Remasterizado,Ignacio Corsini,155253,1922-03-29,1922,0.995,0.476,0.131,0.929,0.102,-29.575,0.0523,69.409,0.635,0.0,2.0,0,False,vintage tango
+5nyy7ajTVQ60cH9X3gWwTL,Phool Gaindhwa Na Maaro,Jaddan Bai,186897,1922-12-31,1922,0.995,0.391,0.131,0.829,0.108,-16.05,0.0667,71.451,0.447,0.0,6.0,0,False,
+7fsL4GrMmE0SOJKiPBc5Qu,The Pagen Love Song,Glenn Miller Orchestra,217293,1922,1922,0.934,0.442,0.744,0.933,0.534,-4.61,0.0854,181.792,0.84,1.0,1.0,0,False,"adult standards, big band, easy listening, swing"
+6H8RDKF3S8pL2q7YA33RXl,When You Wish Upon a Star,"Glenn Miller Orchestra, Ray Eberle",171053,1922,1922,0.964,0.423,0.253,0.128,0.35,-8.447,0.0277,104.611,0.462,1.0,3.0,0,False,"adult standards, big band, easy listening, swing"
+4l9lI0HmwhtcdTBkKqajkU,Runnin' Wild,Glenn Miller Orchestra,168186,1922,1922,0.73,0.572,0.763,0.917,0.0939,-7.124,0.0546,137.441,0.758,1.0,10.0,0,False,"adult standards, big band, easy listening, swing"
+28ie2aqEirG75JJ4OwOY7v,I Know Why (And So Do You) - Instrumental Mix,Glenn Miller Orchestra,221426,1922,1922,0.974,0.369,0.363,0.904,0.436,-7.238,0.028,82.016,0.341,1.0,9.0,0,False,"adult standards, big band, easy listening, swing"
+2sI7V6LukNwNB6jrOYbUnH,Imagination,"Glenn Miller Orchestra, Ray Eberle",169320,1922,1922,0.993,0.423,0.113,0.953,0.134,-15.635,0.0448,66.574,0.286,0.0,2.0,0,False,"adult standards, big band, easy listening, swing"
+0X1nyFbc04vLlnQIfPZpBc,Hereafter,"Glenn Miller Orchestra, Ray Eberle",96373,1922,1922,0.993,0.275,0.391,0.73,0.122,-7.038,0.0333,70.416,0.219,1.0,1.0,0,False,"adult standards, big band, easy listening, swing"
+0P6gg1agrRhimNIVXkpPGk,Solo Hop,Glenn Miller Orchestra,171253,1922,1922,0.89,0.732,0.656,0.857,0.153,-9.775,0.155,117.703,0.788,1.0,0.0,0,False,"adult standards, big band, easy listening, swing"
+7Bfm4fv96CMx3tPrRwmJgj,Sunrise Serenade,Glenn Miller Orchestra,99453,1922,1922,0.959,0.288,0.309,0.967,0.232,-6.089,0.0329,116.21,0.0771,1.0,8.0,0,False,"adult standards, big band, easy listening, swing"
+1r1JSQlYHFiWzF7fptDeLu,Si é Guappo O No,Nina De Charny,194665,1922-08-08,1922,0.93,0.506,0.284,0.0,0.452,-12.164,0.0544,112.096,0.64,1.0,9.0,0,False,
+1i9ViFtAgbjJN91Ft2NVAc,When You Get Tired of Your New Sweetie,Lizzie Miles,173453,1922-07-08,1922,0.995,0.555,0.607,0.904,0.485,-13.31,0.543,79.682,0.757,0.0,0.0,0,False,"classic female blues, new orleans blues"
+6pPm3sQDOslWoIaNt2VfS7,Keep Yourself Together Sweet Papa (Mama's Got Her Eyes on You),Lizzie Miles,180813,1922-07-08,1922,0.995,0.619,0.214,0.000283,0.0973,-10.364,0.0631,94.663,0.489,1.0,10.0,0,False,"classic female blues, new orleans blues"
+07gsB89996Nc6sMeeFIavW,If You Hadn't Gone Away,Nick Lucas,180093,1922-06-03,1922,0.996,0.394,0.0907,0.369,0.111,-18.044,0.0446,79.66,0.256,1.0,4.0,0,False,"british dance band, vintage jazz"
+0wSGzQAhBdorWQVHABIm5U,You Missed a Good Woman When You Picked All over Me,Trixie Smith,193453,1922-06-03,1922,0.994,0.364,0.277,1.89e-05,0.292,-12.748,0.0494,105.231,0.334,1.0,3.0,0,False,"harlem renaissance, vintage swing"
+06GoBGtLoZIRgcuF7OWTsp,MIAMI!,Mateo Robert Garcia,81962,1922-12-20,1922,0.797,0.245,0.753,0.798,0.889,-19.285,0.0423,40.933,0.467,0.0,4.0,0,False,
+6V7lDLHsLS0hYaiJwij8zd,STFU,Mateo Robert Garcia,78854,1922-12-20,1922,0.00674,0.778,0.46,0.219,0.101,-7.614,0.303,151.066,0.671,1.0,10.0,0,True,
+3JcC8zQo99Imfjb9LvvBnT,I LOVE VIOLENCE - demo,Mateo Robert Garcia,91669,1922-12-20,1922,0.281,0.854,0.326,0.000107,0.071,-23.559,0.0519,108.947,0.527,0.0,6.0,0,True,
+5wd2ecHIWZeES8jiTPQQ7T,5,Mateo Robert Garcia,44970,1922-12-20,1922,0.205,0.294,0.313,0.325,0.333,-17.064,0.0478,175.709,0.373,1.0,1.0,0,False,
+5vNspdsVGqLy7bp9icH05p,RIVERSAMPLE,Mateo Robert Garcia,100774,1922-12-20,1922,0.000388,0.903,0.834,0.000345,0.115,-7.158,0.243,153.989,0.936,1.0,10.0,0,False,
+7CKrvgAJ2giZy9zE5BiDgF,LIVE,Mateo Robert Garcia,124002,1922-12-20,1922,0.441,0.627,0.33,0.0603,0.478,-13.626,0.0298,101.523,0.778,0.0,8.0,0,False,
+0T3y8NSUGT7d4wgxgTS4Vl,SHE (just a),Mateo Robert Garcia,77696,1922-12-20,1922,0.868,0.432,0.365,0.0366,0.579,-15.958,0.0496,185.994,0.806,0.0,7.0,0,False,
+7CETK0zvxetpMqqlJJGWDL,"High, High, High up in the Hills",Nick Lucas,189013,1922-06-03,1922,0.995,0.56,0.153,0.0739,0.131,-14.096,0.129,139.987,0.26,1.0,7.0,0,False,"british dance band, vintage jazz"
+3o56wdWIhvAeVDtK1tOH6y,He Likes It Slow,Trixie Smith,175120,1922-06-03,1922,0.996,0.604,0.248,0.625,0.408,-12.341,0.0593,89.115,0.424,0.0,9.0,0,False,"harlem renaissance, vintage swing"
+6rRRVVAHNtqHfxALjQIwnQ,Valencia,Paul Whiteman,147707,1922-01-24,1922,0.993,0.681,0.193,0.382,0.0843,-16.888,0.0617,133.335,0.884,1.0,5.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+2SrUdB9ktiq8gdHOqOKPy6,Husnuwale Mujhe Ma,Inayati Bai,182276,1922-12-31,1922,0.98,0.553,0.311,0.487,0.668,-6.259,0.455,71.671,0.695,1.0,9.0,0,False,
+0X64YT8f1lIx0h8naHoUdo,hatablockas,kashhkuro,98590,1922-08-01,1922,0.746,0.565,0.685,1.24e-06,0.11,-8.249,0.401,93.467,0.429,1.0,7.0,0,True,
+33MhRLzJ7SKTO3xG9ihnRX,Home - U.S. Single,"Young Astronauts Club, Mic, Krs",195000,1922-04-28,1922,0.933,0.511,0.0201,0.849,0.0922,-29.799,0.0324,120.002,0.132,1.0,8.0,0,False,
+0lgT9peokbPHreRZ06uSG3,Home - Ilektrik Eyes Extended Remix I,Young Astronauts Club,765048,1922-01-15,1922,0.343,0.75,0.278,0.468,0.111,-24.376,0.0879,120.214,0.299,0.0,10.0,0,False,
+410aeG4g6xRccStMOOSHrL,Home - Lo Electronic Remix I,Young Astronauts Club,180000,1922-01-03,1922,0.543,0.477,0.0204,0.92,0.103,-30.437,0.0427,120.01,0.0309,0.0,10.0,0,False,
+3WbKPeHpz9lATHcJwEac2W,Home,Young Astronauts Club,195000,1922-01-03,1922,0.933,0.511,0.0201,0.849,0.0922,-29.799,0.0324,120.002,0.132,1.0,8.0,0,False,
+1QsshySLxqLk8cG5BvKlDB,Hot Lips,Paul Whiteman,173472,1922-01-24,1922,0.995,0.553,0.283,0.826,0.104,-14.508,0.0445,84.434,0.771,0.0,7.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+31RkwO5Bo3mEj1qQ4c8YML,Home,Young Astronauts Club,195000,1922-01-13,1922,0.933,0.511,0.0201,0.849,0.0922,-29.799,0.0324,120.002,0.132,1.0,8.0,0,False,
+21rT18VXZHKoOOGqxeW2Fm,Home,Young Astronauts Club,195000,1922-01-01,1922,0.933,0.511,0.0201,0.849,0.0922,-29.799,0.0324,120.002,0.132,1.0,8.0,0,False,
+2uWQrTlGv8mTRGEK6Qx8Db,Hiroshima - U.K. Introversion Remix I,Young Astronauts Club,930000,1922-01-13,1922,0.00115,0.53,0.684,3.11e-06,0.123,-15.948,0.0425,119.978,0.435,0.0,10.0,0,False,
+5QFR5tTF0dx382lNXdHJbK,Harlem Strut,James P. Johnson,161944,1922-02-20,1922,0.87,0.354,0.415,0.941,0.126,-19.508,0.0528,111.028,0.945,0.0,8.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+6EsCz0wehx93Egiplm4xig,Havana,Young Astronauts Club,235000,1922-01-14,1922,0.0233,0.362,0.599,0.918,0.128,-15.571,0.515,69.313,0.31,1.0,11.0,0,False,
+3FDistoUBgHbsolbNkezwx,Home,Young Astronauts Club,195000,1922-01-18,1922,0.933,0.511,0.0201,0.849,0.0922,-29.799,0.0324,120.002,0.132,1.0,8.0,0,False,
+1T1CmGdDhareUnpt6In7m3,Hiroshima - U.S. Introversion Remix I,Young Astronauts Club,930000,1922-01-13,1922,0.0025,0.514,0.894,0.00436,0.246,-14.229,0.0422,119.997,0.362,1.0,8.0,0,False,
+0yahTx7xHEd9FjTGYCiOAA,Hiroshima,Young Astronauts Club,365087,1922-01-13,1922,0.0305,0.623,0.435,0.205,0.0969,-19.255,0.137,119.952,0.239,0.0,5.0,0,False,
+5qjJfbeDPHoh8U6rw6gPlo,Home,Young Astronauts Club,195000,1922-01-20,1922,0.933,0.511,0.0201,0.849,0.0922,-29.799,0.0324,120.002,0.132,1.0,8.0,0,False,
+3866RC21ApqgzqV7K6hCTF,Rang-E-Ashk-E-Shauq Ko Haal-E-Dil Suna Diya,Jaddan Bai,178886,1922-12-31,1922,0.994,0.536,0.238,0.812,0.445,-11.578,0.273,69.709,0.825,0.0,1.0,0,False,
+2gznW2lr0lZYWKBDWSoe8f,My Honey's Lovin' Arms,Ladd's Black Aces,169796,1922-01-04,1922,0.992,0.475,0.518,0.929,0.379,-11.543,0.0665,175.691,0.747,1.0,0.0,0,False,hot jazz
+046mp8TrLRgrCSD3FyKntH,"Oh, How I Miss You Tonight",Nick Lucas,124413,1922-06-03,1922,0.978,0.389,0.0536,0.0,0.16,-9.398,0.0418,181.044,0.243,1.0,9.0,0,False,"british dance band, vintage jazz"
+0aZrAKe5zZkiI2GhdcMsXg,Sleepy Head,Nick Lucas,191533,1922-06-03,1922,0.995,0.518,0.0767,0.192,0.157,-16.815,0.0563,84.225,0.213,1.0,3.0,0,False,"british dance band, vintage jazz"
+1ng8aJdqDNq7rIvyUL1xsb,Purple Haze,"Schnooty Records, Yung Schnooty",60000,1922-02-17,1922,0.362,0.72,0.128,9.39e-06,0.258,-15.263,0.427,95.843,0.73,0.0,1.0,0,True,
+2BOax5XsTzhrWsXjmYPgEi,Ventolin,Young Astronauts Club,345000,1922-01-15,1922,0.47,0.602,0.527,0.0902,0.118,-12.508,0.0339,129.882,0.293,0.0,5.0,0,False,
+4fO5HGrjsVSCxOPjsBHHEe,Saraiki Kafi - Part 1,Inayati Bai,181008,1922-12-31,1922,0.994,0.544,0.187,0.774,0.537,-10.431,0.236,74.186,0.662,1.0,1.0,0,False,
+5tnN6GpSUTKTjP3CWlOK76,Saraiki Kafi - Part 2,Inayati Bai,185550,1922-12-31,1922,0.995,0.583,0.096,0.8,0.279,-12.313,0.143,70.763,0.517,1.0,6.0,0,False,
+1ShLvfCpFkGh4tPIM81YSL,Kesariya Tum Kaahay Ko Naihaa Lagaay,Indu Baala,181487,1922-12-31,1922,0.995,0.472,0.242,0.455,0.118,-11.391,0.137,133.476,0.47,1.0,10.0,0,False,
+1rlqbPtgE6PlTztcu5CrQC,polaroids,Henry Tailor,258344,1922-01-01,1922,0.00156,0.655,0.867,0.687,0.333,-18.63,0.0537,133.008,0.293,0.0,4.0,0,False,
+3s8nhTsulNRgGaqk11cRWx,Sur Malhaar,Kaalay Khan,151997,1922-12-31,1922,0.995,0.465,0.195,0.636,0.321,-11.669,0.196,73.683,0.662,1.0,8.0,0,False,
+3euPd97IAqsQGDapQsMtjZ,Raag Malkauns,Shareef Khan,334947,1922-12-31,1922,0.986,0.366,0.459,0.141,0.421,-11.211,0.521,84.337,0.69,1.0,6.0,0,False,
+29a3oI2X6lVhCZV2BvXvcb,Mi6,Young Astronauts Club,3600065,1922-01-15,1922,0.913,0.668,0.228,0.922,0.136,-27.8,0.0645,119.972,0.139,0.0,6.0,0,False,
+4pIGsYxPdZAvHCfeFHbJ6x,Saraiki Kafi - Part 3,Inayati Bai,187408,1922-12-31,1922,0.996,0.498,0.129,0.564,0.115,-11.049,0.168,72.152,0.719,1.0,2.0,0,False,
+2WcGHGpCBCf9rSQ3XrQ6Le,Sakhi Pyari Pyari Akhiyaan Raadhay Ki,Indu Baala,148143,1922-12-31,1922,0.938,0.391,0.402,0.862,0.133,-10.501,0.0862,71.441,0.56,1.0,0.0,0,False,
+5shVZ3m0YexBCAcx7n40wL,Muzak,Young Astronauts Club,300000,1922-01-15,1922,0.173,0.574,0.147,0.0193,0.354,-22.555,0.0405,90.33,0.131,0.0,11.0,0,False,
+5W9T66e1nkkeBpZzRhP4hC,1945,Young Astronauts Club,240000,1922-01-15,1922,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,
+6GUxe2xlMigrohsrayvU4E,Nafix III,Young Astronauts Club,960052,1922-01-16,1922,0.00271,0.741,0.812,0.886,0.0918,-13.71,0.107,140.103,0.0743,1.0,7.0,0,False,
+1DV8gn3DRp8c5I0DowiFaA,Metropolis I,Young Astronauts Club,1500055,1922-01-16,1922,0.0975,0.64,0.158,0.515,0.114,-28.329,0.0446,90.002,0.114,1.0,7.0,0,False,
+3ftf4fxR9tinkxFpr2lUz8,Nothing Left 2 Abuse,Young Astronauts Club,250000,1922-01-16,1922,0.836,0.656,0.0464,0.865,0.126,-21.393,0.0789,118.91,0.178,0.0,1.0,0,False,
+1fDPHg16ezZr70u3E4X6dZ,Nafix II,Young Astronauts Club,960052,1922-01-16,1922,0.000474,0.742,0.467,0.845,0.102,-17.942,0.132,140.076,0.0705,1.0,7.0,0,False,
+1UscaEdWSRqkXmZNEASMOA,Metropolis II,Young Astronauts Club,1500055,1922-01-16,1922,0.0286,0.603,0.147,0.676,0.114,-28.012,0.0692,179.906,0.118,1.0,7.0,0,False,
+51A7TbwCTf3dZ0WdeB3vbH,Ventolin,Young Astronauts Club,345051,1922-01-16,1922,0.499,0.606,0.513,0.157,0.115,-12.634,0.0353,129.883,0.28,0.0,5.0,0,False,
+2vNgNaNBXf06vi8TOypE4Q,Metropolis III,Young Astronauts Club,1500055,1922-01-16,1922,0.15,0.7,0.166,0.698,0.114,-26.414,0.0864,89.988,0.324,1.0,2.0,0,False,
+0QxyKnFmWGS1XYpWG1SmoQ,Nafix I,Young Astronauts Club,960052,1922-01-16,1922,0.278,0.641,0.00905,0.892,0.101,-32.209,0.0625,139.956,0.159,1.0,7.0,0,False,
+0tU4r7Z7Pgw8Wh8Srh2US4,Vox,Young Astronauts Club,300355,1922-01-16,1922,0.908,0.677,0.817,0.96,0.378,-16.892,0.0386,100.057,0.406,1.0,8.0,0,False,
+02GtZaJrDTads9mVFUDVQE,One Night in June,Paul Specht and his Orchestra,169274,1922-03-08,1922,0.994,0.603,0.265,0.162,0.445,-15.8,0.0347,103.807,0.535,1.0,3.0,0,False,
+6O5vF17zgIb2PmCez7RA7l,Moonlight,Paul Whiteman,184105,1922-06-14,1922,0.995,0.629,0.236,0.768,0.127,-14.79,0.0373,94.755,0.521,0.0,4.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4rZhYbRs9bYLrWvj2huPuR,Song Of India,Paul Whiteman,143708,1922-06-14,1922,0.995,0.42,0.0976,0.921,0.113,-21.409,0.0398,109.701,0.248,1.0,10.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+40WCVRoKPOEfBamaSOVuah,Pretty Lips,Paul Whiteman,162278,1922-01-24,1922,0.995,0.79,0.126,0.634,0.314,-18.672,0.318,109.999,0.832,0.0,9.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+2VRmm5lKe3vsEfKPTAHu0J,My Man,Paul Whiteman,203383,1922-06-14,1922,0.991,0.778,0.249,0.72,0.155,-14.686,0.228,91.439,0.874,0.0,4.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+3G39L7qK7ZSA06FFdTq4z3,The Japanese Sandman,Paul Whiteman,172013,1922-01-24,1922,0.995,0.58,0.299,0.837,0.373,-14.145,0.0353,84.914,0.585,1.0,5.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6pITXogb9ww0kL70J9rV8k,Muddy Water,Paul Whiteman,164635,1922-01-24,1922,0.994,0.574,0.138,0.715,0.121,-16.83,0.103,201.897,0.911,1.0,3.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+1uCKDWkowt1VdNkkChXNXG,Three O’Clock In The Morning,Paul Whiteman,162561,1922-01-24,1922,0.995,0.395,0.168,0.865,0.0822,-17.078,0.0349,79.846,0.513,1.0,2.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+7KT6PBIylobD2k32SPnOV3,Whispering,Paul Whiteman,173114,1922-01-24,1922,0.996,0.719,0.363,0.902,0.243,-15.043,0.0357,111.637,0.702,1.0,2.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+5mLOHrt6lNlVSVpZhq8LIc,Stumbling,Paul Whiteman,155845,1922-01-24,1922,0.995,0.794,0.197,0.916,0.124,-17.688,0.102,103.635,0.852,1.0,8.0,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+3CIQap50YZT8Zb5oPAbJXa,Jack I'm Mellow,Trixie Smith,163426,1922-06-03,1922,0.982,0.78,0.355,0.458,0.215,-10.699,0.0667,100.246,0.831,0.0,5.0,11,False,"harlem renaissance, vintage swing"
+1TWBcyNpQNN45dESAcethn,I’m Just Too Mean to Cry,Ladd's Black Aces,189310,1922-02-21,1922,0.981,0.313,0.532,0.912,0.898,-12.454,0.131,81.533,0.853,1.0,2.0,0,False,hot jazz
+3i7Rz17fSNIf8UZtr1CZY7,Iron Triangle (Curse Remix),"Schnooty Records, Yung Schnooty",1521458,1922-02-17,1922,0.164,0.68,0.706,0.000502,0.226,-13.69,0.293,86.869,0.421,1.0,4.0,0,True,
+0hVXCMtXApoX6THg8idC8z,Infinity I,Young Astronauts Club,525061,1922-01-01,1922,3.89e-05,0.604,0.6,0.701,0.0807,-17.946,0.0577,140.022,0.062,1.0,10.0,0,False,
+4Pbo1F8uVNACWp61ROGV0s,Ice Queen,"Schnooty Records, Yung Schnooty",166000,1922-02-17,1922,0.222,0.683,0.631,2.03e-05,0.376,-11.547,0.331,174.176,0.572,0.0,10.0,0,True,
+0u9FaktKfbIAQUzEvvqwuj,If You Can't Control Your Man,Lizzie Miles,178653,1922-07-08,1922,0.996,0.578,0.146,0.955,0.119,-17.655,0.046,113.249,0.656,0.0,2.0,0,False,"classic female blues, new orleans blues"
+3eMkTXrIi7U0TynOSu9Cyv,It Takes Love to Cure,James P. Johnson,215136,1922-02-20,1922,0.954,0.384,0.38,0.806,0.226,-16.143,0.0467,139.664,0.91,1.0,1.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+1lzYpJL5UcndXcfg6BDFNl,Infinity II,Young Astronauts Club,540055,1922-01-01,1922,0.422,0.332,0.122,0.847,0.0593,-26.53,0.0388,105.044,0.0396,0.0,5.0,0,False,
+4IFPkYj71SGNA78Uikioce,Infinity III,Young Astronauts Club,525061,1922-01-01,1922,0.00213,0.816,0.141,0.29,0.0933,-22.311,0.0994,139.977,0.0327,1.0,7.0,0,False,
+4ZrMHFU1Mxqbr02nzmgg6J,Slide II,Young Astronauts Club,300042,1922-01-17,1922,0.398,0.377,0.517,0.925,0.105,-24.518,0.339,93.346,0.032,0.0,4.0,0,False,
+45QQGQZMPaVxlg0edajDgk,Primera Ilusión - Remasterizado,Ignacio Corsini,160266,1922-03-21,1922,0.993,0.388,0.202,0.917,0.111,-26.173,0.0517,181.105,0.83,1.0,8.0,0,False,vintage tango
+3ZdMlZLGuaNZpMIepXwnkg,Slide I,Young Astronauts Club,300042,1922-01-17,1922,0.527,0.431,0.277,0.93,0.0732,-21.465,0.0479,89.699,0.146,1.0,1.0,0,False,
+0LS4AYAlrC9lsq5yYcQK6q,Unvisible I,Young Astronauts Club,1800000,1922-01-13,1922,0.95,0.132,0.0199,0.937,0.147,-31.69,0.0852,68.01,0.0296,0.0,6.0,0,False,
+1eJC406l3pakSJWwmwAmDF,M.K. I,Young Astronauts Club,900022,1922-01-13,1922,0.549,0.357,0.489,6.8e-05,0.194,-13.372,0.256,140.016,0.377,1.0,1.0,0,False,
+5VVsKcIeenErdVJSc4j5za,Nafix II,Young Astronauts Club,960052,1922-01-12,1922,0.000474,0.742,0.467,0.845,0.102,-17.942,0.132,140.076,0.0705,1.0,7.0,0,False,
+5crWbuv7hOI4FPwVIYLSAj,Nafix III,Young Astronauts Club,960052,1922-01-12,1922,0.00271,0.741,0.812,0.886,0.0918,-13.71,0.107,140.103,0.0743,1.0,7.0,0,False,
+4Sl6M3WnG0a4dOEnMlQjjO,M.K. III,Young Astronauts Club,900022,1922-01-13,1922,0.775,0.262,0.507,0.0182,0.285,-13.616,0.073,135.628,0.0709,1.0,4.0,0,False,
+4KWuKg7f8OGCXtdAGfLt2m,M.K. II,Young Astronauts Club,900022,1922-01-13,1922,0.63,0.341,0.501,0.0225,0.358,-14.057,0.0669,139.841,0.0736,1.0,4.0,0,False,
+4Nv8FiEmFJGbCVdO4HQTyO,Nafix I,Young Astronauts Club,960052,1922-01-12,1922,0.278,0.641,0.00905,0.892,0.101,-32.209,0.0625,139.956,0.159,1.0,7.0,0,False,
+2SV4a98YxRFWIZFM4u0qdg,Stop it,James P. Johnson,158668,1922-02-20,1922,0.95,0.405,0.292,0.881,0.13,-17.749,0.0421,103.427,0.838,1.0,8.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+4xDAzKsPZg7kMOhsnXHOO7,Metejón - Remasterizado,Ignacio Corsini,155653,1922-03-29,1922,0.996,0.493,0.0763,0.909,0.169,-25.843,0.0612,75.313,0.683,1.0,4.0,0,False,vintage tango
+21yni4TcBS35MlxLjzV51t,Practicante - Remasterizado,Ignacio Corsini,138586,1922-03-29,1922,0.995,0.43,0.168,0.928,0.246,-19.558,0.0622,58.863,0.437,1.0,7.0,0,False,vintage tango
+07A5yehtSnoedViJAZkNnc,Vivo para Quererte - Remasterizado,Ignacio Corsini,181640,1922-03-21,1922,0.994,0.434,0.177,0.0218,0.212,-21.18,0.0512,130.418,0.457,1.0,1.0,0,False,vintage tango
+1KLKkACG16o5crQPiaF1Tz,Tus Suspiros - Remasterizado,Ignacio Corsini,168106,1922-03-29,1922,0.974,0.273,0.318,0.163,0.778,-18.597,0.0694,74.542,0.414,1.0,6.0,0,False,vintage tango
+6eew1OP57TeUDUMcjYE6A0,La Muchacha - Remasterizado,Ignacio Corsini,164320,1922-03-29,1922,0.992,0.323,0.106,0.918,0.182,-25.138,0.0483,71.432,0.255,1.0,8.0,0,False,vintage tango
+5wfVO3v2ZiWmQvJuRgJANe,Monigote - Remasterizado,Ignacio Corsini,179813,1922-03-21,1922,0.98,0.422,0.561,3.41e-06,0.966,-18.573,0.461,121.542,0.528,0.0,5.0,0,False,vintage tango
+38E5NyuRlaRAY5itDlIVvT,✯,Internet Pornography,124729,1922-08-07,1922,0.788,0.62,0.0752,0.872,0.111,-23.837,0.0292,63.515,0.365,0.0,1.0,0,False,
+5kAxzo7Dog9Buovp3xXVO7,Nostalgia - Remasterizado,Ignacio Corsini,139760,1922-03-29,1922,0.995,0.496,0.158,0.638,0.206,-18.494,0.0423,79.871,0.347,1.0,8.0,0,False,vintage tango
+56GdrUlLtRUtcF4afPH40o,Remembranza - Remasterizado,Ignacio Corsini,164653,1922-03-29,1922,0.996,0.53,0.0468,0.937,0.0982,-24.856,0.0853,129.602,0.42,0.0,3.0,0,False,vintage tango
+65XyVlshe4Srhj4dQNoQIN,Zurich,Young Astronauts Club,320000,1922-01-17,1922,0.596,0.643,0.374,0.771,0.138,-14.817,0.0321,130.005,0.265,1.0,7.0,0,False,
+0xJCJ9XSNcdTIz0QKmhtEn,La Maleva - Remasterizado,Ignacio Corsini,181440,1922-03-29,1922,0.994,0.339,0.0958,0.969,0.123,-26.944,0.053,86.279,0.219,1.0,8.0,0,False,vintage tango
+3c8AbdpLH4SSbTHsN71XDN,Un Placer - Remasterizado,Ignacio Corsini,177773,1922-03-21,1922,0.996,0.527,0.142,0.907,0.113,-20.701,0.0612,126.702,0.896,0.0,8.0,0,False,vintage tango
+2Be2FRskn33cqPyeSdTqFd,No Me Olvides - Remasterizado,Ignacio Corsini,155093,1922-03-21,1922,0.996,0.484,0.0558,0.278,0.202,-25.33,0.0575,99.555,0.636,0.0,8.0,0,False,vintage tango
+450NWyAOOQ4cOPrp7ZRp13,Pobre Madrecita - Remasterizado,Ignacio Corsini,183026,1922-03-29,1922,0.996,0.53,0.147,0.894,0.114,-22.26,0.0663,69.451,0.552,1.0,9.0,0,False,vintage tango
+49n39jhVt2qEcqYKg5WEp2,Why Should I Cry Over You?,The Virginians,176223,1922-10-18,1922,0.987,0.543,0.402,0.855,0.149,-11.454,0.0336,83.88,0.644,1.0,3.0,0,False,
+3YzhsstNPbnSAvAN55GJ3E,Why Should I Say That I'm Sorry,Nick Lucas,202849,1922-06-03,1922,0.994,0.374,0.16,0.000339,0.117,-12.201,0.0518,82.397,0.182,1.0,0.0,0,False,"british dance band, vintage jazz"
+2XNLok60IrZFplRHgKTVjE,1945 - Russian Invasion Remix I,Young Astronauts Club,900000,1922-01-13,1922,0.000713,0.742,0.555,0.857,0.133,-14.33,0.121,140.018,0.0407,1.0,1.0,0,False,
+6C7KpY4NL13CojuSqZAqy0,Shaping Tha Sea I,Young Astronauts Club,300000,1922-01-14,1922,1.41e-05,0.491,0.476,0.907,0.0965,-17.835,0.0364,140.01,0.275,1.0,8.0,0,False,
+7h7GUrTZScI5iGqeVInEzB,Shaping Tha Sea IV,Young Astronauts Club,300000,1922-01-14,1922,0.0134,0.5,0.673,0.825,0.359,-22.889,0.0429,139.981,0.22,0.0,3.0,0,False,
+3ovYV72rcIztUkV86sV1ac,Shaping Tha Sea II,Young Astronauts Club,300000,1922-01-14,1922,0.000302,0.37,0.476,0.673,0.12,-18.889,0.0507,139.978,0.189,1.0,8.0,0,False,
+4hnWpzoo347D6cbmIOAHNb,Shaping Tha Sea III,Young Astronauts Club,300000,1922-01-14,1922,0.00124,0.568,0.602,0.815,0.672,-22.399,0.0589,139.989,0.275,1.0,8.0,0,False,
+3zAg2YQMXwalzciCtAPut6,Swimming N Tha Sky II,Young Astronauts Club,300000,1922-01-01,1922,0.667,0.355,0.428,0.991,0.0986,-18.889,0.033,140.066,0.0983,1.0,8.0,0,False,
+73FPYuU0eXGhYDm0V61d0H,Lines N Tha Sky - Ilektrik Eyes Extended Remix I,Young Astronauts Club,705000,1922-01-13,1922,0.173,0.702,0.507,0.102,0.079,-16.607,0.0819,140.048,0.519,0.0,10.0,0,False,
+3eJEALIUSUzyBKAfRmgxGR,Shaping Tha Sea - Radio Remix I,Young Astronauts Club,510000,1922-12-25,1922,0.00175,0.5,0.53,0.938,0.16,-15.463,0.031,69.996,0.557,1.0,3.0,0,False,
+77QOvRvjcygcU3FCQH57rz,Swimming N Tha Sky I,Young Astronauts Club,300000,1922-01-01,1922,0.66,0.426,0.494,0.97,0.104,-15.259,0.0367,140.001,0.0547,1.0,8.0,0,False,
+2qfVDFajs3wjJtxAVYR7os,Swimming N Tha Sky II,Young Astronauts Club,300000,1922-01-13,1922,0.667,0.355,0.428,0.991,0.0986,-18.889,0.033,140.066,0.0983,1.0,8.0,0,False,
+389Tv11fdIvwKv8zkQiWVp,Lines N Tha Sky - Calgary Chromium Remix I,Young Astronauts Club,570000,1922-01-13,1922,0.003,0.51,0.333,0.291,0.113,-18.55,0.0324,139.896,0.0883,0.0,10.0,0,False,
+6W89PhCJuv1u5zpVmqeT0g,Shaping Tha Sea I,Young Astronauts Club,300000,1922-01-13,1922,1.41e-05,0.491,0.476,0.907,0.0965,-17.835,0.0364,140.01,0.275,1.0,8.0,0,False,
+1Ew2BVUtIjr4bv2rldCrvk,The World's Jazz Crazy and so Am I (Alternate Take),Trixie Smith,180000,1922-06-03,1922,0.996,0.727,0.12,0.65,0.219,-12.582,0.0466,95.836,0.528,1.0,0.0,0,False,"harlem renaissance, vintage swing"
+3r4zgladgb56LnzPwYoVwS,Lhasa - Tibetan Autonomous Remix I,Young Astronauts Club,1130033,1922-01-12,1922,0.117,0.626,0.293,0.888,0.0846,-25.537,0.048,95.011,0.192,1.0,7.0,0,False,
+5dX3hhSSnsvNB8Uzz2mMlg,Shaping Tha Sea III,Young Astronauts Club,300000,1922-01-13,1922,0.00111,0.558,0.584,0.837,0.662,-22.419,0.0568,140.013,0.241,1.0,8.0,0,False,
+0aW8s2ORNo37ZKgLAk7RW1,Valencia - Tapedriven Remix I,Young Astronauts Club,315000,1922-01-18,1922,0.0076,0.599,0.787,0.966,0.161,-9.383,0.106,141.121,0.388,1.0,4.0,0,False,
+4rEn7ytWuNg9SytmlqMCiH,Swimming N Tha Sky I,Young Astronauts Club,300000,1922-03-05,1922,0.66,0.426,0.494,0.97,0.104,-15.259,0.0367,140.001,0.0547,1.0,8.0,0,False,
+2WUvQseOTRk2JNE8moDD0p,Shaping Tha Sea II,Young Astronauts Club,300000,1922-01-13,1922,0.000288,0.376,0.484,0.587,0.12,-18.939,0.0524,140.068,0.157,1.0,3.0,0,False,
+2xvTAW0PVQLt21umiTwU7j,Swimming N Tha Sky II,Young Astronauts Club,300000,1922-03-05,1922,0.667,0.355,0.428,0.991,0.0986,-18.889,0.033,140.066,0.0983,1.0,8.0,0,False,
+6pgufCsHGLPiQXU1RzBEJK,Shaping Tha Sea IV,Young Astronauts Club,300000,1922-01-13,1922,0.0134,0.494,0.682,0.864,0.291,-22.908,0.044,140.002,0.225,0.0,3.0,0,False,
+5JzrjKRegPNeHO6JgKRczd,Swimming N Tha Sky I,Young Astronauts Club,300000,1922-01-13,1922,0.66,0.426,0.494,0.97,0.104,-15.259,0.0367,140.001,0.0547,1.0,8.0,0,False,
+5t3BjP1pZG0NLZ638ljCTQ,1945,Young Astronauts Club,240000,1922-01-13,1922,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,
+1OwxaAivYPQDy71TxXSVfC,Shaping Tha Sea V,Young Astronauts Club,300000,1922-01-14,1922,0.167,0.38,0.085,0.887,0.165,-28.39,0.0465,140.012,0.0382,1.0,8.0,0,False,
+0tAywe5nAUKr76YoQJArUc,Managua,Young Astronauts Club,220000,1922-01-14,1922,0.0766,0.754,0.421,0.894,0.0832,-19.805,0.0528,141.711,0.565,1.0,7.0,0,False,
+2rnesdvN0SRd7E3xndpwjN,1945,Young Astronauts Club,240000,1922-01-20,1922,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,
+4cjFQKT90p7I3iIBhGXPBC,Prague,"Young Astronauts Club, The Poison Control Centre",485000,1922-01-19,1922,0.000997,0.725,0.42,0.952,0.0454,-25.983,0.0703,161.238,0.702,0.0,10.0,0,False,
+044N4en5mxDcEE0N41gjB1,Sicily,Young Astronauts Club,510000,1922-01-05,1922,0.307,0.548,0.146,0.892,0.1,-20.043,0.044,119.9,0.0559,0.0,0.0,0,False,
+5W1BYxth6qT5YkNCuZ5eYe,Subject 11,Young Astronauts Club,1044999,1922-01-05,1922,0.0713,0.197,0.489,0.655,0.0965,-18.192,0.0535,62.073,0.192,0.0,10.0,0,False,
+2hQiWlLaJl2ppl4I8GO3MQ,Srebrenica,Young Astronauts Club,265000,1922-01-05,1922,0.462,0.342,0.176,0.93,0.124,-15.288,0.0616,75.004,0.0384,0.0,8.0,0,False,
+6jrDUpUpSKYLMGp7sam2hN,Johannesburg,"Young Astronauts Club, The Poison Control Centre",205792,1922-01-19,1922,0.023,0.23,0.854,0.871,0.179,-11.499,0.0646,69.481,0.275,0.0,10.0,0,False,
+1fFWrHk17G8hK04CARVu0y,Jesus N My Pancakes,Young Astronauts Club,190000,1922-01-04,1922,0.0585,0.567,0.353,0.117,0.229,-17.302,0.0739,114.622,0.123,0.0,5.0,0,False,
+6s3WzRPX2cWnZNgknrE2uk,#1 Jamuary 2022,Rémydiot,57272,1922-01-21,1922,0.0108,0.443,0.679,0.00046,0.124,-8.251,0.0288,87.961,0.214,0.0,9.0,0,False,
+5SL4gei2KzZcmS6yByaT3S,Ride Jockey Ride,Trixie Smith,178560,1922-06-03,1922,0.995,0.703,0.401,0.0445,0.475,-8.494,0.0495,105.029,0.637,0.0,0.0,0,False,"harlem renaissance, vintage swing"
+0osptMYwTcikiFChWc5Prm,Loveless Love,James P. Johnson,257470,1922-02-20,1922,0.961,0.483,0.258,0.858,0.148,-18.846,0.0668,132.465,0.851,1.0,4.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+4TklcSI6c4Id9gbb141brj,Nobody Lied,Isham Jones Orchestra,187299,1922-01-26,1922,0.994,0.521,0.382,0.337,0.692,-12.765,0.125,81.543,0.555,0.0,1.0,0,False,vintage jazz
+6htsDVxd5i66Ah601CN84e,Lines N Tha Sky,Young Astronauts Club,255000,1922-01-13,1922,0.000503,0.37,0.565,2.01e-05,0.115,-17.976,0.0448,139.901,0.222,1.0,8.0,0,False,
+7kt0KGlOiXSca9qSV1SyuR,Subject 11,Young Astronauts Club,1044999,1922-01-11,1922,0.0763,0.124,0.506,0.634,0.094,-17.735,0.0632,69.769,0.188,0.0,10.0,0,False,
+2ioN99fvbOcSlkt2TtUaMN,White Sugar,Young Astronauts Club,210102,1922-01-01,1922,0.298,0.246,0.316,0.0559,0.315,-19.283,0.0544,137.88,0.202,1.0,0.0,0,False,
+5iLB8RVlwLqq2V5L4TOvLX,Srebrenica,"Young Astronauts Club, The Poison Control Centre",265000,1922-01-19,1922,0.462,0.342,0.176,0.93,0.124,-15.288,0.0616,75.004,0.0384,0.0,8.0,0,False,
+7y7G71yS7BeQnYOalzGt1q,Lhasa,Young Astronauts Club,995000,1922-01-12,1922,0.0614,0.528,0.254,0.837,0.666,-25.654,0.0954,95.056,0.0396,1.0,7.0,0,False,
+4MBFDXBlVf7ULbrkg3kHcP,Managua,Young Astronauts Club,220055,1922-01-01,1922,0.0699,0.75,0.39,0.897,0.0849,-20.582,0.0546,141.763,0.543,1.0,7.0,0,False,
+2QPKoQPGHDYpcyyjvdoGv4,Lines N Tha Sky,Young Astronauts Club,255000,1922-01-20,1922,0.000503,0.37,0.565,2.01e-05,0.115,-17.976,0.0448,139.901,0.222,1.0,8.0,0,False,
+6iczbvhGn78lCnFUtVTfot,Zurich,"Young Astronauts Club, The Poison Control Centre",320000,1922-01-20,1922,0.576,0.646,0.385,0.926,0.14,-14.418,0.0318,130.002,0.27,1.0,7.0,0,False,
+7gwXV5XrcwB6OYLMcXqpKY,Montréal,Young Astronauts Club,360000,1922-01-12,1922,0.471,0.311,0.362,0.912,0.16,-14.594,0.0561,150.183,0.144,0.0,5.0,0,False,
+55Je64Jlay6yVSkVAfAyp5,White Sugar,Young Astronauts Club,215000,1922-01-04,1922,0.273,0.166,0.336,0.0516,0.182,-18.765,0.0502,185.169,0.2,1.0,0.0,0,False,
+3I6tCQtg0Y6VIRtDofyaTA,Muzak,Young Astronauts Club,300000,1922-01-01,1922,0.173,0.574,0.147,0.0193,0.354,-22.555,0.0405,90.33,0.131,0.0,11.0,0,False,
+26USaVopyyfPKN7OiK6E9Q,Las Vegas,"Young Astronauts Club, The Poison Control Centre",985000,1922-01-19,1922,0.000242,0.744,0.428,0.768,0.0713,-18.683,0.0527,139.985,0.293,0.0,5.0,0,False,
+0uB7Dq5tw4Phce4h1vcm5y,1914,Young Astronauts Club,280137,1922-12-25,1922,0.0363,0.18,0.308,0.927,0.114,-13.723,0.0382,69.676,0.0518,1.0,4.0,0,False,
+3EvqGAjHYDaoEPOojZnsxw,Shaping Tha Sea V,Young Astronauts Club,300000,1922-01-13,1922,0.186,0.167,0.0851,0.906,0.166,-28.381,0.0554,140.016,0.037,1.0,8.0,0,False,
+2CM2I72YIoF0oW0NMPXhyO,Lines N Tha Sky,Young Astronauts Club,255000,1922-01-01,1922,0.000503,0.37,0.565,2.01e-05,0.115,-17.976,0.0448,139.901,0.222,1.0,8.0,0,False,
+6tLMPGoJ7ilCTyg6dGdtGT,Valencia,"Young Astronauts Club, The Poison Control Centre",315000,1922-01-20,1922,7.92e-05,0.677,0.498,0.949,0.484,-13.856,0.205,119.932,0.127,0.0,5.0,0,False,
+3U36N8jTAMHHh7jnHqoz8J,What's Wrong With Me,Young Astronauts Club,380000,1922-01-05,1922,0.846,0.674,0.0857,0.905,0.111,-20.338,0.0464,120.158,0.062,1.0,8.0,0,False,
+6Z8F4dwIBmXunlgiHn7r1e,Sicily,Young Astronauts Club,510000,1922-01-01,1922,0.307,0.548,0.146,0.892,0.1,-20.043,0.044,119.9,0.0559,0.0,0.0,0,False,
+5OjcEa7EZu6UWokAv3Fi5C,Keep Sweeping the Cobwebs off the Moon,Nick Lucas,194933,1922-06-03,1922,0.995,0.624,0.157,0.348,0.236,-14.489,0.0554,146.856,0.509,1.0,7.0,0,False,"british dance band, vintage jazz"
+6VAJZSsbux0Y0FIwUgQXcn,Muzak,Young Astronauts Club,300000,1922-03-05,1922,0.173,0.574,0.147,0.0193,0.354,-22.555,0.0405,90.33,0.131,0.0,11.0,0,False,
+3NQcviSCyjEiLrwVqEDdha,Lady Play Your Mandolin,Nick Lucas,139853,1922-06-03,1922,0.903,0.635,0.295,1.05e-05,0.156,-9.952,0.0338,134.012,0.496,1.0,5.0,5,False,"british dance band, vintage jazz"
+0nKY1Kx23WLUvimdDGmVVd,Tiptoe Through the Tulips,Nick Lucas,226920,1922-06-03,1922,0.994,0.568,0.236,0.00407,0.221,-10.193,0.0651,75.536,0.571,1.0,7.0,21,False,"british dance band, vintage jazz"
+4J3w4PMzS41xdsECOISxsy,My Song of the Nile,Nick Lucas,190653,1922-06-03,1922,0.994,0.39,0.137,0.00371,0.143,-13.581,0.0363,66.17,0.232,0.0,5.0,2,False,"british dance band, vintage jazz"
+5Zy99Cj9jby52fMvomWKZ4,Minnie the Mermaid,Nick Lucas,73613,1922-06-03,1922,0.915,0.809,0.472,0.000171,0.172,-8.595,0.0727,122.385,0.916,1.0,5.0,0,False,"british dance band, vintage jazz"
+1F6TP6v6QeGFFGcxvRMwh7,Underneath the Stars,Nick Lucas,185786,1922-06-03,1922,0.995,0.447,0.0914,0.0476,0.137,-14.224,0.0438,60.766,0.166,1.0,6.0,0,False,"british dance band, vintage jazz"
+6XPowSHrlddETRAiFz1Ipv,Lines N Tha Sky,Young Astronauts Club,255000,1922-02-01,1922,0.000503,0.37,0.565,2.01e-05,0.115,-17.976,0.0448,139.901,0.222,1.0,8.0,0,False,
+5brQehWC1U99PUS53T2wK7,Love Me Like You Used to Do,Trixie Smith,170133,1922-06-03,1922,0.996,0.495,0.243,0.492,0.197,-11.599,0.202,176.255,0.568,0.0,5.0,0,False,"harlem renaissance, vintage swing"
+3h7HfL3NW8x3wbY51QeEsA,Lines N Tha Sky,Young Astronauts Club,255000,1922-01-18,1922,0.000503,0.37,0.565,2.01e-05,0.115,-17.976,0.0448,139.901,0.222,1.0,8.0,0,False,
+4vV7uBcF2AnjNTOejBS5oL,L'enfer,Uli,40000,1922-02-22,1922,0.199,0.657,0.325,0.856,0.0931,-14.319,0.254,81.944,0.105,0.0,10.0,0,False,
+2SHOsSV5z3Io1rDb2YERvC,Three Little Words,Nick Lucas,97400,1922-06-03,1922,0.967,0.721,0.221,0.000299,0.115,-11.016,0.0472,117.283,0.678,1.0,3.0,0,False,"british dance band, vintage jazz"
+3bvj7CTZzoiCCL3ioRMw6x,Northern Lights,"Schnooty Records, Yung Schnooty",170000,1922-02-17,1922,0.134,0.448,0.614,0.0,0.0849,-13.803,0.433,173.735,0.61,0.0,10.0,0,True,
+7iisSpwXZ5cwlii73AJqMg,My Pillow and Me,Lizzie Miles,191733,1922-07-08,1922,0.995,0.504,0.262,0.0,0.271,-9.151,0.101,78.518,0.552,1.0,5.0,0,False,"classic female blues, new orleans blues"
+3Z0Ctj20Viu1yVwuvTiom8,Triflin' Man,Lizzie Miles,184346,1922-07-08,1922,0.996,0.585,0.253,8.42e-05,0.113,-9.324,0.0426,78.474,0.398,1.0,3.0,0,False,"classic female blues, new orleans blues"
+7AkhLpNHFAKb5gg6kH6973,Slow up Papa,Lizzie Miles,181413,1922-07-08,1922,0.99,0.677,0.205,4.13e-05,0.15,-7.599,0.215,99.628,0.573,1.0,0.0,0,False,"classic female blues, new orleans blues"
+3tSVHEU9KY8eQH2RhDBvic,Oogie Oogie Wa Wa,Loren McMurray's California Thumpers,181081,1922-03-08,1922,0.993,0.635,0.489,0.767,0.113,-11.841,0.0496,182.279,0.961,1.0,1.0,0,False,
+7JP0khIz11SOJ2DoX00fjK,Together,Nick Lucas,161666,1922-06-03,1922,0.995,0.4,0.0699,0.285,0.158,-16.646,0.0485,75.738,0.309,1.0,7.0,0,False,"british dance band, vintage jazz"
+0XVGWielf248FzwkxGuCym,Sweet Someone,Nick Lucas,170200,1922-06-03,1922,0.995,0.693,0.193,0.0881,0.108,-15.113,0.127,100.82,0.594,1.0,9.0,0,False,"british dance band, vintage jazz"
+6tk4hLhnKEaGKA53pLGPOF,Mexicali Rose,Nick Lucas,129240,1922-06-03,1922,0.962,0.451,0.0752,1.22e-06,0.235,-8.023,0.035,81.197,0.4,0.0,0.0,0,False,"british dance band, vintage jazz"
+7fqNwgETXJmijHdBEIcHAJ,Tangerine,Nick Lucas,125573,1922-06-03,1922,0.966,0.496,0.179,0.0,0.242,-8.64,0.0358,95.143,0.358,1.0,7.0,0,False,"british dance band, vintage jazz"
+7gPdeeqlGwUtMc0xHkP8Nv,Painting the Clouds with Sunshine (Alternate Take),Nick Lucas,254173,1922-06-03,1922,0.983,0.521,0.448,0.000286,0.759,-8.693,0.277,91.034,0.554,1.0,7.0,0,False,"british dance band, vintage jazz"
+4SsuSGYcjs5Itu4IORykMp,Villancico de las Campanas (Cover a Capella) - Carol of the Bells,Lirios Botella,78794,1922,1922,0.945,0.485,0.27,0.0,0.229,-11.27,0.0484,172.567,0.647,1.0,7.0,0,False,
+0LS0AQiZYGf4AcMTuVUb2k,My Man Rocks Me,Trixie Smith,176400,1922-06-03,1922,0.996,0.519,0.136,0.887,0.213,-15.494,0.0497,116.25,0.428,1.0,5.0,4,False,"harlem renaissance, vintage swing"
+6NANMGo77qEpevv0L8BSNy,My Unusual Man,Trixie Smith,167133,1922-06-03,1922,0.987,0.823,0.264,7.54e-05,0.0683,-9.755,0.358,100.125,0.675,1.0,0.0,1,False,"harlem renaissance, vintage swing"
+7feUywz69keCfxDhiyBD7V,Managua,Young Astronauts Club,215000,1922-01-13,1922,0.0996,0.754,0.479,0.911,0.0828,-16.966,0.0496,141.716,0.613,1.0,7.0,0,False,
+0Yc3gD4UYkHceTlBS313MI,Muzak,Young Astronauts Club,300000,1922-01-13,1922,0.173,0.574,0.147,0.0193,0.354,-22.555,0.0405,90.33,0.131,0.0,11.0,0,False,
+3OD5PEqwbWDRmejnaDQB9N,NOSTALGiA NASTY,coastwise,110580,1922-02-06,1922,0.392,0.416,0.516,0.00194,0.169,-12.72,0.138,177.065,0.353,0.0,1.0,0,True,
+14iXpq3Rpd0u3bp4I1Lw9W,Plenty Off Center,Red Nichols,172043,1922-09-20,1922,0.993,0.786,0.354,0.778,0.0742,-12.082,0.0513,107.937,0.832,1.0,8.0,0,False,"dixieland, hot jazz, jazz trumpet, vintage jazz"
+2RCUGWQiy68GeG4X0uY0R0,unquantified,"OD, Mystique D",176129,1922-07-23,1922,0.984,0.513,0.107,0.983,0.0674,-38.094,0.0969,124.047,0.271,1.0,0.0,0,False,
+4ynchKLORnCWAj32Uwhp5J,The Sheik of Araby,The California Ramblers,178286,1922-01-10,1922,0.988,0.515,0.433,0.804,0.464,-11.318,0.032,95.346,0.471,1.0,10.0,0,False,"hot jazz, vaudeville, vintage jazz"
+5fc3sohldsR8A1IEnG0EUX,Tiger Rag,New Orleans Rhythm Kings,126858,1922-04-17,1922,0.995,0.593,0.455,0.893,0.229,-11.621,0.0464,131.501,0.964,1.0,8.0,0,False,"dixieland, new orleans jazz"
+6ZkuZrjX66QHLsqNjHmMEn,Space Queen,"Schnooty Records, Yung Schnooty",189760,1922-02-17,1922,0.733,0.436,0.894,0.00529,0.175,-9.157,0.477,173.454,0.325,0.0,10.0,0,True,
+0tJbv1aO2d4fIQqMSdgTvU,Slurricane,"Schnooty Records, Yung Schnooty",84000,1922-02-17,1922,0.333,0.614,0.39,0.0,0.104,-16.547,0.791,91.667,0.721,0.0,1.0,0,True,
+2SiNuAZ6jIU9xhClRKXcST,Sketch,Uli,87040,1922-02-22,1922,0.926,0.634,0.00399,0.919,0.105,-29.973,0.0377,79.895,0.396,0.0,5.0,0,False,
+36mmyEOqY8CHK1tzLVRGAr,Valencia,Young Astronauts Club,315000,1922-01-18,1922,7.92e-05,0.677,0.498,0.949,0.484,-13.856,0.205,119.932,0.127,0.0,5.0,0,False,
+4xL6qS2352FWRnMCK3KpL0,Yumboldt,"Schnooty Records, Yung Schnooty",284000,1922-02-17,1922,0.0261,0.535,0.376,0.00386,0.304,-17.638,0.224,139.928,0.488,0.0,5.0,0,True,
+1Zi0ct9Zdvha4LfXBe5gLc,1945,Young Astronauts Club,240000,1922-01-18,1922,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,
+1CTtDDmJUY1nlUQgXQFhzV,1945,Young Astronauts Club,240000,1922-01-01,1922,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,

@@ -1,0 +1,583 @@
+id,name,artists,duration_ms,release_date,year,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,mode,key,popularity,explicit,genre
+02cPiVkiHjt342MKpa7whv,Alexander's Ragtime Band,Ted Lewis,183600,1923-05-27,1923,0.949,0.727,0.499,0.187,0.402,-8.393,0.0882,101.067,0.967,1,5,9,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+20DAUWeuFdO4AWfUVgWpTO,Torna A Surriento,Beniamino Gigli,195813,1923-12-10,1923,0.973,0.314,0.465,0.059,0.233,-5.115,0.0333,86.561,0.325,1,4,13,False,"classical tenor, italian tenor, opera"
+4rQEETwiWSso37h7SheZda,April Showers,Al Jolson,149574,1923-04-23,1923,0.995,0.317,0.34,0.96,0.339,-13.791,0.0405,139.763,0.388,1,7,0,False,"big band, british dance band, music hall, swing, tin pan alley, vaudeville, vintage jazz"
+3jDFUn2OeLpyOMXZUR2lGq,Anema e core,Beniamino Gigli,217813,1923-12-10,1923,0.995,0.308,0.304,0.0195,0.238,-7.633,0.0313,136.568,0.154,1,11,1,False,"classical tenor, italian tenor, opera"
+4RIbLtCwQlIfXhiJAS7iJ4,A canzone e napule,Beniamino Gigli,193920,1923-12-10,1923,0.974,0.337,0.136,0.000248,0.212,-13.189,0.039,90.211,0.392,0,9,2,False,"classical tenor, italian tenor, opera"
+74aapWOAnyudNVf5o0OXuF,agasdg,rainsdeaf,119536,1923-05-18,1923,0.0443,0.479,0.951,0.782,0.1,-7.004,0.0557,174.0,0.328,0,10,0,False,"chill breakcore, hexd"
+5n4d3Z76rq226M6WXEDX50,Angry,New Orleans Rhythm Kings,168573,1923-04-22,1923,0.996,0.627,0.388,0.845,0.137,-12.062,0.0392,108.512,0.96,1,8,1,False,"dixieland, new orleans jazz"
+7whucZnjhM031LDLndTDAK,Ain't Got Nobody to Grind My Coffee,Clara Smith,187613,1923-05-27,1923,0.99,0.531,0.248,3.07e-05,0.141,-8.068,0.0421,89.632,0.489,1,8,2,False,classic female blues
+3ifP5yf2tifPRSsqXqHEHH,On the Sunny Side of the Street,Ted Lewis,214173,1923-05-27,1923,0.971,0.516,0.14,0.264,0.0998,-17.872,0.0849,107.801,0.589,1,3,12,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6PhqEeEOfDaPuOQWFSfFrl,Clarinet Marmalade,Ted Lewis,191120,1923-05-27,1923,0.914,0.759,0.44,0.801,0.088,-11.406,0.0412,107.291,0.938,1,5,11,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6BJLfw4Mn1XgpJQQbXGxdQ,Keep Sweeping the Cobwebs off the Moon,"Ted Lewis, Ruth Etting",182413,1923-05-27,1923,0.917,0.685,0.3,6.56e-05,0.315,-8.282,0.0402,118.128,0.604,0,4,6,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+5ChfEy7d0JCqRAICumVnFh,San Antonio Shout,New Orleans Rhythm Kings,142826,1923-04-22,1923,0.859,0.723,0.549,0.915,0.063,-4.816,0.237,98.783,0.636,1,0,1,False,"dixieland, new orleans jazz"
+1klJwLuykvzmdYfn4bHtqb,Don't Advertise Your Man,Clara Smith,186053,1923-05-27,1923,0.996,0.724,0.124,0.088,0.0988,-10.694,0.05,73.587,0.258,1,5,0,False,classic female blues
+4g6ZQEEaX9djwTzli25o8C,Celeste Aida,Beniamino Gigli,268693,1923-12-10,1923,0.937,0.279,0.266,0.00156,0.367,-12.583,0.0475,89.213,0.186,1,0,1,False,"classical tenor, italian tenor, opera"
+3gcf8DfJaBIwAG0MrblWcn,I Ain't Gonna Let Nobody Break My Heart,Ida Cox,201853,1923-06-03,1923,0.982,0.772,0.34,0.000776,0.124,-5.733,0.0417,131.111,0.699,1,5,0,False,"classic female blues, country blues, traditional blues"
+5nYpP25pQR0GvURb5tJ0Ct,Doctor Jazz (Alternate Take),Jelly Roll Morton,205560,1923-05-27,1923,0.895,0.731,0.51,0.399,0.0789,-9.359,0.0549,101.019,0.932,1,11,3,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+5bfVWxHxL7B91sSuQ1cUwm,I've Found a New Baby,Ted Lewis,167320,1923-05-27,1923,0.978,0.779,0.447,0.906,0.384,-10.405,0.0632,113.44,0.948,0,0,1,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+1vrEOuoIjTZ0Vt9GrvyeBz,Kansas City Stomp (Alternate Take),Jelly Roll Morton,172293,1923-05-27,1923,0.892,0.852,0.425,0.881,0.036,-15.63,0.124,97.127,0.92,1,8,6,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+6VYUI7IAfpaIkwVZKl9XOm,Where'd You Get Those Eyes,Ted Lewis,166440,1923-05-27,1923,0.987,0.828,0.302,0.417,0.0576,-14.032,0.131,112.927,0.94,0,11,2,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+1INWjwdymk1Kf24OqPCffh,When My Baby Smiles at Me,Ted Lewis,169093,1923-05-27,1923,0.846,0.567,0.317,0.0405,0.25,-13.348,0.0388,97.859,0.696,1,2,1,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+0kS2JZEXCAdlD5fmNtvfov,"the old project, god cries alone",rainsdeaf,251647,1923-05-18,1923,0.0106,0.371,0.967,0.879,0.139,-4.718,0.414,159.769,0.345,0,1,0,False,"chill breakcore, hexd"
+3mYFF3P9Xt7rBvgHWmZVhn,For Sale (Hannah Johnsons Big Jack Ass),Clara Smith,181026,1923-05-27,1923,0.993,0.669,0.0542,0.0,0.124,-13.039,0.0904,83.969,0.382,1,0,1,False,classic female blues
+6oKKZcJBgaTONhcUt1fqTX,Lovin' Is the Thing I'm Wild About,Ida Cox,181760,1923-06-03,1923,0.995,0.602,0.21,0.0217,0.213,-10.235,0.0462,100.915,0.588,1,3,0,False,"classic female blues, country blues, traditional blues"
+3D5bjjXipszqP9Co36LPi5,Swingin' Down the Lane,Isham Jones,176472,1923-06-21,1923,0.995,0.556,0.132,0.768,0.481,-23.061,0.0351,94.166,0.831,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6gozkBdM41NbTL7XV7hlpW,Shreveport (Alternate Take),Jelly Roll Morton,195693,1923-05-27,1923,0.944,0.824,0.49,0.797,0.0715,-12.932,0.143,116.074,0.829,0,10,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+6kbZAmJq0WfO1u4vWpLEAs,Perreo Intenso,"Rene B Rap-Tiliano, Brack Alvarez",207413,1923-10-25,1923,0.252,0.87,0.716,0.00117,0.103,-4.123,0.191,79.986,0.585,0,6,0,False,
+1tyrHJCEe1QCZwpDSFH1Ub,Tiger Rag (Alternate Take),New Orleans Rhythm Kings,149773,1923-04-22,1923,0.994,0.593,0.662,0.889,0.225,-6.077,0.0439,114.349,0.956,1,8,0,False,"dixieland, new orleans jazz"
+6rU5wg6mdWD1kdPwd9bB0J,Core Ingrato (Alternate Take),Beniamino Gigli,240173,1923-12-10,1923,0.993,0.19,0.242,0.85,0.0836,-13.143,0.0343,174.182,0.126,1,3,6,False,"classical tenor, italian tenor, opera"
+5r8uoFu7Nh75WlyTY8eyPb,You've Got That Thing,Ted Lewis,182581,1923-05-27,1923,0.92,0.871,0.339,0.717,0.0937,-8.437,0.0865,97.329,0.963,1,3,1,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+41AsixtKfgVaC32KhTmJXO,Where Did You Stay Last Night?,King Oliver's Creole Jazz Band,148585,1923-05-23,1923,0.992,0.637,0.307,0.809,0.4,-12.326,0.0655,119.415,0.847,1,3,0,False,"big band, dixieland, hot jazz, swing, vintage jazz"
+12VB7yVNR5uezD1bCaxJZC,Yellow Dog Blues,Ted Lewis,199133,1923-05-27,1923,0.918,0.643,0.324,0.889,0.0612,-10.176,0.0481,143.353,0.758,1,3,1,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+26ZuAMA4hZ3UPZfITsKR0n,Somebody Loves You,Ted Lewis,166880,1923-05-27,1923,0.931,0.578,0.271,4.26e-05,0.13,-11.081,0.0362,82.233,0.624,0,9,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+5CthgfYSdJ3fPse3GDLdwe,Jungle Blues,Ted Lewis,169186,1923-05-27,1923,0.979,0.718,0.258,0.0232,0.107,-11.828,0.0387,123.327,0.708,1,8,1,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+43c7R0QtUs5QC7URFojc9U,Dip Your Brush in the Sunshine,Ted Lewis,181973,1923-05-27,1923,0.887,0.656,0.675,0.000172,0.339,-7.353,0.0838,127.206,0.923,1,8,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6KWU6fJ25L8MkC7gdannJl,Farewell Blues,Ted Lewis,178840,1923-05-27,1923,0.954,0.524,0.294,0.895,0.159,-11.892,0.135,149.974,0.789,1,10,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6H5qk3PLMdEBUX8FMHNEVP,Egyptian Ella,Ted Lewis,199453,1923-05-27,1923,0.793,0.715,0.49,0.000311,0.199,-9.457,0.108,106.294,0.792,1,1,2,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+5ywDSFaWiMdZCCbyufsEyO,Some of These Days,Ted Lewis,173226,1923-05-27,1923,0.949,0.559,0.338,0.0342,0.111,-8.922,0.222,147.993,0.744,1,5,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+1KGkuuM0JEj0k5OZnQqKIt,Is Everybody Happy Now?,Ted Lewis,158360,1923-05-27,1923,0.922,0.776,0.441,0.00257,0.237,-9.128,0.0861,106.787,0.918,0,0,1,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+2Ax7hMr7gfIz1yldcv5hLp,It's Tight Like That (Alternate Take),Clara Smith,203053,1923-05-27,1923,0.995,0.764,0.243,0.00645,0.235,-8.05,0.123,130.129,0.697,1,0,1,False,classic female blues
+0L2B8v7F6A63FaD10UHoD4,La canzone dell'amore,Beniamino Gigli,190773,1923-12-10,1923,0.991,0.169,0.308,0.0116,0.209,-5.802,0.0349,170.584,0.151,1,11,3,False,"classical tenor, italian tenor, opera"
+7DqKj5yfjS1qFiogaxY0KQ,All Wrong,Ladd's Black Aces,186306,1923-04-19,1923,0.994,0.51,0.49,0.877,0.524,-11.688,0.213,177.863,0.566,1,7,0,False,hot jazz
+6FY2h8LhZnDLz2qLiDu0kw,Aime Moi Emma,Dranem,146693,1923,1923,0.962,0.57,0.277,0.0,0.318,-15.736,0.0648,76.632,0.801,1,5,0,False,vintage chanson
+0jagDV9BOgpoGvaje40O9R,Ain't We Got Fun,Billy Jones,145630,1923-09-24,1923,0.994,0.798,0.228,3.76e-05,0.277,-17.829,0.523,121.494,0.858,1,5,0,False,"vaudeville, vintage jazz"
+27fZPdSkE0sIxKrNK6Evgi,addition w ranman,sintexx,93170,1923-07-30,1923,0.325,0.751,0.806,7.11e-06,0.0634,-7.33,0.275,107.701,0.848,1,6,0,True,
+6ZOsbsJQmf9YpgZVO6fAtg,Aunt Hagar's Blues,The Virginians,193281,1923-12-19,1923,0.984,0.529,0.461,0.417,0.873,-11.977,0.131,142.97,0.493,1,11,0,False,
+7EvnfhaPaXURHPoLaFZyRE,Ave María - Remasterizado,Francisco Canaro,177173,1923-07-09,1923,0.996,0.684,0.262,0.975,0.149,-14.356,0.0666,120.389,0.814,1,10,0,False,"orquesta tipica, tango, vintage tango"
+5izyg6M3GF6Rc5R7Fi1L5Q,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,360000,1923-01-01,1923,0.1,0.119,0.0949,0.872,0.109,-25.81,0.0535,32.69,0.0304,1,0,0,False,
+0ojpRaI352xcFf8UIvVgDj,An Evening in Caroline,Ted Lewis,189493,1923-05-27,1923,0.968,0.599,0.45,0.0118,0.318,-9.974,0.206,64.463,0.841,1,5,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6pt88zqFzxlNuf0jQBYF8Y,Aunt Hagar's Blues,Ted Lewis,191893,1923-05-27,1923,0.952,0.663,0.227,0.59,0.131,-10.589,0.184,108.73,0.823,1,5,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+38h1F673bWekHiIV4eFYVH,A Jazz Holiday,Ted Lewis,172400,1923-05-27,1923,0.952,0.512,0.464,0.353,0.461,-8.352,0.227,172.737,0.951,0,1,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+4QLfLItBwU2F0KWSzJGI8x,The ALCO Alpaca,Yung Schnooty,157624,1923-05-05,1923,0.186,0.792,0.433,1.21e-05,0.524,-15.44,0.443,121.939,0.62,0,2,0,True,
+0EamrubExsleyulTejpDE3,All Night Blues,Clara Smith,222120,1923-05-27,1923,0.995,0.589,0.183,0.867,0.135,-13.577,0.0358,71.44,0.366,1,10,0,False,classic female blues
+7GGyQQmY4OuYITFsUy5ZCo,alrighty,rainsdeaf,80000,1923-05-18,1923,0.69,0.424,0.883,0.745,0.244,-6.256,0.0848,148.104,0.0915,0,2,0,False,"chill breakcore, hexd"
+72IyyOWOTaNVlyhcNiSLX5,Any Woman's Blues,Ida Cox,216613,1923-06-03,1923,0.995,0.528,0.216,0.0244,0.303,-11.15,0.0537,88.664,0.467,1,0,0,False,"classic female blues, country blues, traditional blues"
+5OggjcoWks4QaH8vjhjbsa,After You've Gone Away,Clara Smith,155613,1923-05-27,1923,0.994,0.463,0.233,0.15,0.362,-11.18,0.0799,95.398,0.504,1,0,0,False,classic female blues
+4spMbrF7hK3kZ1lrR7wK11,Aggravatin' Papa,The Virginians,197434,1923-09-18,1923,0.996,0.683,0.466,0.924,0.156,-7.977,0.0529,148.739,0.812,1,5,0,False,vintage jazz
+08L8HhkpJgVhh6H1olDjNO,Angry (Alternate Take),New Orleans Rhythm Kings,171133,1923-04-22,1923,0.996,0.612,0.334,0.264,0.24,-11.147,0.04,107.9,0.898,1,8,0,False,"dixieland, new orleans jazz"
+34rdVyVGI2u6I0tNWc8v0Y,Nous Avons Fait Un Beau Voyage,André Baugé,127893,1923,1923,0.975,0.607,0.279,0.0,0.219,-13.411,0.174,73.673,0.849,1,5,0,False,
+5NVr3qEKa1YJiFs4W04JbF,Ose Anna,Maurice Chevalier,194533,1923,1923,0.973,0.55,0.333,0.0,0.213,-15.12,0.0543,89.669,0.822,1,7,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+1B9DQSfiDWhYZmkqbYyonp,C'est Au Bal Musette,Gaby Montbreuse,160906,1923,1923,0.992,0.435,0.353,0.0,0.303,-14.907,0.0992,77.699,0.767,1,2,0,False,
+1eLbwzyHyUne68R2yXPidS,Le Tapis Vert,Adolphe Bérard,183133,1923,1923,0.99,0.38,0.235,0.0,0.457,-15.971,0.053,82.783,0.556,1,4,0,False,
+0R3L9qrDKw4vJQpEdCVv0W,There Ain’t No Maybe In My Baby’s Eyes,Paul Ash,182427,1923-08-17,1923,0.987,0.846,0.213,0.00662,0.0767,-14.365,0.114,106.44,0.677,1,10,0,False,
+4IruzyuHuAG7XwRa8Pm3Pk,Looking At The World Thru Rose Colored Glasses,Paul Ash,161587,1923-08-17,1923,0.993,0.789,0.383,0.000678,0.251,-12.687,0.0418,114.223,0.731,1,8,0,False,
+1uMQTMCiLbRhbJ89lAuPQR,Keep a Goin',Ray Miller And His Orchestra,182805,1923-02-07,1923,0.968,0.435,0.573,0.532,0.553,-12.582,0.138,207.038,0.485,0,7,0,False,"big band, vintage jazz"
+6nL3RDerJ8lSOX1anIzpdz,Quand On Aime On A Toujours Vingt Ans,Perchicot,198506,1923,1923,0.987,0.374,0.383,0.0,0.241,-15.804,0.188,169.836,0.524,1,5,0,False,
+2DMT63ps2b8F2PmbVG1Jtu,D'la Vraie Amour,Gaby Montbreuse,206000,1923,1923,0.993,0.641,0.283,6.98e-06,0.15,-16.471,0.316,65.865,0.843,1,8,0,False,
+5bILtrhJFa7t1kfLXFkLfF,That's A Plenty,New Orleans Rhythm Kings,132683,1923-11-13,1923,0.995,0.529,0.55,0.852,0.66,-11.724,0.0581,127.851,0.961,0,9,0,False,"dixieland, new orleans jazz"
+35gyMzxIMFL4e2YL5hkpH6,I Ain't No Body's Darling - Remasterizado,Francisco Canaro,171186,1923-07-09,1923,0.995,0.47,0.43,0.981,0.177,-13.013,0.0516,166.475,0.942,1,5,0,False,"orquesta tipica, tango, vintage tango"
+2SGmP3RD69V0dEafj97gDA,You're Always Messin' 'Round with My Man,Lizzie Miles,207883,1923-05-01,1923,0.995,0.672,0.137,0.0,0.246,-16.297,0.0495,87.881,0.502,1,1,0,False,"classic female blues, new orleans blues"
+0I2320s7EdEWRp4bjR8ziA,Walking and Talking Blues,Edna Hicks,162952,1923-10-24,1923,0.988,0.541,0.248,0.0,0.13,-12.022,0.0354,102.515,0.356,1,0,0,False,classic female blues
+6GN8TOPUW1wVLstWo0AAy7,There's a New Day Coming,Ted Lewis,171453,1923-05-27,1923,0.989,0.839,0.536,0.671,0.356,-8.932,0.0679,127.384,0.916,1,8,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+08uW8fbHNDJtr73VSUcxDO,La alegría del Batallón,José Mardones,167104,1923-02-24,1923,0.985,0.44,0.0596,0.0,0.431,-17.901,0.0438,173.131,0.407,1,1,0,False,
+2yqz75MA7AtLje5drtf8Gq,Mi Alazan Tostado - Remasterizado,Ignacio Corsini,185853,1923-03-29,1923,0.994,0.335,0.305,0.89,0.407,-19.576,0.0427,100.941,0.56,0,11,0,False,vintage tango
+6nire5wYKvjh2EnPclGNIP,Gone Again Gal,The California Ramblers,198139,1923-05-24,1923,0.995,0.82,0.315,0.69,0.249,-13.141,0.0568,110.445,0.896,1,0,0,False,"hot jazz, vaudeville, vintage jazz"
+41RLkvyELWv5ydLwQ6FsLu,You Always Hurt the One You Love,Harry Curtis,209057,1923,1923,0.88,0.475,0.294,0.0,0.109,-12.168,0.0381,126.301,0.236,1,10,0,False,
+5SuYkpXaQzUTLf5T9UfyEB,Blues Ain't Nothin' Else But!,Ida Cox,193720,1923-06-03,1923,0.994,0.587,0.249,0.00534,0.307,-8.888,0.0429,83.554,0.725,0,10,0,False,"classic female blues, country blues, traditional blues"
+7KcCO7ojbXA8g8gUVzk53F,"Hush a Bye, Baby Mine",Elsie Baker,195788,1923-01-15,1923,0.963,0.152,0.149,0.0,0.469,-25.129,0.0436,72.21,0.301,1,11,0,False,
+5ABIxJtibAkIl7cUfM9tNT,Worried Any How Blues,Ida Cox,184346,1923-06-03,1923,0.995,0.455,0.251,0.522,0.362,-9.519,0.0362,84.171,0.345,1,1,0,False,"classic female blues, country blues, traditional blues"
+7Jc52r9nZtNh1hexzvNyNk,That's a Plenty,New Orleans Rhythm Kings,152973,1923-04-22,1923,0.995,0.604,0.337,0.147,0.114,-11.796,0.0415,113.797,0.91,0,9,0,False,"dixieland, new orleans jazz"
+5yFK79oNe3HkmQuLLCWikc,Hush A Bye Ma Baby,Elsie Baker,178101,1923-11-20,1923,0.996,0.31,0.126,0.0,0.273,-15.437,0.0387,78.192,0.357,1,5,0,False,
+1PZ3aecPrsL3KVNqfE8G1v,That's A-Plenty (Alternate Take),New Orleans Rhythm Kings,158800,1923-04-22,1923,0.986,0.582,0.574,0.327,0.259,-5.632,0.0332,109.283,0.953,1,4,0,False,"dixieland, new orleans jazz"
+4ozsEuquepeMCt7V3lyC5S,"Sonata No. 2 in A minor, Op. 27: Obsession. Prelude - Remastered",Alexey Osipov,165310,1923,1923,0.984,0.458,0.163,0.0338,0.21,-21.536,0.0537,110.345,0.523,0,2,0,False,
+421Tenv2asT3BgpVTjgLm3,"Sonata No. 2 in A minor, Op. 27: Malinconia - Remastered",Alexey Osipov,185127,1923,1923,0.985,0.157,0.0119,0.000124,0.0873,-30.067,0.0527,105.456,0.0392,0,4,0,False,
+7kDQ9Uic31dSIw4lXCnBzl,"Sonata No. 4 in E minor, Op. 27: Allemanda - Remastered",Alexey Osipov,450290,1923,1923,0.988,0.202,0.136,0.0101,0.152,-16.265,0.0419,94.094,0.129,1,7,0,False,
+0GBMsGrBHw8rifEpXZabKx,Le Moment De M'en Aller,Dranem,139706,1923,1923,0.988,0.653,0.319,0.0,0.266,-13.706,0.0519,102.225,0.686,1,7,0,False,vintage chanson
+5hR5pcNNlRzVk4G4GrIJ57,"Sonata No. 2 in A minor, Op. 27: Les Furies - Remastered",Alexey Osipov,190946,1923,1923,0.987,0.465,0.162,0.00141,0.345,-13.906,0.0903,99.41,0.268,1,7,0,False,
+6g2VLk1jtJ0S65dFgG2otm,"Sonata No. 1 in G minor, Op. 27: Allegro poco scherzoso - Remastered",Alexey Osipov,273241,1923,1923,0.991,0.201,0.0285,8.18e-05,0.746,-25.689,0.0489,81.031,0.21,0,7,0,False,
+4q4DQb2WCVDpco7IIsQbzi,"Sonata No. 2 in A minor, Op. 27: Danse des ombres. Sarabande - Remastered",Alexey Osipov,306389,1923,1923,0.99,0.271,0.0401,0.000167,0.0578,-20.363,0.0503,93.756,0.138,1,7,0,False,
+55ihYpQJAmCxrStWCqbyLz,Y'a Des Loups,René De Buxeuil,145426,1923,1923,0.995,0.511,0.267,0.000242,0.16,-17.493,0.0862,133.22,0.819,1,0,0,False,
+4H4aatTZpw8oSoeqzHiGj7,Her Beaus Are Only Rainbows,Paul Ash,173267,1923-08-17,1923,0.993,0.654,0.281,0.0228,0.0991,-13.084,0.0368,114.373,0.617,1,1,0,False,
+6c3372g2aCiL50YU1K3BcN,Baran Tekno,Aydakar,326615,1923-01-12,1923,0.0778,0.575,0.815,0.000534,0.203,-7.586,0.271,133.032,0.238,0,10,0,False,
+51aC0HxEnEvhiuCRRXwipW,Si Vous N'aimez Pas Ca,Maurice Chevalier,145973,1923,1923,0.992,0.564,0.247,0.0,0.201,-16.23,0.291,76.223,0.807,1,7,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+5My3FGhHEsVwUJBY2FOj7J,Symphonic Synthesis: Nanita Nana / Noche de reyes,"Ataúlfo Argenta, Orquesta Nacional De España",891300,1923-02-24,1923,0.874,0.142,0.108,0.565,0.137,-19.201,0.0373,89.038,0.0394,1,4,0,False,"historic orchestral performance, zarzuela"
+6olwYQR3Gr2baaCEC8p9fD,"Sonata No. 5 in G Major, Op. 27: L'Aurore - Remastered",Alexey Osipov,342827,1923,1923,0.974,0.16,0.131,0.000772,0.111,-16.574,0.0491,175.485,0.0399,1,7,0,False,
+1PEDfsSUW1Q0x1nMaPhxh8,Your Base Belongs to Us,Aydakar,250283,1923-01-12,1923,0.0116,0.559,0.834,0.714,0.129,-6.923,0.0767,139.986,0.143,1,8,0,False,
+3ZKOtk1YGKwrQkDhi73zJr,Dans Les Jardins De L'alhambra,Robert Jysor,188840,1923,1923,0.992,0.666,0.366,0.0,0.336,-12.874,0.0682,108.158,0.804,0,1,0,False,
+5KMyT2fUeoGyXN5Z5GStsy,Immortal,Aydakar,238384,1923-01-12,1923,0.0807,0.548,0.965,0.861,0.189,-8.517,0.133,75.005,0.175,0,11,0,False,
+0CNK3p17lnDB7HZXjWGMDY,Fantasia on themes: La Infanta de Los Bucles de Oro / Noche de Reyes / Los Leones de Castilla / Alma de Dios / Moros Y Cristianos,"Ataúlfo Argenta, Orquesta Nacional De España",1040400,1923-02-24,1923,0.922,0.213,0.111,0.774,0.103,-18.787,0.0403,86.469,0.0769,1,9,0,False,"historic orchestral performance, zarzuela"
+6Gevw7gzy3smhlriQzlCVG,Couplets De La Haut,Maurice Chevalier,115160,1923,1923,0.995,0.481,0.221,1.78e-06,0.47,-17.99,0.163,88.538,0.743,0,1,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+1TaTgUZK2PAG4D85Q54Dcr,"Sonata No. 5 in G Major, Op. 27: Danse Rustique - Remastered",Alexey Osipov,362989,1923,1923,0.987,0.391,0.176,0.00587,0.209,-13.486,0.0475,65.642,0.293,1,7,0,False,
+2Fta68Dmg4zvCfwRJO8aLv,The Bum Song,Harry McClintock,187037,1923-12-18,1923,0.986,0.726,0.149,0.0,0.434,-20.844,0.645,129.622,0.828,1,0,8,False,traditional folk
+1bfvug4SDddSDxtlyIQE1Y,Bugle Call Blues,New Orleans Rhythm Kings,142133,1923-04-22,1923,0.994,0.562,0.617,0.916,0.0521,-5.836,0.0679,108.388,0.95,1,5,11,False,"dixieland, new orleans jazz"
+3hyAkMxahyvvbAnZzidoks,Wolverine Blues,Jelly Roll Morton,205450,1923-05-27,1923,0.988,0.572,0.509,0.911,0.143,-13.007,0.0336,109.629,0.906,1,3,20,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+4zz6aqpwkygqFAyd3RzNgK,Tin Roof Blues,New Orleans Rhythm Kings,149693,1923-04-22,1923,0.927,0.751,0.415,0.908,0.197,-5.447,0.0685,105.682,0.687,0,9,24,False,"dixieland, new orleans jazz"
+7Flo5JcxgIIFJMeLZiphTm,Black Cat Moan,Clara Smith,159106,1923-05-27,1923,0.995,0.501,0.226,0.0726,0.122,-9.622,0.0352,81.605,0.288,0,10,4,False,classic female blues
+4fgeLDwbO4i8EBZAkAsnD8,Jelly Roll Blues,Jelly Roll Morton,185080,1923-05-27,1923,0.921,0.546,0.553,0.87,0.0697,-7.258,0.173,151.568,0.873,1,3,14,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+6l0tpooR4BOppQiYcay9O9,Black Bottom Stomp,Jelly Roll Morton,193440,1923-05-27,1923,0.898,0.647,0.521,0.889,0.0586,-10.089,0.0886,129.692,0.888,0,0,3,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0zKsQffUHBza0lysEMl83d,Boogaboo,Jelly Roll Morton,197640,1923-05-27,1923,0.99,0.845,0.299,0.881,0.216,-8.56,0.0657,107.542,0.782,1,5,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+4uNGepnaDfU354CD5Kg68p,I Thought I Heard Buddy Bolden Say,Jelly Roll Morton,193826,1923-05-27,1923,0.886,0.644,0.188,0.00502,0.225,-11.108,0.047,85.814,0.669,1,5,17,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0XkaKMT2P0O8DdW3HshAoJ,Passione,Beniamino Gigli,209493,1923-12-10,1923,0.992,0.357,0.153,0.759,0.309,-10.926,0.0481,78.409,0.0988,0,8,17,False,"classical tenor, italian tenor, opera"
+6ZszU5cBUzCQRA89IIBAUx,O sole mio,Beniamino Gigli,184760,1923-12-10,1923,0.992,0.267,0.237,0.0359,0.191,-11.584,0.036,87.023,0.21,1,7,18,False,"classical tenor, italian tenor, opera"
+1VZIDXX8QuIDkzy4ObRbD4,Wild Women Don't Have the Blues,Ida Cox,147773,1923-06-03,1923,0.996,0.495,0.35,0.0023,0.2,-7.457,0.0485,83.881,0.618,1,9,18,False,"classic female blues, country blues, traditional blues"
+7IZEwM5MUkpk4rfQybPrVp,Mattinata,Beniamino Gigli,131680,1923-12-10,1923,0.975,0.312,0.431,0.00182,0.144,-5.548,0.0329,86.156,0.427,1,4,18,False,"classical tenor, italian tenor, opera"
+73M3hgnRvbu1B1zdHRPqiz,Una furtiva lacrima,Beniamino Gigli,226493,1923-12-10,1923,0.986,0.329,0.0998,7.48e-06,0.183,-11.9,0.0424,78.449,0.145,0,5,18,False,"classical tenor, italian tenor, opera"
+5skQbVYd7DtEoEcyqkGeW8,Jazz Me Blues,New Orleans Rhythm Kings,145680,1923-04-22,1923,0.923,0.68,0.493,0.908,0.241,-10.232,0.0674,110.533,0.964,0,0,11,False,"dixieland, new orleans jazz"
+03Xvg6XtPDY5U7SL7SPCFe,Core 'ngrato,Beniamino Gigli,234000,1923-12-10,1923,0.984,0.199,0.262,0.0201,0.219,-11.194,0.0396,174.958,0.2,1,3,11,False,"classical tenor, italian tenor, opera"
+2n9YyIsVkyQAhfqmWPeyx8,Giovinezza,Beniamino Gigli,201680,1923-12-10,1923,0.917,0.561,0.653,0.459,0.746,-8.025,0.07,126.892,0.433,1,3,18,False,"classical tenor, italian tenor, opera"
+2MMFF9tVFfLnh7trvu35YX,1923,My Buddy Eric,229341,1923-03-23,1923,0.0121,0.473,0.671,0.0,0.134,-11.176,0.0662,112.514,0.289,1,1,12,True,
+6UjCHZjJUwqiNR8zHJXLzQ,Hard Times Blues,Ida Cox,180493,1923-06-03,1923,0.97,0.59,0.33,4.78e-06,0.0788,-8.637,0.0445,84.591,0.542,1,8,10,False,"classic female blues, country blues, traditional blues"
+5GPHXy3JuqkkVDDT9VVmmu,Ti voglio tanto bene,Beniamino Gigli,170893,1923-12-10,1923,0.986,0.253,0.284,0.0499,0.124,-8.642,0.0315,92.313,0.182,1,2,10,False,"classical tenor, italian tenor, opera"
+3kORxYfDWZk6z7pivmszoc,Mamma,Beniamino Gigli,214200,1923-12-10,1923,0.988,0.407,0.372,2.69e-05,0.391,-7.149,0.0465,112.055,0.368,1,7,14,False,"classical tenor, italian tenor, opera"
+2DUKjQ8OK8Q4c39hkhsTW0,La spagnola,Beniamino Gigli,168906,1923-12-10,1923,0.968,0.443,0.282,0.00114,0.272,-9.292,0.0381,109.599,0.593,1,7,11,False,"classical tenor, italian tenor, opera"
+52kWriscwE0sERkcRwJ25L,La paloma,Beniamino Gigli,205053,1923-12-10,1923,0.985,0.374,0.367,0.0784,0.611,-6.215,0.0361,168.192,0.677,1,2,12,False,"classical tenor, italian tenor, opera"
+3P2EJ5yIglWVylgFAqor5P,Blue Kentucky Blues,Ida Cox,174666,1923-06-03,1923,0.996,0.47,0.239,0.926,0.123,-11.705,0.0404,94.923,0.612,1,0,0,False,"classic female blues, country blues, traditional blues"
+1VhM67O2vDQa1TBPc8hKRc,Blue Monday Blues,Ida Cox,168600,1923-06-03,1923,0.996,0.623,0.222,0.000274,0.255,-14.059,0.0401,97.219,0.626,1,1,1,False,"classic female blues, country blues, traditional blues"
+603bVBzo5ThOHAFiKmqLYu,Beale Street Blues,Jelly Roll Morton,197853,1923-05-27,1923,0.977,0.72,0.422,0.905,0.206,-7.012,0.098,67.951,0.907,1,8,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+5PGxkk5P5JnYxVc6y6dn9J,Tin Roof Blues,Jelly Roll Morton,180760,1923-05-27,1923,0.9,0.435,0.355,0.867,0.109,-12.231,0.0981,80.467,0.914,1,3,4,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+1aBqeJ1gIT5W5wYNTWMvIu,I Thought I Heard Buddy Day,Jelly Roll Morton,193746,1923-05-27,1923,0.992,0.663,0.249,0.909,0.175,-7.981,0.0417,84.936,0.626,1,5,3,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+3FH4xMoeojztvcPda5TKOL,Dippermouth Blues,King Oliver,135960,1923-02-14,1923,0.996,0.594,0.311,0.931,0.176,-18.374,0.0723,105.874,0.95,0,9,0,False,"dixieland, jazz trumpet, new orleans jazz"
+0NMz1X4zlHo9mwYjIs2gOa,Coffin Blues,Ida Cox,196693,1923-06-03,1923,0.996,0.225,0.16,0.618,0.0963,-15.002,0.0402,76.334,0.327,0,2,0,False,"classic female blues, country blues, traditional blues"
+3VKj5G1qeJM23WuV3fcYue,Sobbin' Blues,New Orleans Rhythm Kings,166053,1923-04-22,1923,0.996,0.517,0.239,0.807,0.135,-14.729,0.0363,154.292,0.683,1,5,0,False,"dixieland, new orleans jazz"
+3iC0QGjfsF1SInSLWEV0kd,Deep Blue Sea Blues,Clara Smith,210866,1923-05-27,1923,0.996,0.473,0.154,0.0484,0.237,-12.47,0.0341,94.618,0.333,0,9,3,False,classic female blues
+1LtPDeAytp7iIiwgNfzGry,Farewell Blues,New Orleans Rhythm Kings,161773,1923-04-22,1923,0.993,0.311,0.592,0.884,0.162,-5.659,0.0422,184.946,0.522,1,9,1,False,"dixieland, new orleans jazz"
+6IWBtz7vISNf8Hn3GJxkGS,Chicago Bound Blues,Ida Cox,161733,1923-06-03,1923,0.995,0.551,0.277,0.0108,0.272,-12.465,0.0855,99.32,0.557,1,1,0,False,"classic female blues, country blues, traditional blues"
+5OJOXI7HKVKhVteJDFcVx0,London Blues,New Orleans Rhythm Kings,171493,1923-04-22,1923,0.995,0.618,0.439,0.698,0.0998,-8.892,0.0414,128.63,0.587,1,2,2,False,"dixieland, new orleans jazz"
+6QnRN0uzkASEtTm0U5vNYx,Discontented Blues,New Orleans Rhythm Kings,160786,1923-04-22,1923,0.996,0.316,0.43,0.89,0.263,-12.734,0.0366,170.647,0.718,0,0,0,False,"dixieland, new orleans jazz"
+6VkeWvw66qDRNcbuqlmi5O,Graveyard Bound Blues,Ida Cox,200533,1923-06-03,1923,0.995,0.323,0.229,0.909,0.138,-15.526,0.0451,83.372,0.471,1,3,0,False,"classic female blues, country blues, traditional blues"
+5qFiEyNnlRzl57qY4U5sIV,Weary Blues,New Orleans Rhythm Kings,166373,1923-04-22,1923,0.991,0.609,0.572,0.499,0.17,-6.222,0.0309,105.395,0.87,1,4,0,False,"dixieland, new orleans jazz"
+7q5pUJb4hex7O5O8SBOyTb,Shipwrecked Blues,Clara Smith,203613,1923-05-27,1923,0.995,0.513,0.171,0.287,0.113,-9.284,0.0429,101.468,0.28,0,1,0,False,classic female blues
+3hpXRsf3DPytsJpck7ymH9,Cannon Ball Blues,Jelly Roll Morton,175226,1923-05-27,1923,0.983,0.673,0.28,0.765,0.106,-7.993,0.0509,134.727,0.767,1,8,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0M8WhX9ldoNg71tOpgTwFj,Chattanooga Blues,Ida Cox,167880,1923-06-03,1923,0.995,0.642,0.25,0.0,0.278,-10.164,0.0836,97.696,0.632,0,0,0,False,"classic female blues, country blues, traditional blues"
+0xns0whxjVE4Mb2g9vSrar,Marechiare,Beniamino Gigli,186573,1923-12-10,1923,0.963,0.409,0.218,2.1e-05,0.12,-12.152,0.0418,119.693,0.427,1,2,2,False,"classical tenor, italian tenor, opera"
+3LsduZgGSCNw6D7TAT4tc4,La danza,Beniamino Gigli,182093,1923-12-10,1923,0.919,0.473,0.304,0.0105,0.221,-11.744,0.0488,81.978,0.747,1,5,2,False,"classical tenor, italian tenor, opera"
+3MA9YUaZ0GXCBvJ26cDKty,Se vuoi goder la vita,Beniamino Gigli,176813,1923-12-10,1923,0.962,0.51,0.722,0.318,0.422,-4.05,0.06,120.719,0.593,1,0,4,False,"classical tenor, italian tenor, opera"
+2Kdrv2uQXGpSK7omeTBFse,Non ti scordar di me,Beniamino Gigli,197813,1923-12-10,1923,0.992,0.25,0.321,0.448,0.261,-8.3,0.0333,85.991,0.136,1,9,3,False,"classical tenor, italian tenor, opera"
+6rLsWADKGwAwrEgtTw8Z1S,Voce'e notte,Beniamino Gigli,223447,1923-12-10,1923,0.985,0.345,0.302,0.0898,0.145,-11.783,0.0423,86.327,0.216,0,6,1,False,"classical tenor, italian tenor, opera"
+7y7iR5D7PnKCXn3lgVWPtU,Dicitencello Vuje,Beniamino Gigli,194453,1923-12-10,1923,0.975,0.336,0.233,0.0142,0.477,-10.078,0.0326,84.918,0.25,0,0,3,False,"classical tenor, italian tenor, opera"
+0a9kz35zmlE3bRmSpXhCUO,Serenata,Beniamino Gigli,214493,1923-12-10,1923,0.988,0.262,0.273,0.00211,0.245,-10.389,0.0398,84.832,0.196,0,9,2,False,"classical tenor, italian tenor, opera"
+3I6DcRK66KdzPA7rZXiEqU,Santa Lucia,Beniamino Gigli,256600,1923-12-10,1923,0.983,0.298,0.208,1.54e-05,0.104,-11.366,0.0607,67.029,0.356,1,3,2,False,"classical tenor, italian tenor, opera"
+7zz8NwYyCsH1res5NZ0KGF,L'ultima canzone,Beniamino Gigli,266733,1923-12-10,1923,0.96,0.267,0.245,0.000131,0.328,-12.064,0.0342,98.29,0.248,1,2,1,False,"classical tenor, italian tenor, opera"
+2LKxOlwe1A23mkXHWmpNub,Last Mile Blues,Ida Cox,192120,1923-06-03,1923,0.973,0.49,0.253,0.000905,0.175,-7.658,0.0352,96.241,0.522,1,5,0,False,"classic female blues, country blues, traditional blues"
+5KXunHUl1Rm7D83BgV1kO9,Graveyard Dream Blues,Ida Cox,172226,1923-06-03,1923,0.996,0.474,0.202,0.007,0.303,-10.232,0.0499,83.978,0.647,1,0,0,False,"classic female blues, country blues, traditional blues"
+1leAmrJhAbAYXlfvltNIUD,Cherry Picking Blues,Ida Cox,199173,1923-06-03,1923,0.996,0.432,0.287,0.00768,0.357,-9.293,0.039,78.187,0.398,1,10,0,False,"classic female blues, country blues, traditional blues"
+39mH0uRh2qjmIgpQIAaI9P,Livery Stable Blues,New Orleans Rhythm Kings,146440,1923-04-22,1923,0.995,0.469,0.354,0.973,0.188,-12.832,0.0503,84.213,0.866,0,5,0,False,"dixieland, new orleans jazz"
+3cMnLvnDOxB1iuWZOUFqzJ,West End Blues,Jelly Roll Morton,173066,1923-05-27,1923,0.925,0.58,0.375,0.455,0.0657,-9.403,0.122,112.107,0.746,1,3,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+7yQb9xy9F4jIAAS0MvZUGw,Sobbin' Sister Blues,Clara Smith,191666,1923-05-27,1923,0.993,0.674,0.08,0.00606,0.187,-8.043,0.0605,67.779,0.314,1,5,1,False,classic female blues
+4czzEqRm3F83HKuu0oR7AW,Wild Man Blues,Jelly Roll Morton,183413,1923-05-27,1923,0.982,0.608,0.52,0.941,0.538,-6.792,0.253,156.14,0.692,1,7,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+14M7FQQ6UpQ27PzL5PYeZz,Mississippi River Blues,Ida Cox,192653,1923-06-03,1923,0.996,0.461,0.23,0.897,0.216,-13.724,0.0391,79.56,0.611,1,0,0,False,"classic female blues, country blues, traditional blues"
+3YKXfKiXTKY0nHKvVgxNiG,Uncle Sam Blues,Clara Smith,202400,1923-05-27,1923,0.995,0.428,0.131,0.614,0.116,-13.191,0.0421,71.025,0.189,0,10,0,False,classic female blues
+2TtjDTwHuB03NHXDlSs5Km,Moanin' Groanin' Blues,Ida Cox,164053,1923-06-03,1923,0.995,0.53,0.218,0.0,0.322,-10.907,0.0388,103.075,0.62,0,2,0,False,"classic female blues, country blues, traditional blues"
+4uC8UdvE3FRv6oJtzGs1Ul,Death Letter Blues,Ida Cox,184920,1923-06-03,1923,0.996,0.477,0.2,0.958,0.186,-13.731,0.0307,85.928,0.522,0,10,1,False,"classic female blues, country blues, traditional blues"
+3Y6Fxe3UUlr8RqB0qt2Cha,Mojo Hand Blues,Ida Cox,194933,1923-06-03,1923,0.994,0.492,0.21,0.000533,0.115,-9.983,0.0398,84.04,0.503,1,10,0,False,"classic female blues, country blues, traditional blues"
+1iLTAMOvhnxcOsoCq906cA,Original Jelly-Roll Blues,Jelly Roll Morton,183666,1923-05-27,1923,0.992,0.583,0.454,0.934,0.135,-7.989,0.0715,153.088,0.918,1,3,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0EQJsnG3xiaaMfTN4Ql8fJ,She's Crying for Me Blues,New Orleans Rhythm Kings,177053,1923-04-22,1923,0.99,0.497,0.491,0.901,0.398,-6.392,0.141,165.964,0.731,1,7,2,False,"dixieland, new orleans jazz"
+0slly1g5PB32WswJ8iZHRP,Good Looking Papa Blues,Clara Smith,191680,1923-05-27,1923,0.996,0.555,0.0491,0.263,0.132,-14.517,0.0521,97.486,0.547,1,10,1,False,classic female blues
+1uzFkXIKd5j8fw9SaRHNCt,Those Married Man Blues,Ida Cox,172520,1923-06-03,1923,0.996,0.577,0.242,0.202,0.363,-12.189,0.0402,88.376,0.74,0,5,0,False,"classic female blues, country blues, traditional blues"
+6eIq2lYLVY8lsO4V358uV7,I've Got the Blues for Rampart Street,Ida Cox,168200,1923-06-03,1923,0.994,0.644,0.263,0.000588,0.462,-8.866,0.0547,102.439,0.549,0,10,0,False,"classic female blues, country blues, traditional blues"
+4M6py5jy5O7542VjSULPS2,Mean Lovin' Man Blues,Ida Cox,169853,1923-06-03,1923,0.99,0.426,0.333,0.0826,0.115,-9.758,0.0489,185.624,0.462,1,0,0,False,"classic female blues, country blues, traditional blues"
+6RI2dwMQKhtmd8PSH6fezi,Chicago Monkey Man Blues,Ida Cox,177973,1923-06-03,1923,0.994,0.407,0.349,0.0954,0.895,-9.576,0.226,83.98,0.387,0,7,0,False,"classic female blues, country blues, traditional blues"
+53XIPEx6HdvtCogkD6kFPC,Rag Tin Roof Blues,New Orleans Rhythm Kings,182533,1923-04-22,1923,0.995,0.519,0.429,0.106,0.131,-6.458,0.0289,105.65,0.315,1,9,0,False,"dixieland, new orleans jazz"
+6GbFnhHJTSqMqI57804ffv,Babe,Bailey's Lucky Seven,177294,1923-02-07,1923,0.985,0.721,0.599,0.411,0.815,-12.005,0.123,103.237,0.832,0,4,0,False,
+57XoSwxQUm7jaqKh6P0En2,Baal Shem: II. Nigun,Belle Ting,459676,1923,1923,0.96,0.241,0.224,0.316,0.114,-15.164,0.048,86.385,0.0624,1,7,0,False,
+3MpwkoTn9ZB9TMUZ4Xv0n1,Barefoot Blues,Eva Taylor with Clarence Williams' Blue Five,175704,1923-12-05,1923,0.99,0.445,0.549,0.00457,0.938,-12.164,0.349,75.717,0.494,0,1,0,False,
+1QjfKl898Yytnl4u5HNVEV,Black Sheep Blues,New Synco Jazz Band,183302,1923-02-07,1923,0.981,0.409,0.476,0.892,0.517,-10.464,0.0799,152.136,0.554,1,3,0,False,
+5wBkFVpjJiuRi8ZomCngAU,Beis Ep,Macarti,414749,1923-02-06,1923,6.54e-05,0.788,0.898,0.843,0.0393,-9.377,0.0704,125.031,0.77,1,6,0,False,
+3RkzgIAKkSBV764Y3m0Xwj,Burning Sands,Rialto Dance Orchestra,171285,1923-03-07,1923,0.991,0.67,0.206,0.575,0.558,-14.0,0.035,110.554,0.714,0,5,0,False,
+5ZEhan019kZAOChoX3nukq,Beaver Dam,"Moontee Sinquah, Keith Secola",327028,1923-10-29,1923,0.989,0.183,0.221,0.846,0.111,-15.738,0.045,66.722,0.0416,1,4,0,False,
+4sh2mCAr14sq9SxzvMoLiQ,Bit By Bit You're Breaking My Heart,The California Ramblers,166707,1923-02-28,1923,0.996,0.75,0.447,0.888,0.503,-12.774,0.123,107.421,0.861,1,9,0,False,"hot jazz, vaudeville, vintage jazz"
+50EJMVnLlIZOZ5f7SmY052,Beyblade,Chepnko.,169351,1923-11-17,1923,0.0196,0.752,0.612,9.85e-05,0.0877,-6.533,0.0894,75.509,0.763,1,0,0,True,
+1DbPFvLh4BQDXfR70VV4IH,Blue Hoosier Blues,American Dance Orchestra,178286,1923-01-24,1923,0.987,0.421,0.53,0.886,0.836,-11.857,0.0661,153.098,0.821,1,3,0,False,
+422TQA7howA4626LZqd8i8,Broadway (London Blues),The Savoy Havana Band,177973,1923-04-10,1923,0.995,0.528,0.355,0.103,0.564,-18.226,0.0616,92.273,0.643,1,3,0,False,"british dance band, vaudeville, vintage jazz"
+5bU1MTuBLUb8L2jyq8x7HK,By the River,The Cotton Pickers,187704,1923-08-14,1923,0.996,0.543,0.322,0.435,0.139,-12.082,0.0888,170.807,0.854,1,5,0,False,hot jazz
+2nyg8JsGLN94wWxp0bJELL,Berserker,Young Astronauts Club,220000,1923-12-31,1923,0.897,0.292,0.348,0.813,0.202,-12.822,0.0528,83.951,0.0686,1,9,0,False,
+7aZd9UwVH3WWc7kHbrtchD,Baby,New Orleans Rhythm Kings,182653,1923-04-22,1923,0.992,0.719,0.589,0.904,0.204,-8.327,0.0424,111.866,0.94,1,8,0,False,"dixieland, new orleans jazz"
+6wgJnau215hVv6zrtPkBuz,Bye Bye Blackbird,Harry Curtis,135053,1923,1923,0.749,0.667,0.408,0.0,0.0748,-9.513,0.0286,132.023,0.758,1,8,0,False,
+6HiiMWtgKDevd522vdxSAP,Bone Orchard Blues,Ida Cox,177733,1923-06-03,1923,0.995,0.632,0.184,0.728,0.251,-9.4,0.0395,73.069,0.448,1,7,0,False,"classic female blues, country blues, traditional blues"
+2p6Iprr9YSwoPEr9Z24uVj,Beso de Sol - Remasterizado,Ignacio Corsini,146826,1923-03-29,1923,0.994,0.391,0.143,0.318,0.147,-23.364,0.0425,78.544,0.549,1,7,0,False,vintage tango
+32kFGIewABbWm7DH5FpcHl,Blue Rose,The Cotton Pickers,188088,1923-08-14,1923,0.848,0.476,0.425,0.434,0.904,-20.655,0.907,171.168,0.961,1,5,0,False,hot jazz
+6yWIkctATo8kvaVEwpU79Y,The Blue Room,Paul Ash,142166,1923-08-17,1923,0.979,0.715,0.32,0.833,0.0632,-13.879,0.0727,134.689,0.964,1,5,0,False,
+0vhWRUBb117lTQApECWQYR,Bama Bound Blues,Ida Cox,197573,1923-06-03,1923,0.995,0.462,0.207,0.0155,0.32,-12.373,0.0397,96.145,0.477,0,5,0,False,"classic female blues, country blues, traditional blues"
+4gedIvWeeNhsFxVVUVgOjq,Beale Street Mama,Fletcher Henderson & His Orchestra,171056,1923-03-27,1923,0.994,0.499,0.42,0.919,0.226,-12.779,0.071,171.641,0.932,0,5,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+28xQaiYMACTYT3eopANa93,Buddists,FastLap,524010,1923-11-26,1923,0.00386,0.623,0.7,0.874,0.118,-14.254,0.0371,129.877,0.377,1,7,0,False,
+47TYxOrdpnXsOY0oAPk1kf,Back O' Town Blues,The Cotton Pickers,203547,1923-08-14,1923,0.57,0.567,0.402,0.00296,0.734,-17.662,0.378,124.816,0.78,1,0,0,False,hot jazz
+2Clyd25ForYuFy67oCeAmm,Midnight Blues,Henderson's Hot Six,195814,1923-11-01,1923,0.981,0.745,0.32,0.0722,0.664,-12.627,0.0665,117.68,0.533,1,11,0,False,
+1m8jjA0jz1xSTnu4MfN7Ka,Down by the River,The Cotton Pickers,184704,1923-06-06,1923,0.99,0.521,0.48,0.378,0.911,-12.092,0.222,176.376,0.732,1,6,0,False,hot jazz
+0FAuJGsVnHBgUvcyDKL27Y,Jazzin' Babies Blues,King Oliver,155250,1923-04-18,1923,0.995,0.536,0.458,0.833,0.145,-7.457,0.0742,146.265,0.79,1,10,0,False,"dixieland, jazz trumpet, new orleans jazz"
+33PekwtrBXdFw8embaF3bi,Weary Blues,New Orleans Rhythm Kings,140424,1923-01-10,1923,0.996,0.586,0.504,0.795,0.33,-12.972,0.0411,122.467,0.963,1,5,0,False,"dixieland, new orleans jazz"
+3Vel2rXZc60Y5rzyzZop0H,That Big Blond Mamma,Tennessee Ten,185783,1923-03-29,1923,0.964,0.746,0.444,0.00499,0.363,-12.945,0.0547,98.58,0.748,1,2,0,False,
+3dl9x6mAE3BWwmNTgnQeV5,Cinderella Blues,Herb Wiedoeft's Cinderella Roof Orchestra,194325,1923-12-05,1923,0.988,0.522,0.488,0.0946,0.83,-11.791,0.273,165.463,0.477,1,7,0,False,
+6wNYYijr9CGuxrlDOlc3FP,Haunting Blues,Marion Harris,184791,1923-07-24,1923,0.992,0.336,0.47,0.0,0.862,-12.066,0.111,62.78,0.467,1,7,0,False,"torch song, vaudeville, vintage jazz"
+5F7PN3UzDTa8MR9DZstRMd,Deep Blue Sea Blues,Clara Smith,168676,1923-11-26,1923,0.996,0.56,0.0936,0.779,0.123,-17.521,0.074,118.897,0.349,1,5,0,False,
+4S3rPxuy7uiDEGz9EU2QmC,Chimes Blues,King Oliver,168024,1923-03-14,1923,0.995,0.392,0.298,0.872,0.545,-13.849,0.0401,163.009,0.675,1,0,0,False,"dixieland, jazz trumpet, new orleans jazz"
+5PUnug4G0OZcAKjX6rkRd7,Sobbin' Blues,Ted Lewis,185613,1923-05-27,1923,0.925,0.662,0.347,0.906,0.0696,-12.769,0.0451,98.172,0.889,1,5,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+1vhGDbsCzAPVeHtW34W5kx,Lewisada Blues,Ted Lewis,174680,1923-05-27,1923,0.876,0.647,0.217,0.000777,0.404,-12.498,0.076,96.254,0.448,1,10,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+2BXoisZdsJAGoeg5ceaNXn,Wabash Blues,Ted Lewis,170533,1923-05-27,1923,0.938,0.536,0.273,0.91,0.0416,-10.18,0.0861,166.148,0.945,1,3,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+4lsdUnYR8ZaDSuok6pScAx,Weary Blues (Alternate Take),New Orleans Rhythm Kings,160133,1923-04-22,1923,0.995,0.449,0.249,0.216,0.113,-15.382,0.0385,108.979,0.738,1,5,0,False,"dixieland, new orleans jazz"
+5Qpjmc1hegUMjfGfxrmHDJ,Wolverine Blues,New Orleans Rhythm Kings,180306,1923-04-22,1923,0.995,0.576,0.348,0.0945,0.194,-13.598,0.0345,96.423,0.668,0,5,0,False,"dixieland, new orleans jazz"
+2sIaeZMdGox2XGD6aKeo57,Chicago Blues,Clara Smith,179613,1923-05-27,1923,0.996,0.557,0.301,0.091,0.201,-9.379,0.0425,113.634,0.601,1,10,0,False,classic female blues
+2fW70Qf7bAmPx4TOmnfaHz,Wolverine Blues (Alternate Take),Jelly Roll Morton,200343,1923-05-27,1923,0.98,0.483,0.34,0.74,0.0964,-15.429,0.0367,72.136,0.918,1,10,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+5xc84JbPd5gOcguEjY7t91,Dicty Blues,Fletcher Henderson,162316,1923-01-16,1923,0.996,0.705,0.337,0.929,0.143,-17.869,0.0603,91.475,0.712,1,3,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+09b8FvclAMua0H2Jn5DADw,Marzipan Bubblebath,Young Astronauts Club,100000,1923-12-31,1923,0.959,0.524,0.569,0.907,0.678,-21.452,0.591,119.784,0.379,1,5,0,False,
+2FTQKjy2VJBEGm9yyb0vvZ,My Blue Heaven,Paul Whiteman,152828,1923-02-28,1923,0.99,0.665,0.185,0.658,0.102,-18.175,0.0476,121.32,0.94,1,10,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+2VC7wWnrHx1YoNQGJqxWAh,Misery Blues,Ida Cox,193493,1923-06-03,1923,0.996,0.515,0.18,0.587,0.261,-11.075,0.052,81.074,0.394,1,0,0,False,"classic female blues, country blues, traditional blues"
+4DZPSFWy5jcYUuwa4VYeyY,Old Black Joe's Blues,Fletcher Henderson & His Orchestra,166675,1923-03-27,1923,0.995,0.692,0.361,0.799,0.34,-16.03,0.0578,94.356,0.688,0,5,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+3f4HAZPUTSrQbK6jCwQhnx,You Broke the Only Heart That Ever Loved You,Harry Curtis,147069,1923,1923,0.714,0.627,0.415,0.0,0.164,-11.671,0.0462,133.901,0.729,1,0,0,False,
+4xSMWpkciAjVzeaecDmtJf,Cow Bells,Zez Confrey,200177,1923-02-19,1923,0.994,0.465,0.33,0.934,0.653,-12.45,0.0795,172.923,0.614,1,3,0,False,"american modern classical, ragtime"
+1u9zTLc3iWTud0cZM83CDr,Cuando Buda Sonríe - Remasterizado,Francisco Canaro,170800,1923-07-09,1923,0.992,0.377,0.335,0.961,0.173,-16.295,0.0426,79.422,0.618,1,1,0,False,"orquesta tipica, tango, vintage tango"
+1OBfmmYmluuWRHXzFtnyNz,Just Blues,Fletcher Henderson & His Orchestra,190032,1923-03-27,1923,0.926,0.672,0.173,0.846,0.0944,-13.05,0.0602,111.016,0.623,1,8,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+7e2Rr9I32fkBSYhlC5b7dU,Wolverine Blues (Alternate Take),New Orleans Rhythm Kings,181813,1923-04-22,1923,0.995,0.345,0.288,0.121,0.348,-15.441,0.0452,192.091,0.623,0,10,0,False,"dixieland, new orleans jazz"
+1BP8cImElXeFxy0ifolWbU,Percolatin' Blues,Clara Smith,190613,1923-05-27,1923,0.996,0.602,0.182,0.000363,0.276,-10.301,0.0498,136.602,0.548,1,3,0,False,classic female blues
+1M08nakJe93w86aGYlWew9,Papa Better Watch Your Step,Fletcher Henderson & His Orchestra,179861,1923-03-27,1923,0.995,0.54,0.359,0.889,0.373,-14.06,0.0607,150.442,0.801,1,2,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+0yofalirbCv99qQBEkJ7qC,Chimes Blues,Fletcher Henderson,188633,1923-01-16,1923,0.996,0.368,0.139,0.961,0.297,-23.164,0.063,170.89,0.784,1,7,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+4iALJ9OIvvkxquyU8hf9HN,It's Tight Like That,Clara Smith,195586,1923-05-27,1923,0.985,0.857,0.176,0.0,0.184,-9.81,0.075,132.575,0.821,1,5,10,False,classic female blues
+71tGp2W83AYhaQc5T9qhtg,The Old Chisholm Trail,Harry McClintock,204121,1923-12-18,1923,0.91,0.656,0.417,0.0,0.866,-12.884,0.0702,95.293,0.81,1,8,6,False,traditional folk
+0MiyDTJnf5hYOUzEkNv1EL,Kansas City Stomp,Jelly Roll Morton,171666,1923-05-27,1923,0.986,0.797,0.637,0.914,0.0963,-7.556,0.0879,97.154,0.952,1,3,3,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+4fUatuVncpOGuBbDeSdBjM,Where Is My Man?,Clara Smith,188666,1923-05-27,1923,0.969,0.626,0.267,0.000619,0.112,-7.349,0.058,104.181,0.551,1,8,3,False,classic female blues
+1jXaIWg9oz6X6j2I5vaLEO,Cold Weather Papa,Clara Smith,178720,1923-05-27,1923,0.996,0.55,0.19,0.662,0.108,-10.57,0.0343,79.135,0.286,0,5,0,False,classic female blues
+7bS9hemOqxT4E0rZv1mDSF,Clarinet Marmalade,Jelly Roll Morton,136636,1923-05-17,1923,0.996,0.668,0.397,0.9,0.229,-12.413,0.0358,122.861,0.858,1,5,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0btELS9aYuE7HDKOQ3DMuT,Come Right In,Ida Cox,164586,1923-06-03,1923,0.995,0.538,0.28,3.4e-05,0.38,-12.838,0.115,103.94,0.802,1,10,0,False,"classic female blues, country blues, traditional blues"
+6BB4Eo0LDywgzHNsPtvGeG,Climax Rag,Jelly Roll Morton,147453,1923-05-27,1923,0.869,0.751,0.434,0.322,0.0471,-10.557,0.052,101.367,0.954,1,5,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+37hDpAd29D01X7yQd4LxOV,Clarinet Marmalade,New Orleans Rhythm Kings,157680,1923-04-22,1923,0.996,0.673,0.251,0.473,0.108,-14.21,0.0369,108.564,0.634,1,5,1,False,"dixieland, new orleans jazz"
+4kAtDW03BcPIkZAVY3CkNs,She's Crying for Me,New Orleans Rhythm Kings,166346,1923-04-22,1923,0.994,0.644,0.511,0.478,0.261,-5.947,0.0807,163.572,0.569,1,4,0,False,"dixieland, new orleans jazz"
+5GCP89rEzrDftsG05w0SOq,Done Sold My Soul to the Devil,Clara Smith,179440,1923-05-27,1923,0.996,0.601,0.225,0.766,0.169,-10.825,0.0433,83.11,0.501,1,0,1,False,classic female blues
+2zq7lb4eGf5MuGMbBAJ5Ra,I'm Gonna Tear Your Playhouse Down,Clara Smith,189573,1923-05-27,1923,0.995,0.557,0.128,0.576,0.298,-14.365,0.0684,89.354,0.511,1,7,0,False,classic female blues
+6R3pmKr1IyRNCwNFDMWv1G,Woman to Woman,Clara Smith,204388,1923-05-27,1923,0.993,0.728,0.203,3.91e-05,0.138,-8.334,0.0537,91.686,0.521,1,8,1,False,classic female blues
+2foMI5D6K1zS7ICiTpxCTF,Four Day Creep,Ida Cox,208373,1923-06-03,1923,0.982,0.497,0.467,0.0354,0.73,-9.647,0.0422,91.155,0.81,1,10,1,False,"classic female blues, country blues, traditional blues"
+0OwbZHb75hsLrrgtTiJu41,One Hour Mama,Ida Cox,176173,1923-06-03,1923,0.862,0.641,0.416,2.1e-05,0.107,-5.868,0.0504,101.567,0.773,1,5,1,False,"classic female blues, country blues, traditional blues"
+770W5bOAI5uOw3Xq7hXnds,Take Him off My Mind,Ida Cox,185920,1923-06-03,1923,0.985,0.626,0.344,0.000272,0.0539,-7.169,0.0458,84.56,0.682,1,8,1,False,"classic female blues, country blues, traditional blues"
+15UdfXSxe0Qp8IqCyhPWSF,CHINA HEREJE,CHUPO ARRECHO,168900,1923,1923,0.7,0.856,0.573,0.0,0.194,-8.118,0.0717,149.918,0.728,1,1,3,False,
+59wHAfTZzQLjlRuki5fQbA,Cariño Eterno Irene - Remasterizado,Ignacio Corsini,188066,1923-03-29,1923,0.993,0.337,0.311,0.977,0.745,-19.693,0.0549,115.48,0.706,1,2,0,False,vintage tango
+2l56fKIIrgfHWndcbkBAta,The C00L Song,Dampfwalzi,120309,1923-02-26,1923,0.000243,0.503,0.823,0.64,0.473,-12.871,0.064,97.019,0.401,0,9,0,True,
+7q1YdPe9nYbHdCGRdgtQEB,Charleston Crazy,Fletcher Henderson & His Orchestra,144982,1923-03-16,1923,0.984,0.792,0.542,0.659,0.432,-11.74,0.048,114.446,0.944,0,0,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+52euh5JWDmhLU7Ee469iNL,Canal Street Blues,King Oliver,146103,1923-07-27,1923,0.995,0.414,0.423,0.937,0.489,-11.371,0.0482,188.838,0.875,1,5,0,False,"dixieland, jazz trumpet, new orleans jazz"
+52LOYFwwceYeK0A0XCA8CG,C'est Paris,Maurice Chevalier,201400,1923,1923,0.969,0.496,0.297,0.0,0.165,-16.775,0.0816,84.278,0.795,1,2,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+6CPnHZ8a3Iy4YI5wQ3I6O3,Choo Choo Blues,The Virginians,166501,1923-09-18,1923,0.984,0.484,0.458,0.931,0.156,-12.525,0.0692,171.58,0.963,0,5,0,False,vintage jazz
+6LAMHr6Zzx6q8h0BtL2toL,Camel - Remasterizado,Francisco Canaro,186080,1923-07-09,1923,0.97,0.323,0.458,0.928,0.112,-15.815,0.0526,186.768,0.542,1,1,0,False,"orquesta tipica, tango, vintage tango"
+1C24gb2rQwSd262BP09DNB,Chanson De Route De Ciboulette,Edmée Favart,141040,1923,1923,0.991,0.783,0.341,0.0,0.589,-14.903,0.873,121.287,0.803,1,2,0,False,
+71tnorDlCFZ4g2c1VEaQkR,C'est Jeune Et Ca N'sait Pas,Fortugé,187933,1923,1923,0.993,0.687,0.173,0.0,0.86,-14.726,0.0772,114.198,0.765,1,5,0,False,
+3ee0Zs9IOLR3G9IpRXCMmr,Capítulo 5 - Seis disparos a la luz de la luna,"H.P. Lovecraft, Marcos Ballate",184365,1923,1923,0.828,0.712,0.176,0.0,0.422,-14.91,0.932,84.55,0.766,1,9,0,False,
+11dMlFzleiXnMCdNIi031P,Capítulo 1 - Una mujercita,"Franz Kafka, Milagros Bernardo",184313,1923,1923,0.79,0.778,0.151,3.35e-05,0.146,-14.485,0.853,107.164,0.546,1,2,0,False,"german literature, writing"
+5dPYs3KxH3GSsi1hJe8kfy,Clarinet Marmalade (Alternate Take),New Orleans Rhythm Kings,163586,1923-04-22,1923,0.995,0.656,0.486,0.0832,0.196,-7.218,0.0296,104.277,0.858,1,4,0,False,"dixieland, new orleans jazz"
+1T0UFiD12OKJkc49PdWgXU,Capítulo 5 - Una mujercita,"Franz Kafka, Milagros Bernardo",184180,1923,1923,0.798,0.687,0.194,3.67e-06,0.122,-13.545,0.911,99.393,0.538,0,1,0,False,"german literature, writing"
+0ws4UUS8pdTPrUS7yRX8pO,Capítulo 3 - Seis disparos a la luz de la luna,"H.P. Lovecraft, Marcos Ballate",183832,1923,1923,0.695,0.614,0.218,0.0,0.278,-14.37,0.91,74.83,0.658,0,8,0,False,
+63X5VRW0fhxPwVupB36Mz9,Capítulo 6 - Hypnos,"H.P. Lovecraft, Marcos Ballate",182570,1923,1923,0.452,0.67,0.286,1.43e-05,0.296,-16.719,0.922,91.436,0.736,1,1,0,False,
+3LzOlOL9znWgqJqETiUERT,Capítulo 6 - Una mujercita,"Franz Kafka, Milagros Bernardo",240407,1923,1923,0.803,0.701,0.133,2.27e-05,0.124,-13.754,0.904,103.708,0.532,1,3,0,False,"german literature, writing"
+0UzJK5nlGcJIpZN3oyrblH,Capítulo 5 - Hypnos,"H.P. Lovecraft, Marcos Ballate",184992,1923,1923,0.522,0.611,0.362,1.16e-05,0.164,-15.831,0.941,85.188,0.583,1,1,0,False,
+2AzXd3PjwqX1GKlLfCQN8S,Changes,Paul Whiteman,150460,1923-02-28,1923,0.989,0.712,0.151,0.771,0.158,-17.146,0.0481,119.292,0.704,0,5,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4rMO11Sg97fiz6B1aok6Zq,Capítulo 3 - Una mujercita,"Franz Kafka, Milagros Bernardo",184865,1923,1923,0.808,0.62,0.16,0.0,0.185,-13.249,0.924,61.728,0.54,0,1,0,False,"german literature, writing"
+7dx5QiRdZsHRCOXa2MtNcL,Capítulo 4 - Seis disparos a la luz de la luna,"H.P. Lovecraft, Marcos Ballate",181127,1923,1923,0.701,0.697,0.169,0.0,0.294,-14.578,0.944,83.149,0.605,1,9,0,False,
+3ivpIaF8PNMs3QzSmVrlIV,Capítulo 1 - Seis disparos a la luz de la luna,"H.P. Lovecraft, Marcos Ballate",181794,1923,1923,0.855,0.576,0.214,0.0,0.18,-15.138,0.939,167.142,0.657,1,5,0,False,
+0v1ZkI1nkKZSEIaxCgtEf8,Capítulo 2 - Una mujercita,"Franz Kafka, Milagros Bernardo",184215,1923,1923,0.796,0.681,0.142,6.34e-06,0.12,-13.649,0.866,96.167,0.53,0,1,0,False,"german literature, writing"
+7z6URxabv9g1xhP5RQ3ciA,Chloe (Song Of The Swamp),Paul Whiteman,238726,1923-02-28,1923,0.992,0.358,0.136,0.448,0.244,-18.28,0.0785,167.929,0.162,1,6,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+0KHFJ1lMu0HkQy0co4pClH,Capítulo 1 - Hypnos,"H.P. Lovecraft, Marcos Ballate",186043,1923,1923,0.545,0.686,0.295,4.72e-05,0.385,-16.019,0.917,127.377,0.602,1,1,0,False,
+54rFRh9Feq8HXpsJrLVfNp,Capítulo 6 - Seis disparos a la luz de la luna,"H.P. Lovecraft, Marcos Ballate",252685,1923,1923,0.714,0.591,0.163,0.0,0.388,-15.911,0.937,169.064,0.614,1,4,0,False,
+4UDqDbhwyQtpgtWceksYif,Capítulo 2 - Hypnos,"H.P. Lovecraft, Marcos Ballate",181487,1923,1923,0.508,0.718,0.335,0.000539,0.304,-16.457,0.887,112.793,0.717,1,1,0,False,
+3c7EH1cVKrjal2QD8lwuI7,Capítulo 3 - Hypnos,"H.P. Lovecraft, Marcos Ballate",186258,1923,1923,0.37,0.606,0.362,6.18e-05,0.171,-16.227,0.939,62.907,0.7,1,1,0,False,
+5oPqycHg2Fr3mYXvhvur9I,Capítulo 2 - Seis disparos a la luz de la luna,"H.P. Lovecraft, Marcos Ballate",181753,1923,1923,0.773,0.695,0.172,0.0,0.208,-14.663,0.923,127.738,0.651,0,10,0,False,
+0nz1tfXucvWu9B5H6tk1Ma,Capítulo 7 - Hypnos,"H.P. Lovecraft, Marcos Ballate",236621,1923,1923,0.558,0.711,0.305,5.54e-05,0.183,-16.578,0.928,115.128,0.679,1,1,0,False,
+4fx9LG7U4E8ljn6PIRW4H2,Capítulo 4 - Hypnos,"H.P. Lovecraft, Marcos Ballate",183472,1923,1923,0.529,0.6,0.349,4.24e-05,0.159,-15.782,0.942,175.198,0.692,1,1,0,False,
+3LeT1Ua7FKg8HyNDe26oxY,Capítulo 4 - Una mujercita,"Franz Kafka, Milagros Bernardo",180837,1923,1923,0.815,0.691,0.171,5.19e-06,0.115,-14.022,0.917,87.934,0.532,1,2,0,False,"german literature, writing"
+0IdfDoJA3dGEIg4m6DGRS4,Çanakkale Türküsü,Rashad Yagub,205859,1923,1923,0.873,0.372,0.484,0.0,0.117,-4.606,0.0417,66.433,0.597,0,2,0,False,
+7Hto89Th3bfsBMaBV70PWW,La Cabeza del Italiano - Remasterizado,Ignacio Corsini,128546,1923-03-29,1923,0.996,0.335,0.096,0.766,0.158,-27.473,0.0883,147.183,0.659,0,11,0,False,vintage tango
+2gFUqcLFUDVXcWmeKAOnGd,Pobre Cotorro - Remasterizado,Ignacio Corsini,171106,1923-03-29,1923,0.995,0.502,0.298,0.919,0.285,-15.321,0.0805,135.238,0.51,0,5,0,False,vintage tango
+0fdCpczLwvzvAyzCGGOZtX,Entre Criollos - Remasterizado,Ignacio Corsini,174386,1923-03-29,1923,0.992,0.414,0.248,0.884,0.172,-21.685,0.0905,74.088,0.532,1,6,0,False,vintage tango
+1cc3PATfI2APY0gK1F1GMR,Here Comes Fatima,The California Ramblers,199008,1923-05-24,1923,0.994,0.879,0.484,0.571,0.104,-12.005,0.074,118.447,0.934,1,10,0,False,"hot jazz, vaudeville, vintage jazz"
+4gNG3Vy1MOkmVW9biFl65B,Tha Corpse N Tha Playground,Young Astronauts Club,135000,1923-12-31,1923,0.684,0.165,0.00779,0.943,0.117,-29.656,0.0361,166.562,0.0555,1,8,0,False,
+1yMDC3pVzxKlcKwwwiFSmt,Sacate la Caretita - Remasterizado,Ignacio Corsini,178146,1923-03-29,1923,0.996,0.574,0.0119,0.936,0.099,-28.427,0.102,125.425,0.66,0,5,0,False,vintage tango
+7dkz2VUbSc7Q884erTp7pG,You Can't Fool a Broken Heart,Harry Curtis,134060,1923,1923,0.815,0.724,0.323,0.0,0.0997,-13.774,0.0303,109.014,0.488,0,2,0,False,
+099besi62iGVfmZduFaide,Lovey Came Back,Ray Miller And His Orchestra,176301,1923-11-21,1923,0.971,0.611,0.671,0.000707,0.752,-10.751,0.108,95.765,0.647,1,5,0,False,"big band, vintage jazz"
+5Y2WHA9rZX0c7trHxVnI1c,I Can't Get the One I Want,Fletcher Henderson,175483,1923-01-16,1923,0.996,0.847,0.369,0.934,0.32,-17.91,0.049,110.577,0.913,1,11,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1qmr21ezZQoEzggzUAoaVn,Gulf Coast Blues - Sugar Blues,Tennessee Ten,207831,1923-12-19,1923,0.983,0.538,0.314,0.691,0.833,-11.661,0.0501,123.892,0.472,1,3,0,False,
+64NxuZFGnHcfWZKKUaSrDk,Kansas City Man Blues,Mamie Smith,201720,1923-04-24,1923,0.956,0.344,0.587,0.015,0.969,-15.158,0.361,75.834,0.293,1,7,0,False,"harlem renaissance, traditional blues"
+5mBsdY5IU3d2iVaCOr6E1o,I Cried for You,Banner Dance Orchestra,193307,1923-11-21,1923,0.989,0.626,0.604,0.689,0.938,-12.525,0.132,108.475,0.629,1,5,0,False,
+3lWtpc2gKflv5xG7qGVA9l,I Can't Give You Anything But Love,Harry Curtis,184058,1923,1923,0.859,0.733,0.516,0.0,0.0913,-11.97,0.0475,139.964,0.779,1,2,0,False,
+561AzLM4msJACiI9FLd5Li,Gulf Coast Blues,Fletcher Henderson,162316,1923-01-16,1923,0.995,0.611,0.363,0.179,0.505,-14.553,0.0732,139.244,0.767,1,10,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+6npPdf8kME265yf80SeOpo,Taking Chances,Yung Biscuit,123977,1923-12-08,1923,0.59,0.937,0.706,0.0,0.113,-5.965,0.127,138.057,0.9,1,0,0,True,
+3d0Ixv6QIcsJhjKwXzo5Yf,La cancion del olvido,Marcos Redondo,194864,1923-02-24,1923,0.902,0.361,0.249,0.0,0.133,-14.237,0.0596,78.999,0.383,1,2,0,False,
+7uLMgGFcaP2GFyyXzcgSXj,Ma Chanson,"Eugénie Buffet, René De Buxeuil",186693,1923,1923,0.955,0.515,0.219,0.0,0.31,-15.756,0.108,85.385,0.664,1,0,0,False,
+2pyMMAan2yXUPYhcAYVBZz,She's Crying for Me Blues (Alternate Take),New Orleans Rhythm Kings,166440,1923-04-22,1923,0.991,0.682,0.374,0.00578,0.248,-9.853,0.0603,161.736,0.697,1,8,0,False,"dixieland, new orleans jazz"
+4jJjgo9JgrTqVqlRzIQxCr,"Drumm, Children of the Forest",FastLap,492010,1923-11-26,1923,0.00026,0.641,0.959,0.847,0.691,-10.141,0.0457,140.851,0.694,0,11,0,False,
+3FpWQkGDpLDBNwirif18JM,She's Crying for Me (Alternate Take),New Orleans Rhythm Kings,168133,1923-04-22,1923,0.993,0.645,0.37,0.125,0.345,-10.979,0.0758,161.958,0.664,1,8,0,False,"dixieland, new orleans jazz"
+6TuoKTzkEeYjKJRkN8o17f,What Can I Say After I Say I’m Sorry,Paul Ash,169644,1923-08-17,1923,0.991,0.662,0.181,0.0105,0.303,-14.97,0.0547,112.491,0.708,1,8,0,False,
+5To3LZIEi3F2Uto6huARlu,Juan de los Santos Arena - Remasterizado,Ignacio Corsini,140013,1923-03-29,1923,0.986,0.345,0.237,0.93,0.168,-19.972,0.0527,62.794,0.36,0,6,0,False,vintage tango
+2uEUNf12Q8zzEpKFmmcQIY,Oh! Mister Mitchell,Clara Smith,168200,1923-05-27,1923,0.984,0.797,0.218,0.0,0.0781,-6.921,0.0423,100.195,0.591,0,2,0,False,classic female blues
+7IP5SZ3br2KrmaU4zVvUGk,Veni Pebeta - Remasterizado,Ignacio Corsini,144680,1923-03-29,1923,0.99,0.396,0.246,0.893,0.165,-21.15,0.0565,63.823,0.668,1,6,0,False,vintage tango
+0pfb51HxNzI3bNVjKasaKK,Vencida - Remasterizado,Ignacio Corsini,120093,1923-03-29,1923,0.996,0.572,0.0909,0.908,0.246,-24.536,0.139,131.55,0.57,1,11,0,False,vintage tango
+50x81sb0gBee8tf30mm8C9,Pelele - Remasterizado,Ignacio Corsini,164866,1923-03-29,1923,0.993,0.394,0.327,0.764,0.14,-20.112,0.12,63.228,0.779,1,1,0,False,vintage tango
+2hZQyq6PZupr8efUrqe2Gy,Duck's Quack,The Cotton Pickers,202896,1923-08-14,1923,0.8,0.558,0.324,0.256,0.61,-20.449,0.308,161.123,0.815,1,11,0,False,hot jazz
+0V77ORNsQD0bMZc10LFDFZ,Every Woman's Blues,Clara Smith,219506,1923-05-27,1923,0.996,0.38,0.124,0.215,0.123,-12.755,0.0303,65.272,0.273,1,5,0,False,classic female blues
+0fbCfBeNdQgq4ZmMvA7lcM,I Never Miss the Sunshine,Clara Smith,199173,1923-05-27,1923,0.995,0.517,0.125,0.525,0.114,-13.923,0.0354,66.684,0.286,1,0,0,False,classic female blues
+282GBb96Uc1l3nvDZU14Wr,La Garconniere - Remasterizado,Ignacio Corsini,150640,1923-03-29,1923,0.996,0.493,0.109,0.822,0.4,-23.485,0.423,120.344,0.599,0,2,0,False,vintage tango
+4GhnLVjpZ3Pi1vN3n00zCb,Kind Lovin' Blues,Clara Smith,182693,1923-05-27,1923,0.995,0.556,0.12,0.475,0.11,-12.081,0.0414,70.269,0.229,1,10,0,False,classic female blues
+4k5a1oCScvCZQitzrWsND1,La Vuelta de Mi Amor - Remasterizado,Ignacio Corsini,165786,1923-03-29,1923,0.992,0.375,0.345,0.898,0.266,-20.106,0.337,74.236,0.684,0,4,0,False,vintage tango
+3rFPhJuOE3hy4Zy2zJbJic,On the Beautiful Blue Danube,Cameo Concert Orchestra,185078,1923-06-20,1923,0.996,0.579,0.167,0.964,0.244,-19.666,0.0576,116.157,0.683,1,2,0,False,
+4BcVxLu44zFil9FN0kGBsW,Narcissus,Cameo Concert Orchestra,169561,1923-06-20,1923,0.995,0.113,0.111,0.939,0.376,-22.338,0.0522,68.902,0.353,1,8,0,False,
+1FlXe3KS1HUFPpah6phwuW,I Never Miss the Sunshine,The Cotton Pickers,193944,1923-08-14,1923,0.963,0.498,0.268,0.869,0.531,-19.278,0.0612,77.145,0.791,0,7,0,False,hot jazz
+2dnaGKlRop5kaBJjEKW7j0,Juventud - Remasterizado,Ignacio Corsini,153146,1923-03-29,1923,0.996,0.415,0.0359,0.914,0.105,-29.191,0.0562,70.347,0.253,0,1,0,False,vintage tango
+1dvoCdqdh8i5sHiLo3Ab2Z,Down South Blues,Clara Smith,210000,1923-05-27,1923,0.995,0.493,0.099,0.852,0.106,-15.956,0.0513,76.965,0.316,1,2,0,False,classic female blues
+5RYxdvMlecpO1zTgwtjxYD,Do Yo' Dooty Daddy,The Cotton Pickers,133669,1923-08-14,1923,0.857,0.504,0.229,0.81,0.64,-20.489,0.0691,161.2,0.932,1,10,0,False,hot jazz
+7iiuhVPyOBQcASFfN8EHfb,I Got Everything a Woman Needs,Clara Smith,180000,1923-05-27,1923,0.995,0.418,0.147,0.648,0.116,-13.65,0.0341,135.471,0.31,1,2,0,False,classic female blues
+18IEF8U8TAk8wrWD0ednBy,Doctor Jazz,Jelly Roll Morton,208253,1923-05-27,1923,0.982,0.735,0.469,0.681,0.0745,-7.985,0.0529,100.363,0.916,1,11,24,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+3CPGUiNt4IMI0d90LVKkZw,Officially Done,D Wood,180009,1923-11-11,1923,0.634,0.698,0.474,0.0,0.199,-8.261,0.036,119.968,0.302,1,5,10,False,
+7HKxCIzpRR5qI6zJhsn4c9,Original Dixieland One-Step,New Orleans Rhythm Kings,171573,1923-04-22,1923,0.845,0.723,0.733,0.959,0.0532,-5.799,0.187,119.592,0.638,0,0,1,False,"dixieland, new orleans jazz"
+4G9iRisozJ4llAtlMlRTYP,"Oh, Don't He Ramble?",Jelly Roll Morton,180533,1923-05-27,1923,0.983,0.642,0.536,0.842,0.0981,-7.511,0.195,127.013,0.75,0,2,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+2wlcbVSJOyz5kmkJi45xB5,Shoe Shiner's Drag,Jelly Roll Morton,198720,1923-05-27,1923,0.98,0.823,0.299,0.907,0.101,-10.312,0.0974,123.516,0.802,1,3,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+538RFsw5uBeMwK4CkSw0bn,(Oh! Susanna) Dust off That Ol,New Orleans Rhythm Kings,180186,1923-04-22,1923,0.817,0.792,0.564,0.48,0.0564,-4.738,0.285,105.124,0.652,1,2,1,False,"dixieland, new orleans jazz"
+7jyzJApioA9tkqq2d5XFrp,Do Doodle Oom,Fletcher Henderson & His Orchestra,157232,1923-04-10,1923,0.971,0.542,0.592,0.311,0.912,-12.333,0.0308,104.404,0.858,0,8,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+0Vz0V2ghRrbcCKISdnvNaD,D-Town Flow,"Don Czn, Wise G The Enterprise",130043,1923-01-04,1923,0.126,0.697,0.626,0.000158,0.253,-10.789,0.349,173.923,0.345,0,8,0,True,
+6NEgn4ekUfmyh6kiwTfa09,Do It a Long Time Papa,Eva Taylor with Clarence Williams' Blue Five,195318,1923-02-15,1923,0.992,0.476,0.285,3.19e-05,0.85,-14.377,0.0988,110.404,0.442,1,3,0,False,
+51thIVgpBrAkGPkpWV94HR,Dipper Mouth Blues,King Oliver,131605,1923-05-09,1923,0.996,0.694,0.42,0.835,0.0604,-9.637,0.0452,105.543,0.715,1,0,0,False,"dixieland, jazz trumpet, new orleans jazz"
+0tvcQTpvadCkxcKXgdykzC,"Daddy, You've Been Like a Mother to Me",Henry Burr,176274,1923-04-24,1923,0.995,0.285,0.269,0.000315,0.0855,-9.714,0.0298,93.549,0.171,1,0,0,False,vaudeville
+3hXWqPL1vgUmlWSwOn0glR,"Dear, on a Night Like This",Fletcher Henderson & His Orchestra,147881,1923-03-27,1923,0.995,0.517,0.485,0.662,0.325,-12.644,0.0753,122.089,0.844,1,7,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+08yN7oQ9rVfqC6yT4yy0TI,Don't Think You'll Be Missed,Fletcher Henderson & His Orchestra,149178,1923-03-27,1923,0.994,0.606,0.504,0.902,0.504,-12.47,0.105,96.518,0.848,0,0,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+0XDQ6tLJNMeN4emZHEAvOH,Drowning In Echoes,Young Astronauts Club,190060,1923-01-01,1923,0.00949,0.359,0.302,0.714,0.096,-13.98,0.0326,177.384,0.0358,0,11,0,False,
+3erNdiLPou8N2daJMvaaWv,Dinah,Harry Curtis,143072,1923,1923,0.758,0.718,0.506,9.75e-06,0.0615,-10.519,0.0362,130.062,0.885,1,7,0,False,
+6PeLZuvplRjXXgvpsVcpIu,Do It Again!,Paul Whiteman,160463,1923-02-28,1923,0.994,0.814,0.278,0.82,0.193,-16.476,0.078,105.618,0.871,1,10,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+3io4EzwxKLS1rdOwsNvrUy,Dancing Tambourine,Paul Whiteman,164583,1923-02-28,1923,0.954,0.829,0.388,0.902,0.103,-13.932,0.0686,113.255,0.855,1,10,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6IdgdN62lJEAcsjUNxLtCq,DubSoul,FastLap,536010,1923-11-26,1923,0.0126,0.625,0.687,0.761,0.0953,-9.981,0.0314,123.874,0.27,0,0,0,False,
+19CiBe5fc897OUvn3pcgfE,Down Hearted Blues,Fletcher Henderson,157915,1923-01-16,1923,0.995,0.641,0.328,0.857,0.241,-12.54,0.056,107.69,0.781,1,10,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+78mkqXPJRqfzorZuHlaZ0K,Down South Blues,Fletcher Henderson,166694,1923-01-16,1923,0.995,0.61,0.301,0.646,0.225,-13.782,0.0386,123.562,0.589,1,7,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+03dP9OnVtH1qqS3BhrsG3P,Dinah,Ted Lewis,199866,1923-05-27,1923,0.911,0.483,0.359,0.0287,0.072,-8.55,0.149,175.315,0.966,1,10,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+04hitzK34pOV0OSG1OIk1i,Deep Sea Blues,Ida Cox,200933,1923-06-03,1923,0.967,0.577,0.436,0.00043,0.108,-6.786,0.0295,97.274,0.669,1,5,0,False,"classic female blues, country blues, traditional blues"
+53RV0sULomDyKTBNttT8rP,Dejeme Que la Acompañe - Remasterizado,Francisco Canaro,176146,1923-07-09,1923,0.994,0.433,0.381,0.0,0.236,-8.127,0.0433,129.194,0.316,0,3,0,False,"orquesta tipica, tango, vintage tango"
+0i7zrQE8BPScVdcs5By3VW,Peggy Dear,Gene Fosdick's Hoosiers,170815,1923-04-24,1923,0.67,0.441,0.273,0.784,0.0918,-17.203,0.0464,183.224,0.841,1,0,0,False,
+0knZR8XMF7LQuXmXP4iOQR,Running down a dream - My Version of,Zee-R.,195633,1923-10-10,1923,0.00126,0.557,0.951,0.0553,0.311,-2.75,0.125,170.037,0.627,1,1,0,False,
+55K1Ymr3B6vP33rkeh5TmO,Yankee Doodle Blues,Ladd's Black Aces,170789,1923-07-24,1923,0.987,0.651,0.674,0.719,0.435,-12.238,0.185,97.327,0.697,1,7,0,False,hot jazz
+1WD0bQ9oE1Q1R7VoNZf7Sb,That Da-Da Strain - I've Got To Cool My Doggies Now,The Virginians,202815,1923-01-17,1923,0.973,0.482,0.602,0.768,0.608,-11.364,0.203,153.611,0.69,1,3,0,False,
+65IhRxuFDhknyujdHEiT0E,Semi Detached,Young Astronauts Club,260000,1923-12-31,1923,0.871,0.364,0.109,0.873,0.0973,-24.0,0.0335,74.464,0.0387,0,4,0,False,
+21QQ5ZuQUjPQQRi1JzR8GY,Veranito de San Juan - Remasterizado,Francisco Canaro,180386,1923-07-09,1923,0.994,0.515,0.272,0.97,0.15,-15.873,0.108,130.063,0.89,0,4,0,False,"orquesta tipica, tango, vintage tango"
+6yqYqwtzaMNOHDiNScVuwc,Paper Doll,Harry Curtis,180062,1923,1923,0.869,0.489,0.392,0.0,0.0618,-11.049,0.0333,140.085,0.552,1,0,0,False,
+4xHyPfnrvKvatqt2oj3b4V,I Don't Know Enough About You,Harry Curtis,124055,1923,1923,0.838,0.702,0.372,0.0,0.13,-10.667,0.0894,156.09,0.661,1,0,0,False,
+3V2R1hDixOyRYEIWdYm0OC,Nubes de Humo - Remasterizado,Francisco Canaro,176200,1923-07-09,1923,0.995,0.618,0.306,0.967,0.12,-13.928,0.0535,122.623,0.727,0,8,0,False,"orquesta tipica, tango, vintage tango"
+2626aAS6eQgc6CvdLVnoOw,La Danza de las Libélulas - Remasterizado,Francisco Canaro,156586,1923-07-09,1923,0.996,0.397,0.229,0.837,0.379,-15.284,0.0365,80.086,0.424,0,6,0,False,"orquesta tipica, tango, vintage tango"
+4HhcMeVZmp2DBV4NY44WVO,Graveyard Dream Blues (Alternate Take),Ida Cox,175653,1923-06-03,1923,0.992,0.671,0.154,0.47,0.734,-9.864,0.0843,94.837,0.622,1,0,0,False,"classic female blues, country blues, traditional blues"
+1lb6A7GdK1zIpv9vXJYnKV,That da da Strain,New Orleans Rhythm Kings,143800,1923-04-22,1923,0.996,0.41,0.299,0.477,0.438,-14.731,0.0356,165.636,0.841,1,5,0,False,"dixieland, new orleans jazz"
+7gwQtsYfbPX6kfsRF3PBqb,Four Day Creep (Alternate Take),Ida Cox,208600,1923-06-03,1923,0.954,0.703,0.228,0.0122,0.0468,-6.327,0.0455,89.816,0.632,1,10,0,False,"classic female blues, country blues, traditional blues"
+4Oy82y4C7BmmbRKwqtnHP9,Fin de Fiesta - Remasterizado,Ignacio Corsini,130346,1923-03-29,1923,0.994,0.537,0.273,0.866,0.161,-21.049,0.114,126.42,0.59,1,9,0,False,vintage tango
+7xHvQztpZzhaR9JRaeXDhM,Si Tu Vois Ma Tante,Dréan,170040,1923,1923,0.995,0.646,0.345,3.82e-06,0.196,-11.057,0.072,122.159,0.827,1,1,0,False,
+5fdUoiEhyWCkWZx1mofnrk,For The Fee,"Don Czn, Wise G The Enterprise",96028,1923-01-04,1923,0.177,0.788,0.66,9.92e-06,0.379,-8.343,0.104,130.024,0.801,1,0,0,True,
+6uUhilocIVpqN4t1FIijKX,G-Code (Nothing Over Family),"Don Czn, Wise G The Enterprise",132923,1923-01-04,1923,0.187,0.718,0.5,0.0,0.221,-9.691,0.496,129.747,0.313,1,9,0,True,
+2Q2TVTxhS2AteDkjstzFya,Rememb’ring,Duncan Sisters,180036,1923-09-27,1923,0.995,0.476,0.114,0.00147,0.12,-17.209,0.0352,73.229,0.47,1,2,0,False,
+5tZh4KCryL2y4nGOZ2cI8d,Proper Preparation - Extended,"Don Czn, Wise G The Enterprise",191464,1923-01-04,1923,0.164,0.794,0.521,0.0,0.0938,-9.748,0.353,140.039,0.737,1,1,0,True,
+3F4GqztwaSt9UGWkHLeAPu,House Of The Rising Sun,Dr. Denver,272366,1923,1923,0.42,0.69,0.678,0.00736,0.266,-8.651,0.0273,80.014,0.667,1,7,0,False,
+3p3amh6qEXuuM01TD8RwHG,Literally,"Don Czn, Wise G The Enterprise",140055,1923-01-04,1923,0.246,0.723,0.802,0.0,0.146,-5.875,0.252,134.745,0.41,1,0,0,True,
+2d3OQvoLSn9NA4sMGIYxNT,La Valse Du Faubourg,Félix Mayol,173426,1923,1923,0.978,0.623,0.292,0.0,0.341,-11.501,0.0558,61.28,0.934,1,4,0,False,vintage chanson
+5ayKHvopbXXlyrCi3qt61C,Two Time Dan,Lucille Hegamin and The Dixie Daisies,196259,1923-10-23,1923,0.977,0.732,0.371,0.00165,0.518,-11.993,0.13,129.465,0.713,0,4,0,False,
+19YbA6sVpClrEx4v4XOymM,Two Time Dan,The Broadway Syncopators,174192,1923-11-14,1923,0.949,0.531,0.722,0.0479,0.942,-11.334,0.122,150.31,0.737,1,4,0,False,
+1EO2kmkiP1nBvSOqGEQ7Zz,If You Don't Give Me What I Want,Rosa Henderson,173271,1923-11-14,1923,0.935,0.696,0.296,0.0,0.926,-14.711,0.0952,118.151,0.663,1,3,0,False,"classic female blues, harlem renaissance"
+5kY4Yotw4QhL4OCGoJ41NA,Los Ojazos de Mi Suegra - Remasterizado,Francisco Canaro,124613,1923-07-09,1923,0.996,0.431,0.241,0.877,0.153,-13.486,0.0651,117.048,0.278,1,4,0,False,"orquesta tipica, tango, vintage tango"
+50T3BunafG9DrI98pIW72c,"How Long Daddy, How Long",Ida Cox,178320,1923-06-03,1923,0.995,0.47,0.0913,0.744,0.128,-12.292,0.0692,91.884,0.319,1,5,0,False,"classic female blues, country blues, traditional blues"
+1HiZenCUZDpTv0eT1ETddP,Glad Rag Doll,Ted Lewis,170133,1923-05-27,1923,0.965,0.717,0.215,0.0564,0.152,-11.193,0.0972,163.325,0.872,1,5,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+4qCTrMjyVYDIGVKSGbuBNF,Il N'osait Pas Se Decider,Georgius,182440,1923,1923,0.976,0.613,0.457,0.0,0.192,-15.501,0.51,76.682,0.706,1,7,0,False,vintage chanson
+36T3evGNSp3R5JfGPBMlcP,Reykjavík - Aurora Borealis Disco Remix I,Young Astronauts Club,280684,1923-01-01,1923,0.0192,0.774,0.88,0.853,0.0974,-13.105,0.088,140.226,0.36,1,0,0,False,
+2kITHNjUK9KJdkBhsnlorM,Your Mamma's Gonna Slow You Down,Original Memphis Five,171285,1923-06-29,1923,0.981,0.618,0.419,0.872,0.836,-15.39,0.13,75.634,0.644,1,8,0,False,"dixieland, hot jazz, vintage jazz"
+1X90sRrDD1on2fykIDrZSJ,The House of David Blues,The Virginians,187299,1923-09-11,1923,0.962,0.557,0.531,0.892,0.487,-11.019,0.257,143.644,0.594,1,11,0,False,vintage jazz
+2rM4BLSpON7iuNvTGzb9qK,'Tain't Nobody's Biz-ness If I Do,Tennessee Ten,198792,1923-03-14,1923,0.972,0.566,0.386,0.494,0.479,-11.503,0.0452,142.551,0.427,1,10,0,False,
+7JaE9nyoN6wJw5Ves9LbrS,Nobody Knows You When You're Down And Out,Heiko Andresen,169468,1923,1923,0.934,0.714,0.0713,0.0,0.109,-20.984,0.0577,102.793,0.297,1,0,0,False,
+6Ln0QberzVgGa0Flhszayq,"Sonata No. 3 in D minor, Op. 27: Ballade - Remastered",Alexey Osipov,484458,1923,1923,0.99,0.252,0.166,0.000696,0.168,-16.206,0.052,89.104,0.0658,1,2,0,False,
+7DdCMOfXhJ1bFm6yCJTnVG,Say It While Dancing,Fletcher Henderson,157915,1923-01-16,1923,0.995,0.477,0.318,0.975,0.377,-17.195,0.0485,114.856,0.848,1,9,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2yLb4fisahbuSY0Ws2VGqg,When You Live in - the Land of Dreams,New Orleans Rhythm Kings,171733,1923-04-22,1923,0.913,0.65,0.512,0.868,0.357,-10.395,0.044,94.815,0.857,0,7,0,False,"dixieland, new orleans jazz"
+3zsFs71s4rmanTNdQUatzS,You Never Miss the Water till the Well Runs Dry,Harry Curtis,150569,1923,1923,0.906,0.743,0.417,0.0,0.0982,-10.234,0.0313,119.96,0.561,1,5,0,False,
+64QHjaQr5JO1U6LMJ4ewl5,I Never Knew What a Gal Could Do,New Orleans Rhythm Kings,183426,1923-04-22,1923,0.996,0.731,0.302,0.899,0.255,-14.174,0.0443,113.376,0.902,1,7,0,False,"dixieland, new orleans jazz"
+6Wzj8gL5xiVx15fAn4403F,St. Louis Shuffle,Fletcher Henderson & His Orchestra,153518,1923-03-27,1923,0.964,0.664,0.496,0.335,0.188,-14.248,0.106,127.79,0.963,0,8,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+5yxvgqDN3gGk3w7AzDbL8e,My Sweetie Went Away,Fletcher Henderson & His Orchestra,152182,1923-03-27,1923,0.995,0.704,0.484,0.95,0.464,-14.166,0.0492,109.614,0.922,0,9,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+3VBcSCbwG3KHa7632sGfvW,You've Got to Get Hot,Fletcher Henderson & His Orchestra,153552,1923-03-27,1923,0.995,0.746,0.359,0.915,0.281,-13.853,0.0472,113.701,0.922,1,0,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+2w3jTTalnok7sunx9UABIe,Journey Blues,Fletcher Henderson & His Orchestra,140401,1923-03-27,1923,0.996,0.7,0.342,0.859,0.455,-13.719,0.0457,132.847,0.9,1,5,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+4vhzKzLZa7uapP2yJ6HED8,St. Street Blues,Fletcher Henderson & His Orchestra,165228,1923-03-27,1923,0.995,0.506,0.367,0.257,0.104,-12.597,0.111,186.026,0.696,0,11,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+3QozVxgLGRsNSiw6gDmWYf,Memphis Bound,Fletcher Henderson & His Orchestra,157931,1923-03-27,1923,0.995,0.811,0.254,0.882,0.0948,-14.016,0.0594,119.472,0.937,1,7,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+4SolIIZlqc7ISBMCCdorhN,Let Me Introduce You to My Rosie,Fletcher Henderson & His Orchestra,162329,1923-03-27,1923,0.985,0.709,0.616,0.931,0.0878,-9.636,0.0674,138.489,0.977,1,3,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+6fdzlMi9gTd3HiHxGZQX3m,Eccentric,New Orleans Rhythm Kings,173280,1923-04-22,1923,0.995,0.547,0.363,0.904,0.129,-12.446,0.0412,93.395,0.762,1,0,1,False,"dixieland, new orleans jazz"
+7tOVVdXz5Wrjh28fDfyOkS,"El Perseguido, Tango",Iván Rolón,148465,1923,1923,0.882,0.422,0.0395,0.699,0.142,-26.18,0.0438,126.452,0.57,0,7,0,False,
+52rqxBsKzlyuWPkZDTryPJ,Ekipa Je Na Nogama,FanChants: Navijači Radnički 1923,117944,1923,1923,0.905,0.406,0.947,0.00225,0.821,-4.784,0.282,129.659,0.272,1,11,0,False,fan chant
+1xci8Zmd0JnJD5g2WwXpNx,Electric Girl - Remasterizado,Francisco Canaro,174666,1923-07-09,1923,0.994,0.563,0.426,0.96,0.209,-13.831,0.148,80.204,0.733,0,11,0,False,"orquesta tipica, tango, vintage tango"
+3XHUxnjmA15lbMDcGYiWwZ,Eleonore - Remasterizado,Francisco Canaro,157866,1923-07-09,1923,0.995,0.336,0.415,0.984,0.264,-15.088,0.17,167.96,0.76,1,0,0,False,"orquesta tipica, tango, vintage tango"
+2zFWLv60Tyz6D7SUQUNZtH,Elle N'est Pas Si Mal Que Ca,Mlle Davia,171933,1923,1923,0.995,0.519,0.292,0.0502,0.474,-15.185,0.0852,83.334,0.536,1,0,0,False,
+5YBjsVR59WWMhX2i6OaRBd,Everybody Loves Somebody Blues - but Nobody Loves Me,New Orleans Rhythm Kings,179480,1923-04-22,1923,0.993,0.657,0.376,0.0514,0.0932,-10.047,0.0598,137.689,0.68,1,8,0,False,"dixieland, new orleans jazz"
+0fLyft9CYPLitFS1lnef4e,Everybody Loves Somebody Blues - but Nobody Loves Me (Alternate Take),New Orleans Rhythm Kings,174973,1923-04-22,1923,0.995,0.677,0.343,0.0112,0.116,-10.111,0.0736,140.146,0.656,0,5,0,False,"dixieland, new orleans jazz"
+4aBACPRAZ0c9aE4hANFqQC,El Ranchito - Remasterizado,Ignacio Corsini,138386,1923-03-29,1923,0.995,0.52,0.168,0.916,0.106,-25.089,0.0598,133.933,0.88,0,6,0,False,vintage tango
+7BhXtTeUgdcBuV8Yb0FypJ,You've Got Everything a Sweet Mamma Needs But Me,Edna Hicks,159765,1923-04-04,1923,0.969,0.743,0.394,0.0,0.729,-12.478,0.0634,130.624,0.708,0,5,0,False,classic female blues
+5rLuDGj7TpOp2GIw8hgNVB,The Meanest Kind O' Blues,Fletcher Henderson,171056,1923-01-16,1923,0.995,0.594,0.27,0.169,0.211,-15.089,0.0411,71.841,0.341,1,0,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1gJNJBRiQGXdQK157mhaK6,Morning Will Come,Zez Confrey,184112,1923-02-19,1923,0.993,0.55,0.335,0.927,0.321,-12.379,0.0996,180.233,0.568,1,8,0,False,"american modern classical, ragtime"
+2VRVJNtXNRfBZp1gtQtTse,Liza Johnson's Got Better Bread,Ethel Ridley,183798,1923-09-26,1923,0.963,0.453,0.247,0.0,0.371,-11.389,0.0409,91.028,0.229,1,1,0,False,classic female blues
+6Hhf8sTvqBuvSDkflY5OKh,NO! Mafia,EVANGELIRICI PURO SANGUE,103720,1923-04-04,1923,0.766,0.788,0.281,5.19e-05,0.117,-15.848,0.301,140.063,0.471,0,1,0,False,
+1MAHrM0laQptS8FXm36F9I,When You Walked Out,Fletcher Henderson,175473,1923-01-16,1923,0.995,0.598,0.453,0.881,0.726,-12.064,0.0474,94.794,0.763,1,4,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+5ttpdTMU4yhAjWIOpvXyyN,FreeFall,FastLap,488010,1923-11-26,1923,0.0166,0.741,0.829,0.871,0.108,-10.82,0.0412,133.851,0.474,0,10,0,False,
+1HAxBqMSgUQcFFKNqO0Kud,Homing,Elsie Baker,174028,1923-01-15,1923,0.945,0.117,0.246,1.64e-05,0.897,-20.415,0.0489,171.392,0.0823,0,3,0,False,
+6B23Olc7unlf1u4g7fKcC9,Rien Qu'une Nuit,Emma Liebel,173960,1923,1923,0.988,0.219,0.301,7.16e-06,0.159,-14.602,0.0457,77.506,0.473,1,3,0,False,vintage chanson
+1RBBFKfghjk8RlHkvv3FEs,I Love You Truly,Elsie Baker,122588,1923-11-20,1923,0.995,0.234,0.227,9.29e-06,0.104,-13.878,0.0441,77.403,0.159,1,3,1,False,
+1AsXhXfoeCi6kxYRm5WrEi,Just Hot,Fletcher Henderson,157875,1923-01-16,1923,0.995,0.467,0.296,0.468,0.305,-17.481,0.0677,173.477,0.638,0,5,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3vd5cZ87HoyTQabfFaqHaw,Greenwich Witch,Zez Confrey,168099,1923-02-19,1923,0.996,0.439,0.16,0.872,0.123,-21.059,0.0421,115.151,0.749,1,8,0,False,"american modern classical, ragtime"
+42OFxgDREdy692OqRMkEND,Time Now Max,FastLap,352343,1923-11-26,1923,0.0487,0.804,0.729,0.794,0.148,-12.136,0.087,134.855,0.63,0,6,0,False,
+2OasoM3LDvEP3A7ptaSWaP,I'm Goin' Away,Edna Hicks,184765,1923-09-03,1923,0.991,0.548,0.109,8.66e-05,0.293,-17.918,0.0406,115.099,0.382,1,1,0,False,classic female blues
+3d4TpgiF5ZhRFoRTwD0csf,I Want To,Fletcher Henderson,184232,1923-01-16,1923,0.996,0.403,0.189,0.918,0.218,-22.366,0.0568,165.611,0.663,0,3,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+5ucHOwQXKRt0dDom9nzgpP,SI! Napoli,EVANGELIRICI PURO SANGUE,177359,1923-04-04,1923,0.783,0.631,0.0834,0.0,0.11,-20.667,0.648,81.074,0.376,1,1,0,False,
+4Rwas6vfvvwgeKpG1PyN68,When You Walked out Someone Else Walked Right in,Ray Miller And His Orchestra,187299,1923-04-10,1923,0.99,0.504,0.336,0.0358,0.463,-14.492,0.121,182.338,0.63,1,0,0,False,"big band, vintage jazz"
+5NTM6BHEQHZKKxt9BsK5Is,Waitin' for the Evenin' Mail,Tennessee Ten,181238,1923-02-07,1923,0.982,0.549,0.379,0.658,0.704,-11.849,0.077,139.41,0.504,1,3,0,False,
+2AXZQAr4q5iqPn1pjlG7zh,"Sonata No. 4 in E minor, Op. 27: II. ""Sarabande""",Franco Scozzafava,198437,1923,1923,0.988,0.357,0.00956,0.0074,0.13,-25.515,0.0437,105.797,0.355,1,7,0,False,
+5jDmj9bK5YyaeCYq01eHzG,You've Got to See Mamma Ev'ry Night,Hollywood Dance Orchestra,169796,1923-10-18,1923,0.984,0.748,0.548,0.162,0.412,-11.063,0.246,88.844,0.658,0,4,0,False,
+5G5CFwLItSxfy3lsiaL6D7,La Java - Remasterizado,Francisco Canaro,139733,1923-07-09,1923,0.994,0.512,0.291,0.944,0.247,-14.599,0.0407,150.63,0.888,1,4,0,False,"orquesta tipica, tango, vintage tango"
+4IZb9POk9nkymYNibJkUxh,Negro Veio - Remasterizado,Francisco Canaro,160786,1923-07-09,1923,0.996,0.407,0.407,0.982,0.296,-16.127,0.116,134.869,0.711,0,0,0,False,"orquesta tipica, tango, vintage tango"
+2TdBHm411Q9eU09zF24HHW,Padre Nuestro - Remasterizado,Francisco Canaro,151466,1923-07-09,1923,0.994,0.6,0.243,0.992,0.15,-15.922,0.055,125.772,0.614,0,4,0,False,"orquesta tipica, tango, vintage tango"
+0KKi98fPYrKasnzc26qDAW,"Sonata No. 6 in E Major, Op. 27 - Remastered",Alexey Osipov,460440,1923,1923,0.992,0.34,0.0792,0.000946,0.501,-19.133,0.0498,138.151,0.236,1,4,0,False,
+3CWF60PlvgsqrOSryYJyz7,"Sonata No. 4 in E minor, Op. 27: Sarabanda - Remastered",Alexey Osipov,254164,1923,1923,0.99,0.312,0.0212,0.0442,0.0631,-23.749,0.0411,81.663,0.219,1,7,0,False,
+4xoxTpgNnolA6lk5yIVtmB,Nerón - Remasterizado,Francisco Canaro,179986,1923-07-09,1923,0.995,0.332,0.291,0.858,0.404,-16.271,0.0555,186.573,0.593,1,1,0,False,"orquesta tipica, tango, vintage tango"
+7cXBqrsP9vw9n31zBR3HFg,Sacate la Caretita - Remasterizado,Francisco Canaro,182906,1923-07-09,1923,0.992,0.594,0.231,0.932,0.148,-15.425,0.0608,117.917,0.588,0,6,0,False,"orquesta tipica, tango, vintage tango"
+5nrgo1baweZCJCSa0gx30D,La Ratonera - Remasterizado,Francisco Canaro,173066,1923-07-09,1923,0.994,0.6,0.329,0.964,0.148,-14.876,0.0683,125.571,0.564,1,7,0,False,"orquesta tipica, tango, vintage tango"
+1VtCBfQf6KdQfmBgpRUUdY,Fakir - Remasterizado,Francisco Canaro,166586,1923-07-09,1923,0.989,0.424,0.283,0.968,0.289,-15.551,0.0509,138.19,0.444,1,6,0,False,"orquesta tipica, tango, vintage tango"
+0CvmUvqBk83K7aD1FitfXn,Sol Mio - Remasterizado,Francisco Canaro,172186,1923-07-09,1923,0.995,0.501,0.39,0.963,0.173,-14.475,0.05,83.162,0.807,1,2,0,False,"orquesta tipica, tango, vintage tango"
+545izoN6zrJPVbxnuWWv6e,Pelele - Remasterizado,Francisco Canaro,170666,1923-07-09,1923,0.996,0.566,0.312,0.951,0.252,-16.077,0.0853,129.161,0.762,0,11,0,False,"orquesta tipica, tango, vintage tango"
+32nnrij5A1KOcfM8N8vSIA,"Sonata No. 4 in E minor, Op. 27: Finale - Remastered",Alexey Osipov,211139,1923,1923,0.991,0.317,0.199,0.103,0.365,-17.332,0.0373,94.407,0.45,0,4,0,False,
+1vQro3lOihXZLpJ55NJBiJ,Oh! Joe,The Varsity Eight,186306,1923-01-17,1923,0.988,0.673,0.452,0.716,0.562,-11.486,0.0391,97.111,0.714,1,5,0,False,hot jazz
+4uWpUnbAsk19sCf8vu7m95,Go Time,"Don Czn, Wise G The Enterprise",181969,1923-01-04,1923,0.261,0.698,0.447,0.000519,0.214,-11.671,0.47,137.756,0.266,1,2,0,True,
+7b53B2Ep11q6IIOUEtcf2D,Gambling Jack,Jelly Roll Morton,172733,1923-05-27,1923,0.949,0.69,0.529,0.893,0.056,-10.062,0.0588,111.43,0.913,1,8,6,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0SLzS8TsBGxedRqSwRk5Az,Shreveport Stomp,Jelly Roll Morton,200426,1923-05-27,1923,0.988,0.85,0.587,0.915,0.118,-7.78,0.0422,113.978,0.966,1,10,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0aQmYFrK3K77fpmfrzwHu2,Grandpa's Spells,Jelly Roll Morton,177866,1923-05-27,1923,0.971,0.763,0.502,0.9,0.0752,-7.901,0.0609,103.478,0.953,1,0,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+4b6RthbclWD2xgmiVdGRn8,Mississippi Mildred,Jelly Roll Morton,177613,1923-05-27,1923,0.869,0.569,0.367,0.896,0.182,-8.565,0.136,176.901,0.841,1,8,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+4Oq5E8obpJajcOgtkrgBai,Mr. Jelly Lord,Jelly Roll Morton,174173,1923-05-27,1923,0.97,0.766,0.495,0.871,0.205,-7.376,0.0505,60.366,0.875,1,3,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+5pX6yBE8RmYCxpgaxowPs1,Sweet Jazz Music,Jelly Roll Morton,106440,1923-05-27,1923,0.994,0.587,0.241,0.646,0.107,-16.518,0.0455,84.922,0.736,1,10,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+1s9bOOFJC0E5xsM30ucywe,Steamboat Stomp,Jelly Roll Morton,189293,1923-05-27,1923,0.959,0.678,0.582,0.627,0.0831,-8.088,0.0604,123.298,0.968,1,3,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0LEXczCD2wRUgIpEreXXVv,Georgia Swing,Jelly Roll Morton,149586,1923-05-27,1923,0.989,0.805,0.541,0.874,0.283,-7.002,0.0434,107.503,0.968,1,8,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+2wjFPnLYnjgFF9jjnJkQGi,Turtle Twist,Jelly Roll Morton,191920,1923-05-27,1923,0.992,0.618,0.341,0.866,0.503,-8.158,0.0433,96.729,0.428,1,1,1,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+2m7DrJO4PAzmfnYVEhS27z,High Society,Jelly Roll Morton,168600,1923-05-27,1923,0.759,0.576,0.678,0.58,0.143,-7.354,0.0427,121.534,0.931,1,10,2,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+5XPz0wdrMI4ULLm72CB6zA,Funky Time Space Jam,Will Dwine,223124,1923-12-19,1923,0.000316,0.63,0.801,0.833,0.358,-8.682,0.0385,128.006,0.617,0,10,0,False,
+76u6dP1u0r0EljM0rhTNSg,Free the real Loks,Kozy Yayo,190216,1923-10-10,1923,0.121,0.745,0.784,0.0,0.0643,-8.551,0.304,92.029,0.574,0,9,0,True,
+7li6UhaaGIR6qcrZKdj1V6,"The Four Seasons: 'Winter' in F Minor, RV 297: Allegro non Molto - Choral Version","Qatar Concert Choir, Giovanni Pasini",230910,1923,1923,0.994,0.419,0.114,0.96,0.0681,-18.409,0.0476,127.638,0.0661,0,5,0,False,
+2VzUw89LjyfvGRuGGgQ7bk,From The Speaker,Jason Pascascio,336203,1923,1923,0.00025,0.629,0.929,0.915,0.771,-7.052,0.0418,125.993,0.145,1,1,0,False,
+2NPwHk7AopKprUBylLQ6ns,fart,rainsdeaf,101381,1923-05-18,1923,0.334,0.475,0.948,0.914,0.182,-4.628,0.235,108.078,0.0327,0,10,0,False,"chill breakcore, hexd"
+1MOX5iZH5qfmEiVaURqq9v,From Monday On,Paul Whiteman,154110,1923-02-28,1923,0.994,0.743,0.36,0.947,0.11,-15.962,0.0723,131.856,0.81,1,10,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4PRlsFkhlZmHZ517Oar7Rb,Freight Train Blues,Clara Smith,201573,1923-05-27,1923,0.996,0.567,0.254,0.924,0.216,-11.919,0.0319,79.448,0.473,1,5,0,False,classic female blues
+1DJsa38bXWkCLFkVaKCRwq,Shake Your Feet,Fletcher Henderson & His Orchestra,236870,1923-03-27,1923,0.995,0.773,0.374,0.805,0.166,-13.007,0.0423,120.332,0.909,1,9,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+2qm70GpiFrrlcBviuAwBDj,"You Know Me, Alabam",Fletcher Henderson & His Orchestra,173958,1923-03-27,1923,0.991,0.856,0.488,0.738,0.0714,-13.387,0.0557,124.5,0.872,1,8,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+4DIrbadZZSiTafWBZa6m6r,Variety Stomp,Fletcher Henderson & His Orchestra,165228,1923-03-27,1923,0.988,0.733,0.392,0.905,0.209,-13.855,0.0668,132.066,0.969,1,8,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+1Z4oxt8uN4QCpmbbGKqA8i,Old Fashioned Love,The Georgians,203232,1923-06-20,1923,0.986,0.398,0.459,0.041,0.419,-11.586,0.0825,123.322,0.432,1,5,0,False,"hot jazz, vintage jazz"
+2Czpzi1SqZgngQW3KeUgUt,No Future Sky,Young Astronauts Club,120608,1923-01-01,1923,0.000241,0.453,0.909,0.651,0.0647,-14.272,0.0364,172.02,0.78,0,1,0,False,
+7i2G8yW2ErW8HnnEhhRhFt,Headin' for Better Times,Ted Lewis,178533,1923-05-27,1923,0.885,0.826,0.395,0.0771,0.193,-9.477,0.0762,112.995,0.959,1,0,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+7660RQjlgntIsvEHV15wQv,I've Found a New Baby (Alternate Take),Ted Lewis,166653,1923-05-27,1923,0.982,0.827,0.378,0.856,0.529,-10.053,0.0844,113.642,0.937,0,0,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+5dDwP5ThiTU9ToIWH9BKzh,No Foolin',The California Ramblers,180115,1923-05-24,1923,0.991,0.884,0.365,0.109,0.324,-12.412,0.0608,116.054,0.833,1,3,0,False,"hot jazz, vaudeville, vintage jazz"
+4ahzr3gcXiolrIKuKpVwRn,The Girl Friend,The California Ramblers,165048,1923-05-24,1923,0.992,0.889,0.344,0.877,0.0965,-14.042,0.113,109.825,0.935,1,0,0,False,"hot jazz, vaudeville, vintage jazz"
+6YWxnOK6MuGT6mR9IkycJo,I Know Tha Future I - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1923-02-02,1923,0.351,0.627,0.101,0.785,0.0859,-18.361,0.0743,140.053,0.0378,1,9,0,False,
+5mgPYA1Q2tO7PwgKQidmHD,I've Got a Song for Sale,Ladd's Black Aces,178200,1923-02-07,1923,0.992,0.519,0.456,0.0688,0.873,-11.995,0.171,167.573,0.553,1,3,0,False,hot jazz
+6VWSJhuxjaIQdsE37xXfDj,Great is Thy Faithfulness,4509 STARPASS Prodcutions,256980,1923,1923,0.784,0.628,0.091,0.000944,0.102,-18.878,0.0398,130.486,0.152,1,0,0,False,
+1f3Ddcq8y0sOuPmY1mQRt3,"Sonata No. 1 in G minor, Op. 27: Finale. Con brio - Remastered",Alexey Osipov,162768,1923,1923,0.992,0.377,0.197,0.000131,0.1,-13.275,0.0642,168.047,0.44,0,7,0,False,
+4iVQG5gvr1Z7tWsWwdRgf1,I Know Tha Future II - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1923-02-03,1923,0.298,0.544,0.0502,0.752,0.0706,-19.521,0.0478,139.926,0.0403,1,2,0,False,
+4Xry98pNjzS69jRr5ck02r,"Sonata No. 1 in G minor, Op. 27: Fugato - Remastered",Alexey Osipov,317384,1923,1923,0.992,0.254,0.07,0.000625,0.261,-19.645,0.0519,99.322,0.209,1,3,0,False,
+1gAxehbLQtAVKyvLo97PrW,I Know Tha Future III - U.S. 7 Inch Single,"Young Astronauts Club, Michael Macintosh, Crystal Macintosh",600000,1923-02-04,1923,0.244,0.509,0.0253,0.847,0.105,-19.672,0.0469,140.024,0.0389,1,2,0,False,
+7hbNMX7fFwLbVZiWpO4xHW,Te quiero,Pierre Fleta,135482,1923-02-24,1923,0.896,0.381,0.256,0.000804,0.269,-14.721,0.0488,76.999,0.638,1,2,0,False,
+1cUhG6FSix5Ik4vBJruTXl,Sob Sister Sadie,Original Memphis Five,162116,1923-11-21,1923,0.995,0.752,0.327,0.196,0.0628,-13.709,0.0472,105.946,0.723,1,5,0,False,"dixieland, hot jazz, vintage jazz"
+1cBcC62t4X2oFQgZGTJlUM,More,Original Memphis Five,181200,1923-12-18,1923,0.994,0.662,0.294,0.000198,0.365,-13.495,0.0442,96.454,0.706,1,3,0,False,"dixieland, hot jazz, vintage jazz"
+6l4bZ1UPEhcshAuSzd4PjI,Memphis Glide,Original Memphis Five,180768,1923-10-17,1923,0.944,0.685,0.658,0.921,0.811,-11.306,0.0387,110.083,0.739,0,3,0,False,"dixieland, hot jazz, vintage jazz"
+5fnl6CEcx9wru2p6uFhH7M,New Orleans Hop Scop Blues,Clarence Williams' Blue Five,167602,1923-07-25,1923,0.996,0.626,0.186,0.925,0.22,-13.193,0.0532,126.233,0.662,1,11,0,False,"dixieland, harlem renaissance, hot jazz"
+1YjHwSX3Y7X8586eaXM1Kk,Tu Voudrais Me Voir Pleurer,Robert Jysor,184426,1923,1923,0.995,0.496,0.32,0.0,0.272,-12.255,0.0847,108.512,0.621,1,0,0,False,
+3jfv02Iwwdf4EqzKmgorQW,"Sonata No. 1 in G minor, Op. 27: Grave - Remastered",Alexey Osipov,308125,1923,1923,0.985,0.197,0.0671,0.00197,0.166,-23.342,0.0466,85.508,0.0726,1,8,0,False,
+4rU4TQ59s6Z91flH6bqPKM,Le Roudoudou,Gaby Montbreuse,185066,1923,1923,0.995,0.599,0.227,4.49e-05,0.129,-14.867,0.0646,78.265,0.584,0,10,0,False,
+1HfsGFkj5HdvEUyiWAr5Bv,Ma Gosse,Georgius,204400,1923,1923,0.98,0.635,0.285,0.0,0.446,-16.475,0.217,123.849,0.759,1,1,0,False,vintage chanson
+7ymH1GjQZfWnWgubae9POA,Golden Leaf Strut,New Orleans Rhythm Kings,171640,1923-04-22,1923,0.994,0.699,0.394,0.63,0.226,-10.711,0.0665,105.309,0.896,1,1,10,False,"dixieland, new orleans jazz"
+6iKB2oRafbCRAGcFTvvh7P,THINK IT OVER,"Ito, GXTY",197850,1923-04-01,1923,0.103,0.738,0.578,0.875,0.478,-16.724,0.111,122.997,0.253,0,9,2,False,
+4ZDVL0NZDq54CiYKd7SHdP,Gatemouth,New Orleans Wanderers,159153,1923-04-19,1923,0.992,0.742,0.488,0.905,0.361,-10.871,0.104,109.235,0.967,1,3,0,False,vintage jazz
+1phCMduncDpOMCqJMS3fIp,"Giovinezza, Giovinezza",Renzo Todini,181134,1923-11-22,1923,0.69,0.474,0.343,0.0,0.739,-13.957,0.0576,119.238,0.703,1,2,0,False,
+6DT6nvj99xYdNwh4zc2qVM,Glow Worm,Harry Curtis,130063,1923,1923,0.757,0.74,0.512,0.0,0.361,-8.373,0.0507,146.037,0.837,1,7,0,False,
+1PgoP6l29oQD6PAJefgZo5,Just Gone,King Oliver,163056,1923-09-27,1923,0.995,0.701,0.382,0.906,0.148,-14.114,0.0455,97.271,0.896,0,9,0,False,"dixieland, jazz trumpet, new orleans jazz"
+2bllEDxlYyLBjItfxi2Fmp,"Mama's Gone, Good-bye",Piron's New Orleans Orchestra,180115,1923-03-14,1923,0.995,0.465,0.18,0.379,0.0855,-12.929,0.111,161.457,0.296,1,10,0,False,hot jazz
+5HtZec0N8gEnfhakqnwrXR,Marcheta,The Great White Way Orchestra,183438,1923-02-24,1923,0.975,0.808,0.309,0.145,0.573,-14.655,0.254,107.195,0.73,1,5,0,False,
+7LCaqWe9bYf3fETbAP2nDh,Potomac River Blues,Gertrude Saunders,170293,1923-08-14,1923,0.981,0.527,0.395,0.0,0.707,-11.919,0.103,102.949,0.507,1,6,0,False,classic female blues
+4eM1VXQJL2BUF8oS5z0aMg,Sleepy Time Gal,Harry Curtis,161071,1923,1923,0.818,0.825,0.476,0.0,0.0901,-10.491,0.0328,119.979,0.785,1,1,0,False,
+5R6fgAmzlZFnUuAkyRmtQv,Where the Bamboo Babies Grow,The Virginians,191818,1923-11-14,1923,0.983,0.588,0.517,0.79,0.564,-11.735,0.147,176.179,0.821,1,4,0,False,vintage jazz
+5Nq4xXcxEwYmXKrJHGB1pH,"Oh, Lady Be Good!",Paul Whiteman,157149,1923-02-28,1923,0.995,0.643,0.188,0.809,0.144,-17.281,0.0479,118.987,0.765,1,7,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6rWjITKMX4mABvpxM0GStO,Tribute To Grandma,Ardykwait,2082037,1923-02-02,1923,0.161,0.693,0.856,0.0251,0.181,-7.444,0.0656,150.008,0.945,1,5,0,False,
+2Fu6MUKYEGFpuCVo5wj0bi,Khayef Yekoon Hobbak,Umm Kulthum,411880,1923-12-31,1923,0.887,0.317,0.281,0.307,0.138,-17.02,0.0832,126.691,0.205,1,7,1,False,"classic arab pop, microtonal"
+1aN3D9FqE9P7slzb60Eqwj,Hicran,Safiye Ayla,204173,1923-01-04,1923,0.994,0.227,0.423,0.787,0.439,-8.111,0.095,81.239,0.182,1,6,0,False,"rumeli turkuleri, turk sanat muzigi"
+1rdcCfxyj1NmBqfgFSmC77,He May Be Your Man,The Virginians,199811,1923-05-16,1923,0.972,0.647,0.57,0.827,0.54,-10.78,0.387,148.949,0.729,1,11,0,False,
+7yl2MXbFGEfhHS8psoWfcQ,Red Headed Music Maker,Wendell Hall,180533,1923-02-05,1923,0.964,0.502,0.288,0.0,0.477,-16.712,0.113,151.485,0.59,1,4,0,False,
+1VQ08j0cnuMiWWDHYj0Cs7,One Hour Mama (Alternate Take),Ida Cox,187080,1923-06-03,1923,0.905,0.598,0.318,2.19e-06,0.121,-7.059,0.0747,94.719,0.651,1,5,0,False,"classic female blues, country blues, traditional blues"
+1lxRFRONmnUxRz5YhQAAwX,Pek Muztaribim,Hafız Ahmet Celâl Tokses,167679,1923-12-18,1923,0.995,0.26,0.333,0.917,0.51,-17.084,0.0896,78.08,0.19,1,4,0,False,
+1IM5GNo7ctGQ6cfHS8C6XE,Pala Oyunu,Hafız Ahmet Celâl Tokses,175540,1923-12-18,1923,0.989,0.234,0.401,0.993,0.393,-15.225,0.04,77.395,0.823,0,4,0,False,
+56nYVNAo1pyeR5lNyQDkaw,Linda,Harry Curtis,115069,1923,1923,0.771,0.721,0.394,0.0,0.371,-10.624,0.0651,107.884,0.675,1,2,0,False,
+3DWEcGDSXu42LYHbSVYguU,There's No Tomorrow,Harry Curtis,130063,1923,1923,0.758,0.725,0.377,1.19e-06,0.118,-12.955,0.0324,109.982,0.806,1,11,0,False,
+25SMQZnHTtKcUxFIpG7Mhp,The Loveliest Night of the Year,Harry Curtis,162063,1923,1923,0.815,0.433,0.422,9.67e-06,0.114,-12.455,0.0418,160.021,0.453,1,10,0,False,
+17i65JvHYYWxdP0O0lxwPv,St. James Infirmary Blues,Heiko Andresen,170573,1923,1923,0.921,0.822,0.102,0.0,0.132,-15.641,0.0705,108.082,0.566,0,2,0,False,
+0ys6L26WhzBGue8lGEe0Cs,Pickles,Hollywood Dance Orchestra,196311,1923-11-13,1923,0.969,0.773,0.56,0.254,0.931,-12.626,0.147,106.933,0.847,1,3,0,False,
+6TdllkLW9COp9ZZ0IUmbfP,You Tell Her - I Stutter,The Cotton Pickers,189623,1923-08-14,1923,0.994,0.512,0.313,0.325,0.295,-14.041,0.233,175.791,0.94,1,7,0,False,hot jazz
+5PXi7rEjNqYFXVADxonxr8,When it's Night Time in Italy it's Wednesday Over Here,Porter's Blue Devils,158956,1923-11-06,1923,0.993,0.743,0.542,0.224,0.803,-12.045,0.163,101.954,0.586,1,4,0,False,
+3YAOkaIE04N02N7mwwTnfe,"Oh! Sister, Ain't That Hot!",Charles Dornberger,181056,1923-07-10,1923,0.992,0.744,0.427,0.869,0.334,-12.584,0.0552,94.361,0.689,0,1,0,False,
+5H6sNVeDPPN3zW4N6muSzM,Wet Yo' Thumb,Lucille Hegamin and The Dixie Daisies,191295,1923-04-18,1923,0.981,0.561,0.407,0.00109,0.665,-12.157,0.155,141.142,0.697,0,7,0,False,
+3h7pHACzEBTDBLLks2wpa2,So Long to You and the Blues,Rosa Henderson,187299,1923-01-18,1923,0.938,0.402,0.264,0.0,0.845,-15.56,0.138,200.429,0.492,0,2,0,False,"classic female blues, harlem renaissance"
+2ETPUPAnhnP2yCTOcwZOPe,Where (Can That Somebody Be),Rosa Henderson,170763,1923-11-21,1923,0.961,0.481,0.238,0.0,0.397,-15.585,0.344,80.072,0.526,1,4,0,False,"classic female blues, harlem renaissance"
+3iGzoRMgOScRitSEaGJvVn,"My Sweetie Went Away, Blues",The Savoy Havana Band,187063,1923-04-10,1923,0.995,0.531,0.245,0.912,0.364,-19.632,0.118,157.416,0.756,1,5,0,False,"british dance band, vaudeville, vintage jazz"
+4J9kEdGSoQainU184padSf,Play That Thing,Ollie Powers' Harmony Syncoptors,193307,1923-10-24,1923,0.995,0.491,0.52,0.859,0.539,-13.714,0.117,98.211,0.642,0,3,0,False,
+3XUR5XcCSdLmHmJoUxHwJb,Tears,King Oliver's Creole Jazz Band,181104,1923-09-26,1923,0.994,0.579,0.452,0.883,0.258,-10.831,0.035,105.991,0.515,1,3,0,False,"big band, dixieland, hot jazz, swing, vintage jazz"
+2EVcxfbSFGrvrvG8MPV0tE,"Maybe, Who Knows?",Ted Lewis,180173,1923-05-27,1923,0.89,0.553,0.299,0.694,0.112,-10.362,0.171,175.597,0.755,1,3,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+32UXPnGLyBtGmZupZHTQFa,My Mama's in Town,Ted Lewis,177280,1923-05-27,1923,0.977,0.635,0.315,0.793,0.423,-10.206,0.317,75.291,0.88,1,3,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+3u6XA6bADIvxqk1hEQQNDR,Poor Papa,Ted Lewis,169626,1923-05-27,1923,0.968,0.679,0.465,0.922,0.167,-9.19,0.14,96.269,0.964,1,0,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6z66zbYdEytwSwn9C2OLjI,Shim-Me-Sha-Wabble,Ted Lewis,183906,1923-05-27,1923,0.939,0.724,0.484,0.908,0.059,-12.554,0.0483,104.678,0.96,1,5,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+2RufUYaIC5ZdzrRNlJ1CsP,Milenberg Joys,Ted Lewis,166813,1923-05-27,1923,0.929,0.752,0.307,0.912,0.437,-12.321,0.215,114.251,0.881,1,8,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+5ZjgespLSfkdlelZroiJeM,Tin Roof Blues,Ted Lewis,188960,1923-05-27,1923,0.988,0.655,0.261,0.628,0.166,-12.241,0.0897,118.439,0.749,0,3,0,False,"dixieland, hot jazz, jazz clarinet, vaudeville, vintage jazz"
+6xXnCoFvXQ3YSpa07Oiyd0,Wang Wang Blues,Paul Whiteman,177733,1923-02-28,1923,0.995,0.43,0.279,0.783,0.394,-15.503,0.0508,183.134,0.817,1,5,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4ixi5KV4vVl467j8woT9GP,Ramona,Paul Whiteman,183288,1923-02-28,1923,0.983,0.457,0.18,0.811,0.103,-17.395,0.0499,157.359,0.631,1,3,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+0sfZOjyfyfAdZOPnsjlMmh,Together,Paul Whiteman,218318,1923-02-28,1923,0.975,0.272,0.134,0.833,0.22,-20.679,0.0559,66.883,0.346,0,7,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6jKXAIPaL67QXRgV6v2CwO,Wonderful One,Paul Whiteman,172071,1923-02-28,1923,0.995,0.327,0.154,0.236,0.432,-15.594,0.0366,144.004,0.41,1,3,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+0q2qJdns86FShroTqRIsoD,I Never Knew (I Could Love Anybody Like Im Loving You),Paul Whiteman,198553,1923-02-28,1923,0.995,0.527,0.233,0.888,0.127,-15.65,0.0327,99.316,0.775,1,7,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+5nY2t5OkcsI1Wk9Z82mDrX,Rose-Marie,Paul Whiteman,159149,1923-02-28,1923,0.994,0.513,0.158,0.0219,0.163,-16.984,0.0623,108.006,0.686,1,1,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+4iNycLfztDJziNFlNUWNdv,Say It With Music,Paul Whiteman,169464,1923-02-28,1923,0.994,0.381,0.126,0.885,0.113,-17.013,0.044,207.194,0.585,1,3,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+00aSWihbH72THhsjHm03iX,I Love Me,International Novelty Orchestra,195266,1923-05-21,1923,0.995,0.523,0.237,0.811,0.391,-18.151,0.14,183.837,0.707,1,7,0,False,
+08W814EZVphoAvMnVlOwpa,I Love My Man Better Than I Love Myself,Ida Cox,176453,1923-06-03,1923,0.995,0.505,0.413,0.0,0.206,-8.952,0.0673,104.587,0.496,1,10,0,False,"classic female blues, country blues, traditional blues"
+0jYNrGoDVBjEvFumpRf5Y3,I'm Somebody Nobody Loves,Missouri Jazz Band,175308,1923-02-12,1923,0.986,0.422,0.399,0.913,0.898,-14.228,0.0735,208.421,0.833,1,5,0,False,
+3s5L8QWRYd6eZZzgff0gsx,I'm Sittin Pretty in a Pretty Little City,Porter's Blue Devils,174499,1923-01-17,1923,0.993,0.683,0.499,0.466,0.909,-11.718,0.288,94.184,0.668,1,4,0,False,
+4tFGdXJ5nZBPoPnREWB2R6,Intermission,Young Astronauts Club,165000,1923-12-31,1923,0.877,0.716,0.588,0.0888,0.827,-15.417,0.487,102.625,0.579,0,10,0,False,
+6z6lTgLaQOAQrVYEin5YRg,Infrequency,Young Astronauts Club,235000,1923-01-01,1923,0.835,0.46,0.342,0.917,0.0917,-16.851,0.0666,175.976,0.0441,0,2,0,False,
+0JHgSufCtcbyOs0kh9tWgM,Sittin' in a Corner,The Vagabonds,175256,1923-05-23,1923,0.994,0.501,0.43,0.132,0.807,-12.213,0.172,205.851,0.913,1,8,0,False,
+42AemoYm5Il4C1DEvNin0N,M.K. III,Young Astronauts Club,900000,1923-12-31,1923,0.728,0.305,0.143,0.0052,0.136,-29.152,0.0526,140.047,0.0781,1,4,0,False,
+6NeHLGWD67PhoBttymFV6u,Slide II,Young Astronauts Club,300042,1923-01-01,1923,0.398,0.377,0.517,0.925,0.105,-24.518,0.339,93.346,0.032,0,4,0,False,
+1q0PWc5hWN2E2icXUqebzR,Slide I,Young Astronauts Club,300042,1923-01-01,1923,0.527,0.431,0.277,0.93,0.0732,-21.465,0.0479,89.699,0.146,1,1,0,False,
+0ij71ss08dxrecPX4ENdBe,M.K. II,Young Astronauts Club,900000,1923-12-31,1923,0.599,0.334,0.16,0.00743,0.299,-28.2,0.0521,140.104,0.0887,1,4,0,False,
+6asEXsTHaCiYPZUlO9UCIJ,M.K. I,Young Astronauts Club,900000,1923-12-31,1923,0.464,0.324,0.129,2.3e-05,0.138,-30.259,0.108,139.941,0.413,0,6,0,False,
+3CbenA0XVm0D1mMb8rrWjb,Last Time Blues (Alternate Take),Ida Cox,178733,1923-06-03,1923,0.995,0.412,0.202,0.0906,0.189,-10.659,0.101,83.818,0.471,1,6,0,False,"classic female blues, country blues, traditional blues"
+15tWAaFh48kU4pJsM4QDBS,Weary Way Blues,Ida Cox,167813,1923-06-03,1923,0.995,0.794,0.258,0.542,0.254,-8.923,0.0457,97.568,0.645,1,0,0,False,"classic female blues, country blues, traditional blues"
+7ATgW8QYw7O9TBOgF06xw0,Pink Slip Blues,Ida Cox,181440,1923-06-03,1923,0.982,0.602,0.259,2.71e-06,0.184,-9.807,0.0426,86.716,0.591,0,7,0,False,"classic female blues, country blues, traditional blues"
+3XWv7JOcuy65imTpCNW0Lw,Mean Papa Turn Your Key,Ida Cox,183413,1923-06-03,1923,0.996,0.531,0.215,0.0168,0.146,-8.953,0.0351,94.949,0.547,0,9,0,False,"classic female blues, country blues, traditional blues"
+72LsYBsiidB5nWiHYhdd3j,Worried Mama Blues,Ida Cox,196027,1923-06-03,1923,0.994,0.537,0.288,0.00492,0.545,-8.406,0.0468,80.5,0.571,1,3,0,False,"classic female blues, country blues, traditional blues"
+2TvUFsNJ7t8D4XFbyv1m5G,Kentucky Man Blues,Ida Cox,178933,1923-06-03,1923,0.996,0.487,0.276,0.00288,0.116,-9.051,0.0476,136.423,0.665,1,10,0,False,"classic female blues, country blues, traditional blues"
+6SkVLdgGWKDVlvRbxy5GEt,So Soon This Morning Blues,Ida Cox,179653,1923-06-03,1923,0.995,0.64,0.205,1.4e-05,0.108,-9.082,0.0356,97.129,0.385,0,9,0,False,"classic female blues, country blues, traditional blues"
+6DIS3aMViX5Fa3TpSn5VZa,Sombras - Remasterizado,Ignacio Corsini,138173,1923-03-29,1923,0.995,0.459,0.129,0.973,0.436,-24.289,0.0847,85.152,0.727,1,2,0,False,vintage tango
+0GkpS6KjxFsNt61hOpB2j9,La Payasa - Remasterizado,Ignacio Corsini,152946,1923-03-29,1923,0.992,0.47,0.28,0.926,0.107,-19.32,0.129,130.445,0.597,1,11,0,False,vintage tango
+3IOmj6NIiknYGtIuFGBSBG,Muchachita Loca - Remasterizado,Ignacio Corsini,153186,1923-03-29,1923,0.995,0.435,0.212,0.0165,0.252,-21.562,0.0479,122.928,0.698,0,6,0,False,vintage tango
+4wvSv5rsf4h3QNa7JJdf2I,Reykjavík - Vesturbær Remix I,Young Astronauts Club,500571,1923-01-01,1923,3.07e-05,0.766,0.71,0.818,0.0811,-16.159,0.191,140.013,0.0936,0,9,0,False,
+7oy3Pbw7Dhn8I4ZA7JTUDh,Too Many Kisses in the Summer,The California Ramblers,181081,1923-05-24,1923,0.995,0.741,0.235,0.415,0.533,-13.74,0.043,111.792,0.601,1,7,0,False,"hot jazz, vaudeville, vintage jazz"
+0rxYrrVk7iZxkfmFoxqB49,Milenburg Joys,New Orleans Rhythm Kings,170626,1923-04-22,1923,0.996,0.435,0.22,0.304,0.0843,-14.618,0.0429,154.258,0.703,1,8,0,False,"dixieland, new orleans jazz"
+6AJTuodHijgVx9PcuvJJYy,Mr Jelly Lord,New Orleans Rhythm Kings,181040,1923-04-22,1923,0.996,0.537,0.258,0.402,0.204,-13.252,0.0403,121.81,0.739,1,3,1,False,"dixieland, new orleans jazz"
+34b06ueMGyHtoDGC2bMzUF,Milenberg Joys (Alternate Take),New Orleans Rhythm Kings,166853,1923-04-22,1923,0.996,0.446,0.137,0.172,0.137,-15.852,0.07,157.374,0.641,1,8,0,False,"dixieland, new orleans jazz"
+2bO6kq1dKtKSOlfNpcUc7A,Mr Jelly Lord (Alternate Take),New Orleans Rhythm Kings,187413,1923-04-22,1923,0.996,0.582,0.255,0.517,0.123,-12.82,0.0385,117.617,0.679,0,7,0,False,"dixieland, new orleans jazz"
+0W6S78noTTCuOZGV0JMc8R,"Walk, Jennie, Walk",The Cotton Pickers,203912,1923-08-14,1923,0.991,0.553,0.24,0.31,0.803,-20.414,0.264,150.029,0.707,1,3,0,False,hot jazz
+6obURb4nFCqvRh1trkIHYh,Marchéta (A Love Song Of Old Mexico),Mcnalpak's Dance Orchestra,219562,1923-02-24,1923,0.992,0.708,0.186,0.16,0.363,-17.078,0.129,110.575,0.613,1,5,0,False,
+6nZtiaq38pqrAOoef0HBZW,Run The Jews,Yung Schnooty,227318,1923-08-08,1923,0.637,0.5,0.729,8.7e-05,0.17,-7.55,0.365,140.793,0.299,1,2,0,True,
+22P85Hm2okHd9difcjjZgz,P.M. (Oops),Young Astronauts Club,295079,1923-12-31,1923,0.439,0.391,0.424,0.474,0.323,-19.292,0.0565,109.288,0.0997,1,11,0,False,
+5JB78cL5pDMExffFZQX0E4,Tha Problem,Young Astronauts Club,320000,1923-12-31,1923,0.81,0.364,0.0331,0.0119,0.346,-27.158,0.312,61.658,0.103,0,7,0,False,
+5vCjKnfMzPN4QS5MMQNUNI,Sonora,Young Astronauts Club,185000,1923-01-01,1923,0.00227,0.285,0.533,0.826,0.0805,-13.643,0.039,111.429,0.462,1,7,0,False,
+6hrFFcvrPmlHZeplF1aUjT,Reykjavík,Young Astronauts Club,280684,1923-01-01,1923,6.69e-06,0.758,0.747,0.878,0.0606,-15.525,0.241,140.229,0.0464,0,8,0,False,
+3GXBgaUWFDaNQWaGmeh7CP,Maple Leaf,New Orleans Rhythm Kings,154840,1923-04-22,1923,0.993,0.521,0.632,0.876,0.251,-6.721,0.0741,116.646,0.924,1,7,9,False,"dixieland, new orleans jazz"
+6LxetKfvrYrymGuc0UqAoj,Tiger Rag,New Orleans Rhythm Kings,145840,1923-04-22,1923,0.995,0.632,0.448,0.89,0.212,-10.784,0.0517,117.18,0.963,1,8,10,False,"dixieland, new orleans jazz"
+3agrkXqneG38QjfgGtK40a,Nagasaki,New Orleans Rhythm Kings,189613,1923-04-22,1923,0.911,0.656,0.674,0.841,0.233,-8.289,0.0433,124.146,0.93,1,10,1,False,"dixieland, new orleans jazz"
+0ElaiqCSavzmZh8RQQUivk,22 Sensation,New Orleans Rhythm Kings,166826,1923-04-22,1923,0.89,0.766,0.755,0.935,0.0503,-5.447,0.13,119.957,0.725,1,8,0,False,"dixieland, new orleans jazz"
+0IjCBJFGC5jHM1Og4FBOtr,Reincarnation,New Orleans Rhythm Kings,205386,1923-04-22,1923,0.976,0.555,0.228,0.664,0.131,-11.37,0.0373,92.044,0.484,1,3,2,False,"dixieland, new orleans jazz"
+1mf1Ek7hHPeYxFtlRzEaqV,Shim-Me-Sha-Wabble,New Orleans Rhythm Kings,183826,1923-04-22,1923,0.99,0.366,0.603,0.276,0.115,-5.174,0.0909,184.432,0.609,1,9,1,False,"dixieland, new orleans jazz"
+79ssHMKS68Prlivi31vy0S,Mad,New Orleans Rhythm Kings,151293,1923-04-22,1923,0.996,0.665,0.195,0.842,0.15,-17.315,0.0479,110.67,0.844,1,5,0,False,"dixieland, new orleans jazz"
+15yjfXvSfqDHcj3FRTPzJj,Sensation Rag,New Orleans Rhythm Kings,167413,1923-04-22,1923,0.989,0.821,0.319,0.926,0.152,-15.729,0.363,119.513,0.9,1,0,1,False,"dixieland, new orleans jazz"
+7mw3ZBXsWnxbwO5C4b1ST1,"Kiss Mama, Kiss Papa",The Virginians,199811,1923-02-21,1923,0.986,0.579,0.469,0.449,0.457,-12.044,0.121,148.935,0.808,1,11,0,False,vintage jazz
+5Uenvr9H7nK4dViMCaDEXJ,Thibiron,Banda Kassamina,221776,1923-04-23,1923,0.407,0.8,0.913,0.0,0.0895,-5.023,0.036,108.007,0.956,0,4,0,False,
+3B2ElDxSlM1FSF6KDL5uPe,Lovin' Sam,Bennie Krueger's Orchestra,174786,1923-03-14,1923,0.985,0.564,0.539,0.787,0.956,-12.379,0.259,176.371,0.655,1,4,0,False,
+3NAPGvDP1afnmxs6EzHnL1,Panama,New Orleans Rhythm Kings,159426,1923-04-22,1923,0.995,0.589,0.6,0.907,0.266,-6.61,0.0346,99.22,0.962,1,3,0,False,"dixieland, new orleans jazz"
+6oy6LBr2y3k2ykdpDVGVkt,Tin Roof Blues (Alternate Take),New Orleans Rhythm Kings,175840,1923-04-22,1923,0.996,0.496,0.199,0.527,0.138,-13.417,0.0378,73.365,0.287,0,0,0,False,"dixieland, new orleans jazz"
+2EJ9U2woYFj44TzUAB4FtZ,Nagasaki (Alternate Take),New Orleans Rhythm Kings,187293,1923-04-22,1923,0.945,0.717,0.62,0.777,0.109,-8.56,0.0459,125.403,0.965,1,10,0,False,"dixieland, new orleans jazz"
+1rI6Pc2vUWAszwPxibQl8W,Marguerite,New Orleans Rhythm Kings,186346,1923-04-22,1923,0.996,0.542,0.258,0.94,0.176,-14.75,0.0314,99.605,0.54,1,3,0,False,"dixieland, new orleans jazz"
+6NVHWUZr0nnUsxYzbgOQTK,Maple Leaf Rag (Alternate Take),New Orleans Rhythm Kings,173960,1923-04-22,1923,0.914,0.651,0.657,0.547,0.111,-8.217,0.0549,124.383,0.963,1,8,0,False,"dixieland, new orleans jazz"
+7d2OdwPEkIWZ6ygzsSLXoZ,Shim-Me-Sha-Wabble (Alternate Take),New Orleans Rhythm Kings,178053,1923-04-22,1923,0.995,0.558,0.27,0.205,0.131,-11.853,0.0367,95.202,0.627,0,7,0,False,"dixieland, new orleans jazz"
+5afOqB2SvnYaM0UMUMYKCz,Sweet Lovin' Man,New Orleans Rhythm Kings,153413,1923-04-22,1923,0.994,0.454,0.3,0.00564,0.277,-11.651,0.0502,136.796,0.688,1,5,0,False,"dixieland, new orleans jazz"
+0Iun0SxRiEjS9RDyu2ahww,London Blues (Alternate Take),New Orleans Rhythm Kings,166426,1923-04-22,1923,0.996,0.559,0.183,0.896,0.19,-15.618,0.0439,66.523,0.543,1,5,0,False,"dixieland, new orleans jazz"
+25oNDvpsTLySxQc7hhX9jb,Sweet Lovin' Man (Alternate Take),New Orleans Rhythm Kings,160493,1923-04-22,1923,0.975,0.416,0.526,0.019,0.0774,-5.639,0.0341,130.697,0.754,1,4,0,False,"dixieland, new orleans jazz"
+65nMS4swrGbJcmMwOUiOGv,Mad,New Orleans Rhythm Kings,155088,1923-01-31,1923,0.995,0.464,0.283,0.895,0.34,-12.303,0.0501,108.357,0.783,1,0,0,False,"dixieland, new orleans jazz"
+3CPclhFzQa6f52Sdhxa0M4,Lady Luck Blues,Mamie Smith,199704,1923-10-16,1923,0.968,0.506,0.306,1.57e-05,0.93,-15.744,0.0452,66.029,0.309,1,3,0,False,"harlem renaissance, traditional blues"
+2zNJIiUCaBhtovCghRtylQ,Love Tales,Ben Bernie,179208,1923-07-26,1923,0.963,0.715,0.705,0.0414,0.815,-11.628,0.0616,105.499,0.843,1,8,0,False,
+5m65NALykP0e1eykbmpd1s,lab rat,Myrna Carriveau,97181,1923-04-04,1923,0.0114,0.446,0.603,0.000372,0.235,-11.897,0.298,102.293,0.345,1,11,0,False,
+6vyVrSLmHbW3XpRJKigSbb,Louisville Lou,Martha Pryor,180063,1923-05-11,1923,0.995,0.699,0.205,0.35,0.391,-16.034,0.233,133.56,0.749,1,5,0,False,
+5vTj3IHGq8nxotjUZ8ihxr,Runnin' Wild,Ladd's Black Aces,173208,1923-11-22,1923,0.993,0.638,0.504,0.65,0.938,-12.421,0.0975,92.596,0.593,1,9,0,False,hot jazz
+7j0NL5ibJgMpwvAPqSBT5J,TAKE NO Ls,Yung Schnooty,163500,1923-05-05,1923,0.0755,0.82,0.5,0.0,0.137,-8.56,0.363,96.858,0.473,1,1,0,True,
+615tdhtBOTJ40zkiAARClQ,My Sweetie Went Away,The California Ramblers,184268,1923-02-07,1923,0.991,0.686,0.403,0.244,0.388,-12.809,0.0636,81.957,0.657,1,5,0,False,"hot jazz, vaudeville, vintage jazz"
+4e98ZXk1oTBbPP2KZVUIBA,NO SMOKING,Yung Schnooty,167000,1923-05-05,1923,0.0663,0.684,0.424,0.0,0.668,-11.998,0.596,99.126,0.278,1,2,0,True,
+5G4WV9UDoHwu55RcVv6wib,Oriental,New Orleans Rhythm Kings,157333,1923-04-22,1923,0.995,0.298,0.226,0.381,0.0894,-13.955,0.0339,182.113,0.504,1,0,0,False,"dixieland, new orleans jazz"
+5MJUdyTurQ9JmMenuafbiT,Who's Sorry Now,The California Ramblers,165068,1923-05-24,1923,0.996,0.527,0.367,0.892,0.481,-13.271,0.0595,175.493,0.692,1,9,0,False,"hot jazz, vaudeville, vintage jazz"
+4OZIKDYuBB9IssUGINPf1B,Sud Bustin' Blues,Piron's New Orleans Orchestra,203103,1923-03-14,1923,0.994,0.597,0.418,0.953,0.378,-13.979,0.0537,133.516,0.768,1,2,0,False,hot jazz
+1OZOg4MXXW620oQS16ft9O,Think of Me,The Benson Orchestra of Chicago,150627,1923-04-05,1923,0.995,0.62,0.403,0.905,0.124,-12.569,0.159,131.193,0.778,1,11,0,False,
+1ztNerrOeEmYbXbaBGSm21,Sedna Seating Pt. VIII,Yung Schnooty,229500,1923-05-05,1923,0.0751,0.597,0.431,0.0,0.163,-10.68,0.353,96.881,0.582,1,6,0,True,
+1b2ZDycawYJXGQEsTNr7O9,Sedna Seating Pt. XIV,Yung Schnooty,231183,1923-05-05,1923,0.155,0.785,0.434,5.09e-05,0.281,-10.023,0.336,143.004,0.397,1,1,0,True,
+1rHSAMIsPpp8f6LFwdxf5q,yeah,TXPSYTURVY,260062,1923-12-25,1923,0.844,0.64,0.537,0.969,0.101,-16.445,0.0463,149.996,0.58,0,6,0,False,

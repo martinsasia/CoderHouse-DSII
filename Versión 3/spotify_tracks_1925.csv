@@ -1,0 +1,941 @@
+id,name,artists,duration_ms,release_date,year,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,mode,key,popularity,explicit,genre
+3XDharvL8vEyxdQwOQKmww,"On the Sunny Side of the Street (From ""Is Everybody Happy?"")",Tommy Dorsey,194320,1925,1925,0.969,0.678,0.175,0.00105,0.177,-13.021,0.0301,112.941,0.58,1,3,33,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+7BviF71nAMDKZFA6TC8WAt,Take a Drink on Me,Charlie Poole,197293,1925-03-31,1925,0.93,0.589,0.55,3.29e-05,0.327,-10.951,0.0331,125.67,0.973,1,2,11,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+4ou73CMygT62S9gubMZxIe,Song of India,Tommy Dorsey,186960,1925,1925,0.935,0.41,0.23,0.888,0.427,-12.827,0.0602,174.066,0.634,1,5,33,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+0cUs8JSe04UmqRr1QYDv3v,It Had to Be You,Isham Jones,184893,1925-04-08,1925,0.995,0.452,0.458,0.854,0.201,-6.175,0.0467,178.419,0.867,1,7,22,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+76CO061Xv4tqOrdbG1ROiI,I'll See You in My Dreams,Isham Jones,175613,1925-04-08,1925,0.993,0.297,0.34,0.122,0.147,-10.837,0.0345,207.812,0.679,0,4,19,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+3p0VwUCFW31rwgugbnAGhW,I'm Gettin' Sentimental Over You,Tommy Dorsey,217253,1925,1925,0.992,0.513,0.108,0.932,0.112,-16.835,0.0315,103.752,0.149,1,9,31,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+2HBNPqCMuaAOHp6s9OzOLo,Add A Little Wiggle,The All-Star Orchestra,182200,1925,1925,0.962,0.697,0.429,0.514,0.25,-9.241,0.0583,100.54,0.955,1,0,3,False,
+2lPV0bfNMgn7LGAXEyU1qR,At The Fat Man's,Tommy Dorsey,190560,1925,1925,0.915,0.62,0.435,0.00405,0.15,-8.284,0.0464,154.714,0.705,1,3,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+7DxfJhtZmbkwkFlF4eY55I,Araca la Cana,Osvaldo Fresedo,145133,1925-12-17,1925,0.926,0.786,0.185,0.0666,0.436,-10.792,0.0539,133.097,0.766,1,10,9,False,"orquesta tipica, tango, vintage tango"
+5CLkYMVMOfqW3VWcjKKr1n,Heebie Jeebies,Louis Armstrong & His Hot Five,171800,1925,1925,0.983,0.671,0.324,8.34e-05,0.143,-10.637,0.106,164.628,0.57,1,8,18,False,"hot jazz, new orleans jazz"
+1DgDeFnguStU8m7PJ33KvE,Que Nunca Me Falte,"Pedro Laurenz, Alberto Podestá",167933,1925-02-25,1925,0.957,0.742,0.214,0.655,0.298,-12.516,0.0963,122.464,0.845,0,2,24,False,"bandoneon, orquesta tipica, tango, vintage tango"
+1ynyU8dbbZi5FtXn1eTj93,Doin' the Uptown Lowdown,Isham Jones,158960,1925-04-08,1925,0.903,0.826,0.697,0.117,0.309,-12.555,0.0483,107.799,0.586,0,3,16,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0Gp988vgiHUPCZ8fQUbcJV,Paisaje,"Pedro Laurenz, Alberto Podestá",171133,1925-02-25,1925,0.971,0.695,0.407,0.0167,0.308,-6.246,0.0346,104.805,0.86,1,9,21,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6OqSDKLyZljPOUGT49CVxM,Sueño Azul,Osvaldo Fresedo,206266,1925-12-17,1925,0.984,0.358,0.321,0.275,0.227,-8.596,0.0346,118.544,0.376,1,9,15,False,"orquesta tipica, tango, vintage tango"
+2nOYxyusxAfqjZCUSxfNZ4,Muskrat Ramble,Louis Armstrong & His Hot Five,150160,1925,1925,0.982,0.666,0.336,0.733,0.0789,-10.138,0.222,183.833,0.85,1,8,15,False,"hot jazz, new orleans jazz"
+47c6hVC9hL8KoAclJCVOXC,Marie,Tommy Dorsey,197786,1925,1925,0.991,0.531,0.169,0.174,0.125,-14.5,0.077,165.168,0.806,1,5,24,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+14s9q3yRMLXmHcDE9LZ3se,Todo,"Pedro Laurenz, Alberto Podestá",155240,1925-02-25,1925,0.975,0.597,0.394,0.117,0.151,-7.029,0.0457,127.968,0.602,0,7,21,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6EmQbBIoWCG8Cu4BLOAFPJ,Recién,"Pedro Laurenz, Alberto Podestá",161000,1925-02-25,1925,0.978,0.557,0.278,0.875,0.166,-8.012,0.0387,121.675,0.659,0,0,20,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6C0bdY5MgM2WYu6yuxtzC5,Opus #1,Tommy Dorsey,175920,1925,1925,0.939,0.377,0.497,0.947,0.322,-9.292,0.0333,169.2,0.659,0,0,21,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1477RN0JQO8DxwojBjgb8n,Took My Gal a-Walkin',Charlie Poole,168986,1925-03-31,1925,0.955,0.56,0.357,4.75e-06,0.266,-8.574,0.032,105.85,0.943,1,2,10,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+7dXVSMwfH5X9y2ou0WtrzK,"Come Back, Sweet Papa",Louis Armstrong & His Hot Five,146266,1925,1925,0.915,0.783,0.3,0.478,0.0288,-10.066,0.13,99.102,0.925,1,7,13,False,"hot jazz, new orleans jazz"
+5YYbVEtvB0PHxYVXrJTDpM,Boogie Woogie,Tommy Dorsey,189786,1925,1925,0.852,0.689,0.222,0.924,0.104,-15.98,0.127,145.205,0.917,1,5,22,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+5fIYAGwzMDXx9RjQgD9K0h,Garúa,"Pedro Laurenz, Alberto Podestá",189120,1925-02-25,1925,0.98,0.612,0.277,0.216,0.15,-8.057,0.0462,121.822,0.724,0,4,18,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6O89uMM5FDGGRJ6aYLG51B,Stormy Weather (Keeps Rainin' All The Time) - 78rpm Version,Ethel Waters,185840,1925,1925,0.954,0.35,0.213,0.0,0.254,-12.808,0.0399,85.369,0.43,1,0,12,False,"harlem renaissance, torch song"
+2Yjx1TaDZRH7QXMRVtSBoC,I Hate Myself (For Being so Mean to You),Isham Jones,169413,1925-04-08,1925,0.952,0.562,0.674,0.564,0.238,-9.263,0.0855,209.928,0.82,1,5,11,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0D5FwCDDecKKbuwzsv99QV,Stardust,Isham Jones,206333,1925-04-08,1925,0.531,0.5,0.411,0.533,0.387,-8.087,0.0477,124.63,0.31,1,2,12,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+1fnxw3AClScXuQIoAyp8oG,Old and Only In the Way,Charlie Poole,209346,1925-03-31,1925,0.97,0.502,0.298,0.0,0.119,-10.709,0.0438,175.908,0.635,1,5,5,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+5PGXbXww1JWuVPNwYdzMwB,"Dusting The Donkey - aka ""The Pay-Off""",The Golden Gate Orchestra,181320,1925,1925,0.996,0.797,0.449,0.895,0.182,-12.592,0.0826,113.216,0.902,1,0,10,False,"hot jazz, vintage jazz"
+2AATCpoin3pSsUwjLKNCYe,Manhattan Serenade,Tommy Dorsey,275773,1925,1925,0.98,0.396,0.0802,0.000331,0.136,-15.696,0.0457,78.554,0.393,1,8,19,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+6xXlavKbZL6HqPfNWswZvp,Don't Forget To Mess Around,Louis Armstrong & His Hot Five,181933,1925,1925,0.992,0.631,0.347,0.0136,0.0889,-11.102,0.0601,101.803,0.784,0,5,5,False,"hot jazz, new orleans jazz"
+7y7gNlCv5WhDdBFXV1vGp2,My Heart,Louis Armstrong & His Hot Five,142893,1925,1925,0.985,0.692,0.467,0.0965,0.091,-7.237,0.0897,97.858,0.827,0,0,8,False,"hot jazz, new orleans jazz"
+14ZUqYdRXOTNI4mQCh35ph,You Ain't Talkin' to Me,Charlie Poole,177400,1925-03-31,1925,0.987,0.621,0.287,0.000121,0.246,-13.259,0.0462,122.835,0.842,1,2,2,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+5WXYBjrHST6Ev8hsszrnkn,Milonga de Mis Amores,Pedro Laurenz,146840,1925-02-25,1925,0.962,0.673,0.345,0.907,0.233,-6.833,0.0464,104.044,0.817,0,4,18,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3LQiqV3KZk3ZrzPeSBu8tI,Big Fat Ma and Skinny Pa,Louis Armstrong & His Hot Five,178040,1925,1925,0.995,0.596,0.341,0.0929,0.69,-10.838,0.271,170.338,0.786,1,3,3,False,"hot jazz, new orleans jazz"
+7od83Q1ZlsQtpsvNT5nGWH,The King of the Zulus,Louis Armstrong & His Hot Five,182773,1925,1925,0.994,0.595,0.257,0.335,0.411,-9.774,0.215,166.855,0.565,1,2,7,False,"hot jazz, new orleans jazz"
+0CN6DkLDHzH67FeEsX8YZl,Alma de Bohemia,"Pedro Laurenz, Alberto Podestá",162720,1925-02-25,1925,0.968,0.506,0.187,0.171,0.277,-7.739,0.0337,125.914,0.439,0,10,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6SBs4dlVcduPcTGQkUouIO,"A Smile Will Go A Long, Long Way",Peerless Quartet,163236,1925-01-21,1925,0.99,0.566,0.156,0.0,0.148,-16.919,0.0377,107.541,0.849,1,3,0,False,
+4i3hpDpsOEkgWgq7yv6zHt,Goodbye Blues,Art Jarrett,198840,1925,1925,0.968,0.517,0.293,0.035,0.15,-11.361,0.0416,131.702,0.522,1,8,3,False,
+1Fp6Ks6vHJiJ7Z54mLuTo2,Al Verla Pasar,"Pedro Laurenz, Martin Podesta",204280,1925-02-25,1925,0.985,0.594,0.321,0.0302,0.0926,-8.904,0.0475,121.47,0.356,0,0,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2SOj4VNBchSBhAyUB4MNX2,Abandono,"Pedro Laurenz, Hector Farrel",153186,1925-02-25,1925,0.959,0.633,0.404,0.137,0.327,-3.108,0.0465,128.741,0.838,0,11,7,False,"bandoneon, orquesta tipica, tango, vintage tango"
+52JwBEBCYbvxuCJ5qYkpHv,Arrabal,Pedro Laurenz,185186,1925-02-25,1925,0.964,0.674,0.391,0.458,0.169,-6.674,0.0444,132.075,0.788,1,0,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+7mXa1bR7kElQgbESePJaJR,Amurado,"Pedro Laurenz, Juan Carlos Casas",149853,1925-02-25,1925,0.965,0.531,0.709,0.194,0.352,-3.26,0.0376,131.784,0.856,0,5,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2iHtgZVqtU2lGy0WBhwHnU,Droppin' Shucks,Louis Armstrong & His Hot Five,170533,1925,1925,0.993,0.583,0.288,0.109,0.206,-9.204,0.123,177.647,0.768,1,5,6,False,"hot jazz, new orleans jazz"
+5BnopTvfLza9CwvBl75iNv,Oriental Strut,Louis Armstrong & His Hot Five,179333,1925,1925,0.995,0.541,0.258,0.614,0.16,-11.838,0.0865,183.702,0.451,1,5,6,False,"hot jazz, new orleans jazz"
+1qlX1t0ws9AyIksvKCzh83,Yes! I'm in the Barrel,Louis Armstrong & His Hot Five,156000,1925,1925,0.995,0.751,0.282,0.000778,0.106,-9.918,0.0697,154.265,0.77,1,5,6,False,"hot jazz, new orleans jazz"
+1YqVdkor7Mjh05m5PJ2h6e,A Todo Trapo,Osvaldo Fresedo,131052,1925-12-17,1925,0.875,0.699,0.507,0.0296,0.32,-11.77,0.0849,126.357,0.878,1,11,4,False,"orquesta tipica, tango, vintage tango"
+1sv1OM16E7IAFpReT4PEQS,A Kiss Waltz,Charlie Poole,190253,1925-03-31,1925,0.873,0.406,0.423,0.891,0.142,-8.665,0.0331,164.871,0.906,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+7ocEaCAhDXT9Uuyw5Jxu8c,After You,"Tommy Dorsey & His Clambake Seven, Edythe Wright",202026,1925,1925,0.964,0.744,0.147,0.526,0.0911,-13.56,0.0595,100.262,0.722,0,2,2,False,"big band, swing"
+6q9IP7wbfpocUiOEGvQqCZ,I'll Never Smile Again,Tommy Dorsey,192026,1925,1925,0.991,0.346,0.127,0.000124,0.72,-17.475,0.0372,71.184,0.21,1,0,4,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+75emlDlUaYovkPNCocTuMp,La Vida Es una Milonga,"Pedro Laurenz, Martin Podesta",144893,1925-02-25,1925,0.963,0.742,0.468,0.0219,0.396,-4.532,0.0409,109.153,0.911,0,5,21,False,"bandoneon, orquesta tipica, tango, vintage tango"
+61wCa6mI8xxcZH2GGnWPBc,Gut Bucket Blues,Louis Armstrong & His Hot Five,168400,1925,1925,0.996,0.618,0.141,0.91,0.115,-17.2,0.113,138.691,0.759,1,11,7,False,"hot jazz, new orleans jazz"
+23furE1azaxq02V6iHZHMt,Come Up And See Me Sometime,Ethel Waters,187133,1925,1925,0.967,0.58,0.225,0.0,0.118,-16.784,0.319,96.869,0.502,1,0,4,False,"harlem renaissance, torch song"
+434bGyDDArtCxNt7T7JAqz,Canto de Amor,Osvaldo Fresedo,201293,1925-12-17,1925,0.967,0.338,0.292,0.00448,0.215,-12.87,0.0373,84.929,0.571,0,10,9,False,"orquesta tipica, tango, vintage tango"
+3gpifbOAvYF9eGJLdjmZF7,Rock Your Blues Away,Isham Jones,153093,1925-04-08,1925,0.944,0.825,0.488,0.738,0.357,-11.026,0.0558,108.212,0.859,0,5,3,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6bTkrQHnJUXAQtIITRhTg5,You're Next,Louis Armstrong & His Hot Five,194626,1925,1925,0.985,0.625,0.223,0.0255,0.111,-11.825,0.0577,125.495,0.495,1,8,5,False,"hot jazz, new orleans jazz"
+1qEXqZQkzIaUnhmfObk2sL,Skid-Dat-De-Dat,Louis Armstrong & His Hot Five,182400,1925,1925,0.97,0.672,0.146,0.0182,0.101,-13.417,0.0472,122.127,0.607,1,0,5,False,"hot jazz, new orleans jazz"
+06EAFIZpwSKY659b6KPtAR,Hawaiian War Chant,Tommy Dorsey,190120,1925,1925,0.849,0.694,0.363,0.552,0.103,-11.692,0.103,101.726,0.809,1,10,12,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+7r9c3mqLjqfVe791cERNOI,"Yes, Indeed!",Tommy Dorsey,209986,1925,1925,0.945,0.804,0.217,0.0683,0.0849,-12.118,0.0602,131.117,0.498,1,0,10,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+7e1JFTRrpZIgr7lLE5XBKC,Cornet Chop Suey,Louis Armstrong & His Hot Five,175066,1925,1925,0.995,0.622,0.287,0.163,0.0671,-9.342,0.153,94.987,0.751,1,5,4,False,"hot jazz, new orleans jazz"
+3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,151600,1925,1925,0.897,0.73,0.213,0.0,0.152,-14.635,0.0554,140.34,0.706,1,8,5,False,"hot jazz, new orleans jazz"
+0rEP2CDOuvUm4zbhIPZAkK,Gut Bucket Blues,Louis Armstrong & His Hot Five,159933,1925,1925,0.988,0.573,0.295,0.000139,0.0784,-10.096,0.0525,146.336,0.678,1,5,5,False,"hot jazz, new orleans jazz"
+3H6wCLijWnyr4Wq9E3mmNi,Who'sit,Louis Armstrong & His Hot Five,163640,1925,1925,0.993,0.724,0.335,0.71,0.0691,-10.4,0.0411,106.338,0.867,1,0,4,False,"hot jazz, new orleans jazz"
+7iGSIYRmzu18rIMe8HrFkq,Cherry,The Big Aces,192893,1925,1925,0.988,0.538,0.333,0.158,0.139,-10.38,0.0764,174.542,0.603,0,0,9,False,
+2nSjyu82yxXPzdMWyOE6Y3,Please Don't Talk About Me When I'm Gone,Ethel Waters,192106,1925,1925,0.958,0.628,0.227,0.0,0.133,-13.328,0.0824,128.357,0.673,1,5,3,False,"harlem renaissance, torch song"
+0sSVsv3yHMSkL0qeLRoRDa,(What Did I Do To Be So) Black and Blue?,Ethel Waters,178293,1925,1925,0.954,0.7,0.197,0.0,0.361,-11.915,0.136,120.542,0.56,1,2,3,False,"harlem renaissance, torch song"
+7Dde47A4x0nAyOPMeuBDs9,Moon Country,Hoagy Carmichael & His Orchestra,194226,1925,1925,0.974,0.667,0.122,0.197,0.1,-14.869,0.0441,119.835,0.431,1,8,8,False,
+2UiPfmIWrBfzdfdiCZAVsu,Sweet Little Papa,Louis Armstrong & His Hot Five,163133,1925,1925,0.989,0.597,0.337,0.842,0.106,-10.079,0.136,187.665,0.9,1,5,3,False,"hot jazz, new orleans jazz"
+7lf1uY54Svtrc9PHPj7g9t,Lonesome Blues,Louis Armstrong & His Hot Five,182226,1925,1925,0.987,0.594,0.188,0.0,0.104,-12.796,0.0406,83.759,0.294,1,10,3,False,"hot jazz, new orleans jazz"
+4hoxOG3DE2yQO4E7A7MmfS,I'm Gonna Gitcha,Louis Armstrong & His Hot Five,162600,1925,1925,0.949,0.551,0.343,2.44e-05,0.158,-11.366,0.118,203.051,0.913,0,2,3,False,"hot jazz, new orleans jazz"
+71SxKog2t1yfpQ6LTkEXjC,The Minor Goes Muggin',"Tommy Dorsey, Duke Ellington",182120,1925,1925,0.974,0.431,0.462,0.752,0.114,-12.224,0.0551,177.837,0.626,1,6,3,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1bQ2BR5kCUrnvuTgfDwdiZ,Tonight I Shall Sleep,Duke Ellington,176946,1925,1925,0.975,0.178,0.141,0.833,0.119,-14.981,0.037,78.634,0.16,1,1,2,False,"african-american classical, harlem renaissance, jazz, jazz piano, swing, vocal jazz"
+3hg8GQXPCrlXuD1hulF67G,Sweet Georgia Brown,Isham Jones,186960,1925-04-08,1925,0.919,0.693,0.347,0.00972,0.203,-10.502,0.402,206.576,0.828,1,2,2,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+3fHgV9OfktqOegAvEP6zlv,Star Dust,Tommy Dorsey,185746,1925,1925,0.988,0.454,0.0886,0.0,0.118,-13.93,0.0425,79.182,0.287,1,7,8,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+2HQhHBFe2kDksoRKdGCZXF,Mon Anisette,Andrée Turcy,185306,1925,1925,0.955,0.654,0.156,0.0,0.344,-12.899,0.382,139.323,0.544,1,7,0,False,
+12JgvibIIArYH4wWN8c8x8,Jazz Lips,Louis Armstrong & His Hot Five,179666,1925,1925,0.938,0.801,0.341,0.15,0.15,-12.395,0.0927,107.101,0.962,1,5,2,False,"hot jazz, new orleans jazz"
+11NQ8XKG1wXmcC1ntUUbxN,There's a Wah-Wah Gal in Agua Cliente,Isham Jones,190733,1925-04-08,1925,0.903,0.855,0.546,0.296,0.141,-8.072,0.122,107.576,0.741,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0En2Cf0ziIKg8Frj3L9kGF,Vieja Amiga,Pedro Laurenz,190546,1925-02-25,1925,0.967,0.597,0.347,0.578,0.129,-5.331,0.0387,127.676,0.647,0,0,3,False,"bandoneon, orquesta tipica, tango, vintage tango"
+0OdnVaOpNpOChLJS7sMKoN,Llueve Otra Vez,"Pedro Laurenz, Carlos Bermúdez",172346,1925-02-25,1925,0.975,0.635,0.275,0.107,0.115,-7.237,0.0381,119.166,0.342,1,2,12,False,"bandoneon, orquesta tipica, tango, vintage tango"
+75kUBMUHbUC3D67YxaufSv,Yo Quiero Cantar un Tango,Pedro Laurenz,184533,1925-02-25,1925,0.979,0.621,0.291,0.438,0.205,-7.099,0.0431,122.48,0.753,0,11,9,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3G2ioNaqXW8RXtlhSD1zHp,Muskrat Ramble,Louis Armstrong & His Hot Five,157533,1925,1925,0.996,0.686,0.216,0.901,0.0595,-14.856,0.0959,174.4,0.882,1,7,4,False,"hot jazz, new orleans jazz"
+0Q5EanXZ4bfoTAHQeVM4EB,Mendocina,"Pedro Laurenz, Carlos Bermúdez, Jorge Linares",152413,1925-02-25,1925,0.934,0.558,0.215,0.00681,0.282,-12.708,0.0399,102.601,0.614,1,2,10,False,"bandoneon, orquesta tipica, tango, vintage tango"
+7FzJvAUQefmdjbjPaF5wd5,Como Dos Extraños,Pedro Laurenz,148546,1925-02-25,1925,0.982,0.573,0.357,0.388,0.437,-11.858,0.065,132.194,0.892,1,5,11,False,"bandoneon, orquesta tipica, tango, vintage tango"
+1icib6I3ZS5j9OY4nuL1rJ,De Puro Guapo,Pedro Laurenz,165880,1925-02-25,1925,0.964,0.774,0.208,0.363,0.168,-11.869,0.0875,135.441,0.667,0,0,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2Ve5waZJJrExJDHajoxDb1,Ten Little Miles From Town,Sam Lanin And His Famous Players,192360,1925,1925,0.985,0.767,0.285,0.139,0.101,-9.884,0.06,83.066,0.921,1,5,5,False,
+51VyfkxPZeaxpUsSIrjzRt,Ragtime Annie,Charlie Poole,196034,1925-03-31,1925,0.982,0.583,0.676,0.947,0.197,-2.688,0.0355,108.798,0.9,1,0,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+0kjeHNVxXTrtc9JtjMS0Vw,Take a Drink on Me,Charlie Poole with the North Carolina Ramblers,197293,1925-03-31,1925,0.93,0.589,0.55,3.29e-05,0.327,-10.951,0.0331,125.67,0.973,1,2,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+4ZLxl1wA0QRdghOjhkh1n3,Old and Only In the Way,Charlie Poole with the North Carolina Ramblers,209346,1925-03-31,1925,0.97,0.502,0.298,0.0,0.119,-10.709,0.0438,175.908,0.635,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+33LVZah12MBmodD9MH5WXE,Como Aquella Princessa,Osvaldo Fresedo,168293,1925-12-17,1925,0.925,0.682,0.27,0.0314,0.154,-11.653,0.0383,127.79,0.73,1,5,5,False,"orquesta tipica, tango, vintage tango"
+18LjesQ2Tim86LFUbXoiUw,Me and My Shadow,Jack Smith,195986,1925-06-03,1925,0.994,0.473,0.11,0.0179,0.0977,-18.956,0.12,71.787,0.352,1,2,2,False,
+2ekapf1zGGUtNohXjcgGUI,Husband and Wife Were Angry One Night,Charlie Poole,172613,1925-03-31,1925,0.964,0.711,0.339,0.0,0.397,-10.556,0.0288,97.119,0.931,1,7,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+31d4c389HCF9pQo3ODHXgZ,Taking A Chance On Love,Ethel Waters,190000,1925,1925,0.972,0.64,0.129,0.0,0.656,-15.323,0.0619,126.108,0.527,1,9,1,False,"harlem renaissance, torch song"
+0OPi9HLIAxBhAzktOitof8,Write a Letter to My Mother,Charlie Poole,183346,1925-03-31,1925,0.873,0.699,0.45,0.000249,0.0631,-7.955,0.0264,97.045,0.942,1,8,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+5OhEHB9YEo9ZQxYQaC2rcC,Heartbreak Hotel,"Tommy Dorsey, Elvis Presley",180813,1925,1925,0.969,0.553,0.539,0.000575,0.946,-9.161,0.502,93.307,0.807,1,4,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+6DYnSk5zkvMQEK8Awm2acT,How Deep Is the Ocean?,Bing Crosby,192626,1925,1925,0.984,0.348,0.116,6.35e-06,0.674,-13.753,0.046,73.743,0.258,1,6,4,False,"adult standards, easy listening, lounge, swing"
+3Ym9KAplnUsm8kIrwETUBy,Imagination,"Frank Sinatra, Tommy Dorsey Orchestra",193840,1925,1925,0.924,0.499,0.0748,0.0144,0.55,-13.552,0.0439,113.267,0.429,1,1,4,False,"adult standards, easy listening, lounge"
+0essUCvanI8d9dJaMtKM8v,Nunca Tuvo Novio,"Pedro Laurenz, Alberto Podestá",193613,1925-02-25,1925,0.991,0.683,0.326,0.00151,0.31,-8.199,0.0397,122.794,0.701,1,4,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3kVe0BuSpN6MxwFZ9zwAny,Yo Soy de San Telmo,"Pedro Laurenz, Alberto Podestá",151329,1925-02-25,1925,0.954,0.735,0.296,0.404,0.107,-6.865,0.047,111.177,0.934,1,0,7,False,"bandoneon, orquesta tipica, tango, vintage tango"
+0KJQT53SwBHyPL0abnhDOA,El Criollito Oriental,"Pedro Laurenz, Alberto Podestá",145680,1925-02-25,1925,0.97,0.655,0.374,0.0294,0.252,-5.481,0.0365,104.044,0.903,1,4,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3nuqEkXi0uYI6io65AlMDu,Patria Mía,"Pedro Laurenz, Alberto Podestá",201453,1925-02-25,1925,0.97,0.594,0.231,0.00416,0.115,-7.339,0.049,122.471,0.677,1,5,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+4xk77Gm757tdoeVT14DmEG,Es Mejor Perdonar,"Pedro Laurenz, Alberto Del Campo",158893,1925-02-25,1925,0.973,0.604,0.315,0.00033,0.128,-6.599,0.0397,127.627,0.773,1,8,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+1QplKn85fm0NV64MdcTfYe,Buscandote,Osvaldo Fresedo,170853,1925-12-17,1925,0.961,0.474,0.367,0.00205,0.14,-10.784,0.0321,126.02,0.522,1,1,21,False,"orquesta tipica, tango, vintage tango"
+0aUTZjgkNG4jJ0wzqtXh2G,My Melancholy Baby,The Dorsey Brothers,180960,1925,1925,0.968,0.731,0.341,0.138,0.212,-9.87,0.146,101.408,0.852,1,3,22,False,"big band, swing"
+0sanHFOXOnf63Rxzc7sTci,Milwaukee Blues,Charlie Poole,198506,1925-03-31,1925,0.978,0.743,0.406,2.45e-05,0.1,-8.949,0.042,106.914,0.908,1,1,12,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+2hZLJJa2ohHrHukNkJVxNf,White House Blues,Charlie Poole,211066,1925-03-31,1925,0.923,0.549,0.414,1.6e-06,0.264,-8.639,0.046,121.29,0.815,1,7,14,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+1vEK2vbx8x7nWOHmAFpHUD,Bend Down Sister,Chick Bullock And His Levee Loungers,181466,1925,1925,0.992,0.776,0.376,0.0341,0.0892,-10.126,0.0436,106.555,0.864,1,0,2,False,
+1ceI5iUFrAPEylZ2lrcQ9w,Bill Mason,Charlie Poole,181413,1925-03-31,1925,0.911,0.754,0.476,9.62e-06,0.118,-9.501,0.0826,119.012,0.959,1,7,3,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+3Da0rFSGowkOPtcugvxKp5,Bugle Call Rag - 78 rpm Version,Ed Lang & His Orchestra,178786,1925,1925,0.846,0.823,0.613,0.886,0.0534,-9.062,0.0674,114.038,0.895,1,10,3,False,
+1Znnilxi9JGrqarvVHAgy3,Breakaway,The Travelers,169560,1925,1925,0.959,0.934,0.609,0.889,0.0966,-9.479,0.0636,107.321,0.855,1,2,3,False,
+34pr3e46mgJ2ShyZbj4i2N,I'm Forever Blowing Bubbles,Jack Smith,77053,1925-06-03,1925,0.979,0.529,0.0946,2.21e-06,0.677,-10.731,0.0403,92.824,0.26,1,5,14,False,
+5g71xO5NJXI1kkzNsD7Fon,Ramblin' Blues,Charlie Poole,187520,1925-03-31,1925,0.929,0.682,0.449,3.5e-05,0.148,-7.73,0.0366,121.687,0.927,1,0,6,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+65c9Iqv8M6Gh7A6uKnGw2P,Eat Wit Me,"Big Quis, Rmc Mike",110262,1925-03-05,1925,0.0764,0.757,0.642,0.0,0.178,-10.197,0.359,98.102,0.553,0,5,5,True,detroit trap
+37DerASEgA4BfAmltRbIzP,Don't Let Your Deal Go Down Blues,Charlie Poole with the North Carolina Ramblers,173520,1925-03-31,1925,0.991,0.596,0.428,0.0306,0.372,-10.069,0.0373,137.04,0.891,1,2,9,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+7on1N979cYvlNt3Nfrqicv,Sentimental Gentleman From Georgia,The Boswell Sisters,184706,1925,1925,0.956,0.668,0.132,4.84e-06,0.0776,-12.561,0.094,122.527,0.733,0,4,4,False,"new orleans jazz, vintage jazz, vocal harmony group"
+5ZVz5zhxsHSn5sHw4DRfx4,Eat Wit Me,"Big Quis, Rmc Mike",110262,1925-03-05,1925,0.0801,0.761,0.644,0.0,0.179,-10.144,0.363,98.595,0.544,0,5,4,True,detroit trap
+1vROLthPbAPbsO85MlLM30,Yellow Dog Blues - Remastered 2024,Bessie Smith,176326,1925,1925,0.995,0.583,0.246,0.00123,0.268,-8.585,0.0327,93.312,0.728,1,8,3,False,"blues, harlem renaissance, jazz blues, traditional blues"
+5Nzd6zrlxV5rA0xzn7qIUN,Cinderella Brown,The Charleston Chasers,210613,1925,1925,0.906,0.799,0.409,0.167,0.331,-10.617,0.0825,88.614,0.88,1,3,3,False,"british dance band, dixieland, hot jazz, ragtime, vaudeville, vintage jazz"
+3V1sblJugg82L8yxgw6BMZ,Lullaby Of The Leaves,Connie Boswell,189440,1925,1925,0.992,0.376,0.104,8.15e-06,0.159,-16.626,0.0488,90.542,0.202,1,2,8,False,torch song
+6ivMXI6YMOPvsiUyTDIV7b,Bugle Call Rag,Victor Young,175693,1925,1925,0.927,0.734,0.474,0.0762,0.737,-10.544,0.256,132.788,0.902,1,10,1,False,classic soundtrack
+6NgWKnyCfpCPRgzFla4JYP,Blues,A Jam Session At Victor,178906,1925,1925,0.955,0.717,0.178,0.519,0.0663,-15.267,0.0607,84.079,0.479,1,3,2,False,
+65v4bfV6XlbmkPYGfFEyTy,Baby Face,Jack Smith,187960,1925-06-03,1925,0.985,0.447,0.242,0.0135,0.109,-18.115,0.374,75.065,0.743,1,5,1,False,
+1YfgBUdlNojzn1Ke9uj1Ql,Bulldog Down In Sunny Tennessee,Charlie Poole,161026,1925-03-31,1925,0.96,0.649,0.39,2.6e-06,0.096,-12.237,0.0417,167.348,0.903,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+2pOVw5D2U0UfsJll4vFh8s,Buscándote - Versión Alternativa,Osvaldo Fresedo,168733,1925-12-17,1925,0.957,0.477,0.307,0.0317,0.104,-9.732,0.0326,123.268,0.55,1,0,8,False,"orquesta tipica, tango, vintage tango"
+1kL4Qz025Tg83W02MFC7G4,Baltimore Fire,Charlie Poole,193760,1925-03-31,1925,0.906,0.513,0.468,1.06e-06,0.162,-7.237,0.0307,115.811,0.929,1,7,2,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+5tOL3KMVSkOJK3pKlNPwiU,boys,Shane William Kimber,237747,1925-09-10,1925,0.688,0.275,0.592,0.35,0.227,-18.193,0.619,220.078,0.147,1,0,1,False,
+6MWxok8M7vCTguRy8QR9gc,It Won't Be Long Now,Paul Whiteman & His Orchestra,195066,1925,1925,0.963,0.557,0.266,0.0148,0.431,-11.338,0.14,154.684,0.495,0,0,4,False,"big band, british dance band, hot jazz, vaudeville, vintage jazz"
+3CeV6B6hU9iC0KqxnTC3Oa,Don't Let Your Deal Go Down Blues,Charlie Poole,173520,1925-03-31,1925,0.991,0.596,0.428,0.0306,0.372,-10.069,0.0373,137.04,0.891,1,2,5,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+1xxZATxkPkllMCm204ctUR,Mean To Me,The Dorsey Brothers Orchestra,207893,1925,1925,0.981,0.573,0.171,0.0641,0.0752,-11.474,0.0442,147.841,0.785,1,2,5,False,big band
+1YobXiCCdnlBVzezl5nAt0,"Come Back, Sweet Papa",Louis Armstrong & His Hot Five,151960,1925,1925,0.995,0.644,0.123,0.858,0.218,-18.648,0.394,189.67,0.787,1,11,3,False,"hot jazz, new orleans jazz"
+0eqRYgft7ZKV9GJPbwNl35,Dippermouth Blues (feat. Jimmy Dorsey),"Tommy Dorsey, Jimmy Dorsey",174400,1925,1925,0.733,0.464,0.867,0.543,0.386,-7.986,0.134,119.652,0.498,0,0,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+5A83zxMMdKbX05bf2s3XFT,Jimetown Blues,Isham Jones,177613,1925-04-08,1925,0.751,0.798,0.408,0.0509,0.123,-12.959,0.0367,107.38,0.89,1,8,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+2vj2vmztnWat3XHtopPfZJ,Falling By the Wayside,Charlie Poole,186693,1925-03-31,1925,0.99,0.57,0.291,0.0,0.126,-11.611,0.0342,103.416,0.777,1,8,0,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+7yzAwEctN1xvUrubRFskiK,My Baby Just Cares for Me,Isham Jones,154533,1925-04-08,1925,0.962,0.732,0.532,0.916,0.275,-8.818,0.0496,101.106,0.835,0,10,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+387XrR54HD3pe5rhmG2ts5,Just Born to Be Lonesome,Isham Jones,195053,1925-04-08,1925,0.899,0.406,0.275,0.136,0.121,-11.411,0.039,131.265,0.355,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+61zSM8kaKDEhXev6AHPB8r,Jimtown Blues,Tommy Dorsey,233186,1925,1925,0.801,0.841,0.693,0.723,0.0386,-9.603,0.0988,106.238,0.881,1,10,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+6K2IbJ5X8YNe0BYL42147P,Milwaukee Blues,Charlie Poole with the North Carolina Ramblers,198506,1925-03-31,1925,0.978,0.743,0.406,2.45e-05,0.1,-8.949,0.042,106.914,0.908,1,1,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+4svHFbqDUfUL6u9JIT2y9H,Ramblin' Blues,Charlie Poole with the North Carolina Ramblers,187520,1925-03-31,1925,0.929,0.682,0.449,3.5e-05,0.148,-7.73,0.0366,121.687,0.927,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+6PQ0UU7LdYgBFHRFVr5Q92,Wabash Blues,Isham Jones,180106,1925-04-08,1925,0.996,0.373,0.373,0.867,0.287,-9.067,0.0473,158.292,0.807,1,1,2,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6LZPkwV5IJZtrMXaEE82wH,Poor Butterfly,Isham Jones,188093,1925-04-08,1925,0.977,0.51,0.378,0.019,0.33,-11.167,0.073,140.692,0.681,1,10,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+2SzbcQTQZ0AMjSsTy4MfWR,I'm Bidding My Buddy Goodbye,Isham Jones,158893,1925-04-08,1925,0.983,0.457,0.235,0.108,0.364,-8.412,0.0361,82.498,0.367,1,8,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+4q2x0yyE1aYAMxm1Cp6mUv,I Wonder Where My Baby is Tonight,Ben Selvin,182623,1925-10-12,1925,0.993,0.774,0.51,0.0133,0.172,-6.729,0.0833,119.516,0.94,1,8,0,False,vintage jazz
+0J6o1ijlHphxTnvY7Tz0xY,Poor Me Blues,Edna Hicks,160769,1925-10-21,1925,0.996,0.629,0.242,0.466,0.298,-17.061,0.123,96.981,0.859,1,0,0,False,classic female blues
+0hSN35yC0J7lvutqnL5A26,Firuletear de Bandoneón,"Pedro Laurenz, Juan Carlos Casas",192706,1925-02-25,1925,0.982,0.627,0.328,0.0141,0.138,-8.062,0.0455,126.787,0.73,0,7,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+16asKLJmoAwh4XX6M5S5Pp,White House Blues,Charlie Poole with the North Carolina Ramblers,211066,1925-03-31,1925,0.923,0.549,0.414,1.6e-06,0.264,-8.639,0.046,121.29,0.815,1,7,1,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+3KhXU8Iku8q6IAiKrZY9pq,I Can't Believe It's True,Isham Jones,193280,1925-04-08,1925,0.977,0.817,0.383,0.000915,0.0761,-11.166,0.239,123.468,0.874,0,5,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+7aXtdan5Jnpxd8FM5AmkUs,There's Good Blues Tonight,Tommy Dorsey & His Clambake Seven,222133,1925,1925,0.979,0.751,0.378,1.42e-06,0.759,-9.972,0.462,128.665,0.638,1,4,2,False,"big band, swing"
+1YYgT9M5FuVmpewYQj6wkU,Let That Be a Lesson to You,Isham Jones,167253,1925-04-08,1925,0.992,0.589,0.242,0.154,0.0717,-10.238,0.0779,169.204,0.823,1,2,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0w5rW9ePEulpD8qkFCu4DS,Song of the Blues,Isham Jones,193653,1925-04-08,1925,0.958,0.593,0.281,0.0176,0.0893,-12.004,0.0692,149.578,0.601,1,8,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0ECsJ0aC4zNUnQPfarKxWm,There's Nothing Left to Do but Say Goodbye,Isham Jones,206053,1925-04-08,1925,0.907,0.582,0.267,0.0495,0.338,-9.8,0.0416,122.835,0.828,1,7,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+1U87jqSftfkHrx8Csm5C3a,It's Funny to Everyone but Me,Isham Jones,186693,1925-04-08,1925,0.987,0.455,0.262,0.00562,0.282,-10.602,0.0346,133.151,0.277,0,0,2,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6rWXuCoH1xnnRFCKZzoGVL,Put On Your Old Grey Bonnet,Tommy Dorsey,138680,1925,1925,0.786,0.544,0.647,0.727,0.764,-11.564,0.148,140.089,0.814,0,7,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+7FbHOM5P1df63gV7xsAIcn,When My Sugar Walks Down the Street (All the Little Birdies Go Tweet Tweet Tweet),Isham Jones,185360,1925-04-08,1925,0.91,0.783,0.369,0.000869,0.149,-12.249,0.12,126.235,0.572,1,10,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+5kI93g1GE6lkuA6v9fz7er,Yes! I'm in the Barrel,Louis Armstrong & His Hot Five,163106,1925,1925,0.996,0.751,0.133,0.139,0.128,-16.975,0.0899,147.306,0.765,0,1,0,False,"hot jazz, new orleans jazz"
+68nUatvdvTFOdu4YhSUhcj,"I Just Couldn't Make It, Baby",Ethel Waters,181893,1925,1925,0.985,0.481,0.157,1.3e-06,0.207,-12.936,0.0684,92.374,0.415,1,1,2,False,"harlem renaissance, torch song"
+4SUZxev3cGf4DOByQAc1WY,Shoutin' In That Amen Corner,Mildred Bailey,171626,1925,1925,0.951,0.708,0.424,0.00024,0.117,-9.897,0.145,124.781,0.876,1,5,2,False,torch song
+3TyrWNoKRbNIf518AklVXx,Who Stole The Lock (On The Hen-House Door),Jack Bland,162226,1925,1925,0.941,0.767,0.69,0.272,0.0652,-9.304,0.335,119.293,0.744,1,3,2,False,
+5rEAqKzIBrzj5KmjgyWdzQ,La Madrugada,"Pedro Laurenz, Carlos Bermúdez",162160,1925-02-25,1925,0.928,0.707,0.297,0.408,0.0766,-6.156,0.0469,121.81,0.794,0,2,5,False,"bandoneon, orquesta tipica, tango, vintage tango"
+5Q5iNJIvBCwSKIwGspzyuX,Me Estan Sobrando las Penas,"Pedro Laurenz, Carlos Bermúdez",167760,1925-02-25,1925,0.942,0.603,0.201,0.0383,0.0968,-12.749,0.0783,126.028,0.659,1,8,3,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3ySIro94upbwkLYw0mK2O5,Temblando,"Pedro Laurenz, Carlos Bermúdez",186453,1925-02-25,1925,0.944,0.465,0.279,0.0226,0.125,-8.056,0.0448,95.312,0.587,1,2,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2Ozt2HhzONn0fPEZ1Ub6jR,Más Solo Que Nunca,"Pedro Laurenz, Carlos Bermúdez",162333,1925-02-25,1925,0.958,0.645,0.248,0.0814,0.362,-6.897,0.0518,120.392,0.581,0,4,5,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2j8u2IoninEnknNSgl8otM,Divina,"Osvaldo Fresedo, Carlos Barrios",194453,1925-12-17,1925,0.979,0.337,0.298,0.0393,0.139,-7.857,0.0295,86.107,0.307,1,4,4,False,"orquesta tipica, tango, vintage tango"
+4OOnKzwwVbaNDtL7DF34g7,Nada Más Que un Corazón,"Pedro Laurenz, Carlos Bermúdez",180533,1925-02-25,1925,0.931,0.614,0.258,0.172,0.233,-5.288,0.0372,120.672,0.677,0,4,4,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2PP0uddiPUP3hgSaAfbN9J,Black Cat Blues,Bob Fuller,184347,1925-02-03,1925,0.988,0.587,0.358,0.0055,0.139,-11.524,0.0527,152.85,0.829,0,2,0,False,
+6Y7Lm48xrpUznsKmreLkZ8,The Boll Weevil Blues,Tim Brymn and his Black Devil Orchestra,179801,1925-01-20,1925,0.994,0.525,0.594,0.883,0.858,-11.257,0.109,101.569,0.75,1,7,0,False,
+5p4Noothkb9ne0dbsdw6mM,Birmingham Blues,Johnny Dunn,192340,1925-10-28,1925,0.897,0.352,0.26,0.98,0.913,-24.586,0.0524,152.726,0.74,1,5,0,False,"harlem renaissance, jazz trumpet"
+7tYe3M1qyzNguZjWoudqTs,Bam-Bam-Bamy Shore,Harmony Dance Orchestra,159243,1925-01-07,1925,0.977,0.756,0.554,0.949,0.384,-12.245,0.105,133.599,0.956,1,4,0,False,
+740iicEm6OSzNIcuNQCbvr,Bogloosa Blues,Sonny Clay's Plantation Orchestra,169091,1925-11-12,1925,0.993,0.576,0.181,0.453,0.295,-16.553,0.115,175.81,0.569,1,3,0,False,hot jazz
+322MOlDi9RZAEcaUUvZ88N,Because My Baby Don't Mean Maybe Now!,Ben Bernie,175287,1925-11-12,1925,0.963,0.792,0.316,0.0218,0.0667,-12.434,0.049,96.934,0.882,0,0,0,False,
+1CtBN8Je0kGIiwtAtTL9wh,The Big Rock Candy Mountains,Frank Luther,139783,1925-11-24,1925,0.98,0.715,0.401,0.000212,0.288,-10.679,0.0504,94.548,0.768,1,2,0,False,
+3Y9RIyQaXPbn2t1fAA0qsy,Bye and Bye,Fletcher Henderson,156444,1925-02-18,1925,0.989,0.764,0.435,0.535,0.306,-11.716,0.0429,121.625,0.888,1,5,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+7JWyw4apxfOlOBEsT9vvM1,"Brown Eyes, Why Are You Blue?",Southampton Society Orchestra,173062,1925-04-07,1925,0.994,0.622,0.342,0.441,0.375,-16.982,0.0609,118.812,0.684,1,9,0,False,
+0XWSR04NMKZDDeFB2gX3rH,Blue Eyed Sally,The California Ramblers,169065,1925-05-13,1925,0.996,0.802,0.345,0.903,0.156,-16.276,0.0749,106.365,0.762,0,4,0,False,"hot jazz, vaudeville, vintage jazz"
+5VCjv5qRQN5Ulubo2xZesR,Bye Bye Blues,Fred Hamm and His Orchestra,198322,1925-06-26,1925,0.988,0.62,0.465,0.227,0.46,-11.242,0.181,120.791,0.7,1,4,0,False,
+6lvmsf9FUmxRqlkP4kdwTp,Back In Your Own Backyard,Ben Bernie,133103,1925-11-12,1925,0.972,0.78,0.261,0.0692,0.166,-13.244,0.0603,122.497,0.95,1,8,0,False,
+5WPNf0RL1JOSx7veAFYbzM,Bill Mason,Charlie Poole with the North Carolina Ramblers,181413,1925-03-31,1925,0.911,0.754,0.476,9.62e-06,0.118,-9.501,0.0826,119.012,0.959,1,7,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+3zPUuRnmclI9WiLbmt8lmB,Black Bottom Stomp,Jelly Roll Morton,173746,1925,1925,0.982,0.6,0.41,0.385,0.0771,-4.633,0.0382,136.793,0.719,1,3,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+3YGIiMRzRgP2H0PpTXoLja,Baltimore Fire,Charlie Poole with the North Carolina Ramblers,193760,1925-03-31,1925,0.906,0.513,0.468,1.06e-06,0.162,-7.237,0.0307,115.811,0.929,1,7,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+6Jos9I9cbNfUr6BjEd8bBE,Because,Rafaelo Diaz,151563,1925-09-28,1925,0.989,0.256,0.16,9.47e-06,0.163,-13.595,0.0372,82.913,0.102,1,1,0,False,
+48wuXsBny1tfpwCx5fGEfD,Baby,New Orleans Rhythm Kings,160760,1925-09-07,1925,0.995,0.723,0.525,0.847,0.414,-11.851,0.0609,127.496,0.967,1,8,0,False,"dixieland, new orleans jazz"
+2cfrQQytFim06f6dzp2B1q,Barney Google,The Georgians,153347,1925-11-24,1925,0.995,0.697,0.375,0.886,0.332,-12.638,0.0455,121.541,0.937,0,4,0,False,"hot jazz, vintage jazz"
+563E1GSpjPwBJRU6Bt6P0N,Bouncing Around,Piron's New Orleans Orchestra,168516,1925-09-14,1925,0.995,0.48,0.392,0.892,0.422,-18.06,0.0404,97.838,0.798,0,6,0,False,hot jazz
+0AXK10E2YEYhYUpmo4LTkX,Brett,Shane William Kimber,254117,1925-09-10,1925,0.798,0.393,0.394,0.0837,0.114,-11.32,0.234,99.176,0.248,0,9,0,True,
+55ZpCDSCgjM9GymoZhP9xF,Big Fat Ma and Skinny Pa,Louis Armstrong & His Hot Five,186400,1925,1925,0.995,0.591,0.149,0.846,0.319,-18.048,0.195,160.728,0.703,1,2,0,False,"hot jazz, new orleans jazz"
+4rbvvMgryiBNXTarVN3ktC,Bright Star Blues,Piron's New Orleans Orchestra,197303,1925-09-14,1925,0.435,0.603,0.403,0.0,0.0888,-17.016,0.0329,97.879,0.912,1,10,0,False,hot jazz
+7wMwo4HJIFVCLtljKRMb6D,Buena Suerte - Remasterizado,Ignacio Corsini,150173,1925-04-25,1925,0.995,0.588,0.0652,0.724,0.114,-22.125,0.192,122.354,0.506,0,4,0,False,vintage tango
+1w6D0YcW2eZe2vbvIiOnTQ,Back Home in Illinois,Tennessee Tooters,176614,1925-11-17,1925,0.989,0.737,0.495,0.847,0.292,-11.68,0.0711,97.751,0.771,0,10,0,False,
+6oKreuoeIxYPPfQ2jbnCfq,Basin Street Blues,Herb Jeffries,172695,1925,1925,0.955,0.374,0.0636,0.0347,0.125,-22.062,0.0338,69.356,0.324,1,8,0,False,cowboy western
+4nl2CD30FeIMzbHyXzj3X2,Barcelona,Nat Shilkret,180789,1925-12-17,1925,0.993,0.719,0.454,0.389,0.23,-10.033,0.255,141.369,0.859,0,7,0,False,"british dance band, vaudeville, vintage jazz"
+5v5UCWO050Lbkj9HojhT2z,blak lite,Shane William Kimber,347717,1925-09-10,1925,0.0175,0.567,0.511,4.72e-06,0.119,-7.38,0.0301,114.741,0.0824,1,3,0,True,
+3ci1hq0PfeIfRSLxX9d2Y0,Baby Brown,New Orleans Rhythm Kings,182616,1925-05-12,1925,0.9,0.496,0.266,0.887,0.375,-18.345,0.191,202.944,0.899,1,2,0,False,"dixieland, new orleans jazz"
+6CHbO3aURhhuZEjnlyUN5J,Too Bad Jim (Blues),Bob Fuller,193385,1925-08-03,1925,0.993,0.438,0.262,0.00138,0.322,-12.522,0.0408,80.108,0.422,1,10,0,False,
+1urieRxtHUKG0CQXEqrfql,Toddlin' Blues,Bix & His Rhythm Jugglers,161064,1925-10-19,1925,0.995,0.499,0.175,0.926,0.518,-12.401,0.046,103.153,0.527,1,8,0,False,
+4G0o6NXP6hdWUDACZJkLza,Don't Bring Lulu,Ben Selvin,167158,1925-03-19,1925,0.995,0.833,0.432,0.265,0.0509,-12.016,0.0785,110.303,0.934,1,7,0,False,vintage jazz
+1iNOhU60UcYhIejWXLI9Mp,Consolation Blues,Butterbeans & Susie,175308,1925-05-20,1925,0.976,0.498,0.294,0.0,0.382,-12.915,0.105,84.481,0.354,1,0,0,False,
+5C0RGi5yMZVjdUrsXYj8Vw,Davenport Blues,Bix & His Rhythm Jugglers,143543,1925-02-10,1925,0.996,0.534,0.244,0.911,0.219,-13.183,0.245,168.813,0.758,1,3,0,False,
+5WTaaFKZsB9f4saTxnFYDd,Down By The Winegar Woiks,Billy Murray,203155,1925-09-08,1925,0.994,0.605,0.212,5.97e-06,0.206,-18.704,0.268,73.304,0.728,1,7,0,False,vaudeville
+7Bayroi88O2n1kJb087hfq,Crawdad Blues,Bennie Moten's Kansas City Orchestra,149269,1925-09-22,1925,0.995,0.78,0.389,0.861,0.188,-13.681,0.157,131.036,0.951,1,10,0,False,
+17pQJ7GRZCPAZvFZq9r253,Ay Piya Bin Kaise Taroge,Bhimsen Joshi,915307,1925-12-31,1925,0.94,0.409,0.395,0.159,0.139,-10.878,0.0412,103.435,0.36,1,7,0,False,"filmi, hindustani classical, hindustani vocal, indian classical, khayal"
+4jit3YuLWlW9CuCbGOjeRa,I'm All Broken up Over You,Bob Haring and His Orchestra,154463,1925-11-24,1925,0.995,0.633,0.245,0.951,0.791,-19.908,0.0451,94.242,0.746,0,2,0,False,vintage jazz
+4A8xb5onJcNs2TPUv3fjYU,Heart Broken Strain,Frankie Quartell and his Melody Boys,190773,1925-12-14,1925,0.99,0.619,0.498,0.365,0.707,-10.498,0.0683,109.98,0.391,1,4,0,False,
+7gBjc6iVK9QbwgzTa9F8wX,Cake-Walking Babies From Home,Clarence Williams,154689,1925-01-08,1925,0.994,0.576,0.55,0.645,0.267,-11.252,0.0734,139.618,0.866,0,0,0,False,"boogie-woogie, new orleans jazz"
+0FZvZPevw9PkkPWR7sdpsZ,Gut Bucket Blues,Louis Armstrong & His Hot Five,161124,1925-05-14,1925,0.996,0.561,0.327,0.497,0.233,-8.776,0.0929,145.771,0.643,1,5,0,False,"hot jazz, new orleans jazz"
+02fkSyPizhZ3vs0RmKK57L,Alabamy Bound,Lucille Hegamin,172278,1925-11-18,1925,0.979,0.569,0.481,1.34e-05,0.974,-14.991,0.202,88.175,0.563,0,8,0,False,"classic female blues, traditional blues"
+1si1rEmLLNMouNEBV8I3Si,Nothing But,Finzel's Arcadia Orchestra of Detroit,177790,1925-05-13,1925,0.969,0.509,0.478,0.0599,0.962,-15.986,0.11,84.734,0.645,0,10,0,False,
+0wgiDbabSOGKd1kVDrPHkA,Kam Boethna Maa El Naseem,Umm Kulthum,405400,1925-12-31,1925,0.985,0.304,0.263,0.124,0.163,-17.628,0.0833,77.818,0.238,1,7,0,False,"classic arab pop, microtonal"
+7lqNQI3cVJkjZtxlG4IZpj,El Boad Tal,Umm Kulthum,337720,1925-12-31,1925,0.984,0.446,0.123,0.0,0.111,-18.128,0.0655,85.873,0.435,1,5,0,False,"classic arab pop, microtonal"
+5g0dh4qvl2PZ5C8Ovw47G1,Jimtown Blues,Lanin's Red Heads,186192,1925-09-10,1925,0.987,0.582,0.425,0.258,0.466,-11.781,0.126,200.137,0.675,1,5,0,False,
+1kazRigHHlNCUKzTyQ1Oqk,Swanee Butterfly,Fletcher Henderson,191856,1925-02-18,1925,0.995,0.777,0.219,0.85,0.427,-20.532,0.0549,105.093,0.528,1,4,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+7vb5tSFRDao4ZdNf7VZ32F,Feeling Blue,Jack Stillman's Orioles,194325,1925-12-01,1925,0.984,0.515,0.565,0.563,0.43,-11.721,0.278,177.067,0.704,1,10,0,False,
+4GZNPjU4XospboN2vDvVP2,Trombone Blues,The Washingtonians,159466,1925-07-15,1925,0.996,0.679,0.396,0.883,0.319,-16.175,0.0756,117.477,0.929,1,7,0,False,"dixieland, hot jazz"
+3Nv0oUZetik4FRjeUQSvh1,Charleston Baby of Mine,Peggy English,175308,1925-01-06,1925,0.988,0.504,0.428,0.0,0.385,-10.82,0.232,66.673,0.678,1,10,0,False,
+0zNP2rViXNJJFacyKvcZM9,What-Cha-Call-'Em Blues,Fletcher Henderson,149582,1925-09-10,1925,0.988,0.875,0.529,0.843,0.243,-8.281,0.0824,114.91,0.918,1,0,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3mm55qaAkUOzuzvHpqy6Dp,Always Be Careful Mama,Lucille Hegamin,177294,1925-11-25,1925,0.972,0.498,0.338,0.0,0.608,-14.067,0.0985,79.258,0.528,1,3,0,False,"classic female blues, traditional blues"
+0DjaTRNbCTlVzVKtEjyT2u,Don’t Bring Lulu,Jan Garber,174010,1925-11-06,1925,0.986,0.928,0.398,0.859,0.0822,-13.112,0.0767,116.991,0.96,1,1,0,False,
+5v6Jp5Aw6rFCp27UGm7pVW,Ringelberg Blues,Oliver Naylor,168778,1925-09-22,1925,0.992,0.608,0.612,0.82,0.914,-11.741,0.0757,112.002,0.884,1,8,0,False,
+5AsuhsDObsbSXTvzegu97R,Don't Bring Me Posies,Frank Westphal and his Rainbo Orchestra,170789,1925-08-03,1925,0.986,0.647,0.37,0.906,0.899,-15.399,0.118,94.779,0.593,1,3,0,False,
+5cbFTcxnj893k0kx8PEzxu,Raghu Banssi Bajja K Kaheen Le Gaay,Siddheshwari Bai,279179,1925-12-31,1925,0.995,0.549,0.106,0.256,0.264,-11.656,0.304,69.37,0.55,1,9,0,False,
+2m0NzkDWHOmRExYWxcosYD,"Just Blues, That's All",Thomas Morris Past Jazz Masters,165629,1925-10-20,1925,0.996,0.488,0.249,0.907,0.114,-16.65,0.0682,153.712,0.747,0,5,0,False,
+6q0Fkcpjnn701Idaw6cmW9,Farewell Blues,The Georgians,159032,1925-11-24,1925,0.995,0.389,0.335,0.917,0.263,-15.474,0.0482,160.991,0.806,1,10,0,False,"hot jazz, vintage jazz"
+6iBPBpnbBaJr4p88TwJ9Rm,TOm(my) Boy,Shane William Kimber,460682,1925-09-10,1925,0.951,0.212,0.28,0.00339,0.113,-9.492,0.0333,81.394,0.0369,1,9,0,False,
+4aBjNOl9UmwYZg3vAoOsPH,London Blues,New Orleans Rhythm Kings,145380,1925-05-12,1925,0.996,0.597,0.162,0.909,0.227,-18.774,0.0505,76.228,0.659,1,5,0,False,"dixieland, new orleans jazz"
+3igNPRHjAObNA1bwIJTUdS,Mean Blues,The Varsity Eight,156121,1925-01-05,1925,0.996,0.609,0.306,0.899,0.315,-14.432,0.0451,98.982,0.709,1,5,0,False,hot jazz
+5oIPRJ6XpM6izKolq5746m,Jungle Blues,Jelly Roll Morton,101600,1925,1925,0.995,0.52,0.351,0.962,0.139,-13.039,0.0532,107.244,0.954,1,1,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+1qsRHE6TunRgi6hHC19MEn,Side B,1stN3rd,567892,1925-07-05,1925,0.533,0.601,0.403,0.0107,0.201,-16.808,0.241,138.844,0.32,1,0,0,True,
+3WW7kJBtoWBKhV6KES1fO7,Pico Blanco - Remasterizado,Francisco Canaro,172000,1925-08-02,1925,0.996,0.659,0.391,0.877,0.306,-10.866,0.0487,128.317,0.842,1,10,0,False,"orquesta tipica, tango, vintage tango"
+6xHAMOYhHZsusEaMP4eUQl,Cannonball Blues,Jelly Roll Morton,204840,1925,1925,0.991,0.673,0.492,0.852,0.267,-6.959,0.0588,149.283,0.824,1,0,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+2fNU5RraCalPsf734GQcL6,Falling By the Wayside,Charlie Poole with the North Carolina Ramblers,186693,1925-03-31,1925,0.99,0.57,0.291,0.0,0.126,-11.611,0.0342,103.416,0.777,1,8,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+2VwrizE6pSFDi3vHBuTILY,Henpecked Blues,The Georgians,164371,1925-11-24,1925,0.995,0.438,0.366,0.813,0.361,-13.609,0.0551,176.366,0.568,0,5,0,False,"hot jazz, vintage jazz"
+3vuypSGFgGT7JKJiWPJURp,Mon Bus'ness,Mistinguett,172840,1925,1925,0.978,0.415,0.33,0.0,0.32,-14.533,0.128,72.96,0.719,1,0,0,False,vintage chanson
+6bJSv9LwGHdjJCNiyuVCA3,Smokehouse Blues,Jelly Roll Morton,191560,1925,1925,0.943,0.646,0.737,0.779,0.0862,-5.513,0.0462,123.1,0.85,1,8,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0PLvAnM55xmpW196tIYK5R,If the River Was Whiskey,Charlie Poole,190586,1925-03-31,1925,0.924,0.521,0.349,5.44e-06,0.107,-10.533,0.0479,98.362,0.765,1,3,26,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+3cVJJeB4q67Cuk1QGNQOdE,Hungry Hash House,Charlie Poole,205333,1925-03-31,1925,0.919,0.533,0.416,1.22e-06,0.322,-10.321,0.0452,115.473,0.905,1,7,7,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+4JONEaiWb3hLZV6iQAoZQQ,Isla de Capri,Osvaldo Fresedo,195306,1925-12-17,1925,0.974,0.657,0.162,0.191,0.266,-13.846,0.0542,122.014,0.586,1,5,17,False,"orquesta tipica, tango, vintage tango"
+7L7cJzX1RQm0CjLyKZz8p8,I Could Make You Care,Tommy Dorsey,170480,1925,1925,0.921,0.299,0.217,0.0441,0.213,-12.328,0.035,97.057,0.289,0,10,3,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+6GOixXdlQgTkPCr5RpaCWs,Where the Whippoorwill Is Whispering Good-Night,Charlie Poole,189800,1925-03-31,1925,0.974,0.447,0.294,0.0,0.12,-7.473,0.0434,179.75,0.757,1,8,2,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+6bHktgzDuGZNyJ2uy1Imb9,Leaving Home,Charlie Poole,191866,1925-03-31,1925,0.988,0.643,0.44,0.000336,0.075,-10.545,0.0322,102.43,0.874,1,0,2,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+07Hbp0v6qpkMfNmNPpsz6X,Dust,The Columbia Photo Players,191826,1925,1925,0.989,0.759,0.34,0.0721,0.0734,-11.025,0.0801,102.731,0.891,1,5,2,False,
+1GJKp5D1CmqT9Q4czfSK9L,Cuando Cuentes la Historia de Tu Vida,Osvaldo Fresedo,172733,1925-12-17,1925,0.975,0.401,0.332,8.56e-05,0.25,-10.294,0.0365,120.401,0.337,0,0,3,False,"orquesta tipica, tango, vintage tango"
+7GOFB7EHNRz6t0Ejj5BuCB,Cornet Chop Suey,Louis Armstrong & His Hot Five,185093,1925,1925,0.995,0.613,0.167,0.868,0.164,-16.608,0.0967,88.744,0.725,1,4,0,False,"hot jazz, new orleans jazz"
+1apQU5qZgyw6rm4wxvKxo4,Cabin In The Sky,Ethel Waters,198933,1925,1925,0.979,0.326,0.169,0.0,0.129,-15.623,0.0309,64.187,0.319,1,1,0,False,"harlem renaissance, torch song"
+7bGz8DZPDY3SMa4XTgiyXG,Como el Hornero,"Pedro Laurenz, Alberto Podestá",167533,1925-02-25,1925,0.969,0.525,0.227,0.014,0.306,-8.232,0.0369,123.874,0.543,0,4,5,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2pb4RrPlCAx29dGqUAB5X2,Caserón,Pedro Laurenz,163653,1925-02-25,1925,0.983,0.433,0.421,0.0158,0.29,-8.491,0.0612,67.502,0.694,0,9,9,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3lZDXtwP8CdwuSO2PPJfaX,One Night In Monte Carlo,Tommy Dorsey & His Clambake Seven,182933,1925,1925,0.97,0.796,0.341,0.0313,0.215,-13.195,0.0567,117.325,0.946,1,7,2,False,"big band, swing"
+5ickBOAfJq1fKmS1mbTpQl,There'll Come a Time,Charlie Poole,211653,1925-03-31,1925,0.963,0.453,0.333,0.0,0.153,-11.107,0.0339,179.724,0.831,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+1mZuTKJlte63wtRPsUWaC1,Flying Clouds,Charlie Poole,198773,1925-03-31,1925,0.992,0.586,0.6,0.907,0.311,-11.303,0.0479,119.953,0.971,1,0,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+6ZmMu7XZ8OyBEVFJemSKrH,Shootin' Creek,Charlie Poole,206400,1925-03-31,1925,0.953,0.709,0.525,0.00456,0.0805,-9.752,0.0385,133.518,0.924,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+5eZsOsqE3TpY81rxQwoGY7,Midnight Waltz,Carl Fenton,167253,1925-01-29,1925,0.996,0.251,0.183,0.0204,0.0883,-14.164,0.0398,154.438,0.246,0,6,0,False,
+5zl3kE5B8LcodvjyTS3XXJ,Milonga Compadre,"Pedro Laurenz, Juan Carlos Casas",162893,1925-02-25,1925,0.976,0.678,0.469,0.0981,0.121,-3.321,0.0389,107.907,0.768,1,1,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6v4uGsePnQVY4uca7HaNwX,Est Ce Que Je Te Demande,Dranem,157760,1925,1925,0.986,0.761,0.387,0.0,0.0783,-12.719,0.0659,106.68,0.884,1,9,0,False,vintage chanson
+2mbEzSPvBs6XO8vH4rVlBE,La Cumparsita,Osvaldo Fresedo,142226,1925-12-17,1925,0.938,0.44,0.293,0.791,0.159,-8.863,0.0332,131.733,0.498,0,7,4,False,"orquesta tipica, tango, vintage tango"
+2BPd2Z54x8PDsiPtRSlHh5,La Casita de Mis Viejos,"Osvaldo Fresedo, Héctor Pacheco",189680,1925-12-17,1925,0.979,0.455,0.298,0.00418,0.342,-9.117,0.0323,111.587,0.347,1,5,3,False,"orquesta tipica, tango, vintage tango"
+33v3eC44xoY0brO1L6sDx6,You Can't Stop Me From Loving You,Ethel Waters,204573,1925,1925,0.989,0.66,0.11,0.0,0.0898,-12.595,0.0921,114.574,0.668,1,10,0,False,"harlem renaissance, torch song"
+0jdIpwFzml2AJPE8V43BjA,La Cumparsita,Pedro Laurenz,193613,1925-02-25,1925,0.959,0.43,0.166,0.685,0.0904,-14.32,0.035,121.401,0.308,1,3,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2nGGgsxlOMuVsmATSqNq5t,Orgullo Criollo,Pedro Laurenz,169893,1925-02-25,1925,0.971,0.567,0.414,0.144,0.356,-5.54,0.0369,126.051,0.83,1,5,4,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2lNvXzd1fu6kuwKXZVNNWb,La Copa del Olvido,Osvaldo Fresedo,173360,1925-12-17,1925,0.973,0.426,0.289,8.41e-05,0.307,-13.104,0.0454,118.32,0.337,1,10,2,False,"orquesta tipica, tango, vintage tango"
+6DWvhzeSrkXg0u5fXNdnUA,Why Can't This Night Go on Forever,Isham Jones,184013,1925-04-08,1925,0.867,0.411,0.388,0.476,0.329,-9.599,0.0339,131.231,0.246,1,2,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+2ZlYd5WjKySRyLZpFmiHuw,The Letter That Never Came,Charlie Poole,171266,1925-03-31,1925,0.962,0.536,0.435,0.0,0.364,-8.716,0.0479,105.61,0.732,1,10,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+6Ou6f16tIB5AJxTumYQjiD,Mother's Last Farewell Kiss,Charlie Poole,185853,1925-03-31,1925,0.967,0.65,0.228,0.0,0.101,-10.231,0.0319,86.5,0.561,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+1XYehzx8GpBpWJYxPcgFwD,He Rambled,Charlie Poole,179680,1925-03-31,1925,0.96,0.643,0.402,7.8e-05,0.173,-11.557,0.0621,121.638,0.818,0,0,2,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+2tpqyt4ghs7tg0y4L5DZyO,Forks of Sandy,Charlie Poole,185293,1925-03-31,1925,0.995,0.633,0.773,0.883,0.0944,-3.812,0.0424,115.529,0.898,1,0,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+4CSX2WOeeB28sIgsZf8lIl,The Highwayman,Charlie Poole,200653,1925-03-31,1925,0.928,0.523,0.307,0.0,0.0597,-11.642,0.0343,96.079,0.761,1,0,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+6SuyLipFAjtgY6I4LZClMc,Sweet Sunny South,Charlie Poole,175933,1925-03-31,1925,0.962,0.719,0.454,1.35e-05,0.268,-11.356,0.0315,112.219,0.964,1,0,2,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+20ZRVrK4IwUuvdHsqt7KXD,It's Movin' Day,Charlie Poole,208266,1925-03-31,1925,0.862,0.544,0.342,3.28e-06,0.231,-9.332,0.0352,96.62,0.854,1,1,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+0ArMePzGmr7NxVpIFXSxdQ,Jealous mary,Charlie Poole,182293,1925-03-31,1925,0.976,0.593,0.49,1.74e-05,0.2,-4.111,0.0325,175.028,0.626,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+76nVI3hTzmMtxiY4jaTYpT,Sweet Sixteen,Charlie Poole,174106,1925-03-31,1925,0.917,0.645,0.478,0.0,0.33,-6.633,0.0394,114.82,0.898,1,7,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+4CBc0zGJqiSNHZg9q5uOff,If the River Was Whiskey,Charlie Poole with the North Carolina Ramblers,190586,1925-03-31,1925,0.924,0.521,0.349,5.44e-06,0.107,-10.533,0.0479,98.362,0.765,1,3,1,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+1mdgvn85UfiKz4pJcZKvO9,Monkey on a String,Charlie Poole,189026,1925-03-31,1925,0.994,0.606,0.375,0.625,0.239,-12.749,0.0381,103.168,0.933,1,10,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+13UpUR7jwr2X2MMlqgaXwy,The Girl I Left In Sunny Tennesse,Charlie Poole,201906,1925-03-31,1925,0.992,0.708,0.409,0.0384,0.352,-9.593,0.0333,128.873,0.91,1,2,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+7kijNl0EIkB5wPZZ2Hqkgb,Hungry Hash House,Charlie Poole with the North Carolina Ramblers,205333,1925-03-31,1925,0.919,0.533,0.416,1.22e-06,0.322,-10.321,0.0452,115.473,0.905,1,7,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+0jQouZAhlirNiI01NcXUda,When You Climb the Golden Stairs,Isham Jones,142800,1925-04-08,1925,0.823,0.652,0.462,0.76,0.0773,-10.584,0.0511,125.53,0.706,1,10,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+5TYumBe1idbiWQIvIxNnpD,Después del Carnaval,Osvaldo Fresedo,165093,1925-12-17,1925,0.927,0.67,0.346,0.117,0.165,-10.516,0.0526,135.408,0.811,0,8,4,False,"orquesta tipica, tango, vintage tango"
+2ZHUaQCwRLAVbmy6eiyOjD,Trombonology,Tommy Dorsey,180013,1925,1925,0.981,0.721,0.493,0.728,0.839,-10.955,0.0354,104.18,0.97,1,5,3,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+5VSjFy6P2TNVFjubGBgS4T,Do I Worry?,Tommy Dorsey,193186,1925,1925,0.982,0.397,0.165,0.000642,0.332,-14.849,0.0536,109.493,0.12,0,0,3,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+5UXcT8kcQ0t0efFVp1m0Ma,Head Over Heels in Love,"Tommy Dorsey, Edythe Wright",164106,1925,1925,0.85,0.673,0.288,0.25,0.155,-14.088,0.0751,95.941,0.954,1,5,4,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+4nxFz8WqJtnWrgf95gO0mQ,Melody In F,Tommy Dorsey,176266,1925,1925,0.921,0.575,0.318,0.738,0.0861,-11.331,0.101,171.979,0.886,1,5,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+3MTesqagdJyJNtSAeTEp94,The Song Is You,Tommy Dorsey,265880,1925,1925,0.801,0.32,0.386,2.16e-05,0.866,-10.931,0.0481,80.435,0.339,1,10,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+6lGfkQqVuwJ0dOXPcb0MZx,It's Right Here For You,Tom Dorsey,189826,1925,1925,0.84,0.724,0.324,0.872,0.0991,-9.842,0.0631,94.042,0.674,1,0,3,False,
+7rIJoIHeTkxJLNma31SODS,My Kind Of Man,Ethel Waters,180400,1925,1925,0.99,0.468,0.149,2.51e-06,0.0854,-12.323,0.0516,134.243,0.505,1,10,3,False,"harlem renaissance, torch song"
+5n2a00lvFmgllxaBkEpYlr,I Got Rhythm,Harold Lem & His Orchestra,195093,1925,1925,0.937,0.848,0.35,0.117,0.0616,-9.963,0.0583,114.518,0.889,1,10,3,False,
+5wTxQWnnOpYpGF7BV9EF3S,You've Got Me Crying Again-Down a Carolina Lane-Honestley,Isham Jones,447453,1925-04-08,1925,0.971,0.483,0.187,0.431,0.135,-15.152,0.0343,132.903,0.41,1,7,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+7oyvVIgBWdyFOkq3JZJE9X,You're Just a Dream Come True,Isham Jones,204386,1925-04-08,1925,0.988,0.44,0.322,0.00749,0.0951,-6.678,0.0284,83.841,0.462,1,0,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+1wTCwuq1lo6v57sR9CddUs,No Me Extraña,"Pedro Laurenz, Juan Carlos Casas",164160,1925-02-25,1925,0.981,0.605,0.424,0.565,0.289,-5.857,0.0394,133.118,0.907,0,2,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+0wFi3EETvmBakKCAeULAxk,Desconsuelo,"Pedro Laurenz, Juan Carlos Casas",148773,1925-02-25,1925,0.993,0.684,0.339,0.433,0.289,-5.921,0.037,132.486,0.701,1,0,5,False,"bandoneon, orquesta tipica, tango, vintage tango"
+4OWXQQntwSK1ayjiHAxFXv,Mascarita,"Pedro Laurenz, Juan Carlos Casas",173573,1925-02-25,1925,0.981,0.593,0.547,0.0805,0.302,-4.539,0.0417,109.874,0.931,0,11,5,False,"bandoneon, orquesta tipica, tango, vintage tango"
+42hnnWqFTJCTRh0hxgtf9z,Twilight In Turkey,Tommy Dorsey & His Clambake Seven,200906,1925,1925,0.897,0.577,0.478,0.799,0.202,-13.166,0.0859,175.273,0.918,1,0,2,False,"big band, swing"
+1KZcikuC5qZiPfrLZJKY0z,Vol Vistu Gaily Star,Tommy Dorsey & His Clambake Seven,160373,1925,1925,0.718,0.787,0.502,0.105,0.0363,-10.509,0.0529,111.209,0.96,0,9,2,False,"big band, swing"
+1OGRmZ42QZfpDc7tMbdbrG,Take The 'A' Train,Tommy Dorsey,306013,1925,1925,0.982,0.44,0.36,0.0105,0.946,-11.138,0.205,71.283,0.451,0,5,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1MF2r88Wbv0G4I2WXwuizw,Rhumboogie,Tommy Dorsey,191173,1925,1925,0.845,0.536,0.494,0.0098,0.937,-11.52,0.471,180.364,0.685,0,7,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+0TEzkFrM13PeyKjxXkcWJi,March Of The Toys,Tommy Dorsey,212533,1925,1925,0.901,0.554,0.58,0.915,0.326,-9.065,0.127,178.866,0.826,0,9,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1cuaa5iKOB69rkBD4sI6U6,Pussy Willow,Tommy Dorsey,195320,1925,1925,0.923,0.591,0.251,0.327,0.18,-11.499,0.0311,139.102,0.627,0,10,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1r5iGmVNpOEWHSWEkm2vFd,Every Night About This Time,Tommy Dorsey,231653,1925,1925,0.991,0.26,0.13,0.00117,0.594,-13.763,0.0347,81.425,0.323,1,5,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+2F8CnNSU7pExOSXzsgf2vz,Oh! Look At Me Now,Tommy Dorsey,224573,1925,1925,0.957,0.775,0.235,0.0,0.955,-11.981,0.108,120.289,0.601,1,0,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+6ePf49aaEame3gXDa7VhCx,East Of The Sun,Tommy Dorsey,262373,1925,1925,0.947,0.613,0.125,0.00012,0.317,-13.711,0.0912,122.777,0.429,1,7,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+5uzofUqcDnqHlt6XhIGm37,"Stop, Look and Listen",Tommy Dorsey,316866,1925,1925,0.914,0.694,0.332,0.874,0.0687,-14.792,0.139,163.991,0.875,1,7,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+0ldgrcj6lJNJLA0VMN73WL,Easy Does It,Tommy Dorsey,239133,1925,1925,0.81,0.526,0.427,0.863,0.785,-10.731,0.318,176.702,0.784,1,8,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+5njTIocvVWLbfZ7Hxqyp2E,Flagler Drive,Tommy Dorsey,193626,1925,1925,0.757,0.562,0.642,0.256,0.208,-7.815,0.0471,137.176,0.561,0,0,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1SH94QAw754YgXxyHsQtzt,Goin' Home,Tommy Dorsey,199880,1925,1925,0.825,0.427,0.353,0.337,0.733,-10.993,0.257,184.79,0.777,1,8,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+7lTGnqo3hLHbVJNqExZGuE,Liebestraum,Tommy Dorsey,206920,1925,1925,0.774,0.496,0.418,0.637,0.678,-9.183,0.197,172.261,0.735,0,5,2,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+3mQkgsL18klkojLlVOXB6y,Daybreak,Tommy Dorsey,168466,1925,1925,0.938,0.271,0.379,0.0331,0.737,-8.337,0.0316,114.587,0.29,0,5,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+3NN2bocqQi0K2UyxGMcmPf,Our Love Affair,Tommy Dorsey,184213,1925,1925,0.944,0.429,0.268,0.00331,0.193,-8.684,0.0436,75.68,0.681,0,9,1,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+1rLpVdloa0eISS6t5XmLVV,Charleston,Carlyle Stevenson's Bon Ton Orchestra,130116,1925-02-16,1925,0.995,0.702,0.262,0.906,0.273,-14.954,0.07,130.346,0.821,0,2,0,False,
+0pHgUZjDkGbegANlBVVn0a,Collegiate,Carl Fenton,171932,1925-01-29,1925,0.993,0.87,0.4,0.0221,0.0886,-15.883,0.212,134.211,0.966,1,7,0,False,
+5aQyE6NZhJ9T61bwqASiku,Chinita Linda - Remasterizado,Ignacio Corsini,176360,1925-04-25,1925,0.995,0.45,0.629,0.868,0.895,-18.327,0.19,74.283,0.681,1,6,0,False,vintage tango
+32zbt9mbnA19OnGyTIudRB,Campana de Plata - Remasterizado,Ignacio Corsini,170333,1925-04-25,1925,0.995,0.604,0.112,0.931,0.17,-21.041,0.204,113.544,0.673,0,9,0,False,vintage tango
+39RpyXuSsKCPSRn7t8TBv8,China Ingrata - Remasterizado,Ignacio Corsini,164386,1925-04-25,1925,0.964,0.284,0.293,0.351,0.206,-22.059,0.0584,95.38,0.766,0,9,0,False,vintage tango
+1Q5YBmu5ddp4VRQ7Tsqi29,Capítulo 9 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",184229,1925,1925,0.438,0.635,0.204,0.0,0.161,-12.4,0.9,169.007,0.308,0,11,0,False,
+7z6dyMENtd63OB37taMicY,Capítulo 15 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",184043,1925,1925,0.416,0.664,0.215,0.0,0.126,-12.705,0.88,80.73,0.305,1,0,0,False,
+66HW4q8fc3R29GJd1dd1ki,Capítulo 12 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",184344,1925,1925,0.33,0.694,0.21,0.0,0.137,-12.63,0.89,102.313,0.408,1,9,0,False,
+66zmuVwTvu370nM4OFE6he,Capítulo 14 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",183072,1925,1925,0.31,0.707,0.213,0.0,0.142,-12.305,0.899,133.841,0.244,1,9,0,False,
+4d29nK7AU0h54fCD5lYljW,Capítulo 7 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",183978,1925,1925,0.625,0.715,0.228,0.0,0.11,-12.481,0.927,81.967,0.303,1,9,0,False,
+71LPzQRGkSgpzxHamp5ZWa,Capítulo 16 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",328818,1925,1925,0.48,0.634,0.181,0.0,0.117,-12.516,0.753,168.457,0.367,1,0,0,False,
+0QqjVhdaKhKbUJTScqvUiH,Capítulo 13 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",181737,1925,1925,0.457,0.703,0.24,0.0,0.127,-11.878,0.462,137.527,0.306,0,1,0,False,
+4Yn02FgAcCHytQaRXNgxRG,Capítulo 3 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",182845,1925,1925,0.638,0.729,0.232,0.0,0.127,-12.184,0.666,128.223,0.38,0,5,0,False,
+6d0qiLjlyJH2dv3zrlwgPp,Capítulo 11 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",181675,1925,1925,0.539,0.646,0.233,0.0,0.115,-12.21,0.911,161.895,0.343,1,9,0,False,
+0LAGVMPsVTnxVu0eAO0h9C,Capítulo 5 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",182601,1925,1925,0.563,0.751,0.249,0.0,0.111,-12.098,0.911,85.58,0.344,1,0,0,False,
+2HtahDDl6P8VITahQV1pml,Capítulo 10 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",182231,1925,1925,0.559,0.724,0.209,0.0,0.18,-12.059,0.6,116.233,0.33,1,7,0,False,
+04S91JRcDvRD1ShmwTIiha,Capítulo 8 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",182094,1925,1925,0.551,0.722,0.228,0.0,0.125,-11.915,0.903,83.098,0.313,0,11,0,False,
+6catWZJl1gweIyv3YdyHNw,Capítulo 1 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",187599,1925,1925,0.735,0.698,0.155,0.0,0.123,-13.361,0.777,137.088,0.395,1,10,0,False,
+5iZWZdxmWkupm6DT3j3beY,Capítulo 2 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",182706,1925,1925,0.648,0.636,0.212,0.0,0.104,-12.661,0.922,168.072,0.376,1,1,0,False,
+1FxSjacQyQYmXiAty46pZV,Capítulo 6 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",181287,1925,1925,0.581,0.71,0.257,0.0,0.207,-12.217,0.894,108.647,0.322,1,9,0,False,
+6sZckLW9bOvBqHuCSQzHRo,Nieblas del Riachuelo,Osvaldo Fresedo,144893,1925-12-17,1925,0.895,0.526,0.322,0.476,0.258,-8.721,0.038,125.002,0.583,1,2,21,False,"orquesta tipica, tango, vintage tango"
+4HkUx8zJPUEh9sSYjO0ki6,Doctor Jazz,Jelly Roll Morton,200840,1925,1925,0.984,0.572,0.449,0.0774,0.363,-7.531,0.038,125.729,0.652,1,10,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+16UNSF26r1AW5IicRdTNl3,Glad Rag Doll,Jack Smith,187400,1925-06-03,1925,0.981,0.462,0.208,8.32e-05,0.103,-12.715,0.0411,117.085,0.365,1,8,5,False,
+3Jp8UuO1Mcv8gBgVLkh9cX,Milonga de Mis Amores Ii,"Pedro Laurenz, Hector Ferrel",181586,1925-02-25,1925,0.973,0.618,0.429,0.622,0.172,-4.826,0.0508,93.969,0.965,1,9,3,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2lSBelG1HrZcPeRrcAVrhA,That Dallas Man,Isham Jones,166920,1925-04-08,1925,0.946,0.654,0.704,0.836,0.0894,-11.547,0.0809,202.749,0.526,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+4LOOepqRBknRaky5yEU4L5,Flores del Alma,Pedro Laurenz,170733,1925-02-25,1925,0.982,0.444,0.271,0.141,0.1,-12.669,0.0994,204.374,0.807,0,7,3,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6vWvHRvJn9EtKR6g5RB10b,Milonga de Mi Flor,Pedro Laurenz,148533,1925-02-25,1925,0.987,0.707,0.345,0.77,0.4,-13.102,0.066,118.469,0.895,1,9,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+4Guy2QfuLc3u4exkV6MlCh,En la Huella del Dolor,Osvaldo Fresedo,167933,1925-12-17,1925,0.95,0.766,0.136,0.0568,0.0674,-12.71,0.0495,128.302,0.55,0,0,3,False,"orquesta tipica, tango, vintage tango"
+2UarOiRnv8G3taXryGw5Vd,I'll Never Have to Dream Again,Isham Jones,210333,1925-04-08,1925,0.983,0.352,0.454,0.926,0.0617,-4.379,0.0307,114.242,0.417,1,1,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+3weH8AtSqGiHQy1J6C4v3b,Dolores,Banda Española,185156,1925-03-10,1925,0.982,0.43,0.268,0.785,0.475,-10.035,0.0369,101.248,0.714,0,7,0,False,
+2r9uixVR2unuCql1nE9skV,Down and Out Blues,Red Nichols,185156,1925-08-19,1925,0.99,0.581,0.38,0.00264,0.15,-8.081,0.0409,127.004,0.771,1,7,0,False,"dixieland, hot jazz, jazz trumpet, vintage jazz"
+2wSKWWD4RvWsqKaaH6noQM,Dinah,Cliff Edwards,178234,1925-03-17,1925,0.953,0.663,0.429,1.01e-05,0.342,-9.477,0.224,178.064,0.811,1,5,0,False,movie tunes
+5USZL4EnJ1yEPa6IZ6el2R,Desdemona,The Golden Gate Orchestra,169561,1925-05-12,1925,0.995,0.846,0.252,0.347,0.43,-17.533,0.103,107.834,0.917,1,1,0,False,"hot jazz, vintage jazz"
+5FadfvP1MPDji7hbxPvPtQ,Down and Out Blues,The Cotton Pickers,176184,1925-09-29,1925,0.989,0.473,0.653,0.676,0.952,-11.873,0.284,74.072,0.748,1,7,0,False,hot jazz
+0IUCrCSZagXImLUmvAjnhp,Destellos - Remasterizado,Ignacio Corsini,129293,1925-04-25,1925,0.995,0.535,0.0771,0.902,0.118,-23.549,0.067,116.449,0.512,1,3,0,False,vintage tango
+1c46QF4Yzzt0xYpNO1Ztdg,Do Doodle Oom,Piron's New Orleans Orchestra,180559,1925-09-14,1925,0.976,0.514,0.22,0.557,0.157,-23.798,0.103,184.297,0.777,1,10,0,False,hot jazz
+6kTfR1lFx4yS1UIknKYh4c,Dead Man's Blues,Jelly Roll Morton,186560,1925,1925,0.99,0.682,0.354,0.586,0.171,-6.302,0.042,91.152,0.432,1,7,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0ruAOkbfiZpE9Tq5wLHWfW,Dance Little Lady,Roger Wolfe Kahn,188952,1925-07-22,1925,0.99,0.374,0.194,0.146,0.103,-15.277,0.0454,204.54,0.721,1,3,0,False,"british dance band, vintage jazz"
+6Rjg9MvHaQ8huMU1XAEP8G,Delirium,Carl Fenton,185104,1925-01-21,1925,0.972,0.725,0.348,0.91,0.0746,-9.565,0.108,96.746,0.876,1,1,0,False,
+3ji1UhmOtt7AMADAQEZTd3,Da Da Strain Richmond,New Orleans Rhythm Kings,126158,1925-05-12,1925,0.995,0.532,0.281,0.512,0.442,-16.592,0.0351,95.282,0.928,1,5,0,False,"dixieland, new orleans jazz"
+0qsOuPmUllwU3f11tLeZu6,Dark Is the Night (c'est Fini),Herb Jeffries,184502,1925,1925,0.914,0.306,0.0646,0.566,0.709,-21.258,0.0359,82.824,0.204,0,7,0,False,cowboy western
+64tCOcGnwZdXC3nMLgFozQ,Don't Forget To Mess Around,Louis Armstrong & His Hot Five,193626,1925,1925,0.996,0.562,0.173,0.78,0.0872,-15.913,0.254,184.848,0.713,1,7,0,False,"hot jazz, new orleans jazz"
+4UrrnH02uRio9VJaOX2aAZ,Droppin' Shucks,Louis Armstrong & His Hot Five,183133,1925,1925,0.996,0.613,0.114,0.829,0.247,-17.569,0.184,163.646,0.629,1,4,0,False,"hot jazz, new orleans jazz"
+7sLz8K2MQmDFrodW5gd4Le,Discontented Blues,New Orleans Rhythm Kings,140412,1925-05-12,1925,0.995,0.431,0.429,0.816,0.308,-14.517,0.0302,96.988,0.866,1,3,0,False,"dixieland, new orleans jazz"
+6ivODd5eYQUAsKwQHn9LYP,Do Just As I Say,Piron's New Orleans Orchestra,177947,1925-09-14,1925,0.996,0.507,0.218,0.221,0.149,-16.138,0.0634,156.733,0.583,1,10,0,False,hot jazz
+1T7YL2RtSusmenvdKZKw6s,Dil Abbas Yeh Barbaad Kiya Hay,Master Bhaagu,173615,1925-12-31,1925,0.996,0.652,0.0747,0.667,0.286,-16.59,0.402,68.4,0.789,1,2,0,False,
+55U8vWyNdOwbEDXlrQ1CeW,Reckless Daddy,Lucille Hegamin,177842,1925-02-18,1925,0.985,0.54,0.341,0.0,0.778,-13.358,0.101,85.781,0.545,1,4,0,False,"classic female blues, traditional blues"
+0mZGGHt1LdYxdDyO8xM45m,Sons de Carrilhoes,Ting Lo,93120,1925-11-30,1925,0.988,0.499,0.0962,0.943,0.112,-22.826,0.0731,132.974,0.573,1,7,0,False,
+7dfZWL9wCRyAzdDvQgHWa6,Throw Down Blues,Original Memphis Five,197094,1925-03-10,1925,0.989,0.589,0.246,0.217,0.22,-11.78,0.0601,119.543,0.489,1,8,0,False,"dixieland, hot jazz, vintage jazz"
+1ROR6NGyQPW2S2NOVHKfDu,"How Dy Do, Mis' Springtime",Rafaelo Diaz,163057,1925-09-28,1925,0.991,0.307,0.124,2.46e-05,0.123,-14.97,0.0581,73.009,0.399,1,2,0,False,
+5ICmyE72I6FbTtMXt76TDo,L'homme Du Milieu,Georgius,196666,1925,1925,0.987,0.726,0.363,0.0,0.12,-15.093,0.0892,88.384,0.798,1,4,0,False,vintage chanson
+3qfOtKSKiEO69KvFCwsIQt,I Didn't Know I Loved You ('til You Went Away),Herb Jeffries,152685,1925,1925,0.867,0.332,0.0564,0.568,0.557,-22.682,0.0306,80.602,0.389,1,5,0,False,cowboy western
+3LFsQMhlxh56QnIfxy4SPO,Juguete de Placer - Remasterizado,Francisco Canaro,172493,1925-08-02,1925,0.995,0.631,0.222,0.97,0.218,-14.833,0.0609,115.436,0.53,0,5,0,False,"orquesta tipica, tango, vintage tango"
+2HHvjG9sSrs5uVeity8AvB,Virgencita del Talar - Remasterizado,Francisco Canaro,171533,1925-07-12,1925,0.993,0.443,0.265,0.959,0.141,-17.091,0.46,69.038,0.315,1,1,0,False,"orquesta tipica, tango, vintage tango"
+5P02A72HE3lVSn7iNna5Ba,24 de Agosto,Pedro Laurenz,182480,1925-02-25,1925,0.988,0.595,0.386,0.000553,0.378,-7.532,0.04,124.677,0.675,0,4,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+5VccPIm3hibKKzyiEyfRhy,Chatero de Aquel Entonces,"Pedro Laurenz, Juan Carlos Casas",129119,1925-02-25,1925,0.988,0.719,0.531,0.208,0.0957,-8.083,0.0365,110.602,0.961,1,5,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+4uC8fLhtOGNd13d6XYKWZ3,Virgencita del Talar - Remasterizado,Ignacio Corsini,159160,1925-04-25,1925,0.995,0.531,0.141,0.912,0.139,-23.636,0.0872,122.18,0.389,1,2,0,False,vintage tango
+4zgYNo9gkj6YldeZxfoZ9A,Medias de Seda - Remasterizado,Francisco Canaro,166560,1925-08-02,1925,0.996,0.458,0.468,0.96,0.395,-15.617,0.14,62.731,0.845,0,5,0,False,"orquesta tipica, tango, vintage tango"
+6RChUtH0BoAZ2bWQpqrGxw,Callecita de Mi Barrio - Remasterizado,Francisco Canaro,151573,1925-08-02,1925,0.996,0.743,0.231,0.892,0.32,-11.878,0.0713,118.533,0.734,1,11,0,False,"orquesta tipica, tango, vintage tango"
+0uwYigNgUmXOSxJvmP1hnR,Muchachita de Montmartre - Remasterizado,Francisco Canaro,170120,1925-08-02,1925,0.996,0.731,0.143,0.966,0.193,-15.413,0.0911,116.323,0.779,1,5,0,False,"orquesta tipica, tango, vintage tango"
+5j2CESOo3f2KTRAROEtyjK,Bulldog Down In Sunny Tennessee,Charlie Poole with the North Carolina Ramblers,161026,1925-03-31,1925,0.96,0.649,0.39,2.6e-06,0.096,-12.237,0.0417,167.348,0.903,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+079U8WfmME31H7cVFsLmS0,Organito de la Tarde - Remasterizado,Francisco Canaro,173226,1925-07-12,1925,0.996,0.669,0.22,0.901,0.194,-15.095,0.0718,115.552,0.667,1,6,0,False,"orquesta tipica, tango, vintage tango"
+5sflpsjt0Bl2yUGtFoPl4Q,Tierra de Mis Amores - Remasterizado,Francisco Canaro,164346,1925-07-12,1925,0.996,0.508,0.474,0.861,0.384,-13.117,0.0476,209.715,0.958,1,5,0,False,"orquesta tipica, tango, vintage tango"
+3Q2O3hJW2FbiMzcbk3mRu1,Medias de Seda - Remasterizado,Ignacio Corsini,133013,1925-04-25,1925,0.994,0.541,0.126,0.843,0.321,-23.725,0.199,74.423,0.431,0,6,0,False,vintage tango
+6Kj9ucimZ1hMK3ITjIdTLS,Alma de Cotorro - Remasterizado,"Francisco Canaro, Azucena Maizani",197626,1925-08-02,1925,0.996,0.564,0.187,0.938,0.639,-13.437,0.154,126.804,0.349,1,2,0,False,"orquesta tipica, tango, vintage tango"
+4oBVRcbOSmYwJIwP88iafB,Acuarelita de Arrabal - Remasterizado,"Francisco Canaro, Azucena Maizani",179360,1925-08-02,1925,0.996,0.554,0.2,0.922,0.526,-11.43,0.367,76.386,0.531,1,11,0,False,"orquesta tipica, tango, vintage tango"
+7nVtRdkr1sF0qNez7PDQgL,Teray Dekhan Ko Piya,Naseer Ahmed Khan,193793,1925-12-31,1925,0.994,0.443,0.37,0.817,0.198,-11.132,0.276,73.393,0.63,1,2,0,False,
+5UxaiyTw55YnwM3mm2Pqqp,Alma de Bohemio - Remasterizado,Ignacio Corsini,181440,1925-04-25,1925,0.994,0.58,0.172,0.00618,0.123,-18.489,0.0688,125.097,0.386,0,7,0,False,vintage tango
+0WmtE7JRhXq4c2vQuJv8UM,Original Dixieland One-Step,New Orleans Rhythm Kings,151514,1925-09-07,1925,0.822,0.661,0.578,0.942,0.0301,-14.072,0.125,136.698,0.7,0,0,0,False,"dixieland, new orleans jazz"
+7GTLZMze5vPEMsnRO6VjPX,Caminito del Taller - Remasterizado,Francisco Canaro,147133,1925-07-12,1925,0.996,0.69,0.286,0.887,0.224,-14.151,0.168,122.462,0.574,1,3,0,False,"orquesta tipica, tango, vintage tango"
+2ezxccnGkAqUPnhlYNn9Z6,Penas de Arrabal - Remasterizado,"Francisco Canaro, Azucena Maizani",156773,1925-08-02,1925,0.996,0.61,0.343,0.883,0.413,-12.121,0.353,71.72,0.662,0,7,0,False,"orquesta tipica, tango, vintage tango"
+7qd9OT1kay1XO1lbUukc7g,Amores de Carnaval - Remasterizado,"Francisco Canaro, Azucena Maizani",166693,1925-08-02,1925,0.996,0.554,0.157,0.897,0.214,-13.65,0.15,78.346,0.405,0,4,0,False,"orquesta tipica, tango, vintage tango"
+1usQRVBEb4UMMlUdsPPfOV,Raymonde,Dranem,149133,1925,1925,0.984,0.671,0.366,0.0,0.115,-13.625,0.0618,109.651,0.894,1,7,0,False,vintage chanson
+1SedBOFSjUiiQLTRZNjUna,That Certain Party,Dick Beeson and his Orchestra,177816,1925-07-08,1925,0.994,0.73,0.567,0.11,0.354,-10.872,0.11,119.246,0.73,1,9,0,False,
+6FrLXrE9qagtT4xqKNb25n,Elle Met Des Chaussinettes,Gaston Ouvrard,149413,1925,1925,0.963,0.67,0.409,0.0,0.127,-13.17,0.233,154.279,0.891,1,7,0,False,"chanson humoristique, vintage chanson"
+5DTzaY9fXIgZaC00xoVGS3,Les Papillons De Nuit,Fred Gouin,187826,1925,1925,0.979,0.453,0.254,2.05e-06,0.367,-13.1,0.0415,127.635,0.561,1,3,0,False,vintage chanson
+45OfpkoaAJTQhuJDy8zXND,Je Ne Dis Pas Non,Maurice Chevalier,158493,1925,1925,0.969,0.705,0.213,0.0,0.228,-16.042,0.558,98.08,0.822,1,2,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+4eRcgYEcMEiPFvYLS5q0Qh,Il Suffit D'un Rien,Berval,177666,1925,1925,0.994,0.506,0.198,0.0,0.0926,-13.877,0.0759,96.974,0.489,0,0,0,False,
+3m7m495q6qypsIlWlVn7yh,I'm Knee Deep in Daisies,Raderman's Roysterers,192314,1925-10-22,1925,0.978,0.849,0.449,0.222,0.627,-11.509,0.47,119.041,0.73,1,4,0,False,
+0Kk4a9mX2ojGTPYcJvEckQ,Ma Terawaa Dammak,Umm Kulthum,297920,1925-12-31,1925,0.968,0.381,0.241,0.844,0.44,-17.456,0.208,77.958,0.707,0,4,0,False,"classic arab pop, microtonal"
+4C7XSxOOI9crTMVCxNqhQ9,Come on Coot and Do That Thing,Fletcher Henderson & His Orchestra,166374,1925-10-28,1925,0.992,0.56,0.411,0.00036,0.269,-12.11,0.219,59.52,0.612,0,1,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+7fyArXhvjf7Jj6lrvhTkp9,Jaanay Na Doon Gee Apnay Balum Ko,Naseer Ahmed Khan,196905,1925-12-31,1925,0.995,0.488,0.298,0.69,0.225,-11.204,0.332,73.725,0.884,1,9,0,False,
+7pCo87v6pTWUGsMAJO1sKK,I'm Knee Deep in Daises (Alternate Take),Jack Smith,176093,1925-06-03,1925,0.994,0.694,0.294,0.865,0.281,-13.9,0.287,81.855,0.674,0,7,0,False,
+6OKPp3QeRzS9UsYznJogsZ,"Some Other Day, Some Other Girl",Isham Jones,170306,1925-10-02,1925,0.994,0.599,0.241,0.0125,0.157,-15.582,0.0325,109.244,0.654,1,2,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+4AUS8NJUzqXcGLOpZeY27v,Un Triste Despertar - Remasterizado,Ignacio Corsini,196826,1925-04-25,1925,0.995,0.381,0.075,0.917,0.143,-25.665,0.0586,82.714,0.52,1,7,0,False,vintage tango
+0xPQBMO3cMaxZINENSeC7F,Ojazos Color de Mar - Remasterizado,Ignacio Corsini,131720,1925-04-25,1925,0.991,0.462,0.0762,0.83,0.111,-23.872,0.0608,66.493,0.568,1,4,0,False,vintage tango
+32X6PAkvyHnBaBvLwRVYug,"Hérodiade: ""Air De Jean""",Georges Thill,243854,1925-01-01,1925,0.913,0.294,0.176,0.000214,0.174,-12.836,0.0404,101.202,0.125,1,5,0,False,
+3SJl9qPdAN0i3CLkM3vNO1,Tu Piel de Jazmín,"Osvaldo Fresedo, Roberto Ray",189933,1925-12-17,1925,0.989,0.415,0.263,0.3,0.146,-6.934,0.0371,119.68,0.372,1,0,1,False,"orquesta tipica, tango, vintage tango"
+1GyFn9OVcq2ZyH1GNha129,La Canción del Huérfano - Remasterizado,Ignacio Corsini,171546,1925-04-25,1925,0.995,0.503,0.0943,0.946,0.0968,-25.742,0.0579,110.983,0.472,0,6,0,False,vintage tango
+4QH4WriMutFiYzwIa6qK8U,I'm Knee Deep in Daises,Jack Smith,179373,1925-06-03,1925,0.996,0.53,0.211,0.0829,0.153,-15.316,0.371,161.523,0.394,0,9,0,False,
+72G9TTHwbnfkFkIcXWgpr3,It's Movin' Day,Charlie Poole with the North Carolina Ramblers,208266,1925-03-31,1925,0.862,0.544,0.342,3.28e-06,0.231,-9.332,0.0352,96.62,0.854,1,1,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+76EMjJbgPteLXji19q83p3,Learn To Do the Strut,The Georgians,151216,1925-11-24,1925,0.996,0.637,0.492,0.955,0.44,-12.462,0.046,109.856,0.916,1,7,0,False,"hot jazz, vintage jazz"
+4Kv5krOFkBEK9JaBJP7hVt,El Cuchillo del Plata - Remasterizado,Ignacio Corsini,143693,1925-04-25,1925,0.989,0.653,0.151,0.0,0.121,-16.657,0.156,120.634,0.678,0,2,0,False,vintage tango
+1xSOWXoINyYVF46ab8sKpb,Hortensia Ou La Fille Du Jazz Band,Georgius,196866,1925,1925,0.992,0.541,0.378,0.000102,0.131,-15.167,0.0777,140.419,0.733,1,7,0,False,vintage chanson
+0QnRFZh9xov6LBNatS5hL9,Par Le Trou De La Serrure,Pauline Carton,110440,1925,1925,0.987,0.535,0.28,9.5e-05,0.198,-13.416,0.186,70.401,0.689,1,6,0,False,
+3E1gwRnczSB8jeuRlV9vK2,Capítulo 4 - Señor del asteroide,"Clark Ashton Smith, Estela Frank",183193,1925,1925,0.55,0.635,0.203,0.0,0.123,-12.028,0.864,170.16,0.403,0,11,0,False,
+3Fc83pvJzQ5VcRFSGlvMCO,Heat Wave,Ethel Waters,181293,1925,1925,0.981,0.68,0.241,0.0,0.165,-9.866,0.0634,84.91,0.647,1,2,19,False,"harlem renaissance, torch song"
+6kKeXUi0zunKxWrB2uUyWb,Harlem On My Mind,Ethel Waters,209000,1925,1925,0.962,0.568,0.112,0.0,0.327,-13.026,0.0747,95.221,0.489,1,1,10,False,"harlem renaissance, torch song"
+4ywiiUqjEvx8RufPznNY8K,Shake That Thing,Ethel Waters,196000,1925,1925,0.991,0.636,0.038,0.0,0.143,-15.057,0.0516,95.043,0.55,1,0,6,False,"harlem renaissance, torch song"
+3dB2QViw7AUKrOZk4iQG2E,Tigre Viejo,Osvaldo Fresedo,185173,1925-12-17,1925,0.978,0.642,0.388,0.895,0.35,-9.018,0.0338,128.167,0.729,0,5,25,False,"orquesta tipica, tango, vintage tango"
+2sdekg9wBP6YfX5ReiHF4D,El Once,Osvaldo Fresedo,174893,1925-12-17,1925,0.964,0.685,0.271,0.0144,0.113,-9.067,0.0425,117.488,0.641,1,9,8,False,"orquesta tipica, tango, vintage tango"
+3YEgVC1bD9qh4doGNVFwZX,El Irresistible,Osvaldo Fresedo,134693,1925-12-17,1925,0.973,0.72,0.443,0.826,0.0668,-9.712,0.0691,139.333,0.635,0,10,3,False,"orquesta tipica, tango, vintage tango"
+7FvlTfx5ReQCWg8p86sx8H,El Entrerriano,Osvaldo Fresedo,139040,1925-12-17,1925,0.961,0.697,0.431,0.854,0.0598,-12.574,0.112,142.819,0.753,1,7,2,False,"orquesta tipica, tango, vintage tango"
+7HHNKmg4GxOkHMwzWpHUz5,Everyone Says 'I Love You',Isham Jones,179653,1925-04-08,1925,0.918,0.598,0.543,0.327,0.167,-11.523,0.169,173.561,0.633,0,1,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+3DrEUFe7cjVJiomHj7vq76,Pero Yo Sé,"Osvaldo Fresedo, Héctor Pacheco",181306,1925-12-17,1925,0.982,0.442,0.278,0.00129,0.214,-11.168,0.0405,115.992,0.427,1,9,19,False,"orquesta tipica, tango, vintage tango"
+1pKnDTQBmuBnJ6O1ln5H6d,Yo No Se Llorar,Osvaldo Fresedo,155976,1925-12-17,1925,0.972,0.709,0.16,0.0554,0.225,-11.391,0.0441,126.204,0.739,1,2,8,False,"orquesta tipica, tango, vintage tango"
+0jxVFRPxmON91EcG2PpDWu,Uno,"Osvaldo Fresedo, Oscar Serpa",195493,1925-12-17,1925,0.983,0.551,0.326,0.046,0.381,-6.342,0.0419,122.864,0.494,0,4,15,False,"orquesta tipica, tango, vintage tango"
+3qh82vQ2aCBZu1TMxwXnKa,Vida Mía,"Osvaldo Fresedo, Héctor Pacheco",199853,1925-12-17,1925,0.857,0.366,0.451,1.37e-05,0.35,-6.972,0.0339,113.486,0.469,1,0,12,False,"orquesta tipica, tango, vintage tango"
+4PGtaDE4XOISvIrIm4pbQh,Telón,"Osvaldo Fresedo, Roberto Ray",167653,1925-12-17,1925,0.974,0.659,0.346,0.0504,0.233,-6.976,0.041,130.607,0.83,0,9,9,False,"orquesta tipica, tango, vintage tango"
+5zNa2Z85sMHQk3z7yTSexC,Naranjo en Flor,Pedro Laurenz,168773,1925-02-25,1925,0.829,0.606,0.223,0.536,0.107,-10.455,0.0666,121.337,0.677,1,5,3,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3IL4txqEz3UaUUhGJopDRK,Me Están Sobrano las Penas,Pedro Laurenz,173173,1925-02-25,1925,0.912,0.627,0.286,0.0319,0.0791,-5.237,0.0435,122.155,0.721,1,7,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+5iZFXmzoROz8UpIhmlLiVL,Memories of You,Ethel Waters,196520,1925,1925,0.985,0.336,0.0683,0.0,0.0912,-13.616,0.048,168.398,0.233,0,5,1,False,"harlem renaissance, torch song"
+3e2L9DmZ1GuWE5BeH8IvpL,You're Lucky To Me,Ethel Waters,188640,1925,1925,0.987,0.428,0.148,0.0,0.107,-13.764,0.0448,114.339,0.299,1,8,0,False,"harlem renaissance, torch song"
+0uQZYQqUY0bEEu7dNTiKkj,Honey In The Honeycomb,Ethel Waters,169826,1925,1925,0.904,0.617,0.267,0.0,0.188,-11.869,0.0392,106.781,0.659,1,5,1,False,"harlem renaissance, torch song"
+3194gT5ute5xvd87SGZlPG,Hottentot Potentate - Live,Ethel Waters,209533,1925,1925,0.929,0.496,0.177,0.0,0.153,-13.495,0.0717,97.915,0.348,1,7,1,False,"harlem renaissance, torch song"
+3SDibiG9HuSpd31Rdoewog,Theif In The Night,Ethel Waters,197760,1925,1925,0.981,0.548,0.157,0.0,0.578,-15.765,0.0804,102.87,0.477,1,7,0,False,"harlem renaissance, torch song"
+7uHEz3ok5e8luprSt6v674,Maybe Not At All,Ethel Waters,193026,1925,1925,0.995,0.612,0.262,0.0,0.163,-10.479,0.0853,109.047,0.521,1,5,1,False,"harlem renaissance, torch song"
+162LGV7aZABbXf0wN9uAVy,I Only Found You for Somebody Else,Isham Jones,193653,1925-04-08,1925,0.994,0.505,0.283,0.0354,0.189,-9.926,0.0391,110.441,0.624,1,1,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6zVNIO3XVDmL1eOqBcUXd2,Sollozos,Osvaldo Fresedo,205546,1925-12-17,1925,0.872,0.578,0.208,0.0365,0.312,-13.302,0.0547,123.785,0.464,0,5,5,False,"orquesta tipica, tango, vintage tango"
+3uguuSeJIXF5yKZ9etm8YF,Y No Puede Ser,"Osvaldo Fresedo, Ricardo Ruiz",145773,1925-12-17,1925,0.957,0.54,0.361,0.00358,0.316,-5.985,0.0401,134.156,0.701,0,4,2,False,"orquesta tipica, tango, vintage tango"
+5F0ndu5uABbdY0H0T8MJt5,Pero Yo Sé - Versión Alternativa,"Osvaldo Fresedo, Héctor Pacheco",185520,1925-12-17,1925,0.987,0.473,0.258,0.174,0.143,-9.668,0.0357,115.077,0.471,1,9,4,False,"orquesta tipica, tango, vintage tango"
+6SuHiZgs6pewBtnfPfUW1r,Nostalgias,Osvaldo Fresedo,205386,1925-12-17,1925,0.983,0.433,0.254,0.0179,0.105,-10.39,0.0563,121.616,0.458,0,3,7,False,"orquesta tipica, tango, vintage tango"
+4ZY2InWMXT4JPzt9vC4kpd,Silbando,Osvaldo Fresedo,166013,1925-12-17,1925,0.97,0.483,0.271,1.2e-05,0.281,-9.945,0.0354,117.146,0.625,1,1,7,False,"orquesta tipica, tango, vintage tango"
+4nqHckAjz8yUVFrQGPTIfl,Ninguna,"Osvaldo Fresedo, Héctor Pacheco",175120,1925-12-17,1925,0.988,0.536,0.21,0.708,0.107,-10.703,0.0351,113.959,0.432,1,9,2,False,"orquesta tipica, tango, vintage tango"
+3eIf6N4vasIoNaMfPdUeK8,No Quiero Verte Llorar,Osvaldo Fresedo,161266,1925-12-17,1925,0.903,0.51,0.202,0.265,0.165,-11.772,0.0534,124.058,0.581,0,5,9,False,"orquesta tipica, tango, vintage tango"
+3OHz6gabK94webJvLceNZ0,La Puñalada,Osvaldo Fresedo,151880,1925-12-17,1925,0.956,0.557,0.473,0.429,0.334,-7.119,0.0374,118.069,0.821,1,7,3,False,"orquesta tipica, tango, vintage tango"
+2gPyRKnyOyij4N0mt7sbkv,Rodríguez Peña,Osvaldo Fresedo,202786,1925-12-17,1925,0.954,0.682,0.407,0.267,0.332,-9.14,0.0434,134.559,0.7,1,9,4,False,"orquesta tipica, tango, vintage tango"
+1YaRGfU4GOrb1fxC0o8dAN,Para Lucirse,Osvaldo Fresedo,202840,1925-12-17,1925,0.973,0.37,0.485,0.138,0.135,-7.578,0.0344,123.422,0.533,1,7,3,False,"orquesta tipica, tango, vintage tango"
+3jWnHYsBSGnOskcnoIioXS,Julián,Osvaldo Fresedo,141173,1925-12-17,1925,0.964,0.663,0.351,0.202,0.215,-10.283,0.034,124.531,0.604,1,2,3,False,"orquesta tipica, tango, vintage tango"
+4ruZaysToAhcVEpZiCLuBL,Vida Querida,"Osvaldo Fresedo, Ricardo Ruiz",149493,1925-12-17,1925,0.961,0.399,0.43,9.36e-05,0.313,-4.993,0.0425,78.515,0.612,0,0,3,False,"orquesta tipica, tango, vintage tango"
+3fSA1mV28prGcuxtlGsllt,Pimienta,Osvaldo Fresedo,168040,1925-12-17,1925,0.969,0.656,0.423,0.942,0.363,-8.768,0.0396,133.461,0.826,1,7,3,False,"orquesta tipica, tango, vintage tango"
+21ojbohpObuz83TAp2Ddd5,Fugitiva,Osvaldo Fresedo,173360,1925-12-17,1925,0.99,0.438,0.301,0.0949,0.188,-11.515,0.0352,118.061,0.372,1,8,3,False,"orquesta tipica, tango, vintage tango"
+6mzsc60HkoUVzaUuHGyVyO,Y No Te Voy a Llorar,Osvaldo Fresedo,177120,1925-12-17,1925,0.945,0.272,0.349,0.00143,0.141,-10.412,0.0305,144.348,0.281,1,0,3,False,"orquesta tipica, tango, vintage tango"
+71xw15h3ONzgofZVVn042R,Patotero Sentimental,Osvaldo Fresedo,177386,1925-12-17,1925,0.983,0.394,0.309,0.00042,0.295,-9.543,0.0318,116.772,0.399,0,11,4,False,"orquesta tipica, tango, vintage tango"
+1xaRDEEaPQonRNcm4eyXH1,Pampero,Osvaldo Fresedo,173173,1925-12-17,1925,0.952,0.389,0.311,1.45e-05,0.195,-11.767,0.0382,116.669,0.375,0,9,4,False,"orquesta tipica, tango, vintage tango"
+2QGo4JJvskDhTfY0p9RVCI,Griseta,Osvaldo Fresedo,152040,1925-12-17,1925,0.982,0.596,0.263,0.891,0.136,-10.558,0.0425,122.325,0.334,1,8,4,False,"orquesta tipica, tango, vintage tango"
+73cZ3qRdEv0yzquHAwXzI7,Poliya,Osvaldo Fresedo,147560,1925-12-17,1925,0.92,0.704,0.43,0.833,0.0656,-7.98,0.0487,134.828,0.89,1,10,4,False,"orquesta tipica, tango, vintage tango"
+1qjGbDUqxq2IK9oCWZNz0d,N.P,Osvaldo Fresedo,145106,1925-12-17,1925,0.983,0.486,0.284,0.00131,0.072,-10.115,0.056,117.135,0.503,1,2,3,False,"orquesta tipica, tango, vintage tango"
+6z7ohyU9Cqu4bkEqRxNvtI,Every Time I Pick a Sweetie,Lucille Hegamin,161751,1925-11-18,1925,0.977,0.458,0.327,0.000388,0.973,-15.12,0.295,74.072,0.547,1,11,0,False,"classic female blues, traditional blues"
+3gsHRi7WxGqzAd7kIPKyFy,Extracts from the Ballet-Suite Scherazada - Remaster,American Concert Orchestra,284734,1925-04-28,1925,0.991,0.116,0.178,0.804,0.902,-21.844,0.0427,83.158,0.0377,0,4,0,False,
+2ci3IcjkJBZuHa6u8qXzX5,Everybody Loves My Baby,Tennessee Tooters,165774,1925-07-08,1925,0.99,0.699,0.672,0.525,0.897,-12.027,0.174,98.278,0.631,1,7,0,False,
+3oi9iYhXf2y7o6HLeG1dFL,Ev'rything is Hotsy Totsy Now,The California Ramblers,194116,1925-04-20,1925,0.992,0.824,0.316,0.838,0.07,-12.503,0.0757,97.235,0.728,1,5,0,False,"hot jazz, vaudeville, vintage jazz"
+2bWW2Sb3WFsPgwHaQ0SUAb,Everybody Loves My Baby,Lou Gold and His Orchestra,170789,1925-02-19,1925,0.987,0.516,0.536,0.941,0.939,-12.825,0.326,198.182,0.696,0,9,0,False,vintage jazz
+70U9XvZXWiHZBxqyppVa7M,El Once - Remasterizado,Francisco Canaro,176026,1925-07-12,1925,0.996,0.799,0.361,0.909,0.182,-11.241,0.0908,113.537,0.735,1,8,0,False,"orquesta tipica, tango, vintage tango"
+3Fz0Tex4GxtWZNeLnTKU6V,En Aquel Cuartito - Remasterizado,Francisco Canaro,164213,1925-08-02,1925,0.996,0.656,0.175,0.925,0.174,-13.481,0.0905,121.13,0.643,1,4,0,False,"orquesta tipica, tango, vintage tango"
+7yVqdBpFGZJq0DsGA98HBo,El Romántico Fulero - Remasterizado,Francisco Canaro,169600,1925-07-12,1925,0.996,0.698,0.359,0.954,0.359,-14.108,0.0765,124.166,0.69,1,1,0,False,"orquesta tipica, tango, vintage tango"
+1OHIpTiYXDSZBr285seKbA,Entrá Nomás - Remasterizado,Francisco Canaro,147733,1925-08-02,1925,0.996,0.764,0.141,0.825,0.112,-14.538,0.143,121.741,0.794,0,10,0,False,"orquesta tipica, tango, vintage tango"
+4vLxGR12CwlqX3pVoeBYzY,"Ein rheinisches Mädchen beim rheinischen Wein, Op. 39 No. 1","Paul Hoppe, Heinrich Schlusnus, Johann Heidenreich",206982,1925-01-01,1925,0.994,0.531,0.114,0.0,0.342,-14.264,0.163,81.297,0.244,1,7,0,False,
+6Xjz3Xtc2BvE6faV255KUx,Easy Melody,The Varsity Eight,174133,1925-01-05,1925,0.995,0.755,0.0727,0.753,0.0657,-19.14,0.0935,99.319,0.75,0,7,0,False,hot jazz
+7IdK1EQKPFTYghi3cDkgH0,Evac III,Young Astronauts Club,1500055,1925-02-01,1925,0.935,0.173,0.133,0.834,0.357,-35.619,0.065,144.191,0.0544,0,1,0,False,
+5n62YKGY1szLwxouDVnb3F,Evac II,Young Astronauts Club,1500055,1925-02-01,1925,0.904,0.208,0.042,0.855,0.115,-31.824,0.0428,70.265,0.045,1,4,0,False,
+1cTfZCuDHR0hyurrY8McD4,Engualichaste Mi Corazón - Remasterizado,Ignacio Corsini,159680,1925-04-25,1925,0.992,0.32,0.169,0.98,0.129,-23.694,0.053,118.373,0.46,0,6,0,False,vintage tango
+7DMMeNCx91bReQl24rMKLP,Evac IV,Young Astronauts Club,1500055,1925-02-01,1925,0.0808,0.116,0.445,0.728,0.126,-17.068,0.0465,161.92,0.256,1,6,0,False,
+3eBSjZzRZeWreYaeP6Ec4Y,Eri Aali Piya Bin,Bhimsen Joshi,272834,1925-12-31,1925,0.935,0.506,0.73,0.326,0.143,-11.356,0.108,131.854,0.741,1,3,0,False,"filmi, hindustani classical, hindustani vocal, indian classical, khayal"
+1xctovP75aYFxtesbHzGcK,E1 - Neurophonik Remix I,Young Astronauts Club,534999,1925-02-01,1925,0.0146,0.282,0.489,0.5,0.254,-18.112,0.0353,140.061,0.19,1,0,0,False,
+3JC794tv3bH9hQoXYFjUKt,E1 - Anacreon Remix I,Young Astronauts Club,390000,1925-02-01,1925,0.0118,0.422,0.43,0.958,0.0866,-16.105,0.0346,70.008,0.415,1,7,0,False,
+3fqJBIk3BPH3ah4alpazLr,Eccentric,New Orleans Rhythm Kings,175434,1925-05-12,1925,0.993,0.524,0.525,0.815,0.341,-14.464,0.0371,105.162,0.86,1,0,0,False,"dixieland, new orleans jazz"
+0Zh7SAqHbur0KxyY803Vn5,El Flechazo - Remasterizado,Ignacio Corsini,152653,1925-04-25,1925,0.991,0.343,0.161,0.878,0.112,-23.61,0.0546,127.287,0.46,0,6,0,False,vintage tango
+0T6OzRD32ETtwy3Wu6zzap,El Narcizo Negro - Remasterizado,Ignacio Corsini,184720,1925-04-25,1925,0.995,0.439,0.136,0.93,0.122,-24.409,0.042,95.57,0.828,1,11,0,False,vintage tango
+2Yqz1vb1IWMDeYN1Kjosrj,E1,Young Astronauts Club,390000,1925-02-01,1925,0.126,0.446,0.303,0.888,0.075,-17.677,0.0334,139.953,0.362,1,7,0,False,
+7zd6mgeRCxh4TILNXQP3Kc,Evac I,Young Astronauts Club,1500055,1925-02-01,1925,0.934,0.181,0.0195,0.904,0.112,-40.49,0.058,118.122,0.0454,0,1,0,False,
+54hMGKG7SJ0gHChru14U8F,E1 - Megalomaniacal Remix I,Young Astronauts Club,444999,1925-02-01,1925,0.0079,0.478,0.435,0.599,0.0988,-18.182,0.0306,140.01,0.212,1,0,0,False,
+3s4227SQBieX4iyXPtZCHi,E Flat Blues,Thomas Morris Past Jazz Masters,171059,1925-10-20,1925,0.996,0.488,0.356,0.893,0.113,-15.828,0.0361,129.35,0.815,1,3,0,False,
+6HyANrFbuu3k4KqaUDz5Pp,El Sonambulo - Remasterizado,Ignacio Corsini,143226,1925-04-25,1925,0.995,0.511,0.0299,0.886,0.0976,-25.465,0.0785,74.344,0.587,0,5,0,False,vintage tango
+7fBU4yFipJtzjkFShKj5A9,E1 - Upside Down Remix I,Young Astronauts Club,534999,1925-02-01,1925,0.0166,0.497,0.539,0.809,0.0685,-18.341,0.0314,140.022,0.352,1,0,0,False,
+3MXw4DICWE6vmEE3n9cZ0I,El Centenario - Remasterizado,Ignacio Corsini,171320,1925-04-25,1925,0.986,0.392,0.0474,0.888,0.104,-27.093,0.0397,63.757,0.469,0,8,0,False,vintage tango
+7zBpethra1OayZiEs5nO9I,El Moño Colorado - Remasterizado,Ignacio Corsini,187453,1925-04-25,1925,0.995,0.434,0.0979,0.737,0.11,-22.73,0.0873,76.274,0.335,1,6,0,False,vintage tango
+4dDcjfEneqY5sg3og3uqSr,Capítulo 6 - En la cripta,"H.P. Lovecraft, Estela Marquez",186484,1925,1925,0.86,0.671,0.184,0.0,0.118,-13.147,0.927,94.719,0.517,1,9,0,False,
+2t4J7spvbQggL1QRsw86xX,Capítulo 5 - En la cripta,"H.P. Lovecraft, Estela Marquez",193363,1925,1925,0.812,0.626,0.157,1.4e-06,0.112,-13.65,0.922,77.403,0.513,1,2,0,False,
+0ye16mDuHWpmjbHcouZNSw,Capítulo 1 - En la cripta,"H.P. Lovecraft, Estela Marquez",191082,1925,1925,0.909,0.679,0.164,4.41e-06,0.125,-14.247,0.932,85.578,0.426,1,2,0,False,
+2v2C67hCUdUc9cECeWJ0Ek,Capítulo 4 - En la cripta,"H.P. Lovecraft, Estela Marquez",182218,1925,1925,0.845,0.72,0.142,0.0,0.145,-13.008,0.881,128.608,0.62,1,1,0,False,
+2iixHNhNIi1t4RFQNSWT6F,Capítulo 3 - En la cripta,"H.P. Lovecraft, Estela Marquez",181405,1925,1925,0.883,0.641,0.134,1.3e-06,0.123,-14.437,0.928,84.717,0.516,1,9,0,False,
+2IssJxJEreOV4kjyomK79X,Capítulo 7 - En la cripta,"H.P. Lovecraft, Estela Marquez",341539,1925,1925,0.806,0.639,0.142,0.0,0.125,-13.554,0.936,85.692,0.522,1,2,0,False,
+3Wm8jD0ROXdR6MLIUG40s7,Capítulo 2 - En la cripta,"H.P. Lovecraft, Estela Marquez",180825,1925,1925,0.914,0.668,0.125,3.27e-05,0.104,-13.86,0.912,93.887,0.588,1,2,0,False,
+581CRdCetxbs2xbLf38u6W,"Silent Night, Holy Night",Elsie Baker,187586,1925-10-21,1925,0.987,0.217,0.206,6.56e-05,0.306,-18.567,0.0409,92.092,0.165,1,10,0,False,
+1gmSBvW0mPixwEDDmJwdze,I Love You California,Elsie Baker,183816,1925-10-21,1925,0.996,0.476,0.143,0.00316,0.321,-16.581,0.0416,99.769,0.47,1,0,0,False,
+3qBFhhWAU4mw6Hfe33fe01,Cabaret Echoes,Parenti's Liberty Syncopators,209894,1925-08-03,1925,0.949,0.45,0.626,0.142,0.679,-8.631,0.106,144.275,0.721,1,4,0,False,
+7MBIncXcGVVEhXkQ8j83dG,Al Eh Helef Maykalemneesh,Umm Kulthum,418986,1925-12-31,1925,0.996,0.467,0.0581,0.635,0.275,-22.077,0.0988,67.653,0.434,1,8,0,False,"classic arab pop, microtonal"
+4uYN0BOGrZndNWJM13eXBS,Got Everything,Alma Rotter,189258,1925-07-08,1925,0.932,0.621,0.393,0.0,0.846,-8.955,0.072,79.833,0.528,0,4,0,False,
+5fu7i5TlR5cA14KH7R7Xog,Roll 'Em Girls,Billy Murray,179279,1925-09-08,1925,0.996,0.797,0.233,0.000649,0.17,-16.643,0.0684,115.491,0.961,1,2,0,False,vaudeville
+0F8CYNmsVcg62io0eZgDHe,Alla en el Bajo,Pedro Laurenz,182653,1925-02-25,1925,0.996,0.644,0.193,0.89,0.152,-11.338,0.0498,124.847,0.432,0,8,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+4N4cGgTaioEiHunFhCxtcU,Post Everything - Radio Remix I,Young Astronauts Club,575059,1925-12-31,1925,0.00288,0.536,0.357,0.841,0.347,-15.813,0.0435,140.071,0.223,1,8,0,False,
+6dAjAq7iVz5NZ86kv0UUed,Capítulo 11 - El templo,"H.P. Lovecraft, Mariana Godward",181406,1925,1925,0.524,0.668,0.229,0.0,0.184,-10.417,0.671,78.185,0.518,1,0,0,False,
+6DL5TThGU89qLqccOZdaPE,Capítulo 4 - El templo,"H.P. Lovecraft, Mariana Godward",182950,1925,1925,0.797,0.641,0.267,0.0,0.12,-10.289,0.846,76.389,0.465,1,2,0,False,
+5yFqUARo62a8fOqhVMM72Q,Capítulo 8 - El templo,"H.P. Lovecraft, Mariana Godward",181706,1925,1925,0.671,0.622,0.244,0.0,0.104,-9.815,0.722,68.487,0.441,1,7,0,False,
+7z3lf8mv1gEMyvLP3Rhk2J,Capítulo 14 - El templo,"H.P. Lovecraft, Mariana Godward",182147,1925,1925,0.514,0.636,0.263,0.0,0.121,-11.058,0.835,166.872,0.454,1,0,0,False,
+20tqgAApUH7ilqJAE3THdh,Capítulo 12 - El templo,"H.P. Lovecraft, Mariana Godward",181550,1925,1925,0.525,0.716,0.271,0.0,0.236,-10.436,0.657,74.709,0.434,1,9,0,False,
+438DsCv3BcEtQkPERpkJIg,Capítulo 3 - El templo,"H.P. Lovecraft, Mariana Godward",182171,1925,1925,0.746,0.718,0.252,0.0,0.141,-9.639,0.506,125.55,0.501,0,11,0,False,
+2bYzxmlGJfnIho6DlnGIcA,Capítulo 5 - El templo,"H.P. Lovecraft, Mariana Godward",181615,1925,1925,0.732,0.701,0.243,0.0,0.227,-9.646,0.781,100.489,0.443,1,9,0,False,
+0AiXaPGn0SylBzRPje9bYM,Capítulo 13 - El templo,"H.P. Lovecraft, Mariana Godward",182362,1925,1925,0.56,0.733,0.284,0.0,0.204,-11.057,0.742,109.533,0.381,1,2,0,False,
+1USPPnlPGz41GSr8y07bwt,Capítulo 6 - El templo,"H.P. Lovecraft, Mariana Godward",181692,1925,1925,0.715,0.689,0.221,0.0,0.155,-9.974,0.523,101.131,0.498,1,0,0,False,
+3Zo6cfyahFfO8P70QxXNAW,Capítulo 7 - El templo,"H.P. Lovecraft, Mariana Godward",183501,1925,1925,0.689,0.721,0.246,0.0,0.18,-10.306,0.659,119.074,0.47,1,0,0,False,
+2mgZO9kQpVxwUqhCG0HMDs,Capítulo 1 - El templo,"H.P. Lovecraft, Mariana Godward",184952,1925,1925,0.836,0.634,0.235,0.0,0.158,-10.201,0.749,170.361,0.468,0,11,0,False,
+3RPF31aq3OuA6tFn7TPaN8,Capítulo 15 - El templo,"H.P. Lovecraft, Mariana Godward",180559,1925,1925,0.461,0.749,0.235,0.0,0.239,-11.261,0.83,96.002,0.395,0,11,0,False,
+4YhVUl1n6mLoI4lGxyvO2S,Flamingo,Herb Jeffries,199026,1925,1925,0.902,0.288,0.042,0.0205,0.0805,-22.81,0.0314,79.369,0.202,0,2,0,False,cowboy western
+4NqMIYd8csVgwVyrYJhXOT,Feeling That Way,Isham Jones,210533,1925-04-08,1925,0.905,0.578,0.262,0.000163,0.0656,-10.953,0.0456,139.982,0.766,1,3,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0bEF6glxwOaniuiBGBGHRQ,Sentimental Gentleman from Georgia,Isham Jones,181320,1925-04-08,1925,0.878,0.867,0.721,0.722,0.172,-8.493,0.0543,110.731,0.727,1,8,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+29735iAeYhkpYnVAURWpSa,Heebie Jeebies,Louis Armstrong & His Hot Five,181600,1925,1925,0.996,0.686,0.127,0.372,0.112,-17.711,0.0818,156.359,0.592,1,7,1,False,"hot jazz, new orleans jazz"
+144bl4trI7TCSotGEHZjXl,Georgia Grind,Louis Armstrong & His Hot Five,158360,1925,1925,0.996,0.816,0.111,0.136,0.36,-16.78,0.0789,133.454,0.564,1,7,0,False,"hot jazz, new orleans jazz"
+7b5GzrWYwCBCCfdsg1G2Yv,Oriental Strut,Louis Armstrong & His Hot Five,188533,1925,1925,0.996,0.537,0.157,0.844,0.242,-15.465,0.106,175.949,0.521,1,4,0,False,"hot jazz, new orleans jazz"
+4xtbUCnNwcHBl8vsvUi0v6,My Heart,Louis Armstrong & His Hot Five,149160,1925,1925,0.995,0.625,0.366,0.741,0.0728,-13.557,0.056,94.231,0.939,0,11,0,False,"hot jazz, new orleans jazz"
+7g7FbZ4jwFYKnXnkByszsD,Outro,Fernando Puebla,167000,1925-03-03,1925,0.0852,0.663,0.948,0.918,0.0793,-8.325,0.0333,120.017,0.133,1,0,23,False,
+57mNNZZD11Ca2ujZm3Vd4R,Middle,Fernando Puebla,160422,1925-03-03,1925,0.00355,0.48,0.907,0.964,0.457,-9.922,0.0656,99.94,0.218,0,11,23,False,
+2R4NOd65W6thGl9JPdozcf,Intro,Fernando Puebla,132959,1925-03-03,1925,0.42,0.354,0.729,0.801,0.246,-13.548,0.186,170.215,0.335,1,1,20,False,
+2qb8pVDa107d6YvOVS1uji,Firulete,Osvaldo Fresedo,142360,1925-12-17,1925,0.977,0.553,0.411,0.94,0.334,-8.227,0.0386,136.748,0.922,1,7,1,False,"orquesta tipica, tango, vintage tango"
+1mrTEN3dubyVZ0subdd49a,Falling Rain Blues,Lonnie Johnson,184921,1925-02-09,1925,0.645,0.296,0.188,0.0,0.117,-19.868,0.0887,80.008,0.397,1,8,0,False,"acoustic blues, blues, country blues, jazz blues, louisiana blues, memphis blues, new orleans blues, traditional blues"
+2NfnBF45LCiRlXeF0jK1As,Froggie Moore,King Oliver,177085,1925-09-24,1925,0.996,0.593,0.458,0.89,0.519,-12.522,0.0355,102.691,0.863,1,10,0,False,"dixieland, jazz trumpet, new orleans jazz"
+5JMkO6MRaCgGzatEWsFN4g,Foot Loose,Imperial Dance Orchestra,181525,1925-10-20,1925,0.878,0.745,0.446,1.97e-06,0.138,-9.992,0.0455,93.807,0.786,1,5,0,False,vintage jazz
+7apPqoN9ryqqJVpjGEISkm,Footloose,Carl Fenton,183072,1925-01-21,1925,0.994,0.641,0.301,0.0,0.192,-9.197,0.112,161.939,0.787,1,5,0,False,
+1zPmz3rh854RXIho4RYtWi,"Faust, Acte 3, Scène Et Duo Du Jardin, Fin (4ème Partie): ""Tête Folle, Tu Nous Écoutais!""",Georges Thill,217261,1925-01-01,1925,0.816,0.298,0.0436,0.00729,0.111,-19.321,0.193,76.279,0.0543,1,0,0,False,
+7jWQgdJ6uOWxKR9yRBcASb,"Faust, Acte 3, Scène Et Duo Du Jardin (1ère Partie): ""Il Était Temps! Sous Le Feuillage Sombre""",Georges Thill,264699,1925-01-01,1925,0.862,0.263,0.163,0.0601,0.108,-18.748,0.0766,81.784,0.0742,0,7,0,False,
+2NhCNt7OL6CqHLEwgWjZaN,"Faust, Acte 1, 1er Tableau, 2ème Partie:""Salut Ô Mon Dernier Matin""",Georges Thill,226639,1925-01-01,1925,0.969,0.279,0.179,0.0684,0.31,-12.267,0.0453,90.865,0.237,1,10,0,False,
+25PAlaqgViwaQLQWIu4dJq,Fifty Million Frenchmen Can't Be Wrong,Nat Shilkret,157127,1925-12-17,1925,0.978,0.802,0.653,0.0808,0.14,-9.913,0.0746,125.658,0.936,1,8,0,False,"british dance band, vaudeville, vintage jazz"
+3eXOKHHyWmEwAJmJU1oPAF,folks,Shane William Kimber,267492,1925-09-10,1925,0.743,0.31,0.346,0.0145,0.137,-11.807,0.0522,79.155,0.04,1,2,0,False,
+182ZxNAtFXNIjUfQtNQczm,Flying Clouds,Charlie Poole with the North Carolina Ramblers,198773,1925-03-31,1925,0.992,0.586,0.6,0.907,0.311,-11.303,0.0479,119.953,0.971,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+5UxBaI5zjBxAJV5AbyOKsv,Forks of Sandy,Charlie Poole with the North Carolina Ramblers,185293,1925-03-31,1925,0.995,0.633,0.773,0.883,0.0944,-3.812,0.0424,115.529,0.898,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+3Jpk6kLY7LJrbGd5ps5DoK,Feelin' Kind of Blue,Jack Smith,184626,1925-06-03,1925,0.995,0.511,0.153,0.565,0.128,-16.248,0.284,163.985,0.32,0,8,0,False,
+5t4C3l4K23HIT9dB0v1mwU,"Faust, Acte 3, Scène Et Duo Du Jardin (3ème Partie): ""Marguerite! Ah! Partez!""",Georges Thill,217574,1925-01-01,1925,0.967,0.414,0.0218,1.1e-06,0.11,-19.242,0.107,76.375,0.135,0,5,0,False,
+5jnTZbnOPgp0aIeCuq3T79,"Faust, Acte 3, Scène Et Duo Du Jardin (2ème Partie): ""Laissez Un Peu De Grâce""",Georges Thill,241607,1925-01-01,1925,0.986,0.26,0.259,0.0343,0.108,-10.875,0.0457,74.673,0.041,1,1,0,False,
+4dJf5uDaz2X4vQJtW4a7ZK,"Faust, Acte 1, 1er Tableau, 1ère Partie: ""En Vain J'interroge En Mon Ardente Veille""",Georges Thill,251690,1925-01-01,1925,0.95,0.215,0.13,0.00658,0.224,-13.434,0.0501,73.506,0.206,0,10,0,False,
+2QLjTtPgZhT80mdxfu6YNK,Sugar Foot Stomp,Fletcher Henderson,152683,1925-07-16,1925,0.989,0.807,0.249,0.146,0.0847,-13.977,0.0988,116.48,0.959,1,10,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3aLSgdsdfGnJC0DAT7P87b,Tea For Two - Remasterizado,Francisco Canaro,150973,1925-08-02,1925,0.996,0.372,0.361,0.936,0.266,-15.181,0.0699,212.162,0.824,1,8,0,False,"orquesta tipica, tango, vintage tango"
+4R4imJiIEduCoLUQvvSpFM,Tea For Two,Marion Harris,158777,1925-02-11,1925,0.995,0.368,0.182,0.0,0.451,-15.101,0.0425,133.697,0.456,0,6,0,False,"torch song, vaudeville, vintage jazz"
+5NrMiCrs90JQHMIFlYZTAH,Loose Feet,The Georgians,153748,1925-11-24,1925,0.995,0.632,0.394,0.861,0.316,-14.056,0.0405,101.185,0.891,1,3,0,False,"hot jazz, vintage jazz"
+36Zp233eOdOkORGSMYiT8h,Alas,"Osvaldo Fresedo, Ricardo Ruiz",149093,1925-12-17,1925,0.96,0.517,0.361,2.5e-05,0.353,-6.282,0.0439,119.994,0.653,0,4,2,False,"orquesta tipica, tango, vintage tango"
+1WAceyJ0t7KQLlu4WBpIvD,A la Parilla,Osvaldo Fresedo,158120,1925-12-17,1925,0.93,0.694,0.353,0.333,0.355,-9.952,0.0576,126.002,0.782,1,7,1,False,"orquesta tipica, tango, vintage tango"
+6oTWt0l2SnnAiFnNZanqPj,Negra María,"Osvaldo Fresedo, Carlos Roldán",171453,1925-12-17,1925,0.979,0.73,0.4,0.00905,0.111,-8.708,0.296,125.092,0.934,0,0,1,False,"orquesta tipica, tango, vintage tango"
+71uf80TYgftvBKxvoaewqw,Grandpa's Spell,Jelly Roll Morton,187760,1925,1925,0.969,0.644,0.663,0.63,0.084,-6.437,0.0452,122.829,0.96,1,3,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+6CvTMokkWAZb2AssmMnbWt,Suprema - Remasterizado,Francisco Canaro,149320,1925-07-12,1925,0.996,0.544,0.364,0.85,0.266,-14.157,0.0577,133.778,0.674,1,7,0,False,"orquesta tipica, tango, vintage tango"
+1RhYzg8TrUuSXLZLw5HZrl,Tierra Mia - Remasterizado,Francisco Canaro,151600,1925-07-12,1925,0.996,0.322,0.45,0.844,0.771,-14.922,0.39,72.69,0.549,0,1,0,False,"orquesta tipica, tango, vintage tango"
+5UgA69wVmVllW7U2n6ytcA,Les Garcon - Remasterizado,Francisco Canaro,162146,1925-08-02,1925,0.996,0.517,0.34,0.853,0.174,-13.788,0.0756,196.256,0.962,1,3,0,False,"orquesta tipica, tango, vintage tango"
+64eVJOrWbe4kuHGAXWXwaj,Porter Stomp,Jelly Roll Morton,192693,1925,1925,0.975,0.576,0.724,0.922,0.096,-6.297,0.063,127.775,0.773,1,3,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+11AeAqA4twMrTvYJs05awH,Play Me Slow,Fletcher Henderson & His Orchestra,189101,1925-02-26,1925,0.995,0.562,0.209,0.00944,0.309,-12.701,0.0552,138.75,0.551,1,7,0,False,"big band, dixieland, hot jazz, man's orchestra, swing, vintage jazz"
+2fRfDHRDDSoFLnqHngDSeU,Langosta - Remasterizado,Francisco Canaro,163146,1925-08-02,1925,0.996,0.828,0.158,0.916,0.116,-12.071,0.132,115.943,0.805,1,7,0,False,"orquesta tipica, tango, vintage tango"
+0L5HO5IexlW7zttPOaPotd,Passion,Herb Jeffries,197590,1925,1925,0.902,0.308,0.0506,0.739,0.607,-20.556,0.0317,73.934,0.145,1,7,0,False,cowboy western
+6SqJ5G5Zsu4GLlunksCWgP,Tembladeral - Remasterizado,Francisco Canaro,148986,1925-07-12,1925,0.996,0.425,0.564,0.886,0.345,-14.906,0.551,69.977,0.621,1,6,0,False,"orquesta tipica, tango, vintage tango"
+6CygLMOf4s86XgI431Zi0A,"Stomp Off, Let's Go",Fred Hamm and His Orchestra,185424,1925-10-13,1925,0.966,0.895,0.363,0.00175,0.106,-10.299,0.107,117.327,0.967,1,8,0,False,
+2mVkVHKBoG54PaUJIuKw5N,Tita - Remasterizado,Francisco Canaro,160866,1925-07-12,1925,0.996,0.63,0.309,0.788,0.317,-15.324,0.0511,126.717,0.837,0,5,0,False,"orquesta tipica, tango, vintage tango"
+6WBDbrKzTasAPjv6pLj2zx,La Garconiere - Remasterizado,Francisco Canaro,174546,1925-07-12,1925,0.996,0.54,0.261,0.904,0.116,-16.335,0.0643,190.922,0.826,1,7,0,False,"orquesta tipica, tango, vintage tango"
+79nr70rBtuNNUU74FH8j5i,Canta Corazón - Remasterizado,"Francisco Canaro, Azucena Maizani",195426,1925-08-02,1925,0.996,0.464,0.454,0.892,0.333,-12.757,0.907,72.194,0.528,0,1,0,False,"orquesta tipica, tango, vintage tango"
+7A1sBR77lqa1eljy5vOYzV,Veracruz - Remasterizado,Francisco Canaro,148826,1925-08-02,1925,0.996,0.545,0.185,0.864,0.224,-14.715,0.205,141.743,0.895,1,2,0,False,"orquesta tipica, tango, vintage tango"
+5aLU3pTS0stD8IgxxvXi5R,Wonder Why,Herb Jeffries,182073,1925,1925,0.884,0.302,0.104,0.324,0.165,-20.206,0.0351,96.709,0.25,1,10,0,False,cowboy western
+7HgELrSPxrNTn717NM8F9G,Original Jelly Roll Blues,Jelly Roll Morton,212013,1925,1925,0.992,0.519,0.484,0.508,0.117,-6.919,0.0438,125.033,0.602,1,10,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+3hyrVvERLvdYvMXCENYrKW,I'm Yours to Command,Herb Jeffries,199706,1925,1925,0.956,0.327,0.0683,0.727,0.587,-19.838,0.0372,87.215,0.302,0,11,0,False,cowboy western
+7loMx5eIfy4z4naKQDg3Th,Galleguita - Remasterizado,Francisco Canaro,161893,1925-07-12,1925,0.996,0.546,0.418,0.941,0.302,-13.399,0.0653,124.246,0.704,1,0,0,False,"orquesta tipica, tango, vintage tango"
+2afVoyujGksnWxWAuqV92K,París - Remasterizado,Francisco Canaro,161080,1925-08-02,1925,0.996,0.627,0.255,0.919,0.358,-13.333,0.0739,111.645,0.489,1,1,0,False,"orquesta tipica, tango, vintage tango"
+5ZINvgv4mrR4ecMfPExfuS,Love Me,Herb Jeffries,164858,1925,1925,0.904,0.28,0.0552,0.252,0.164,-20.742,0.0347,82.996,0.214,0,5,0,False,cowboy western
+60HnEZnglKEDJhGxLpImNp,Steamboat Stomp,Jelly Roll Morton,188253,1925,1925,0.989,0.596,0.618,0.805,0.14,-4.883,0.0653,74.337,0.849,1,3,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+1LQbY0hHq9hJaPxN33biJB,"Hopa, Hopa, Hopa - Remasterizado",Francisco Canaro,154960,1925-07-12,1925,0.996,0.735,0.371,0.877,0.107,-15.524,0.0533,99.376,0.913,1,0,0,False,"orquesta tipica, tango, vintage tango"
+7JY5RRlncF4MVdmpU6rrEj,The Pearls,Jelly Roll Morton,203453,1925,1925,0.983,0.684,0.678,0.246,0.0724,-4.918,0.053,99.813,0.917,1,1,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+492Dah16Z9fvRO3rMllNHh,GTP - Slowed + Reverb,TXPSYTURVY,214738,1925-01-18,1925,0.44,0.868,0.252,0.876,0.0921,-15.36,0.0998,107.99,0.247,1,8,0,True,
+2C6dfJvnDfuX9CiKmYtG8Q,Gotta Getta Girl,Isham Jones Orchestra,180192,1925-11-25,1925,0.993,0.335,0.335,0.617,0.372,-13.197,0.0573,201.799,0.483,1,3,0,False,vintage jazz
+35Dtll7WzEAiL7bIKbP2it,Got No Time,Jane Green,192471,1925-03-10,1925,0.991,0.541,0.17,0.0,0.636,-16.831,0.0916,175.882,0.734,1,10,0,False,
+36I3AimDwku1mX3Fi1hkkA,Gracias,"Pedro Laurenz, Hector Juncal",143800,1925-02-25,1925,0.994,0.475,0.334,0.501,0.143,-9.81,0.0723,87.627,0.559,1,10,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+54Olay7WhJNAIADYRG5JPb,Go To Lake Missoula,Shane William Kimber,124805,1925-09-10,1925,0.551,0.375,0.206,0.00842,0.0571,-16.541,0.0559,99.234,0.329,0,9,0,False,
+53PRLrXgW8Il91HnDdFNtq,The Girl I Left In Sunny Tennesse,Charlie Poole with the North Carolina Ramblers,201906,1925-03-31,1925,0.992,0.708,0.409,0.0384,0.352,-9.593,0.0333,128.873,0.91,1,2,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+3xKAUhp10rX0wcwyvVCblX,Golden Leaf Strut,New Orleans Rhythm Kings,151651,1925-05-12,1925,0.994,0.708,0.387,0.746,0.191,-13.047,0.1,120.159,0.967,1,8,0,False,"dixieland, new orleans jazz"
+5t3J7CQ0OvafTjaj5OfYPw,Gokul Chalre Chhora,Bhimsen Joshi,915534,1925-12-31,1925,0.976,0.262,0.264,0.53,0.188,-13.257,0.0343,79.498,0.221,1,2,0,False,"filmi, hindustani classical, hindustani vocal, indian classical, khayal"
+2Dmt0789lNM4OocUScl0FW,"gimme a Little Kiss (Will Ya, Huh)",Jack Smith,194440,1925-06-03,1925,0.949,0.656,0.351,0.0,0.123,-15.494,0.483,125.179,0.484,1,1,0,False,
+3BqGczdQ2kcAMBN2wfj7aj,Mama Goes Where Papa Goes,The Georgians,135268,1925-11-24,1925,0.995,0.647,0.387,0.882,0.346,-15.147,0.0724,112.521,0.843,0,0,0,False,"hot jazz, vintage jazz"
+6slwONf9VllEMHci0smyvJ,Sleepy Time Gal,Ross Gorman and His Orchestra,185470,1925-11-24,1925,0.991,0.524,0.33,0.337,0.386,-15.44,0.0814,201.948,0.874,0,5,0,False,
+1c8yLrJilxeD2ELsBxMy2U,Wherever You Go,Nat Shilkret,182779,1925-12-17,1925,0.987,0.695,0.503,0.213,0.0632,-9.178,0.0492,124.455,0.905,1,10,0,False,"british dance band, vaudeville, vintage jazz"
+12rigbnKJQuMLAwCJ5EPlB,Jacksonville Gal,The Tennessee Tooters,183302,1925-04-02,1925,0.991,0.53,0.426,0.00566,0.379,-11.901,0.0638,167.646,0.698,1,3,0,False,
+7HsCGduW20ARpGy0gaMxHa,Teraey Gheiry We Tebtesem,Umm Kulthum,317946,1925-12-31,1925,0.992,0.355,0.136,0.00163,0.418,-19.129,0.0524,101.642,0.141,1,1,0,False,"classic arab pop, microtonal"
+43aiR2dv208eca4l3mgvCv,I'm Gonna Charleston Back To Charleston,Red Nichols,174320,1925-03-11,1925,0.993,0.753,0.303,0.88,0.118,-14.457,0.0705,118.287,0.862,1,8,0,False,"dixieland, hot jazz, jazz trumpet, vintage jazz"
+0ZHK59K7BHrl6COwYXnnxJ,Sweet Georgia Brown,James Piano Bar,126591,1925,1925,0.989,0.856,0.137,0.948,0.109,-19.431,0.0423,103.779,0.415,1,2,0,False,
+4ZvdJ6FP5p3dVIfltGZdI9,Alby Ghadar Bi,Umm Kulthum,364000,1925-12-31,1925,0.991,0.285,0.0646,0.00689,0.139,-24.113,0.0432,87.69,0.227,0,10,0,False,"classic arab pop, microtonal"
+4a19NFX6gkTQYnpI3KmVjG,Sweet Georgia Brown,Oliver Naylor,172252,1925-05-20,1925,0.975,0.728,0.603,0.787,0.534,-9.604,0.237,119.848,0.81,1,4,0,False,
+35eeSS2XACUs3b0t77kWpP,I'm Goin' South,Al Jolson & Isham Jones & His Orchestra,148468,1925-03-11,1925,0.992,0.561,0.509,3.75e-06,0.904,-13.206,0.12,97.515,0.549,1,3,0,False,
+7o8OPPwT02j7nQy1YfovKg,Clarinet Get Away,O'Bryant's Washboard Band,157571,1925-12-15,1925,0.986,0.542,0.843,0.821,0.476,-11.786,0.0418,105.181,0.847,0,5,0,False,
+5SJRFHLUOeLpr2vzd0IqFu,Sweet Georgia Brown,Isham Jones,167392,1925-11-04,1925,0.988,0.619,0.339,0.296,0.102,-13.534,0.0561,111.743,0.946,1,3,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+2kxqxpB6nTkFNrDuBYxwhk,Luna Gaucha - Remasterizado,Ignacio Corsini,135200,1925-04-25,1925,0.994,0.549,0.0829,0.887,0.11,-22.695,0.0556,65.139,0.579,0,4,0,False,vintage tango
+2ddypV9L96Hl2nfR1LhEuS,Raag Gandhaari - Rasoolan Bai,Rasoolan Bai,238097,1925-12-31,1925,0.995,0.485,0.172,0.0938,0.468,-12.556,0.355,72.737,0.684,0,9,0,False,
+5CffxvgUdf4iDmD9E9X2qv,Old Ghost,Shane William Kimber,351502,1925-09-10,1925,0.704,0.365,0.54,0.606,0.711,-11.946,0.0865,110.624,0.145,1,0,0,False,
+1k4xhU1UoTGs2lYsA7xq4J,I'm Gonna Gitcha,Louis Armstrong & His Hot Five,173760,1925,1925,0.996,0.568,0.156,0.734,0.209,-16.906,0.317,186.689,0.8,1,11,0,False,"hot jazz, new orleans jazz"
+7fOuLXJaGp3tvhPo22BPQi,Mountain Greenery,Roger Wolfe Kahn,195864,1925-07-22,1925,0.92,0.493,0.304,0.113,0.218,-12.097,0.139,200.631,0.882,1,1,0,False,"british dance band, vintage jazz"
+6G10Mf5zHwqcbRH2FHxZL2,"La Juive, Acte 4: ""Quand Du Seigneur La Grâce Tutélaire""",Georges Thill,252761,1925-01-01,1925,0.983,0.308,0.14,0.0,0.15,-11.401,0.0651,179.469,0.158,0,1,0,False,
+7HXKfsIOzMCTjPpPHxapfy,I Never Knew,Ross Gorman and His Orchestra,167576,1925-11-24,1925,0.99,0.586,0.232,0.512,0.453,-18.683,0.0347,114.698,0.852,1,7,0,False,
+7b3fkHLc4XvClP7CCLM4zX,"La Traviata, Acte 2: ""Je Suis Aimé De Toi""",Georges Thill,244690,1925-01-01,1925,0.939,0.367,0.239,0.000188,0.104,-13.547,0.0429,89.642,0.254,1,8,0,False,
+4ZJfvcNipDhvwQIkQJbawm,"Sigurd, Acte 2: ""Le Bruit Des Chants""",Georges Thill,264255,1925-01-01,1925,0.927,0.303,0.0804,5.1e-05,0.112,-18.646,0.0501,78.888,0.125,1,6,0,False,
+2nJLxjZFbrrhFF3AF1LQ6a,"Carmen, 13, Acte 2, Duo De Carmen Et Don José (1ère Partie): ""Je Vais Danser En Votre Honneur""",Georges Thill,228415,1925-01-01,1925,0.95,0.469,0.0259,0.0,0.675,-19.539,0.311,83.576,0.309,0,10,0,False,
+3PxwHGNMTNcpq0pmDV1b4m,"Mireille, Acte 5: ""Anges Du Paradis""",Georges Thill,211932,1925-01-01,1925,0.959,0.4,0.127,0.00176,0.109,-16.209,0.0834,131.828,0.133,1,1,0,False,
+5ujf26yaDaWYNRkErHBofm,"Les Huguenots, Acte 1: ""Plus Blanche Que La Blanche Hermine""",Georges Thill,254329,1925-01-01,1925,0.991,0.269,0.0962,0.0109,0.116,-15.984,0.0702,78.747,0.117,1,2,0,False,
+36DjPq4xxE6PFx8LQIXzBr,"Carmen, 17, Acte 3: ""Entracte""",Georges Thill,188631,1925-01-01,1925,0.965,0.167,0.163,0.928,0.105,-15.896,0.0445,73.344,0.126,1,3,0,False,
+0RZBIn9LXkMFF74ogMEg83,"Carmen, 14, Acte 2: ""La Fleur Que Tu M'avais Jetée""",Georges Thill,221571,1925-01-01,1925,0.991,0.321,0.0307,0.000371,0.147,-21.081,0.0521,62.307,0.159,1,1,0,False,
+7LqOpMEVHDn8NBp5UO18QR,"Carmen, 18, Acte 3: ""Coeur Des Contrebandiers""",Georges Thill,229016,1925-01-01,1925,0.961,0.402,0.193,0.223,0.461,-12.924,0.0682,114.784,0.13,1,8,0,False,
+6I6UNhoSZUHAlBRznZZv53,That's My Girl,Emerson Gill and His Orchestra,203338,1925-02-26,1925,0.987,0.426,0.455,0.00266,0.936,-11.978,0.177,183.108,0.606,0,4,0,False,
+3aYrxoj6Civ32KSL2LPctP,Smile a Little Bit,Bob Haring and His Orchestra,181473,1925-11-24,1925,0.996,0.747,0.3,0.774,0.373,-16.052,0.0516,111.356,0.934,1,8,0,False,vintage jazz
+33GVxgBJvNHDmj12guzDIL,Mama Loves Papa,The Georgians,149948,1925-11-24,1925,0.995,0.647,0.445,0.875,0.401,-13.121,0.0618,98.688,0.92,1,3,0,False,"hot jazz, vintage jazz"
+3p046IzZjMkqr8okjWL2bX,Long Lost Mamma,The Georgians,178488,1925-11-24,1925,0.995,0.455,0.288,0.451,0.51,-15.022,0.0637,159.375,0.553,1,5,0,False,"hot jazz, vintage jazz"
+7Hpcw1YlyD3HGsZ0CixRqM,Them Ramblin' Blues,Goofus Five,165774,1925-01-07,1925,0.979,0.512,0.582,0.00823,0.885,-11.209,0.243,170.05,0.57,0,1,0,False,hot jazz
+18mRP3Qd5QlLdiciwQe1WO,Old King Tut,The Georgians,161181,1925-11-24,1925,0.994,0.643,0.425,0.873,0.305,-12.625,0.0377,121.085,0.809,1,7,0,False,"hot jazz, vintage jazz"
+3DZWV3SHxTHK6Zug6s3Zws,Tin Pan Parade,Nat Shilkret,198072,1925-12-17,1925,0.972,0.648,0.374,0.0546,0.287,-10.859,0.37,208.372,0.854,1,8,0,False,"british dance band, vaudeville, vintage jazz"
+59cTdGr018LI8Jbb1RSRxA,I Miss My Swiss,Paul Whiteman,163805,1925-02-17,1925,0.98,0.778,0.261,3.5e-05,0.129,-15.513,0.0978,108.841,0.731,1,8,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+7z1X1qjECBUIXofsiCUWwl,Snakes Hips,The Georgians,161054,1925-11-24,1925,0.98,0.678,0.595,0.83,0.302,-8.03,0.0417,113.567,0.963,1,3,0,False,"hot jazz, vintage jazz"
+5ztKXGsg6T3vXvGkTEAHXc,Shake Your Feet,The Varsity Eight,199576,1925-01-05,1925,0.994,0.71,0.122,0.439,0.0663,-17.233,0.174,93.454,0.78,0,5,0,False,hot jazz
+7DouNzbZTIyjgDdIrBaMA1,Lovey Came Back,The Georgians,184122,1925-11-24,1925,0.996,0.667,0.382,0.889,0.127,-13.885,0.0381,113.118,0.812,1,5,0,False,"hot jazz, vintage jazz"
+5KB2FrxDbxLd2rg7T9LeRI,Otello / Act 2: Era la notte,"Giuseppe Verdi, Umberto Urbano, Unknown Orchestra",168085,1925-01-01,1925,0.99,0.355,0.244,0.511,0.502,-16.149,0.0943,72.424,0.104,1,11,0,False,"classical, italian opera, italian romanticism, late romantic era"
+0vy3w2KyGQVbllosLPv803,Charleston,Paul Whiteman,139780,1925-02-17,1925,0.992,0.766,0.267,0.783,0.125,-15.386,0.286,124.53,0.862,0,3,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+5LSz4tptOouN1HDtMD2wAw,Chloe,Nat Shilkret,159242,1925-12-17,1925,0.968,0.491,0.298,8.13e-05,0.392,-11.447,0.19,202.019,0.753,0,10,0,False,"british dance band, vaudeville, vintage jazz"
+76O0LKiXYjMtmTbDOlyVsJ,Aggravatin' Papa,The Georgians,165435,1925-11-24,1925,0.996,0.612,0.308,0.885,0.368,-16.884,0.0492,143.319,0.789,1,3,0,False,"hot jazz, vintage jazz"
+5Wk974OAcSViQYvV81iaw2,"Take, Oh Take Those Lips Away",The Varsity Eight,159192,1925-01-05,1925,0.995,0.718,0.342,0.859,0.106,-13.411,0.0481,112.797,0.741,1,0,0,False,hot jazz
+5Iwj1nxtBWr54oA5iEhyaN,Land of Cotton Blues,The Georgians,158686,1925-11-24,1925,0.994,0.628,0.419,0.885,0.217,-14.048,0.0971,106.462,0.847,1,5,0,False,"hot jazz, vintage jazz"
+0x58yMzyX5AeuDAWgHK9rD,Arrancame la piel,Gens,286354,1925-07-01,1925,0.0697,0.61,0.552,0.0107,0.187,-11.453,0.187,159.417,0.799,0,5,0,False,
+1zLoVgtl37q0oiw2EHun0q,Mama Loves Papa-Papa Loves Mama,The Varsity Eight,185313,1925-01-05,1925,0.503,0.502,0.119,0.000336,0.412,-20.887,0.189,158.242,0.818,1,10,0,False,hot jazz
+2OAIka2CFT6CA55Y8cEUJJ,Caprice Viennois,Paul Whiteman,185968,1925-02-17,1925,0.987,0.379,0.184,0.648,0.676,-14.557,0.032,158.38,0.331,1,6,0,False,"big band, british dance band, dixieland, hot jazz, ragtime, swing, tin pan alley, vaudeville, vintage jazz"
+6ZfeFysc9KVJMTbflWAJCR,Out of the Dawn,Nat Shilkret,159246,1925-12-17,1925,0.89,0.709,0.411,0.0198,0.645,-11.448,0.0391,115.253,0.961,1,8,0,False,"british dance band, vaudeville, vintage jazz"
+2ZP0HIBK2LYtAKxiGkDytK,Night on the Back Porch,The Varsity Eight,145624,1925-01-05,1925,0.991,0.723,0.679,0.713,0.484,-7.915,0.0582,110.569,0.805,1,7,0,False,hot jazz
+5FbIF5Cv6TLvwBssd2WfTn,On the Riviera,Nat Shilkret,194040,1925-12-17,1925,0.993,0.692,0.352,0.143,0.481,-9.834,0.0858,123.924,0.74,1,6,0,False,"british dance band, vaudeville, vintage jazz"
+02yF2RsHtQr8P47crVAPDR,Clap Hands! Here Comes Charley!,Goofus Five,188082,1925-05-13,1925,0.995,0.733,0.334,0.867,0.236,-14.561,0.0492,72.562,0.763,1,0,0,False,hot jazz
+6Sm3goqDpqNi1HOUn0dzbW,"S. Karg-Elert: Sonate für Klarinette Solo, Op. 110",Giuseppe Balbi,583563,1925,1925,0.993,0.34,0.016,0.652,0.363,-25.496,0.0514,135.602,0.301,0,0,0,False,
+7pS321pH1zfV0d07CvsQqM,Me and My Shadow,Nat Shilkret,164979,1925-12-17,1925,0.908,0.623,0.497,0.204,0.0839,-11.898,0.0454,126.096,0.844,1,3,0,False,"british dance band, vaudeville, vintage jazz"
+7wmnQVk2DruvWr3C6EoVIb,"Hugo, I Go Where You Go",Raderman's Roysterers,190303,1925-07-22,1925,0.978,0.745,0.382,0.0235,0.361,-12.026,0.069,133.213,0.587,1,4,0,False,
+1ZNjHlOBRP337oAHnHDCA9,I Ain't Got Nobody,Raderman's Roysterers,174734,1925-09-16,1925,0.985,0.749,0.264,0.665,0.545,-13.632,0.0729,106.489,0.576,1,4,0,False,
+7oGposNhPXVkWhoI07VTOc,How Ya Gonna Keep ‘Em Down On The Farm (After They’ve Seen Paree),Nora Bayes,128830,1925-02-25,1925,0.804,0.657,0.275,0.0,0.37,-13.481,0.0425,85.894,0.691,1,4,0,False,"music hall, vaudeville, vintage jazz"
+5ooilm0qewfPaWkY93uEQ4,Ca C'est Gentil Ca C'est Pas Mal,Pierrette Mad,181426,1925,1925,0.988,0.52,0.359,0.0,0.106,-11.863,0.0817,89.963,0.861,1,0,0,False,
+316spFtGKn0Tvxvvg1dqkL,Took My Gal a-Walkin',Charlie Poole with the North Carolina Ramblers,168986,1925-03-31,1925,0.955,0.56,0.357,4.75e-06,0.266,-8.574,0.032,105.85,0.943,1,2,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+1ZIvsWnf0EJ6MXt3JPUta8,How I Love That Girl,The Arkansas Travellers,165774,1925-09-23,1925,0.974,0.418,0.726,0.458,0.938,-11.013,0.245,75.798,0.722,1,7,0,False,
+4HvtEMEt2yKn2EYEWElDF5,Steppin' on the Gas,Sam Morgan's Jazz Band,164232,1925-03-11,1925,0.983,0.442,0.534,0.86,0.413,-10.721,0.102,169.642,0.967,1,3,0,False,"hot jazz, new orleans jazz"
+19euZAH2Z3bh4XdX6Ui9yq,Show Me The Way To Go Home,Louise Vant,170737,1925-12-22,1925,0.989,0.62,0.436,0.000275,0.844,-10.7,0.138,127.642,0.552,0,3,0,False,
+4OycODXHwlISl1G790NUXz,I Love the Girl Who Kisses,The Varsity Eight,180794,1925-11-30,1925,0.983,0.687,0.512,0.369,0.881,-11.976,0.0388,95.765,0.881,1,3,0,False,hot jazz
+2tbakSgUOf4XtljyQ93vVO,Show Me the Way to Go Harlem,Louise Vant,170789,1925-06-15,1925,0.989,0.687,0.317,1.18e-05,0.482,-11.288,0.0451,124.334,0.551,1,10,0,False,
+1kxH4LpuX6RgHGDqh2srds,Where the Whippoorwill Is Whispering Good-Night,Charlie Poole with the North Carolina Ramblers,189800,1925-03-31,1925,0.974,0.447,0.294,0.0,0.12,-7.473,0.0434,179.75,0.757,1,8,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+3EdH1Zjh5AS1tOUQRWU3EN,Show Me The Way To Go Home,International Novelty Orchestra,185318,1925-11-24,1925,0.994,0.796,0.265,0.0068,0.357,-15.073,0.243,112.506,0.867,1,6,0,False,
+058ruNHnKrWf10g1u6Nxv5,I Never Knew What a Gal Could Do,New Orleans Rhythm Kings,162570,1925-05-12,1925,0.995,0.733,0.327,0.861,0.268,-15.857,0.0449,129.231,0.964,1,7,0,False,"dixieland, new orleans jazz"
+6n0ZFxiMUY1CxbJjUwzgy2,Honestly,Isham Jones,185133,1925-04-08,1925,0.931,0.335,0.227,0.15,0.161,-13.239,0.0382,141.383,0.36,1,5,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6xuaGsRgCLR3NL2l9AtV82,Harlem on My Mind,Isham Jones,174173,1925-04-08,1925,0.973,0.533,0.251,0.00051,0.402,-11.888,0.0512,123.534,0.515,0,1,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0ppZyulfMQlyxt2wfLTGAr,Miss Hannah,Isham Jones,188520,1925-04-08,1925,0.909,0.774,0.539,0.565,0.0972,-8.554,0.219,101.565,0.711,1,11,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+5MywYHV8H4YXxZg2W7DCGp,Hat Hi Ho Maha Jati Ho,Miss Kamala Singh,199343,1925-12-31,1925,0.993,0.497,0.229,0.596,0.287,-11.342,0.207,87.041,0.72,1,1,0,False,
+0lATdfQAizjfZqZdTdcbGp,Hella Often Freestyle,Old Grape God,822857,1925-11-12,1925,0.314,0.678,0.835,0.00441,0.148,-11.909,0.264,140.005,0.162,1,0,0,False,portland hip hop
+7BCNBaJtHTTryN0ZK8RJCJ,Honest and Truly,The Arkansas Travellers,168281,1925-01-14,1925,0.976,0.501,0.514,0.39,0.506,-11.814,0.111,215.217,0.865,1,3,0,False,
+7BWYhT2Dgpc05AflsxkoEF,Hark! The Herald Angels Sing,Trinity Choir,195658,1925-05-13,1925,0.991,0.272,0.199,0.358,0.177,-17.116,0.038,78.736,0.163,1,7,0,False,
+7qlvYzFIeegANHBAVHKotV,Hot-Hot-Hottentot,Roger Wolfe Kahn,182231,1925-03-25,1925,0.971,0.791,0.635,0.215,0.749,-11.984,0.287,111.663,0.66,1,4,0,False,"british dance band, vintage jazz"
+3Dlk9Usbo6o9nM2HuK454g,He's the Kind of a Man That You Like,The Varsity Eight,176797,1925-02-12,1925,0.992,0.825,0.556,0.928,0.695,-11.913,0.0594,102.188,0.682,1,2,0,False,hot jazz
+6vPJI9z0tFjtoCHxRIQxrF,"Honey, I'm in Love with You",Red Nichols,186306,1925-02-16,1925,0.994,0.569,0.273,0.796,0.297,-14.153,0.158,202.297,0.888,1,1,0,False,"dixieland, hot jazz, jazz trumpet, vintage jazz"
+5iUfQZjTX4L9ueRh8IZpGe,Hot Lip,The California Ramblers,174734,1925-12-22,1925,0.838,0.364,0.317,0.266,0.83,-22.686,0.638,180.753,0.681,0,7,0,False,"hot jazz, vaudeville, vintage jazz"
+4awi4fGDoIlGtLpAEvLoh9,House of the Rising Sun (There is a House),mel lewis,219852,1925-12-31,1925,0.823,0.618,0.46,0.0226,0.132,-17.201,0.0715,167.827,0.795,1,0,0,False,
+4WwJqlRB5PqT6RTFFRdLXG,He Rambled,Charlie Poole with the North Carolina Ramblers,179680,1925-03-31,1925,0.96,0.643,0.402,7.8e-05,0.173,-11.557,0.0621,121.638,0.818,0,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+69VDWSCpAVPuP2pPI37Fd5,Husband and Wife Were Angry One Night,Charlie Poole with the North Carolina Ramblers,172613,1925-03-31,1925,0.964,0.711,0.339,0.0,0.397,-10.556,0.0288,97.119,0.931,1,7,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+4hczDVHZd5OyaYWCUc6Dxi,Hold Me in Your Arms,Ray Miller,176458,1925-05-25,1925,0.996,0.68,0.262,0.876,0.455,-15.207,0.0344,108.065,0.675,1,8,0,False,
+27st9V04anc7t7GSJA9EyA,The Highwayman,Charlie Poole with the North Carolina Ramblers,200653,1925-03-31,1925,0.928,0.523,0.307,0.0,0.0597,-11.642,0.0343,96.079,0.761,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+3jYgTG2qE7N7tDJOwbd5zO,he(a/l)ling,Shane William Kimber,598608,1925-09-10,1925,0.955,0.415,0.342,0.249,0.0937,-11.315,0.0373,85.124,0.129,0,11,0,False,
+4a9R3aa5mTo0sd0DNw3Nck,My Heart,Louis Armstrong & His Hot Five,130975,1925-10-14,1925,0.963,0.638,0.547,0.445,0.492,-10.377,0.0739,105.988,0.927,0,6,0,False,"hot jazz, new orleans jazz"
+4uBYIHFTloimqhNTtZagLn,It Had to Be You,Isham Jones,157218,1925-10-02,1925,0.996,0.699,0.162,0.93,0.158,-17.136,0.0507,101.268,0.886,1,2,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0jAWyYgdWecubgwiGquCpE,Snakes Hips,Sam Lanin Orchestra,168229,1925-11-24,1925,0.991,0.558,0.508,0.828,0.78,-12.386,0.471,184.653,0.848,1,10,0,False,
+6qMyFA3GsUSz8bTqa5T3Mw,I Had a Sweet Mama,Tennessee Tooters,141741,1925-11-25,1925,0.99,0.706,0.477,0.384,0.622,-13.496,0.19,103.483,0.549,1,8,0,False,
+7HM59mqvYbKH8JKqjXm2J2,Leaving Home,Charlie Poole with the North Carolina Ramblers,191866,1925-03-31,1925,0.988,0.643,0.44,0.000336,0.075,-10.545,0.0322,102.43,0.874,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+0GtBdySJznKKAO6WhBdoUP,Cant Help Lovin Dat Man,Ben Bernie,161977,1925-11-12,1925,0.963,0.771,0.257,0.482,0.216,-14.502,0.0667,96.329,0.883,1,0,0,False,
+2LkoJM3QtYmFtklNUf37qH,Saaghar A Combination Of Six Raagas,Ustad Mushtaaq Hussain Khan,205868,1925-12-31,1925,0.995,0.475,0.101,0.108,0.152,-10.464,0.08,76.32,0.69,1,7,0,False,
+5lNlAtCqd9OwglGZ255S8e,The King of the Zulus,Louis Armstrong & His Hot Five,193933,1925,1925,0.995,0.692,0.0833,0.605,0.197,-18.284,0.115,78.869,0.492,0,10,0,False,"hot jazz, new orleans jazz"
+5cw77MOz8W4x6uD9eFbR1V,You're Next,Louis Armstrong & His Hot Five,203400,1925,1925,0.996,0.622,0.1,0.692,0.0858,-18.025,0.0748,119.484,0.452,0,4,0,False,"hot jazz, new orleans jazz"
+1LUThITCz9td2SNvTFkJbD,Who'sit,Louis Armstrong & His Hot Five,175506,1925,1925,0.996,0.716,0.173,0.917,0.118,-16.527,0.0546,98.769,0.645,0,3,0,False,"hot jazz, new orleans jazz"
+0oFS3qznP4o6xh0HJ0FVpP,Raga Kaunsi Kanhra - Pt. Shiv Kumar Sharma,"Shivkumar Sharma, Ustad Zakir Hussain",1300139,1925-12-31,1925,0.931,0.399,0.372,0.764,0.111,-12.257,0.031,129.387,0.0652,0,2,0,False,"hindustani classical, hindustani instrumental, indian classical, santoor"
+2l6fa3bsOzin2fimNiHsEl,Squeeze Me,Halfway House Dance Orchestra,174081,1925-04-22,1925,0.99,0.724,0.254,0.595,0.23,-10.952,0.0544,116.581,0.625,1,0,0,False,
+14Hj5aRnyEo5EuvlY4H4ft,Underneath a Sunny Sky,Harry Reser's Syncopators,170293,1925-12-08,1925,0.993,0.708,0.427,0.761,0.477,-12.841,0.098,99.093,0.736,1,3,0,False,vintage jazz
+7532QEBwMVWDDarvMbOxIn,Raag Pooriya - Kashi Bai,Kashi Bai,201270,1925-12-31,1925,0.99,0.365,0.584,0.903,0.448,-8.584,0.153,136.428,0.557,0,4,0,False,
+1DuWFfmJaRH5Z3divEUkRU,Malkauns Taraana - Baala Bai Kaalay,Baala Bai Kaalay,266240,1925-12-31,1925,0.995,0.498,0.152,0.92,0.174,-17.269,0.158,66.168,0.721,0,10,0,False,
+1IYIDw6VRLqWASWFZkL9kC,Capítulo 9 - El templo,"H.P. Lovecraft, Mariana Godward",182960,1925,1925,0.56,0.7,0.291,0.0,0.18,-9.899,0.67,80.274,0.479,1,9,0,False,
+3kzCWb4FTsg8KLOEad6WqD,Jab Us Key Muqabil Mere Daagh-E-Jigar Aaay,Achan Bai,182741,1925-12-31,1925,0.996,0.582,0.045,0.371,0.172,-10.619,0.117,109.042,0.827,0,1,0,False,
+3NnGSrw3NGBMEtCCqvMiyK,Miyan Ki Malhar - Ustad Amjad Ali Khan,Ustad Amjad Ali Khan,271510,1925-12-31,1925,0.532,0.397,0.831,0.134,0.445,-4.47,0.0521,151.802,0.512,0,7,0,False,
+12tMTrRys6rDbpoVUxq76I,Kahan Larraay Kaalay Naina Batawo Jaawo Jee,Master Bhaagu,167369,1925-12-31,1925,0.996,0.605,0.0864,0.785,0.187,-16.912,0.354,67.551,0.916,0,3,0,False,
+2IZ5vUmW4Gbnq1QugAqqHG,Array Sohnay Balma Mohay Bhool Na Jawo,Achan Bai,194815,1925-12-31,1925,0.996,0.515,0.126,0.881,0.142,-9.332,0.157,76.112,0.618,0,6,0,False,
+2Tig3y8xPuhkIQ4l6hAhvr,Maple Leaf Rag,Halfway House Dance Orchestra,180115,1925-10-20,1925,0.987,0.685,0.243,0.126,0.0971,-12.075,0.0928,110.591,0.861,1,10,0,False,
+5023IsHa0iBP8diFrww1EL,Kaiwarriya Kholo Raaja Jee Ras Ki Boondan Parreen,Siddheshwari Bai,284479,1925-12-31,1925,0.987,0.59,0.321,0.654,0.478,-8.995,0.65,131.083,0.581,1,1,0,False,
+1DixcPWltbCM3mrewtW8q6,Raga Shree - Ustad Amjad Ali Khan,Ustad Amjad Ali Khan,2813815,1925-12-31,1925,0.904,0.499,0.481,0.833,0.787,-12.198,0.056,107.82,0.16,1,0,0,False,
+2ZlxwX0KkOAeCJ4ZuhPG1e,Let Me Call You Sweetheart,Halfway House Dance Orchestra,160887,1925-02-11,1925,0.987,0.671,0.375,0.0905,0.191,-12.624,0.0401,126.273,0.962,1,10,0,False,
+6UXMSq3adxlvup5QWCyg57,Cecilia,Harmony Dance Orchestra,191818,1925-03-26,1925,0.978,0.768,0.438,0.891,0.527,-12.11,0.102,125.959,0.611,1,4,0,False,
+3FGH8j5LnDhRXQ0rqk6ZaM,Tappa - Rasoolan Bai,Rasoolan Bai,230040,1925-12-31,1925,0.994,0.576,0.262,0.118,0.421,-11.224,0.387,71.409,0.788,1,7,0,False,
+5KG5Sp2EdYrnVQYVJolVV5,Capítulo 2 - El templo,"H.P. Lovecraft, Mariana Godward",181951,1925,1925,0.838,0.694,0.231,0.0,0.26,-10.053,0.823,103.344,0.536,1,7,0,False,
+3ktvulkOVLhOjLTbQ0QUm8,"Yes Sir, That's My Baby",Harmony Dance Orchestra,181787,1925-09-30,1925,0.983,0.78,0.453,0.017,0.877,-12.343,0.538,127.125,0.882,1,4,0,False,
+1J1fMtrtiSXMwNyhXTpU4s,Capítulo 10 - El templo,"H.P. Lovecraft, Mariana Godward",182811,1925,1925,0.538,0.631,0.301,0.0,0.153,-10.036,0.696,174.484,0.5,0,11,0,False,
+0Dg88hIt67V8WPqZH7FNXT,You Should Have Told Me,Emerson Gill and His Orchestra,184791,1925-07-07,1925,0.98,0.517,0.654,0.863,0.533,-11.382,0.238,199.095,0.81,0,4,0,False,
+3q9jmHVHtdceCxnvTrefMc,Paddlin’ Madelin’ Home,Whitey Kaufman,170546,1925-07-30,1925,0.993,0.667,0.402,0.517,0.419,-16.206,0.107,146.265,0.935,1,4,0,False,
+33x5DRY0S2LIAE0j1rRXdo,Paddlin' Madelin' Home,Vincent Lopez,190296,1925-10-13,1925,0.98,0.68,0.218,0.00313,0.607,-23.305,0.062,113.335,0.836,1,10,0,False,
+75THA6X4HugrPYLIc2bN57,Look Who's Here,Roger Wolfe Kahn,170737,1925-02-26,1925,0.984,0.739,0.577,0.907,0.811,-10.971,0.356,112.926,0.855,0,3,0,False,"british dance band, vintage jazz"
+5C77vwfFoaWKEaj6Gb0JBT,Paddlin Madelin Home,Isham Jones,163691,1925-11-04,1925,0.992,0.837,0.142,0.923,0.112,-20.439,0.0648,126.196,0.957,1,10,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+1XHz1yl0P0Yhx6Qn4ECqDq,Clap Yo’ Hands,Roger Wolfe Kahn,169430,1925-07-22,1925,0.981,0.765,0.376,0.904,0.0886,-12.863,0.0474,116.221,0.963,0,5,0,False,"british dance band, vintage jazz"
+5NQnWyj5JMKe7b0ncGiZqj,Cross Your Heart,Roger Wolfe Kahn,187716,1925-07-22,1925,0.986,0.649,0.163,0.0386,0.122,-16.245,0.0412,103.906,0.555,1,2,0,False,"british dance band, vintage jazz"
+79zcvmC2KWFRLwMR9r8eSj,Macho y Hembra - Remasterizado,Ignacio Corsini,157226,1925-04-25,1925,0.995,0.502,0.104,0.803,0.112,-21.865,0.0856,118.97,0.428,0,9,0,False,vintage tango
+38LoUbGhV2rq4nd0rrR9R5,I Ain't Never Had Nobody Crazy Over Me,The Broadway Syncopators,180794,1925-08-12,1925,0.985,0.571,0.383,0.383,0.855,-12.753,0.0419,135.405,0.617,1,5,0,False,
+1zu9DUCFjrfyqNmfeguv9z,Where's My Sweetie Hiding,The California Ramblers,180063,1925-11-09,1925,0.996,0.775,0.371,0.893,0.358,-15.906,0.0412,104.293,0.765,1,5,0,False,"hot jazz, vaudeville, vintage jazz"
+2HldjEDsO5lHgBbeswbnOQ,Saheeh Khesamak Wala Hezar,Umm Kulthum,356026,1925-12-31,1925,0.985,0.351,0.118,0.15,0.356,-24.706,0.0534,137.062,0.158,0,5,0,False,"classic arab pop, microtonal"
+6mN6CJpSDGSioJCY45M6Lm,If That's What You Want Here It Is,Esther Bigeou,165774,1925-04-23,1925,0.99,0.642,0.513,4.21e-06,0.863,-9.898,0.446,83.767,0.699,0,4,0,False,classic female blues
+39KJzlffrh0qh64oJXZObR,I’d Climb The Highest Mountain,Roger Wolfe Kahn,157954,1925-07-22,1925,0.993,0.706,0.343,0.852,0.111,-14.042,0.0556,124.623,0.967,1,10,0,False,"british dance band, vintage jazz"
+5E4QhynQwtjW99JDewyDYM,Then I’ll Be Happy,Russo & Fiorito's Oriole Orchestra,152701,1925-10-21,1925,0.991,0.799,0.331,0.887,0.101,-11.803,0.0684,120.289,0.855,1,9,0,False,
+3Uq7UkdpEQprR1Pfi2mgFk,When Polly Walks Through Hollyhocks,Ben Bernie,144613,1925-11-12,1925,0.985,0.856,0.379,0.31,0.15,-14.101,0.083,114.436,0.884,1,8,0,False,
+2aNIUgf8gshzUpIyXfnLE6,Si J'avais Été Un Homme,Marguerite Deval,179066,1925,1925,0.992,0.469,0.305,5.25e-05,0.355,-15.285,0.0779,68.849,0.627,0,9,0,False,
+080hfk1nob7yG1YBLZF3p4,I'll See You in My Dreams,Isham Jones,147426,1925-10-02,1925,0.994,0.569,0.255,0.802,0.124,-18.656,0.0426,120.718,0.714,0,4,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6Bh1bKxk9tkJqc6uAmqCY0,Red Man Blues,Piron's New Orleans Orchestra,174107,1925-09-14,1925,0.996,0.707,0.23,0.865,0.191,-14.573,0.166,77.981,0.818,1,3,0,False,hot jazz
+4zZIrevsq765itzM6y3N0y,Cecilia,Johnny Hamp and His Kentucky Serenaders,165883,1925-05-19,1925,0.98,0.642,0.356,0.0136,0.371,-15.4,0.0542,117.37,0.66,1,3,0,False,
+3lCPwTANH7bEwnkcG59qAT,New Orleans Wiggle,Piron's New Orleans Orchestra,175465,1925-09-14,1925,0.995,0.563,0.281,0.00548,0.134,-11.926,0.306,199.973,0.693,1,10,0,False,hot jazz
+1R3KPeX3HmhtIuipDGifk5,Lou'siana Swing,Piron's New Orleans Orchestra,157754,1925-09-14,1925,0.991,0.533,0.462,0.743,0.0914,-14.161,0.0394,103.535,0.855,0,7,0,False,hot jazz
+2DqIUPErBdVUIjXHCwpWbZ,No Wonder,Bob Haring and His Orchestra,176745,1925-10-20,1925,0.989,0.598,0.528,0.946,0.482,-12.901,0.0573,115.9,0.721,0,7,0,False,vintage jazz
+6jvLzUT5Bxt2JUgSa60zkc,Manhattan,Nelson Hoerlle,161808,1925,1925,0.322,0.748,0.53,0.818,0.396,-14.687,0.0303,95.098,0.798,0,2,0,False,
+4wGMR1vyFEUoxyHxqvxwBR,If You Were Only Mine,Isham Jones,191813,1925-04-08,1925,0.973,0.523,0.182,0.00437,0.206,-8.981,0.0512,142.944,0.498,1,2,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+5hPZyf1GcprVzOjgvSEtbf,I Wish I Were Twins,Isham Jones,144173,1925-04-08,1925,0.886,0.718,0.318,0.723,0.0634,-12.116,0.0557,98.904,0.802,0,7,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6Ft2dpextc7xe2HqawRHwX,It's Winter Again - Instrumental,Isham Jones,178880,1925-04-08,1925,0.708,0.589,0.437,0.827,0.0744,-10.231,0.0727,180.72,0.681,1,8,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0SRHlPtJf6oZQ8Dn3rt7aS,It's Winter Again (With Vocal Refrain),Isham Jones,178653,1925-04-08,1925,0.864,0.641,0.426,0.142,0.14,-9.717,0.0679,180.547,0.651,1,9,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6c9IV0y6y7FXshqN50EkHv,Improvisando,Pedro Laurenz,152093,1925-02-25,1925,0.995,0.619,0.305,0.832,0.23,-15.91,0.0507,107.778,0.904,0,0,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+1vf55lpdhg8SJxhn71JMLs,Riptide,Isham Jones,149880,1925-04-08,1925,0.683,0.607,0.265,0.00134,0.401,-15.886,0.103,121.916,0.326,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0Nn4jcs3hs5MKpr6AVqHab,Spain,Isham Jones,201573,1925-04-08,1925,0.965,0.437,0.386,0.0233,0.102,-8.28,0.0807,171.852,0.766,1,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+3HBQky6E7Q3w032Fstdins,Keepin' out of Mischief Now,Isham Jones,160333,1925-04-08,1925,0.95,0.773,0.435,0.0155,0.115,-9.339,0.162,167.182,0.786,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+4XsYXNi4rT9hf24OOZFCCP,Sweet Lorraine,Isham Jones,201026,1925-04-08,1925,0.944,0.813,0.333,0.000761,0.0794,-10.913,0.138,116.179,0.698,1,8,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+3jj7G053rH4x9LOLryWsiY,You're Welcome,Isham Jones,212746,1925-04-08,1925,0.95,0.329,0.271,0.0409,0.336,-9.917,0.035,121.182,0.135,1,7,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6JiwsbPRXKO7vliNixLday,Old Lace,Isham Jones,187640,1925-04-08,1925,0.906,0.369,0.196,0.94,0.147,-12.371,0.0304,108.493,0.332,0,10,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+5ER6mUjs1H77iOG1fWGjpZ,My Silent Love,Isham Jones,186333,1925-04-08,1925,0.992,0.523,0.537,0.359,0.108,-2.475,0.0611,128.602,0.602,0,2,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+13BpsNy5iZob3uigmeTaUq,The Prisoners Song,International Novelty Orchestra,211348,1925-11-24,1925,0.946,0.186,0.26,0.16,0.137,-14.764,0.0394,68.046,0.234,0,5,0,False,
+2oREu0NK04lqOWcAoXdobf,You're O.K,Isham Jones,175680,1925-04-08,1925,0.844,0.819,0.647,0.175,0.0958,-10.48,0.0684,120.958,0.872,0,5,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+2x9ZsROs0KEPAiwiK0PVG6,Song Of The Vagabonds,International Novelty Orchestra,163607,1925-11-24,1925,0.975,0.784,0.34,0.0347,0.198,-13.493,0.0708,118.657,0.894,1,1,0,False,
+2p62HIw8WXJWWAAhUnKab5,What's the Use?,Isham Jones,187413,1925-04-08,1925,0.972,0.483,0.35,0.00138,0.0865,-3.841,0.0501,186.457,0.607,1,3,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6wISy2xMa2HaAoB8GOokla,One Little Word Lead to Another,Isham Jones,191053,1925-04-08,1925,0.99,0.641,0.334,0.437,0.134,-9.372,0.0537,125.772,0.598,1,3,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+4C895tmiv6utfIMKRC5Civ,Jealous,Isham Jones,210533,1925-04-08,1925,0.932,0.521,0.366,0.103,0.117,-11.669,0.0512,114.798,0.34,1,7,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0EtFEbkcxA91oTOX5EYKdo,Mama Loves Papa,Isham Jones,206213,1925-04-08,1925,0.989,0.586,0.432,0.892,0.149,-7.873,0.109,172.674,0.583,1,10,1,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+4KMH1H8CIXw6EqlaKO92Sm,I've Named My Pillow After You,Bailey's Lucky Seven,170763,1925-11-25,1925,0.986,0.817,0.442,0.00559,0.359,-12.701,0.406,110.242,0.72,0,4,0,False,
+2XUP3AQUAasrzm5VhLjwDZ,I Miss My Swiss,The California Ramblers,196154,1925-03-19,1925,0.994,0.897,0.463,0.754,0.255,-12.331,0.0452,115.488,0.918,1,7,0,False,"hot jazz, vaudeville, vintage jazz"
+1okfchHUJTu6abSO0bAE9Y,I'm Sitting on Top of the World,Ross Gorman and His Orchestra,187704,1925-10-21,1925,0.984,0.649,0.366,0.166,0.478,-13.337,0.213,106.937,0.746,1,10,0,False,
+48BNf6L8JoG4XmwL9fgnhW,Indiana Stomp,Original Memphis Five,177111,1925-11-25,1925,0.99,0.67,0.688,0.912,0.412,-2.713,0.0668,104.481,0.935,0,9,0,False,"dixieland, hot jazz, vintage jazz"
+7rP6GTkDdqc4euVGJm4KWc,I Love My Baby (My Baby Loves Me),Johnny Marvin,141986,1925-05-25,1925,0.995,0.781,0.164,0.0868,0.107,-17.306,0.0786,132.616,0.685,1,0,0,False,"vaudeville, vintage jazz"
+3DH6Ii2d7DCbK0LHO4I2s6,I Keep Remembering,Isham Jones,185026,1925-04-08,1925,0.988,0.479,0.284,0.00989,0.246,-6.449,0.0326,138.538,0.579,1,1,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+5UhlxHU0fSf1bet8cfAzvy,I Love My Baby (My Baby Loves Me),Aileen Stanley,181510,1925-10-19,1925,0.992,0.462,0.158,0.0,0.189,-16.603,0.114,201.471,0.602,1,4,0,False,"vaudeville, vintage jazz"
+6NcDwkYkVYXG9bXQNDiSXC,I Can't Use You,Butterbeans & Susie,189310,1925-09-22,1925,0.978,0.664,0.437,0.0,0.676,-13.608,0.359,80.108,0.374,1,4,0,False,
+2fgkGcYbxbEhssRdka5gB9,If You Knew Susie Like I Know Susie,The Varsity Eight,185078,1925-05-20,1925,0.995,0.851,0.474,0.89,0.342,-11.633,0.0412,108.508,0.843,1,6,0,False,hot jazz
+1Qz9NOcf9LNTXPBYXFSl7w,I’m Sitting On Top Of The World,Sam Lanin,135045,1925-10-29,1925,0.994,0.83,0.325,0.861,0.117,-14.865,0.0519,136.481,0.964,1,0,0,False,
+1kJabUiK5lPf2VPEOpP2PO,I'll See You in My Dreams,The Arkansas Travellers,173767,1925-12-16,1925,0.967,0.637,0.772,0.819,0.954,-10.658,0.144,111.062,0.611,0,2,0,False,
+6XGWpQMu1CXnM3wBu1w0Qo,I’m Sitting On Top Of The World,Roger Wolfe Kahn,182799,1925-06-30,1925,0.978,0.495,0.291,0.711,0.489,-13.267,0.135,209.782,0.96,1,6,0,False,"british dance band, vintage jazz"
+3b4igVfi0bMDC5R9wSmynU,I Can’t Believe That You’re In Love With Me,Roger Wolfe Kahn,176170,1925-07-22,1925,0.981,0.687,0.207,0.86,0.35,-14.91,0.0492,113.319,0.742,1,3,0,False,"british dance band, vintage jazz"
+6C5RSbGXiX5unpSht4ZEZN,I Know What 2 Dü,Young Astronauts Club,465000,1925-12-31,1925,0.00161,0.311,0.214,0.456,0.27,-24.913,0.0446,91.118,0.219,1,8,0,False,
+3XSxeMJAlvef7Gn7O09tnW,I Never Knew,Roger Wolfe Kahn,184145,1925-06-30,1925,0.87,0.593,0.381,0.433,0.57,-15.046,0.0415,110.428,0.814,0,8,0,False,"british dance band, vintage jazz"
+6DlG9IfRTt5KItQiS7MleD,Yes! I'm in the Barrel,Louis Armstrong & His Hot Five,157597,1925-10-14,1925,0.995,0.714,0.33,6.09e-05,0.106,-7.886,0.0811,152.882,0.709,1,5,0,False,"hot jazz, new orleans jazz"
+2itvcNAaccPUxapqg1JI0T,Jazz It Blues,New Orleans Rhythm Kings,132277,1925-05-12,1925,0.874,0.702,0.597,0.829,0.197,-11.201,0.298,120.331,0.907,1,0,0,False,"dixieland, new orleans jazz"
+2Xwyva1jDW8f00beISZHj8,West Indies Blues,Piron's New Orleans Orchestra,202416,1925-09-14,1925,0.995,0.382,0.171,0.902,0.128,-19.34,0.0616,182.8,0.675,1,5,0,False,hot jazz
+2FfWuB4jbdYACXiOxDwKh2,Primacord I,Young Astronauts Club,210128,1925-02-10,1925,0.0003,0.615,0.946,0.753,0.28,-12.42,0.0666,106.692,0.416,0,4,0,False,
+18o9cfYXmoIYqoSjYMV5Gb,Primacord III,Young Astronauts Club,115957,1925-02-10,1925,0.911,0.761,0.0929,0.855,0.112,-14.394,0.0844,90.076,0.78,1,0,0,False,
+2eNMm6SCOdRAUQFIN09yXI,Primacord II,Young Astronauts Club,245420,1925-02-10,1925,0.716,0.81,0.264,0.925,0.0476,-14.287,0.0785,137.016,0.577,1,7,0,False,
+7dlCV4ggol0LKgKnDPam2N,Amurado Ii,Pedro Laurenz,198466,1925-02-25,1925,0.994,0.523,0.441,0.906,0.107,-8.826,0.102,127.551,0.757,0,0,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+2bV9JZ4rTDS3BmlHY93X76,Tu Promesa - Remasterizado,Ignacio Corsini,151760,1925-04-25,1925,0.995,0.484,0.101,0.783,0.111,-24.966,0.0336,100.019,0.567,1,2,0,False,vintage tango
+0tlfw6PGBvOc0pl2H6glvR,Añoranza - Remasterizado,Ignacio Corsini,178253,1925-04-25,1925,0.994,0.426,0.0828,0.924,0.0966,-25.369,0.0711,131.868,0.531,0,10,0,False,vintage tango
+3pDMFFshCPFbNQMJWCJxnH,Sarita - Remasterizado,Ignacio Corsini,163920,1925-04-25,1925,0.995,0.513,0.0658,0.888,0.114,-24.642,0.0677,113.2,0.543,1,10,0,False,vintage tango
+0vyPrfz2uJpZJZtzxmVbZz,Mi Perdón - Remasterizado,Ignacio Corsini,187253,1925-04-25,1925,0.994,0.454,0.0956,0.936,0.102,-24.888,0.062,61.298,0.509,0,9,0,False,vintage tango
+2wc9bV6XI32NNMSjlKvOTD,Los Carreteros - Remasterizado,Ignacio Corsini,179826,1925-04-25,1925,0.994,0.53,0.255,0.438,0.857,-20.043,0.478,67.319,0.784,0,6,0,False,vintage tango
+2VRq4ROe0zs7rcVVDHEUUq,Marinero - Remasterizado,Ignacio Corsini,117533,1925-04-25,1925,0.993,0.427,0.361,0.506,0.72,-19.103,0.0829,71.589,0.626,1,3,0,False,vintage tango
+09V0sdDbjQYlkCIm1XkQDI,That Certain Party,Isham Jones,154613,1925-11-04,1925,0.993,0.911,0.191,0.177,0.116,-19.513,0.209,126.991,0.984,1,10,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+14u67tUXk5qU0xHua0HKyR,Ojerosa - Remasterizado,Ignacio Corsini,136066,1925-04-25,1925,0.995,0.514,0.158,0.943,0.273,-26.002,0.0488,123.55,0.75,0,5,0,False,vintage tango
+1Y8DFzGqbggoH7FrJ25M12,Tie Me To Your Apron Strings Again,Imperial Dance Orchestra,178756,1925-02-04,1925,0.993,0.807,0.273,0.823,0.263,-16.299,0.0763,115.245,0.935,1,10,0,False,vintage jazz
+0dddKchzYnQH4L23amUMVH,Altar Criollo - Remasterizado,Ignacio Corsini,157160,1925-04-25,1925,0.994,0.534,0.11,0.934,0.106,-25.113,0.0595,128.092,0.733,0,2,0,False,vintage tango
+1IuVrCUIrt4cRZaGJuoTiA,Sweet Man,Isham Jones,162430,1925-04-15,1925,0.995,0.681,0.291,0.857,0.503,-13.126,0.18,120.922,0.61,0,9,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+6UBvZs3DPw0SSSojVYiktg,All Wrong,Isham Jones,180773,1925-04-08,1925,0.993,0.396,0.3,0.719,0.225,-10.18,0.0481,143.534,0.403,0,0,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+2SFPIqnhQkrrqyxmVFJm0n,Alfredo - Remasterizado,Ignacio Corsini,196026,1925-04-25,1925,0.993,0.435,0.239,0.84,0.119,-20.321,0.0785,130.607,0.666,0,9,0,False,vintage tango
+7eYF7fkjQ2X7c4St7ECTIv,Reproches - Remasterizado,Ignacio Corsini,112800,1925-04-25,1925,0.996,0.566,0.0272,0.869,0.102,-25.649,0.128,83.379,0.448,0,7,0,False,vintage tango
+48uWNLgQTIuI2FKRDWrWus,Resignación - Remasterizado,Ignacio Corsini,125106,1925-04-25,1925,0.995,0.554,0.0917,0.862,0.107,-25.096,0.105,115.904,0.742,1,6,0,False,vintage tango
+6FkHIVpKCttTwn5SkL63UI,La Carreta - Remasterizado,Ignacio Corsini,176120,1925-04-25,1925,0.99,0.413,0.197,0.906,0.105,-25.353,0.0447,134.189,0.534,0,6,0,False,vintage tango
+4WyJZ0mRAkNBASsf6MrOn5,Mala Junta,Pedro Laurenz,179093,1925-02-25,1925,0.861,0.536,0.321,0.946,0.0723,-10.044,0.0439,124.005,0.769,1,2,2,False,"bandoneon, orquesta tipica, tango, vintage tango"
+0m0zWiKg5RuQruFjK1xk0j,Johannesberg,Young Astronauts Club,205714,1925-02-10,1925,0.023,0.484,0.88,0.91,0.171,-11.47,0.054,140.3,0.221,0,8,0,False,
+2b8lqJrlGh5teqRtdWxBTo,Just Like a Melody Out of the Sky,Ben Bernie,177191,1925-11-12,1925,0.952,0.54,0.247,0.213,0.0936,-14.256,0.0637,171.47,0.887,1,5,0,False,
+2AbVQuMyvNhUZEsNAQzp8V,J'ai Pas Su Y Faire,Yvonne George,170173,1925,1925,0.992,0.553,0.0903,0.0,0.259,-14.881,0.101,77.049,0.379,1,3,0,False,
+0L28n2b01CJX9Xeffkm0Md,Jealous mary,Charlie Poole with the North Carolina Ramblers,182293,1925-03-31,1925,0.976,0.593,0.49,1.74e-05,0.2,-4.111,0.0325,175.028,0.626,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+4IUls53mx64sfeX1LBxCM5,Je N'suis Pas Celle Que Vous Croyez,Perchicot,185973,1925,1925,0.953,0.65,0.52,0.0,0.0629,-12.068,0.0817,131.367,0.888,1,9,0,False,
+2tNlHzK2SiU85eBplzSFuq,Lonesome Journey Blues,Thomas Morris Past Jazz Masters,150789,1925-10-20,1925,0.996,0.518,0.133,0.819,0.153,-18.316,0.0736,130.677,0.815,1,7,0,False,
+7wAyHhP8g0zWR0a8BUZcvW,When the Jazz Band Starts to Play,Thomas Morris Past Jazz Masters,131259,1925-10-20,1925,0.995,0.442,0.373,0.855,0.304,-13.862,0.208,207.005,0.944,1,5,0,False,
+2pJFjroGh6XulSD1UX2hyO,William Jennings Bryan's Last Fight,Vernon Dalhart,194116,1925-03-12,1925,0.99,0.495,0.371,0.0131,0.423,-13.314,0.037,80.974,0.636,0,5,0,False,"vaudeville, vintage old-time"
+2rtQw5EzteniPTzNC8ZPrd,Milenberg Joys,Seven Missing Links,164259,1925-02-04,1925,0.977,0.545,0.581,0.429,0.479,-12.12,0.217,80.936,0.8,1,8,0,False,
+5Xp8QyKSKi5RXGsEZHKhqL,Mr. Jelly Lord,New Orleans Rhythm Kings,165194,1925-05-12,1925,0.996,0.548,0.233,0.3,0.131,-16.839,0.0396,134.1,0.839,0,7,0,False,"dixieland, new orleans jazz"
+44F5f1EGyTTvobvVHRA1qV,Milenberg Joys,New Orleans Rhythm Kings,147528,1925-05-12,1925,0.996,0.418,0.13,0.344,0.163,-18.895,0.109,178.65,0.777,1,8,0,False,"dixieland, new orleans jazz"
+494sLpSHMRvxbNIdx5k1S3,Cecilia,Jack Smith,179653,1925-06-03,1925,0.996,0.704,0.223,0.161,0.282,-15.03,0.241,96.221,0.506,0,5,0,False,
+4dYUcuj2OxW3DEKDjVXgr0,When Autumn Leaves Are Falling,Jack Smith,184861,1925-06-03,1925,0.996,0.625,0.155,0.0535,0.195,-15.766,0.227,96.973,0.607,1,0,0,False,
+3471V3DuBOy3WtXbLH7uNz,Poor Papa,Jack Smith,160280,1925-06-03,1925,0.996,0.751,0.214,0.00536,0.55,-15.195,0.34,66.423,0.306,1,7,0,False,
+1Wj1hBJKbEgyFHzraDL9aD,The Chant,Jelly Roll Morton,174426,1925,1925,0.942,0.711,0.635,0.882,0.0744,-5.458,0.0479,104.181,0.744,1,0,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0f6RVXKtgDxOjDOwbuAGqT,Sidewalk Blues,Jelly Roll Morton,209493,1925,1925,0.969,0.573,0.414,0.148,0.232,-6.402,0.0467,78.154,0.701,1,8,0,False,"dixieland, harlem renaissance, jazz piano, louisiana blues, new orleans blues, new orleans jazz, ragtime, vintage jazz"
+0x4isbpKSdQo8eJwaOGyQL,Original Charleston Strut,Thomas Morris Past Jazz Masters,150184,1925-10-20,1925,0.995,0.535,0.36,0.891,0.134,-14.809,0.0514,116.437,0.904,1,10,0,False,
+1ncobvReP4i7lR0AYXJu2X,Capítulo 3 - La estatua de sal,"Leopoldo Lugones, Jorge Rossett",184424,1925,1925,0.606,0.688,0.29,4.55e-05,0.147,-15.677,0.934,82.295,0.711,0,1,0,False,
+3BnrJBaQL3cHMJRbd127U0,Capítulo 4 - La estatua de sal,"Leopoldo Lugones, Jorge Rossett",186456,1925,1925,0.515,0.717,0.281,7.33e-05,0.381,-16.604,0.937,58.187,0.704,1,8,0,False,
+6fRtFxXErfgB6LQjKyWuhJ,Phoebe Snow,Ray Miller,172383,1925-05-25,1925,0.995,0.9,0.33,0.872,0.205,-13.825,0.107,108.507,0.816,1,3,0,False,
+5GukZyfu33WI3GOE40oC1q,Capítulo 2 - La estatua de sal,"Leopoldo Lugones, Jorge Rossett",181859,1925,1925,0.638,0.699,0.299,0.000911,0.242,-15.321,0.936,131.75,0.609,1,8,0,False,
+45AoZczcK8TdF4Qy1VEl3y,Precious Memories,Jim Palmer,150000,1925,1925,0.954,0.464,0.025,0.903,0.106,-26.069,0.0379,116.91,0.327,1,8,0,False,
+0cORCQueiEiycLBEPyoIcz,Capítulo 5 - La estatua de sal,"Leopoldo Lugones, Jorge Rossett",267433,1925,1925,0.476,0.676,0.259,1.14e-05,0.341,-17.026,0.935,98.702,0.593,1,3,0,False,
+0HpPNEElmfKvHA6yDfCQoV,Lucky Kentucky,Johnny De Droit & His New Orleans,169056,1925-03-26,1925,0.995,0.776,0.426,0.908,0.387,-12.938,0.0443,123.533,0.905,1,0,0,False,
+41Ue7u1doCpF4EHxoILsiV,We're Back Together Again,Jane Green,183312,1925-03-10,1925,0.994,0.837,0.249,8.22e-06,0.326,-12.322,0.0599,114.155,0.797,1,7,0,False,
+0tDJl8RIdCHDb9k2cTQlKO,Pickin' Cotton,Joe Venuti & His New Yorkers,182184,1925-10-28,1925,0.983,0.541,0.335,0.00191,0.428,-11.328,0.127,170.893,0.738,1,10,0,False,
+5G4erHmyVbm7hOMza0PUdT,Capítulo 1 - La estatua de sal,"Leopoldo Lugones, Jorge Rossett",183907,1925,1925,0.557,0.692,0.286,3.54e-05,0.318,-15.45,0.899,84.662,0.776,1,8,0,False,
+2nRj9wPIxoZVqSAMJTjlrL,South Wind,Roger Wolfe Kahn,168203,1925-07-22,1925,0.946,0.727,0.424,0.931,0.157,-13.122,0.053,123.576,0.929,1,3,0,False,"british dance band, vintage jazz"
+7uP2yBYqB2jwDk0SMmTCGM,Play the Funny Blues,Isham Jones,191818,1925-12-22,1925,0.993,0.482,0.37,0.239,0.397,-12.718,0.287,156.957,0.736,1,4,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+0dXB4vo0ybSUiwgAkjauDp,Crazy Rhythm,Roger Wolfe Kahn,165904,1925-07-22,1925,0.913,0.679,0.371,0.0749,0.737,-13.464,0.168,110.88,0.904,1,9,0,False,"british dance band, vintage jazz"
+0GcDdC9Qd0GKS9ROhDcrST,Little Old Log Cabin in the Lane,Fiddlin' John Carson,147347,1925-08-12,1925,0.994,0.528,0.112,0.0,0.339,-16.988,0.075,114.2,0.805,1,2,0,False,appalachian folk
+4yhMVQAaC11MN4KNmrNukK,Russian Lullaby,Roger Wolfe Kahn,168530,1925-07-22,1925,0.947,0.318,0.217,0.322,0.22,-14.143,0.0374,143.215,0.404,0,6,0,False,"british dance band, vintage jazz"
+3hSSjZ0PlwZo1XIhFgaLMH,Let A Smile Be Your Umbrella,Roger Wolfe Kahn,179148,1925-07-22,1925,0.985,0.652,0.29,0.311,0.186,-13.641,0.0393,107.454,0.784,1,10,0,False,"british dance band, vintage jazz"
+6iBhXXkLnWo8UGxl5WH2FK,A Room With A View,Roger Wolfe Kahn,159580,1925-07-22,1925,0.949,0.636,0.367,0.00192,0.369,-13.711,0.0352,111.915,0.913,1,10,0,False,"british dance band, vintage jazz"
+5oqzicSzXj6Sbn3udaiX3k,One Summer Night,Roger Wolfe Kahn,143112,1925-07-22,1925,0.981,0.538,0.332,0.0226,0.38,-11.902,0.0309,109.617,0.778,1,10,0,False,"british dance band, vintage jazz"
+47YDFQwH5LGDxPD025h8Wm,Spain,Isham Jones,156795,1925-10-02,1925,0.996,0.365,0.129,0.513,0.219,-16.845,0.0729,210.096,0.683,1,2,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+739QyEr3Gn3YLu2yTlW4PR,Nobodys Sweetheart,Isham Jones,188569,1925-10-02,1925,0.979,0.685,0.214,0.113,0.165,-14.399,0.0326,97.394,0.824,0,5,0,False,"big band, british dance band, tin pan alley, vaudeville, vintage jazz"
+17lnWvBab3n6lEXeCKLiOD,White Sugar,Young Astronauts Club,210102,1925-02-10,1925,0.298,0.246,0.316,0.0559,0.315,-19.283,0.0544,137.88,0.202,1,0,0,False,
+2hqFuiDlQKpxsJFXeTsM43,Tha Color Ov Yr Love,Young Astronauts Club,295000,1925-12-31,1925,0.906,0.229,0.0214,0.89,0.134,-30.195,0.033,102.683,0.263,1,8,0,False,
+6X4YOqwVjbkE2QrHtBL9CF,What's Wrong With Me,Young Astronauts Club,380000,1925-02-10,1925,0.847,0.683,0.0903,0.926,0.111,-19.958,0.0482,120.041,0.0714,1,8,0,False,
+0Wb8dOj4ZCBMtYHTtHUisj,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,360000,1925-02-10,1925,0.1,0.119,0.0949,0.872,0.109,-25.81,0.0535,32.689,0.0304,1,0,0,False,
+22lzw7xUEc3T5G4eJfnclK,An Apology,Young Astronauts Club,165120,1925-12-31,1925,1.71e-05,0.46,0.713,0.88,0.126,-13.864,0.0336,93.919,0.453,0,6,0,False,
+6pVCdC6AU8nCI9xFmR2DwL,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,340000,1925-12-31,1925,0.0625,0.225,0.115,0.866,0.111,-25.449,0.0472,139.772,0.0299,1,2,0,False,
+40sxI72VmZhFksL0I5eqwG,Tha Color Ov Yr Love,Young Astronauts Club,295000,1925-02-10,1925,0.906,0.229,0.0214,0.89,0.134,-30.195,0.033,102.683,0.263,1,8,0,False,
+0DwRDX5HGTVsGaTCcdt6ZK,Anger 4 Sale,Young Astronauts Club,220080,1925-12-31,1925,2.56e-05,0.413,0.602,0.726,0.104,-13.051,0.0349,81.317,0.548,0,6,0,False,
+6d31h6Snabx9WcuwKoaQb5,Zurich,Young Astronauts Club,320000,1925-12-31,1925,0.559,0.644,0.351,0.762,0.143,-15.304,0.0325,130.021,0.278,1,7,0,False,
+6xYcbEyA8sFvV7Mvy6aYxp,Nothing Left 2 Abuse,Young Astronauts Club,250000,1925-12-31,1925,0.837,0.654,0.0466,0.876,0.126,-21.393,0.0782,118.186,0.182,0,1,0,False,
+5e5jLXH0xfvTyOOCU1Aey7,What's Wrong With Me,Young Astronauts Club,380000,1925-12-31,1925,0.847,0.683,0.0903,0.926,0.111,-19.958,0.0482,120.041,0.0714,1,8,0,False,
+7GTqc2Ap3XkfYHjRMTKSRl,Washington,Young Astronauts Club,520559,1925-02-10,1925,0.262,0.671,0.502,0.000646,0.243,-15.355,0.0663,149.998,0.632,1,4,0,False,
+33HJo3qPiHIkzYJvJ2cEpf,Pharmacy School Theme,Young Astronauts Club,230000,1925-02-01,1925,0.95,0.377,0.149,0.923,0.139,-15.809,0.0572,100.931,0.0842,0,5,0,False,
+7hTzjMtInFOFIgnrvsO8NI,London,Young Astronauts Club,235000,1925-02-10,1925,0.224,0.754,0.579,0.00809,0.351,-9.574,0.0884,107.106,0.724,0,1,0,False,
+5NBgTCR5A3wRvMYCGf2E0R,3rd Movement - Allegro Agitato,"George Gershwin, Karl Pendlebury",439811,1925,1925,0.908,0.325,0.217,0.889,0.31,-15.811,0.0349,121.932,0.206,0,0,0,False,"american modern classical, classical, early modern classical, tin pan alley"
+3h4rSotZm6b6QhTWNpTU1l,1st Movement - Allegro,"George Gershwin, Karl Pendlebury",820650,1925,1925,0.944,0.269,0.249,0.87,0.146,-12.041,0.0329,93.894,0.0653,1,5,0,False,"american modern classical, classical, early modern classical, tin pan alley"
+6yRBcGg7AaFQbTiNyaNHRk,2nd Movement - Adagio,"George Gershwin, Karl Pendlebury",831648,1925,1925,0.944,0.143,0.0174,0.817,0.0547,-26.485,0.0398,74.551,0.0384,1,6,0,False,"american modern classical, classical, early modern classical, tin pan alley"
+6wMjRWEdtDLOqEmJt472BJ,Kater Steet Rag,Bennie Moten's Kansas City Orchestra,133092,1925-09-22,1925,0.968,0.588,0.572,0.915,0.122,-13.058,0.174,119.654,0.935,0,5,0,False,
+63BL92JrscarJzG2BWsKGb,Kiss Me Sweet,Piron's New Orleans Orchestra,155429,1925-09-14,1925,0.995,0.489,0.234,0.386,0.864,-17.676,0.103,134.109,0.611,0,5,0,False,hot jazz
+0uSvKNRczFSXjAbbz8FiMU,Ya Karawan,Umm Kulthum,402426,1925-12-31,1925,0.983,0.418,0.19,0.733,0.266,-21.77,0.114,76.991,0.42,1,7,0,False,"classic arab pop, microtonal"
+2KP6maIlEky8RFyiI9tiIJ,Oh Katharina!,Carl Fenton,169981,1925-01-29,1925,0.994,0.67,0.197,0.839,0.0981,-15.591,0.0415,122.816,0.87,1,3,0,False,
+08gZu5kM8P7KjNPwu44b9V,A Kiss Waltz,Charlie Poole with the North Carolina Ramblers,190253,1925-03-31,1925,0.873,0.406,0.423,0.891,0.142,-8.665,0.0331,164.871,0.906,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+7z5pf9glbPWLGReyseQO9U,Mother's Last Farewell Kiss,Charlie Poole with the North Carolina Ramblers,185853,1925-03-31,1925,0.967,0.65,0.228,0.0,0.101,-10.231,0.0319,86.5,0.561,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+6fT3ou0oPiQEwHzVF3xch7,Akhadt Sotak Men Rouhi,Umm Kulthum,360066,1925-12-31,1925,0.995,0.458,0.0972,0.704,0.0646,-19.19,0.0449,128.692,0.214,0,8,0,False,"classic arab pop, microtonal"
+1CX8k7KiYUDeC55NHwLOWv,Pas Sur La Bouche,René Koval,146200,1925,1925,0.995,0.71,0.315,3.46e-06,0.297,-13.262,0.224,84.674,0.852,0,0,0,False,
+1Bf0MKgtdsXE4xWemYjwnA,Teshoof Omory,Umm Kulthum,367080,1925-12-31,1925,0.969,0.323,0.0796,0.00801,0.189,-27.97,0.0876,77.169,0.261,1,7,0,False,"classic arab pop, microtonal"
+2AbygwQQUn09MWJUfLq2kQ,Li Lathaton,Umm Kulthum,444280,1925-12-31,1925,0.985,0.296,0.224,0.0117,0.368,-19.941,0.0618,72.355,0.385,1,2,0,False,"classic arab pop, microtonal"
+6ZaQhRwlHH4qy5P6aUVeHV,Ya Sety Leih El Mokaydah,Umm Kulthum,430253,1925-12-31,1925,0.971,0.32,0.254,0.593,0.148,-18.123,0.179,75.069,0.273,1,7,0,False,"classic arab pop, microtonal"
+1GCU3p8nQVumPURAFWMNgh,Zarny Tefak,Umm Kulthum,348400,1925-12-31,1925,0.986,0.302,0.316,0.436,0.45,-13.09,0.0593,70.201,0.385,0,1,0,False,"classic arab pop, microtonal"
+6sFN76H4c5jSY1jcbazVUf,Talaa Al Fagr,Umm Kulthum,432186,1925-12-31,1925,0.912,0.276,0.228,0.134,0.258,-20.732,0.0696,88.107,0.259,1,7,0,False,"classic arab pop, microtonal"
+3m64ka3ri9w3iG7qAmPVZN,Lake Missoula,Shane William Kimber,365550,1925-09-10,1925,0.404,0.405,0.621,0.48,0.921,-10.793,0.0595,99.949,0.11,0,9,0,False,
+72m928bweJhoEuW9mh7LKg,old tree love,Shane William Kimber,271880,1925-09-10,1925,0.398,0.323,0.453,0.0,0.078,-8.971,0.0742,95.596,0.129,0,9,0,False,
+5iMCkaJTXAyZZWHztHuNfB,_let_go_,Shane William Kimber,286672,1925-09-10,1925,0.832,0.355,0.405,0.638,0.0903,-4.579,0.0385,115.286,0.0364,1,7,0,True,
+7EU4hP1qUxmG7Xkifk4wbU,Yearning,Roger Wolfe Kahn,153783,1925-11-17,1925,0.985,0.597,0.42,0.033,0.429,-13.824,0.0475,105.439,0.632,1,0,0,False,"british dance band, vintage jazz"
+7gJ4RrzX5g6YT10GgBzhYs,Marge,Shane William Kimber,462377,1925-09-10,1925,0.0199,0.192,0.656,0.000493,0.118,-7.847,0.0471,88.953,0.154,0,9,0,False,
+0ykz5eW1ZqttXLsvVv2Vyj,the rest...,Shane William Kimber,166415,1925-09-10,1925,0.843,0.299,0.419,0.147,0.0696,-12.241,0.0576,136.67,0.206,0,9,0,False,
+6bpFekuV4ZwT9vmkq8c9Vm,The Rest.,Shane William Kimber,297213,1925-09-10,1925,0.889,0.451,0.219,0.663,0.35,-21.987,0.0413,109.744,0.277,0,9,0,False,
+02UuNENrDEbxtiq0onp6AV,Wolverine Blues,New Orleans Rhythm Kings,164394,1925-05-12,1925,0.973,0.402,0.435,0.0458,0.407,-11.337,0.0739,211.633,0.902,0,9,0,False,"dixieland, new orleans jazz"
+241dZxq7TsLZ3U1Pv85vgK,Angry,New Orleans Rhythm Kings,148864,1925-05-12,1925,0.996,0.618,0.332,0.662,0.14,-15.308,0.0637,124.619,0.967,0,5,0,False,"dixieland, new orleans jazz"
+6pSOSZgPKR2w8kPCYntFEv,Since We Fell Out of Love,New Orleans Rhythm Kings,154516,1925-05-12,1925,0.894,0.66,0.261,0.081,0.105,-13.341,0.296,170.886,0.6,1,8,0,False,"dixieland, new orleans jazz"
+0gouaausJc0jWBv8uaJWlr,Livery Stable Blues,New Orleans Rhythm Kings,129172,1925-05-12,1925,0.996,0.484,0.36,0.961,0.29,-14.689,0.0604,96.443,0.96,1,3,0,False,"dixieland, new orleans jazz"
+1YFikSflwNT3cTbFLiZhkK,ShimMeShaWabble,New Orleans Rhythm Kings,159050,1925-05-12,1925,0.985,0.381,0.463,0.151,0.117,-9.591,0.112,210.807,0.825,1,9,0,False,"dixieland, new orleans jazz"
+0m7SHBS4w5WcWXkRJ136EV,No Lovers Allowed,New Orleans Rhythm Kings,159540,1925-09-07,1925,0.908,0.744,0.383,0.034,0.282,-12.046,0.14,139.516,0.763,0,7,0,False,"dixieland, new orleans jazz"
+6nqWcaT5Pu39FNZGvogAWd,Sweet Lovin' Man,New Orleans Rhythm Kings,139590,1925-05-12,1925,0.958,0.403,0.447,0.0793,0.121,-9.636,0.0488,149.513,0.892,1,4,0,False,"dixieland, new orleans jazz"
+3pyjS6FSE09d67fPpCOk3Y,Marguerite,New Orleans Rhythm Kings,164531,1925-05-12,1925,0.996,0.572,0.198,0.94,0.181,-18.842,0.0417,113.676,0.631,1,3,0,False,"dixieland, new orleans jazz"
+7EHSGNCZXUouia8UHV6FBi,Are You From Dixie? (‘Cause I’m From Dixie Too),Billy Murray & Irving Kaufman,153460,1925-04-06,1925,0.981,0.676,0.172,0.0,0.272,-16.55,0.0818,124.061,0.733,1,0,0,False,
+358kF6VpKWdkspUWztnr8H,Maple Leaf Rag,New Orleans Rhythm Kings,134193,1925-05-12,1925,0.992,0.531,0.444,0.738,0.143,-11.922,0.0781,134.793,0.963,1,7,0,False,"dixieland, new orleans jazz"
+230yKx4iJH3uW33JkEqP4g,Silbando - Remasterizado,"Francisco Canaro, Azucena Maizani",174666,1925-08-02,1925,0.996,0.563,0.242,0.912,0.398,-12.03,0.147,113.549,0.417,1,0,0,False,"orquesta tipica, tango, vintage tango"
+3izqufataLHCvwGKfsiSem,Mimosita - Remasterizado,Francisco Canaro,144413,1925-07-12,1925,0.996,0.582,0.286,0.941,0.322,-15.647,0.0607,125.142,0.705,0,1,0,False,"orquesta tipica, tango, vintage tango"
+3bF4rNEbDkB4ETRgZkTr9p,Tomasito - Remasterizado,Francisco Canaro,154106,1925-07-12,1925,0.996,0.756,0.25,0.917,0.25,-13.816,0.0654,129.519,0.827,1,6,0,False,"orquesta tipica, tango, vintage tango"
+1J0TOwIqPPie8U8glGqMxA,Personita - Remasterizado,Francisco Canaro,149746,1925-07-12,1925,0.996,0.729,0.234,0.843,0.311,-16.481,0.101,120.432,0.616,1,7,0,False,"orquesta tipica, tango, vintage tango"
+4ZG7A8TeC72EvPgaxynXhB,Ríe Ríe - Remasterizado,Francisco Canaro,158626,1925-07-12,1925,0.996,0.528,0.255,0.876,0.344,-14.566,0.0767,201.123,0.797,1,11,0,False,"orquesta tipica, tango, vintage tango"
+3pni9bAPJPiFltXwDpV6xj,Ramas Secas - Remasterizado,Francisco Canaro,166386,1925-07-12,1925,0.996,0.583,0.338,0.957,0.127,-14.555,0.0527,126.456,0.554,1,5,0,False,"orquesta tipica, tango, vintage tango"
+0MQQj0hAHO1inR2vZoPNRt,Quereme Serrana - Remasterizado,Francisco Canaro,166466,1925-07-12,1925,0.996,0.42,0.27,0.878,0.216,-14.227,0.13,79.458,0.187,1,2,0,False,"orquesta tipica, tango, vintage tango"
+44nuflI66pK6aW16e48nYT,Syncopation,"Fritz Kreisler, Belle Ting",123350,1925,1925,0.972,0.534,0.215,0.647,0.063,-12.82,0.0622,134.722,0.732,1,7,0,False,"classical, post-romantic era, violin"
+5ffQXXNQAUSlzmsBmkMbpd,Maldonado,"Pedro Laurenz, Alberto Podestá",123760,1925-02-25,1925,0.956,0.752,0.445,0.288,0.0995,-6.412,0.0444,109.887,0.888,0,4,6,False,"bandoneon, orquesta tipica, tango, vintage tango"
+3Ht3bZlSXdhgFHOZ2oGi5q,Muchachos... Mi Último Tango,Pedro Laurenz,167573,1925-02-25,1925,0.975,0.784,0.288,0.317,0.176,-7.294,0.0575,124.364,0.662,1,9,3,False,"bandoneon, orquesta tipica, tango, vintage tango"
+01RZQzdtPFyL8OMUuUNxhX,Maria Remedios,Pedro Laurenz,165093,1925-02-25,1925,0.99,0.644,0.323,0.00552,0.319,-9.046,0.0464,107.867,0.773,1,2,4,False,"bandoneon, orquesta tipica, tango, vintage tango"
+0DqoEnMsE9L9bDPsvLvUZn,Lucy Long,Charlie Green,169598,1925-01-28,1925,0.953,0.65,0.325,0.0,0.392,-11.673,0.108,86.787,0.791,0,7,0,False,
+5UNFRurOQREyDequBBYAqs,Let Us Break Bread Together,Selah Instrumental Music,165198,1925,1925,0.995,0.386,0.0695,0.956,0.111,-26.141,0.0778,167.184,0.251,1,8,0,False,
+7C0pcmUsGu0k3neJBkIqKU,Les P'tites Femmes,Saint Granier,192866,1925,1925,0.991,0.543,0.396,0.0,0.389,-12.732,0.0681,137.286,0.906,1,4,0,False,
+0f0TSy2iW4VdrMrBgdwjZG,LOVÉS,33lio,144000,1925-08-07,1925,0.424,0.862,0.527,0.00114,0.1,-10.3,0.24,125.041,0.726,1,0,0,False,
+7gYaVUw3xJrXrZTAHkvt0z,The Letter That Never Came,Charlie Poole with the North Carolina Ramblers,171266,1925-03-31,1925,0.962,0.536,0.435,0.0,0.364,-8.716,0.0479,105.61,0.732,1,10,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+0iAhqFWOm8rBNLVbJpqj31,La Carrera - Remasterizado,Ignacio Corsini,166146,1925-04-25,1925,0.987,0.469,0.436,0.0276,0.917,-17.742,0.446,75.081,0.55,1,11,0,False,vintage tango
+4KQqDGZsFJHGRqRiJgqzke,Labios Pintados - Remasterizado,Ignacio Corsini,146906,1925-04-25,1925,0.996,0.56,0.122,0.94,0.198,-23.506,0.0747,126.886,0.809,1,1,0,False,vintage tango
+0cjUPFGUqPKIDgSy8yFlA4,Ukulele Lady,Irving Page's Syncopaters,167080,1925-01-14,1925,0.995,0.776,0.466,0.265,0.137,-12.39,0.0419,105.893,0.891,0,5,0,False,
+3PzckTy9B8q6VJzh3mqBnH,This Little Light of Mine (A Cappella),Amber Tyler,84703,1925-12-21,1925,0.965,0.348,0.0482,3.17e-06,0.625,-17.206,0.0453,81.321,0.355,0,8,0,False,
+15oNhbiPnQlWoO2eZzKjnQ,Shanghai Lullaby,Ray Miller And His Orchestra,186306,1925-09-23,1925,0.988,0.441,0.557,0.267,0.637,-11.487,0.312,202.688,0.75,1,8,0,False,"big band, vintage jazz"
+6nFlwilgH3vFRFZ4BQhg3j,Sous Le Soleil Marocain,Perchicot,205573,1925,1925,0.99,0.496,0.383,0.0,0.184,-11.25,0.0672,97.72,0.578,1,4,0,False,
+4xEfqWgb6p5eaGH3i6bkZT,Molly Lee,Billy Murray,174290,1925-09-08,1925,0.829,0.545,0.263,0.0,0.206,-17.501,0.0794,106.692,0.394,1,2,0,False,vaudeville
+7CM0lFlilj7HKUwgZffknx,Taconeando,Pedro Laurenz,188693,1925-02-25,1925,0.986,0.562,0.415,0.12,0.1,-9.122,0.0611,131.156,0.685,1,1,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+7q3VGJerFeZIV5tnULIH9y,Mococita,Pedro Laurenz,173360,1925-02-25,1925,0.993,0.617,0.434,0.198,0.414,-8.407,0.0732,124.333,0.775,0,4,1,False,"bandoneon, orquesta tipica, tango, vintage tango"
+6f8MI0Gy5bILmdbo4zSzlz,Save Your Sorrow,Louise Vant,172278,1925-05-13,1925,0.989,0.534,0.314,0.00015,0.944,-13.265,0.0825,76.796,0.383,1,5,0,False,
+5o1Jh026qS8aorbrXB2XTW,Want a Little Lovin’,Peggy English,157728,1925-09-30,1925,0.979,0.331,0.381,0.0,0.563,-12.034,0.0874,77.189,0.421,0,7,0,False,
+7n2ZcVlmS5bdwe5unNLbR9,Write a Letter to My Mother,Charlie Poole with the North Carolina Ramblers,183346,1925-03-31,1925,0.873,0.699,0.45,0.000249,0.0631,-7.955,0.0264,97.045,0.942,1,8,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+7FOY3qs8of9CRPw5QBzNbA,"May the Mind of Christ My Saviour (St Leonard’s, Organ)",Richard M.S. Irwin,139008,1925,1925,0.949,0.168,0.0577,0.977,0.166,-18.405,0.0407,64.38,0.237,1,2,0,False,
+2XhZwrjfgd7RRvxgv1oWKj,Why Couldn't it Be Poor Little Me,Ben Bernie,182100,1925-02-25,1925,0.996,0.666,0.382,0.914,0.0942,-10.247,0.0342,106.578,0.828,0,2,0,False,
+2jodvzBbR6KwOq1S8N0yfl,Mon Paris,Emma Liebel,147226,1925,1925,0.994,0.67,0.222,7.85e-06,0.0725,-14.268,0.0682,133.096,0.881,1,10,0,False,vintage chanson
+2jCqm6Jbdae2bzrsOfJogz,Midnight Papa,Parenti's Liberty Syncopators,177215,1925-02-25,1925,0.933,0.665,0.674,0.866,0.475,-8.849,0.125,115.018,0.718,1,3,0,False,
+0nxoMam5ENDuJr1czy32A2,There'll Come a Time,Charlie Poole with the North Carolina Ramblers,211653,1925-03-31,1925,0.963,0.453,0.333,0.0,0.153,-11.107,0.0339,179.724,0.831,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+57TnwbzUDTjLHZDtDi63YT,Smile All the While,Bailey's Lucky Seven,179305,1925-07-28,1925,0.995,0.822,0.366,0.346,0.405,-11.949,0.074,113.067,0.751,1,8,0,False,
+0oJH3wVkNLSneZBxEtKYck,C'est Pour Ca Qu'on S'aime,Yvonne George,202760,1925,1925,0.975,0.622,0.155,0.0,0.26,-16.196,0.173,107.4,0.535,1,4,0,False,
+4qamUbTwhCUnaYV9ARJTTH,Angry,Seven Missing Links,158773,1925-01-06,1925,0.985,0.639,0.591,0.835,0.434,-11.45,0.256,119.267,0.791,1,10,0,False,
+0ah4iXssNB9uA8rrgU0Jto,C'est Merveilleux,Maurice Chevalier,134000,1925,1925,0.99,0.679,0.438,0.0,0.112,-12.901,0.075,113.682,0.898,0,10,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+57UpznFnJ1G7ttV7tq0CFJ,C'était Une Autre Epoque,Marguerite Deval,210426,1925,1925,0.986,0.421,0.302,0.000409,0.544,-16.609,0.16,80.715,0.756,1,10,0,False,
+5YwZBm5LtOfWKj1c9TYg0I,C'etait Moi,Maurice Chevalier,135573,1925,1925,0.99,0.62,0.367,0.0,0.164,-14.657,0.0994,82.549,0.738,1,10,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+7bdYn875O0LNwxa4h6AB0h,Valentine,Maurice Chevalier,197440,1925,1925,0.989,0.6,0.29,0.0,0.0517,-14.495,0.0764,64.955,0.672,1,7,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+5GfV9YcbD9y2iak46fUFsV,NUAGES,33lio,141176,1925-08-07,1925,0.637,0.848,0.5,0.000181,0.1,-10.439,0.0801,136.156,0.611,0,8,0,False,
+3PMeDlpoEz2NNBkSPEIZyI,VIBES,33lio,168000,1925-08-07,1925,0.604,0.773,0.514,0.0,0.126,-10.652,0.0705,130.034,0.568,0,11,0,False,
+73sw7LDxmtXY2U6ff6SjHH,Bass 1 Predominant,Choral Tracks LLC,307356,1925,1925,0.989,0.158,0.00999,0.0,0.0938,-20.664,0.0445,82.378,0.0771,0,0,0,False,
+3G9wqM85lxKILiMqM8X7fC,Alto 2 Muted,Choral Tracks LLC,307330,1925,1925,0.993,0.21,0.0357,0.0,0.108,-18.499,0.0384,78.748,0.0571,1,3,0,False,
+30DVhTF2BcOWraNsyYK3ZV,Bass 1 Muted,Choral Tracks LLC,307200,1925,1925,0.993,0.251,0.0428,0.0,0.098,-18.64,0.0382,70.646,0.0708,0,0,0,False,
+22G76pAuoxte4kzW0chZ6i,Bass 2 Muted,Choral Tracks LLC,307330,1925,1925,0.993,0.115,0.0368,0.0,0.106,-19.242,0.0415,70.598,0.0703,0,0,0,False,
+4mNBGhiObTlGyuDbskmtDL,Bass 2 Predominant,Choral Tracks LLC,307200,1925,1925,0.988,0.149,0.014,0.0,0.0948,-19.466,0.0433,69.517,0.08,0,0,0,False,
+6pJjWUSGShr1NSvfEr7U8N,Soprano 1 Muted,Choral Tracks LLC,307330,1925,1925,0.992,0.126,0.0319,0.0,0.107,-18.9,0.0404,63.161,0.0483,0,0,0,False,
+5RqiLVBYd1WXoU7kDgvvAD,Tenor 2 Muted,Choral Tracks LLC,307330,1925,1925,0.993,0.112,0.0319,0.0,0.0888,-19.718,0.0403,61.698,0.0673,0,0,0,False,
+5EqpVZx3PfukAzgyXmbnrK,Tenor 2 Predominant,Choral Tracks LLC,307147,1925,1925,0.989,0.133,0.0365,0.0,0.11,-16.642,0.0424,64.199,0.0457,0,0,0,False,
+73DiVinJNaTaW5HYiZFPcq,Tenor 1 Muted,Choral Tracks LLC,307330,1925,1925,0.993,0.117,0.0317,3.22e-06,0.0975,-19.893,0.0435,70.201,0.0564,0,0,0,False,
+3NFE9Zwm1r5c4vnqnlFSRZ,Soprano 1 Predominant,Choral Tracks LLC,307226,1925,1925,0.994,0.128,0.049,2.2e-06,0.0944,-18.192,0.0458,70.055,0.117,0,0,0,False,
+6qaT2h42dZaeLzKaT7GblD,Tenor 1 Predominant,Choral Tracks LLC,307147,1925,1925,0.989,0.135,0.0351,0.0,0.109,-16.45,0.0418,68.276,0.0461,0,0,0,False,
+47Cop8XuCENyVH6pdazsks,Alto 1 Muted,Choral Tracks LLC,307330,1925,1925,0.993,0.243,0.0351,0.0,0.107,-18.5,0.038,67.066,0.0574,1,3,0,False,
+22zcYwlpLKHs2kzeDcMcxG,Alto 1 Predominant,Choral Tracks LLC,307330,1925,1925,0.991,0.229,0.0357,2.85e-06,0.0943,-18.563,0.0411,70.327,0.102,0,0,0,False,
+0h7d6vbeE0epsPXJ3CsVkV,Soprano 2 Predominant,Choral Tracks LLC,307226,1925,1925,0.994,0.217,0.0516,1.48e-06,0.0944,-17.516,0.0398,76.659,0.143,0,0,0,False,
+2vHIDKHZPLFv8G4AmUwN7U,Balanced Voices,Choral Tracks LLC,307330,1925,1925,0.993,0.263,0.0505,0.0,0.107,-17.784,0.0373,69.98,0.0559,0,0,0,False,
+4rsPoQJnZ5n1BLfyY0tNpN,Soprano 2 Muted,Choral Tracks LLC,307330,1925,1925,0.992,0.126,0.0324,0.0,0.107,-19.348,0.0399,59.047,0.0485,0,0,0,False,
+0i0D3dgQrI8kCG4kinvEqA,Alto 2 Predominant,Choral Tracks LLC,307330,1925,1925,0.991,0.121,0.0374,1.78e-06,0.0943,-18.243,0.0442,70.468,0.0871,1,3,0,False,
+2ceJdqxgJOoToKnn6GEkcK,Mountain Reel,Charlie Poole,185506,1925-03-31,1925,0.993,0.631,0.581,0.88,0.166,-10.028,0.0456,119.704,0.976,1,5,1,False,"appalachian folk, banjo, north carolina roots, traditional country, traditional folk"
+4jmBILONMI85Vj4KQpGBIs,Repellent Propellers,"Schnooty Records, Yung Schnooty",161750,1925-07-31,1925,0.601,0.557,0.311,0.0,0.443,-17.127,0.815,144.415,0.613,0,11,0,True,
+7xTn0CepOx3HHmuX8C0mau,Row Row Rosie,Mike Speciale & His Orchestra,177790,1925-01-21,1925,0.963,0.766,0.598,0.00157,0.532,-12.322,0.0786,117.017,0.916,1,10,0,False,
+0cbV5pkaLs1Lz5uWrrTRyV,Rain or Shine,Troubadours,177241,1925-10-28,1925,0.979,0.558,0.512,0.178,0.356,-11.032,0.0656,111.197,0.818,1,3,0,False,
+4YJjQBfqAlGBKqRVIY81DZ,Remember,Carlyle Stevenson's El Patio Orchestra,179305,1925-08-26,1925,0.989,0.596,0.33,0.0573,0.527,-11.361,0.0396,124.091,0.523,1,10,0,False,
+1kY1zwztrT387QjQ15bEVq,Remember,The Marigold Serenaders,177790,1925-10-21,1925,0.995,0.707,0.367,0.188,0.383,-13.252,0.043,116.081,0.524,1,5,0,False,
+3tb8TZR9uHOUEKBjAOLtU9,Ragtime Annie,Charlie Poole with the North Carolina Ramblers,196034,1925-03-31,1925,0.982,0.583,0.676,0.947,0.197,-2.688,0.0355,108.798,0.9,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+6IkpqpEKJPVja2NgvXRfK4,Montmartre Rose,The California Ramblers,185078,1925-12-22,1925,0.996,0.724,0.473,0.867,0.148,-10.698,0.0317,103.155,0.775,1,9,0,False,"hot jazz, vaudeville, vintage jazz"
+7kkmh8Od7v1ZnMkkM1uljC,Steady Roll Blues,Francis Craig,174290,1925-07-22,1925,0.91,0.786,0.414,0.0365,0.43,-11.251,0.0804,104.187,0.91,0,3,0,False,
+69PrE94cj3czkl6QYVOY3i,Yankee Rose,Paul Specht,186306,1925-06-08,1925,0.973,0.69,0.503,0.258,0.453,-11.362,0.38,123.482,0.471,1,7,0,False,vintage jazz
+31V3cqK4tY4O1Se8Onj5vw,Mountain Reel,Charlie Poole with the North Carolina Ramblers,185506,1925-03-31,1925,0.993,0.631,0.581,0.88,0.166,-10.028,0.0456,119.704,0.976,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+5vRmER1Rp4o0OIZxVShCrx,Crazy Rhythm,Ben Bernie,135267,1925-11-12,1925,0.964,0.797,0.452,0.0108,0.209,-11.82,0.376,111.021,0.899,1,5,0,False,
+3cXAchBUcxEh8CJ1gAeXU0,Osiris,"Schnooty Records, Yung Schnooty",189000,1925-07-31,1925,0.486,0.562,0.512,6.53e-06,0.0729,-13.375,0.721,192.973,0.314,0,9,0,True,
+6T8514MAsSE6pasmjFyhw5,See See Rider Blues,Ma Rainey,174033,1925-09-09,1925,0.995,0.41,0.112,0.0007,0.271,-18.27,0.061,157.948,0.464,1,4,0,False,
+3mPK5XgiXxfnKJ0uYejhpT,That Certain Party,Russo & Fiorito's Oriole Orchestra,151835,1925-10-21,1925,0.99,0.756,0.474,0.271,0.135,-12.478,0.0994,123.704,0.72,0,3,0,False,
+0Ubp0qTxM4gN6bzfUBKLDa,Adoring You,Ray Miller And His Orchestra,173793,1925-02-18,1925,0.991,0.625,0.447,0.766,0.563,-12.197,0.0749,108.55,0.45,0,1,0,False,"big band, vintage jazz"
+71VlouspOIlIU80agO2iCz,Prince of Wails,Tennessee Tooters,144616,1925-11-17,1925,0.995,0.71,0.355,0.664,0.0949,-14.824,0.0473,108.347,0.941,1,0,0,False,
+4dhiJlu68KlN3XSEKS5FDJ,Charleston,Tennessee Tooters,148864,1925-11-17,1925,0.996,0.699,0.259,0.924,0.138,-16.302,0.0654,125.916,0.92,0,7,0,False,
+5CfbhOGXkByfdVQxNhN1W9,Camel Walk,Red Nichols,157013,1925-11-26,1925,0.983,0.874,0.503,0.0844,0.249,-7.834,0.152,120.725,0.899,1,8,0,False,"dixieland, hot jazz, jazz trumpet, vintage jazz"
+1BDth78Sds4T1RRC7fwBbz,Melodie,Rudy Wiedoeft,180768,1925-08-25,1925,0.995,0.273,0.345,0.0349,0.36,-14.836,0.0739,86.241,0.625,1,11,0,False,classical saxophone
+1VArvZy2yQYWnkJ66skPfp,Perdón - Remasterizado,Ignacio Corsini,181186,1925-04-25,1925,0.995,0.526,0.0719,0.875,0.221,-23.548,0.147,125.436,0.556,1,5,0,False,vintage tango
+3tl9k8QT0CRs9XAbVVH2to,Anochecer - Remasterizado,Ignacio Corsini,139480,1925-04-25,1925,0.995,0.516,0.0422,0.843,0.105,-24.281,0.0648,80.733,0.551,0,6,0,False,vintage tango
+4pAfLwcu9AmtNnxEICCgG0,Sonrisas - Remasterizado,Ignacio Corsini,175200,1925-04-25,1925,0.988,0.363,0.188,0.974,0.154,-23.191,0.0509,119.978,0.614,1,8,0,False,vintage tango
+6wmsY5R7CRH9i09ayXVAzk,Amazona - Remasterizado,Ignacio Corsini,197186,1925-04-25,1925,0.994,0.368,0.0986,0.907,0.103,-22.573,0.0672,65.653,0.311,0,9,0,False,vintage tango
+4br3LAIWJPrz0iCVNyEuUp,Noche Mala - Remasterizado,Ignacio Corsini,176680,1925-04-25,1925,0.995,0.463,0.167,0.946,0.142,-21.792,0.053,131.867,0.729,1,6,0,False,vintage tango
+3hdG6AI3ObCO8OZgYuyWGM,Trago Amargo - Remasterizado,Ignacio Corsini,145573,1925-04-25,1925,0.995,0.48,0.0939,0.689,0.11,-23.486,0.206,94.007,0.307,0,4,0,False,vintage tango
+0y8FcE5lChKEagdklRDWvk,All Over Nothing at All,Nora Bayes,183360,1925-02-25,1925,0.885,0.264,0.0864,0.0,0.827,-22.438,0.0428,77.704,0.287,1,8,0,False,"music hall, vaudeville, vintage jazz"
+4FkLFh37NNRmDKTeMMavpS,Make Those Naughty Eyes Behave,The California Ramblers,166087,1925-04-14,1925,0.995,0.48,0.438,0.411,0.198,-10.033,0.0571,72.298,0.795,0,0,0,False,"hot jazz, vaudeville, vintage jazz"
+59XEt4QlDIIyEMXGKN9yMM,Oh Say! Can I See You To-Night,The California Ramblers,172330,1925-10-22,1925,0.987,0.851,0.479,0.879,0.138,-8.808,0.0615,112.063,0.583,1,1,0,False,"hot jazz, vaudeville, vintage jazz"
+3Mnk6aokfBjjMhmAlcfUHn,Shootin' Creek,Charlie Poole with the North Carolina Ramblers,206400,1925-03-31,1925,0.953,0.709,0.525,0.00456,0.0805,-9.752,0.0385,133.518,0.924,1,5,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+1LHjfavboQtu6bngSAHTA9,Sweet Sunny South,Charlie Poole with the North Carolina Ramblers,175933,1925-03-31,1925,0.962,0.719,0.454,1.35e-05,0.268,-11.356,0.0315,112.219,0.964,1,0,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+0cYQip0UAIs2EWYDUApMD9,You Ain't Talkin' to Me,Charlie Poole with the North Carolina Ramblers,177400,1925-03-31,1925,0.987,0.621,0.287,0.000121,0.246,-13.259,0.0462,122.835,0.842,1,2,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+737zkFCribnRhaTDqVNdYj,Sweet Sixteen,Charlie Poole with the North Carolina Ramblers,174106,1925-03-31,1925,0.917,0.645,0.478,0.0,0.33,-6.633,0.0394,114.82,0.898,1,7,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+7aKYaC5nTNHqpxLIa8pxMY,Monkey on a String,Charlie Poole with the North Carolina Ramblers,189026,1925-03-31,1925,0.994,0.606,0.375,0.625,0.239,-12.749,0.0381,103.168,0.933,1,10,0,False,"appalachian folk, old-time, traditional folk, vintage country folk"
+4ygqjJGZW1i6KIyXPuQz0L,Side C,1stN3rd,1472550,1925-07-05,1925,0.0127,0.63,0.582,0.597,0.4,-10.147,0.111,140.612,0.676,1,5,0,False,
+4NQb1j83ecSOQ7jjegXlsn,Side A,1stN3rd,785557,1925-07-05,1925,0.0867,0.514,0.37,0.814,0.298,-14.825,0.0443,95.075,0.461,0,10,0,False,
+6TYZr8ojHm7Qn0TV0uHmKg,The Prisoner’s Song,Vernon Dalhart,162927,1925-09-14,1925,0.995,0.43,0.118,0.0,0.324,-17.229,0.0297,84.725,0.478,1,2,0,False,"vaudeville, vintage old-time"
+2wT9NA4TC8q8USzvitFSpO,Talking to Myself,The Varsity Eight,179749,1925-12-03,1925,0.985,0.493,0.504,0.116,0.819,-12.13,0.11,201.675,0.793,1,7,0,False,hot jazz
+2PQsh3v9Xr6udEHrRVn2hD,Why Should I Believe in You?,Scranton Sirens Orchestra,153705,1925-04-08,1925,0.995,0.733,0.333,0.901,0.147,-12.416,0.0624,115.718,0.65,1,1,0,False,
+0Dn3Cp1oMBsdiwBikEL8TG,Makin Whoopee!,Ben Bernie,169714,1925-11-12,1925,0.968,0.538,0.269,0.147,0.0678,-14.031,0.159,166.604,0.781,1,8,0,False,
+48FVcO52TfjWsEi13Oeh3A,Oogie Oogie Wa Wa,The Benson Orchestra Of Chicago,178312,1925-10-14,1925,0.992,0.74,0.428,0.536,0.265,-9.377,0.0312,96.3,0.819,0,9,0,False,cool jazz
+3eJFCxMochhk9dCT9Sp4L2,Tell Me Who,Albert Brunies & The Halfway House Orchestra,169680,1925-03-17,1925,0.98,0.447,0.396,0.00598,0.438,-11.77,0.0977,218.309,0.752,0,5,0,False,
+4Q8yhFT6xOmZAPzFJRdnLs,No Man's Mamma,Ethel Waters,189075,1925-08-05,1925,0.988,0.51,0.307,0.0,0.755,-12.669,0.134,84.22,0.627,1,4,0,False,"harlem renaissance, torch song"
+6G7MLhtUUZiY1LylBKRyuz,1879,Young Astronauts Club,165120,1925-12-31,1925,8.56e-05,0.542,0.576,0.917,0.214,-13.352,0.0451,90.083,0.201,1,2,0,False,
+74oHxwuGMhJc6AbXQeB1So,"Yes, Sir! That’s My Baby",Ace Brigode,159868,1925-10-07,1925,0.989,0.871,0.404,0.231,0.146,-15.973,0.0833,141.115,0.982,1,3,0,False,
+63A3GgIc2sk9N2XDb9FZ6C,Save Your Sorrow For To-morrow,Mike Speciale & His Orchestra,171756,1925-11-18,1925,0.986,0.598,0.493,0.544,0.373,-11.778,0.0703,117.558,0.527,1,3,0,False,

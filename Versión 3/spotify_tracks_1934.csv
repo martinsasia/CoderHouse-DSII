@@ -1,0 +1,985 @@
+id,name,artists,duration_ms,release_date,year,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,mode,key,popularity,explicit,genre
+6omfYrSe5JPAuTfTFyMQBe,I'm an Old Cowhand,Sons of the Pioneers,165653,1934-01-19,1934,0.883,0.514,0.277,0.0,0.154,-9.943,0.0807,208.009,0.616,1,2,11,False,"cowboy western, traditional country, vocal harmony group, western swing"
+2SYNroABY0if34gYbA6cbY,Were You Foolin',"Richard Himber and his Orchestra, Joey Nash",153786,1934-07-01,1934,0.886,0.446,0.242,0.000243,0.0867,-12.159,0.0404,147.544,0.611,1,3,33,False,
+31Lg2nlUiZLYIB0Q21hsA0,A Cigarette and a Silhouette,Red Norvo,183200,1934-12-15,1934,0.961,0.722,0.157,3.69e-05,0.267,-10.821,0.0409,101.876,0.269,0,2,4,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3eYeVVmotMrnz0UgsXu1BL,All of Me,Django Reinhardt,167573,1934-05-20,1934,0.789,0.702,0.231,0.927,0.0775,-11.822,0.179,185.509,0.923,0,9,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+42kZZMyWGoiFScVmZhSNhy,Doin' The Uptown Lowdown,"Richard Himber and his Orchestra, Johnny Mercer",164866,1934-07-01,1934,0.988,0.612,0.372,3.64e-05,0.0921,-8.803,0.138,201.256,0.895,0,0,27,False,
+4YIZvmqOxkKSfb2WSX6dcN,Qué Me Van a Hablar de Amor,Julio Sosa,192826,1934-02-25,1934,0.945,0.352,0.616,0.0,0.602,-8.305,0.106,170.003,0.687,1,5,34,False,"folklore argentino, tango"
+6dKzVLBCRz4vuRbYmFbMGl,This Is Romance,Roy Fox,193160,1934,1934,0.973,0.49,0.0634,9.95e-05,0.277,-22.957,0.0357,110.038,0.345,1,8,25,False,british dance band
+29vwvl9uujsSROXErCrS4s,Spin a Little Web of Dreams (Roy Fox),Roy Fox,187106,1934,1934,0.953,0.491,0.0529,0.00315,0.0943,-18.87,0.0439,107.631,0.308,1,5,4,False,british dance band
+1xpj1wXvJyQmzSZcKxqzYs,Balam Aaye Baso More Man Men,K. L. Saigal,196774,1934-01-01,1934,0.996,0.47,0.152,0.769,0.171,-12.197,0.0712,68.152,0.334,1,11,11,False,"classic bollywood, filmi, ghazal"
+5ouSLy9xYvKHelAxljWjcz,Happy and Contented,Roy Fox,166160,1934,1934,0.984,0.62,0.151,0.0261,0.178,-16.763,0.0578,90.39,0.655,1,5,2,False,british dance band
+1rhBjOmu4ihJhFaBwrC3rQ,In a Mist,Red Norvo,197213,1934-12-15,1934,0.996,0.539,0.063,0.935,0.0954,-25.127,0.0486,137.071,0.328,0,9,3,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+7fxiWS9TSxEyUUvCfUUbS0,Old Original Kokomo Blues,Kokomo Arnold,174413,1934-05-20,1934,0.988,0.629,0.0939,0.000105,0.113,-18.449,0.122,136.666,0.753,1,5,12,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+0t1nlXv6c59jcQdRbCS32N,What Can You Say In A Love Song,"Richard Himber and his Orchestra, Joey Nash",194626,1934-07-01,1934,0.905,0.312,0.296,0.0214,0.142,-11.924,0.0365,116.888,0.516,1,5,8,False,
+6O0IdUwj1thWqpQBSjmkRr,En Esta Tarde Gris,Julio Sosa,228213,1934-02-25,1934,0.962,0.429,0.548,3.36e-06,0.406,-8.882,0.0587,112.748,0.491,0,7,29,False,"folklore argentino, tango"
+2VTDZMsZDtUjw4ONTnQI92,Nada,Julio Sosa,167760,1934-02-25,1934,0.929,0.348,0.708,0.0,0.26,-6.973,0.0665,114.747,0.45,0,5,32,False,"folklore argentino, tango"
+6eAVZrkoyXMdvbH84SpoyQ,Autumn In New York,James Piano Bar,118367,1934,1934,0.992,0.508,0.0678,0.953,0.114,-20.912,0.0691,74.995,0.147,0,0,2,False,
+1qWiANKRDiQ7ruI8Mzggqb,All I Know,samedowski,156888,1934-10-25,1934,0.116,0.825,0.75,0.359,0.312,-7.7,0.067,114.002,0.216,1,11,6,False,
+7Dq901ZJYfVHWZG82B6xCC,On The Sunny Side Of The Street,Louis Armstrong,176363,1934-01-01,1934,0.993,0.588,0.132,0.00489,0.498,-11.077,0.0702,97.745,0.515,1,0,11,False,"adult standards, dixieland, harlem renaissance, jazz trumpet, lounge, new orleans jazz, soul, swing, vocal jazz"
+0Y4XuSc5sdrH14rFyaFJaK,St. Louis Blues,Louis Armstrong,160470,1934-01-01,1934,0.991,0.697,0.404,0.723,0.748,-10.104,0.378,127.859,0.961,1,7,4,False,"adult standards, dixieland, harlem renaissance, jazz trumpet, lounge, new orleans jazz, soul, swing, vocal jazz"
+3zdcCNA81PmhewVhz2ayoQ,Al Mundo Le Falta un Tornillo,Julio Sosa,171013,1934-02-25,1934,0.843,0.57,0.59,3.7e-06,0.105,-8.387,0.0623,121.412,0.668,1,10,8,False,"folklore argentino, tango"
+5rMEWx3oDDrHenGZWL4SsG,As de Cartón,Julio Sosa,154333,1934-02-25,1934,0.95,0.517,0.501,1.42e-06,0.373,-9.458,0.0687,121.639,0.841,0,4,5,False,"folklore argentino, tango"
+0XU2w3Kx97qUV5j4DzQX72,At the Old Pig and Whistle,Roy Fox,161546,1934,1934,0.974,0.605,0.212,0.00024,0.171,-19.574,0.472,206.872,0.808,1,0,0,False,british dance band
+3Ufp9qeck1Ga93XmbuVMWn,Avalon,"Richard Himber and his Orchestra, Joey Nash",156146,1934-07-01,1934,0.867,0.419,0.276,0.0346,0.159,-12.688,0.0292,94.587,0.379,1,3,0,False,
+5vDlUr1dOxbZtSecQHa5D9,A Thousand Goodnights,"Richard Himber and his Orchestra, Joey Nash",184253,1934-07-01,1934,0.932,0.355,0.365,0.012,0.359,-11.143,0.0342,119.929,0.323,1,0,1,False,
+2h7OSfDgRrb6A7ngcMDpsH,April In My Heart (with Teddy Wilson & His Orchestra) - Take 2,"Billie Holiday, Teddy Wilson",191960,1934,1934,0.875,0.59,0.248,0.000194,0.149,-11.667,0.0548,103.43,0.64,1,0,2,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+3zYh7eHrnUk432rSWWRjoR,Avalon,Jimmie Lunceford & His Orchestra,177983,1934-04-25,1934,0.793,0.792,0.42,0.0786,0.0629,-9.94,0.186,114.169,0.866,0,5,0,False,"big band, man's orchestra, swing, vintage jazz"
+0Pi4CupxN6jaoaORqLbb2H,Aye Qatib-e-Taqdeer Mujhe,K. L. Saigal,214183,1934-01-01,1934,0.995,0.433,0.308,0.368,0.193,-10.003,0.0359,106.552,0.315,1,11,0,False,"classic bollywood, filmi, ghazal"
+6KRAJDeCe1I72uhDEtwtR3,Anniversary Song,Django Reinhardt,211253,1934-05-20,1934,0.912,0.768,0.155,0.842,0.104,-16.34,0.0714,102.043,0.716,1,5,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+7k39UioljXyshhPIHqPwCU,A Thousand Dreams of You,Red Norvo,180760,1934-12-15,1934,0.994,0.674,0.206,0.567,0.239,-11.931,0.0471,143.814,0.537,1,3,2,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4YURcUxJEjerAaVSCbQLqW,A Little White Cross on the Hill,Sons of the Pioneers,179440,1934-01-19,1934,0.982,0.34,0.194,0.000407,0.332,-13.408,0.033,120.729,0.419,1,3,1,False,"cowboy western, traditional country, vocal harmony group, western swing"
+1gUQbwgriSftoFU3WyLEl7,After Dinner Speech,Red Norvo,177386,1934-12-15,1934,0.981,0.729,0.114,0.00323,0.0934,-13.429,0.0544,98.826,0.455,0,4,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3dNfhrdSRZBP1pVkZNbsSE,Aah Ko Chahiye Ek Umr Asar Hone Tak,K. L. Saigal,210618,1934-01-01,1934,0.995,0.447,0.219,0.911,0.0804,-14.049,0.177,63.43,0.381,1,7,0,False,"classic bollywood, filmi, ghazal"
+3IO4uyyKT80xmKSfIBfJZl,"Midnight, the Stars and You (Roy Fox)",Roy Fox,176080,1934,1934,0.98,0.318,0.114,0.117,0.125,-16.861,0.0461,169.939,0.542,1,5,6,False,british dance band
+7z4xP8kzJ6UDviV0qmO9l1,Mean Old Twister,Kokomo Arnold,179653,1934-05-20,1934,0.994,0.548,0.214,0.00346,0.123,-14.506,0.0752,181.584,0.42,0,9,8,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6xK7md3O4xMCJALAp4WpO1,I Get a Kick Out of You,Jungle Brothers,175800,1934,1934,0.034,0.844,0.618,0.0656,0.0604,-16.012,0.0445,103.059,0.966,1,2,4,False,"east coast hip hop, golden age hip hop, hip house, jazz rap, old school hip hop"
+6PVKyL3tkctK7sUbxp0BHr,Sagefield Woman Blues,Kokomo Arnold,184933,1934-05-20,1934,0.972,0.602,0.255,0.0,0.218,-11.969,0.0862,178.252,0.491,1,8,8,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+2EJb2CXS3NUKS8wfzmMVog,Back Door Blues,Kokomo Arnold,205373,1934-05-20,1934,0.942,0.758,0.119,0.000295,0.0598,-16.169,0.0665,86.695,0.586,1,6,8,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+2JhKKEE45Szw8ixNQScsiV,My Sweet (Roy Fox),Roy Fox,184360,1934,1934,0.974,0.397,0.0686,0.0448,0.116,-21.358,0.0419,129.638,0.268,1,7,11,False,british dance band
+41IkGcDKnCXA2YsvT4MKXb,Ek Bangla Bane Nyara,K. L. Saigal,208297,1934-01-01,1934,0.99,0.359,0.36,0.0502,0.0968,-9.206,0.0333,92.636,0.548,1,9,22,False,"classic bollywood, filmi, ghazal"
+0JdVqkiIjDbjHtCWPsxFP6,"I Can't Get Started (From ""Ziegfeild Follies of 1936"")",Bunny Berigan and His Orchestra,286160,1934,1934,0.982,0.47,0.0653,0.0516,0.0804,-17.431,0.0611,72.54,0.267,1,0,6,False,"man's orchestra, new orleans jazz"
+65sRsDUiBRSl6ba6aBuKc0,Mano a Mano,Julio Sosa,193813,1934-02-25,1934,0.97,0.448,0.628,1.55e-05,0.377,-9.106,0.0599,122.757,0.66,0,0,12,False,"folklore argentino, tango"
+7IR0oB42Akdlj2sAY2OTTH,Mala Suerte,Julio Sosa,199920,1934-02-25,1934,0.945,0.609,0.482,1.6e-06,0.131,-9.023,0.169,61.77,0.797,1,9,19,False,"folklore argentino, tango"
+021ZvwqtKmX9URUhBjse2P,Tarde,Julio Sosa,214480,1934-02-25,1934,0.935,0.445,0.576,3.13e-05,0.368,-10.137,0.0535,119.14,0.672,0,0,18,False,"folklore argentino, tango"
+1MtD7U3hbxOANpcLIxknsx,What A Diff'rence A Day Made,"Richard Himber and his Orchestra, Joey Nash",214973,1934-07-01,1934,0.935,0.349,0.373,0.024,0.14,-11.449,0.0315,110.95,0.307,0,10,1,False,
+6B2TxBsJo8dStkQGxeW3hg,We'll All Go Riding On a Rainbow,Roy Fox,161760,1934,1934,0.908,0.806,0.346,0.00462,0.0389,-14.596,0.084,127.831,0.894,1,10,0,False,british dance band
+3Tr7AMHq0bvfBsbAHhzhH6,On a Steamer Coming Over,Roy Fox,174626,1934,1934,0.986,0.547,0.0361,0.00181,0.116,-23.019,0.0675,99.222,0.32,1,5,0,False,british dance band
+4aeBoNL5ZRSYH3ae6YsJo2,Who's Afraid Of The Big Bad Wolf?,"Richard Himber and his Orchestra, Terry Shand",187893,1934-07-01,1934,0.98,0.615,0.35,3.76e-05,0.0951,-11.976,0.206,199.184,0.865,1,2,1,False,
+2FPHqB0ROA6PDk8DsmYcn7,You're A Builder-Upper,"Richard Himber and his Orchestra, Joey Nash",195586,1934-07-01,1934,0.921,0.596,0.259,0.00616,0.107,-12.258,0.0396,144.611,0.821,1,10,0,False,
+0cIuuZMeIetB8eRUxtWqVB,Dinner at Eight,Roy Fox,150186,1934,1934,0.947,0.336,0.0675,0.216,0.228,-22.579,0.0446,136.38,0.351,1,3,1,False,british dance band
+2VP86sIVvK9j0D95Q34b04,Under a Blue Jungle Moon - Take 2,Billie Holiday,182826,1934,1934,0.98,0.49,0.158,0.00023,0.122,-14.713,0.054,88.087,0.276,1,1,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+7gpHfI6nj0k2dY5qVHCs4I,Laughing at Life - Take 2,Billie Holiday,174093,1934,1934,0.901,0.522,0.332,0.0,0.305,-10.607,0.0535,181.593,0.713,0,6,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+3ka6UxN8sLnrW5e26ZZmRT,I'm All for You - Take 2,Billie Holiday,207466,1934,1934,0.97,0.47,0.215,0.00013,0.37,-10.214,0.0409,79.219,0.246,1,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+7wWFyiCNQ9QNy9qDm5Gedx,Night and Day - Take 2,Billie Holiday,182173,1934,1934,0.979,0.469,0.142,7.37e-06,0.244,-15.037,0.0349,94.325,0.349,1,8,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+4hKKFfFOYMvJUAffz1ATZA,That's All I Ask of You - Alternate Take,Billie Holiday,178506,1934,1934,0.839,0.654,0.159,0.0,0.717,-13.883,0.0683,103.412,0.376,1,0,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+6aa6l3qa8WQwlXJW3yabGw,Woh Aa Ke Kwab Mein Taskin-E-Iztaraab Toh De,K. L. Saigal,200551,1934-01-01,1934,0.994,0.436,0.294,0.405,0.742,-11.559,0.0962,89.194,0.429,1,4,2,False,"classic bollywood, filmi, ghazal"
+2bIm4hnhUXrHA0xvKR2j2Z,Woh Aa Ke Khwab Mein Taskin-E-Iztaraab Toh De,K. L. Saigal,200555,1934-01-01,1934,0.994,0.468,0.296,0.502,0.734,-11.605,0.0868,98.79,0.431,1,11,0,False,"classic bollywood, filmi, ghazal"
+1u1bmOfPKBkZGvhHPJEAJt,Georgia on My Mind,"Django Reinhardt, Freddie Taylor, Quintette du Hot Club de France, Stéphane Grappelli",193573,1934-05-20,1934,0.971,0.711,0.125,0.118,0.277,-16.992,0.0573,126.979,0.593,0,7,6,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+4vF9qufYzGf0fEVx8II8az,"Santa Claus Came in the Spring (From ""Beat the Band"")",Benny Goodman,189066,1934,1934,0.973,0.561,0.21,0.0367,0.104,-13.623,0.0537,149.324,0.684,0,7,4,False,"adult standards, big band, dixieland, jazz, jazz clarinet, swing, vintage jazz, vocal jazz"
+4gsyGZzIzPCHABTglMsEjW,Red Beans and Rice,Kokomo Arnold,185466,1934-05-20,1934,0.991,0.585,0.156,0.000752,0.14,-14.882,0.0669,171.314,0.533,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+54UWJ8hRumK1aoq4NnLokZ,Le Fiacre,Yvette Guilbert,102200,1934,1934,0.976,0.695,0.177,0.0,0.0836,-17.272,0.11,99.814,0.7,1,11,1,False,vintage chanson
+0z5p0hlCZQ5X7axxSSAYFq,Otario Que Andas Penando,Julio Sosa,141333,1934-02-25,1934,0.965,0.501,0.592,1.16e-06,0.726,-7.508,0.0902,120.095,0.773,1,11,10,False,"folklore argentino, tango"
+2cGV5HjVdiexNS12fmr4Be,Ending With A Kiss,"Richard Himber and his Orchestra, Joey Nash",202453,1934-07-01,1934,0.698,0.353,0.187,0.00575,0.296,-14.151,0.038,99.415,0.183,1,5,0,False,
+3lbSE57t1nKwdlBNNFQNQT,Let's Take A Walk Around The Block,"Richard Himber and his Orchestra, Joey Nash",194306,1934-07-01,1934,0.845,0.505,0.3,0.0142,0.226,-9.938,0.0359,135.359,0.717,1,5,0,False,
+2J8VahRCNHfWahDXTCENQb,The Very Thought of You (Roy Fox),Roy Fox,180760,1934,1934,0.969,0.692,0.178,0.00401,0.0863,-16.108,0.0606,130.55,0.619,0,0,5,False,british dance band
+2yB3PC6WH1FIsczpfvYk92,Dukh Ke Ab Din Beet Nahin,K. L. Saigal,216384,1934-01-01,1934,0.996,0.326,0.103,0.751,0.109,-14.661,0.0643,72.691,0.112,1,11,1,False,"classic bollywood, filmi, ghazal"
+1at3qhMqSgdEEk2FcAVGdD,Rangeen Tar Az Henhast,K. L. Saigal,185423,1934-01-01,1934,0.995,0.489,0.361,0.929,0.128,-10.413,0.131,76.505,0.538,1,7,1,False,"classic bollywood, filmi, ghazal"
+0BlRvOWNKLl3OfF46o6akN,I've Found A New Baby,Bunny Berigan,198493,1934,1934,0.823,0.518,0.319,0.00124,0.844,-11.629,0.0519,139.697,0.33,0,0,0,False,"big band, jazz trumpet, swing, vintage jazz"
+6oK8L52RRf6jMWSyyx5qCT,"Girl Crazy, Act I: I Got Rhythm",Django Reinhardt,173853,1934-05-20,1934,0.812,0.713,0.386,0.877,0.0677,-12.155,0.126,148.198,0.846,0,7,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+3txg5deOKoQlNhKnLjmt6b,You're so Desirable (with Teddy Wilson & His Orchestra) - Take 2,"Billie Holiday, Teddy Wilson",173626,1934,1934,0.967,0.742,0.107,7.29e-06,0.112,-12.924,0.0386,105.929,0.592,0,9,2,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+0vkoKV5iV35KDHOQXF2KIH,Honeysuckle Rose,"Bunny Berigan, Tommy Dorsey, Fats Waller, Dick McDonough, George Wettling",185066,1934,1934,0.953,0.638,0.637,0.878,0.0418,-9.097,0.0577,109.463,0.891,1,5,5,False,"big band, jazz trumpet, swing, vintage jazz"
+22MXtMhSYIFONBheF9H41t,Song of India,Tommy Dorsey,185266,1934,1934,0.974,0.426,0.146,0.907,0.391,-16.57,0.0561,175.065,0.602,1,5,3,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+0N1i4dQs5TEuzHZQkHxNGb,Tain't What You Do (It's the Way That Cha Do It),Jimmie Lunceford & His Orchestra,182751,1934-04-25,1934,0.754,0.648,0.264,0.00014,0.18,-12.827,0.241,161.929,0.783,1,8,3,False,"big band, man's orchestra, swing, vintage jazz"
+38vRtCKyGF6D85bDllfyIq,Por Qué Canto Asi,Julio Sosa,185973,1934-02-25,1934,0.941,0.406,0.506,0.00709,0.138,-12.845,0.0555,123.615,0.518,0,7,8,False,"folklore argentino, tango"
+2AxQLfds6YsTStEy2rH87t,Stars Fell On Alabama,"Richard Himber and his Orchestra, Joey Nash",203920,1934-07-01,1934,0.829,0.299,0.428,0.00421,0.312,-11.353,0.0475,120.155,0.301,0,5,0,False,
+5QSaze9j2nctexjXird0m4,"Little Man, You've Had a Busy Day (Roy Fox)",Roy Fox,189026,1934,1934,0.99,0.463,0.0256,0.0199,0.109,-21.985,0.0481,85.807,0.256,1,8,0,False,british dance band
+0D3ViD8Q1ClUeA1hnwx9Qv,Did You Ever See a Dream Walking?,Roy Fox,173506,1934,1934,0.975,0.655,0.125,0.0385,0.0757,-19.182,0.191,157.193,0.807,1,7,0,False,british dance band
+33rXVveLz8bIUNdqYTqomj,If I Had A Million Dollars,"Richard Himber and his Orchestra, Joey Nash",153840,1934-07-01,1934,0.61,0.25,0.314,0.000659,0.135,-13.006,0.0363,169.296,0.605,0,7,0,False,
+0zvnDRyg1LLnMU4zaoXJqz,Falling In Love Again - Take 2,Billie Holiday,166600,1934,1934,0.96,0.6,0.128,5.44e-05,0.168,-13.619,0.0603,129.235,0.5,1,8,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+7ETNjuS6jQoF8nnPXL3zRj,You're Gonna See a Lot of Me (with Teddy Wilson & His Orchestra) - Take 2,"Billie Holiday, Teddy Wilson",178693,1934,1934,0.966,0.728,0.153,3.33e-06,0.161,-12.489,0.0488,113.952,0.494,0,2,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+7MFeDbS3TOfZBfvvF5vJpL,Phir Mujhe Deeda-E-Tar Yaad Aaya,K. L. Saigal,194720,1934-01-01,1934,0.992,0.565,0.227,0.0319,0.133,-9.971,0.229,72.473,0.383,1,5,5,False,"classic bollywood, filmi, ghazal"
+2bJbpXUoPWbjICEzljl6P1,The Wedding of Jack and Jill,Red Norvo,189253,1934-12-15,1934,0.974,0.581,0.245,0.244,0.116,-14.23,0.155,203.975,0.923,1,3,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+2KIg7uxFTvbRLKRpEW68Tk,I Would Do Anything for You,Red Norvo,179213,1934-12-15,1934,0.993,0.59,0.241,0.91,0.133,-13.257,0.0663,176.17,0.811,1,8,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4qOpmdyyciMfsNTcM1WRaN,Phir Mujhe Deeda-E-Tar Yaad Aaya,K. L. Saigal,194737,1934-01-01,1934,0.992,0.513,0.229,0.0346,0.141,-9.992,0.251,75.459,0.371,1,5,0,False,"classic bollywood, filmi, ghazal"
+49cwmRopKitMZ9fEfj8Skw,Take Me Back to My Boots and Saddle,Sons of the Pioneers,183530,1934-01-19,1934,0.917,0.512,0.289,0.000171,0.118,-12.575,0.0303,89.053,0.379,1,2,2,False,"cowboy western, traditional country, vocal harmony group, western swing"
+43O70oBfrGeuE5QvTtlFLn,There'll Never Be Another You,Red Norvo,147373,1934-12-15,1934,0.965,0.753,0.152,0.000835,0.147,-10.631,0.0485,113.417,0.444,0,10,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+6kLJNucjaqzId6D9ZKgMgo,I Was Doing All Right,Red Norvo,179653,1934-12-15,1934,0.856,0.778,0.254,0.000278,0.165,-11.433,0.0578,127.225,0.687,1,5,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4nkGYu0MWiMEjJ8CbkXQ5M,Jalvagaah-E-Dil Men Marate Hi Andhera Ho Gaya,K. L. Saigal,194005,1934-01-01,1934,0.994,0.509,0.6,0.398,0.531,-6.409,0.0773,119.579,0.712,1,5,1,False,"classic bollywood, filmi, ghazal"
+0g59CjiWIiUurdMS5c7Fcz,You Must Have Been a Beautiful Baby,Hoosier Hot Shots,117521,1934-09-15,1934,0.631,0.72,0.353,0.0,0.241,-10.579,0.437,151.287,0.649,0,7,1,False,"novelty, traditional country"
+5JsYlAT2djWNuSRqFhvyly,"When You Wore a Tulip, and I Wore a Big Red Rose",Hoosier Hot Shots,122680,1934-09-15,1934,0.737,0.756,0.341,0.0,0.209,-9.615,0.0903,124.499,0.939,1,8,1,False,"novelty, traditional country"
+0rNMG9yX814IFdEOKUUoGg,Old Original Kokomo Blues (Alternate Take),Kokomo Arnold,175613,1934-05-20,1934,0.953,0.614,0.381,9.61e-06,0.251,-10.614,0.0499,136.853,0.689,1,5,1,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3pUxKpzyeOUrtBfrLuhqRl,Milk Cow Blues (Alternate Take),Kokomo Arnold,189520,1934-05-20,1934,0.98,0.702,0.357,4.21e-06,0.119,-10.805,0.0383,100.038,0.519,1,5,1,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+2ZKxpkiuRHplLybRdFIYTC,Try Some of That,Kokomo Arnold,179653,1934-05-20,1934,0.991,0.65,0.345,0.0117,0.197,-11.762,0.0861,67.83,0.729,0,10,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+76qgZozWrlmQ9XKdpI0If8,Busy Bootin',Kokomo Arnold,146933,1934-05-20,1934,0.915,0.569,0.29,0.0,0.0753,-11.281,0.133,178.42,0.46,1,1,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7tAuLkneOd0XZfb2mFjWrR,Broke Man Blues,Kokomo Arnold,174413,1934-05-20,1934,0.995,0.757,0.196,2.42e-05,0.199,-11.665,0.0631,90.525,0.744,1,0,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+19rHqmHkDijtZ2rPLugxmZ,Lady Doctor Blues,"Kokomo Arnold, Casey Bill Weldon",166693,1934-05-20,1934,0.992,0.681,0.211,0.000231,0.144,-12.679,0.0648,93.946,0.686,1,0,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7zkDVA017zO2zwvtUIpurr,Grass Cutter Blues,Kokomo Arnold,176933,1934-05-20,1934,0.986,0.605,0.125,1.19e-05,0.123,-12.407,0.0611,178.304,0.722,1,3,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6mUpgmjEPq9Ks55OK9tNMR,Milk Cow Blues,Kokomo Arnold,191413,1934-05-20,1934,0.991,0.771,0.0542,2.77e-05,0.126,-19.389,0.0602,100.621,0.569,1,5,3,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+10ErC1YZHF6E7GLngmlDaE,Cause You're Dirty,Kokomo Arnold,183133,1934-05-20,1934,0.979,0.578,0.217,9.3e-05,0.0905,-19.469,0.0641,97.293,0.737,1,3,1,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7hpK8ilJuxoR5ZyipcLUKw,The Twelves (Dirty Dozen),Kokomo Arnold,193253,1934-05-20,1934,0.931,0.611,0.354,2.63e-06,0.158,-12.193,0.126,101.73,0.808,1,2,1,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+37eVVmvn34RjwupgR4UM3Y,Dios Te Salve M'hijo,Julio Sosa,209613,1934-02-25,1934,0.971,0.518,0.395,0.273,0.366,-14.311,0.137,116.842,0.796,0,9,6,False,"folklore argentino, tango"
+3H70JqHiFmh0GG3s4SHtiO,Brazil,Django Reinhardt,168746,1934-05-20,1934,0.927,0.833,0.197,0.934,0.115,-13.764,0.0499,110.682,0.834,1,0,6,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+0chHmWuhtQtTWVPQRdemfb,Bop!,Red Norvo,185200,1934-12-15,1934,0.959,0.701,0.338,0.266,0.291,-8.716,0.0703,115.981,0.905,1,8,4,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+2aSY6Ju1Lih47r7mfcIpRH,Blues,Bunny Berigan,178040,1934,1934,0.948,0.78,0.205,0.616,0.0585,-14.853,0.0503,84.562,0.58,1,3,3,False,"big band, jazz trumpet, swing, vintage jazz"
+3kRtvEpKfvOHMFIZw7j9HB,Everyone's Wrong but Me,Red Norvo,178840,1934-12-15,1934,0.994,0.639,0.179,0.406,0.131,-14.541,0.0435,98.23,0.328,1,7,12,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+6uJPkzLlg5mbuFLVfTOtTK,I Like Bananas (Because They Have No Bones),Hoosier Hot Shots,135640,1934-09-15,1934,0.894,0.788,0.315,0.000641,0.187,-11.458,0.0599,96.133,0.962,1,10,9,False,"novelty, traditional country"
+0Ima424rYDqZ1jAoa7onX7,Troubled,Bunny Berigan,163133,1934,1934,0.924,0.698,0.578,0.87,0.307,-9.299,0.0535,94.772,0.807,0,4,9,False,"big band, jazz trumpet, swing, vintage jazz"
+5ixfbSoNIJQE4YWxty2YVM,South of the Border (Down Mexico Way),Sons of the Pioneers,170360,1934-01-19,1934,0.987,0.365,0.402,0.000785,0.0789,-9.68,0.0299,102.094,0.293,1,0,7,False,"cowboy western, traditional country, vocal harmony group, western swing"
+5weL17dQW7injgVolgZxA4,Blue Moon,James Piano Bar,143777,1934,1934,0.994,0.384,0.245,0.968,0.115,-19.97,0.0679,68.505,0.234,1,10,0,False,
+5zMxNKsd83eXDcCpInMqYw,Trees,Bunny Berigan,198866,1934,1934,0.972,0.626,0.0802,0.104,0.101,-12.949,0.0393,125.848,0.383,1,2,3,False,"big band, jazz trumpet, swing, vintage jazz"
+28FuPPMQvu1tDwjNfpG6o7,Blue Lou - Take 2,Metronome All Star Band,199533,1934,1934,0.817,0.615,0.346,0.904,0.105,-14.082,0.0627,178.623,0.873,1,8,1,False,
+26G0NpXhFVD9cXzBqg1m14,Blue Eyes Crying in the Rain,Sons of the Pioneers,156613,1934-01-19,1934,0.787,0.72,0.348,0.000343,0.122,-7.462,0.0279,109.498,0.669,1,2,1,False,"cowboy western, traditional country, vocal harmony group, western swing"
+0d1wYq5hoO13py4x9Bvy7p,Blue Shadows On the Trail,Sons of the Pioneers,168693,1934-01-19,1934,0.786,0.453,0.131,0.12,0.212,-14.531,0.0344,88.963,0.384,1,8,1,False,"cowboy western, traditional country, vocal harmony group, western swing"
+0d0f9a5CU1IcOC6fSAP6qv,Baby Won't You Please Come Home,Jimmie Lunceford & His Orchestra,169913,1934-04-25,1934,0.965,0.597,0.433,0.116,0.105,-9.186,0.172,172.411,0.904,1,5,1,False,"big band, man's orchestra, swing, vintage jazz"
+0XszaOFo3KYWCHXhKTxS4w,Babul Mora Naihar Chhute Jaye,K. L. Saigal,187856,1934-01-01,1934,0.99,0.396,0.31,0.0589,0.133,-8.364,0.0329,85.998,0.12,1,4,0,False,"classic bollywood, filmi, ghazal"
+74wBKCT9aolvcqTDBQGbPc,Bien Bohemio,Julio Sosa,195653,1934-02-25,1934,0.962,0.525,0.477,3.96e-06,0.31,-8.898,0.13,123.675,0.853,1,7,8,False,"folklore argentino, tango"
+4jZUJVJx2oa8LvojRLYbqD,Belleville,Django Reinhardt,179880,1934-05-20,1934,0.776,0.837,0.291,0.685,0.16,-14.336,0.148,116.809,0.864,1,7,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+2ErCo0m0ncaR4s2XIi5Ixi,Beside My Caravan (Roy Fox),Roy Fox,187560,1934,1934,0.805,0.578,0.149,0.000585,0.293,-15.13,0.037,116.854,0.536,1,10,0,False,british dance band
+68I7zZQ738oHYDHKfKuzCL,Beer Barrel Polka,Hoosier Hot Shots,153200,1934-09-15,1934,0.724,0.731,0.331,0.00262,0.227,-9.696,0.0925,126.202,0.944,1,3,0,False,"novelty, traditional country"
+38xwf4ErqgIA3IpoWDzZdx,St. Louis Blues,Django Reinhardt,182733,1934-05-20,1934,0.732,0.72,0.296,0.891,0.091,-13.338,0.336,134.622,0.8,1,7,4,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+5EbX5o6isjyYbOpoifQEmx,"Fascinating Rhythm: Lady, be Good!: Oh, lady, be good!",Django Reinhardt,171066,1934-05-20,1934,0.619,0.86,0.281,0.891,0.129,-13.371,0.494,127.087,0.825,1,7,4,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+6SThM2OLHggSH62gXGXHGf,Jingle Bells,"Benny Goodman, Bunny Berigan",153826,1934,1934,0.905,0.612,0.3,0.924,0.0451,-13.226,0.079,197.799,0.96,1,5,1,False,"adult standards, big band, dixieland, jazz, jazz clarinet, swing, vintage jazz, vocal jazz"
+234R6rBe6of88kvmB1mTkj,Nothin' But the Blues,"Bunny Berigan, Gene Gifford And His Orchestra, Joe ""Wingy"" Manone",193826,1934,1934,0.973,0.574,0.253,0.689,0.499,-11.599,0.0562,105.714,0.607,1,5,1,False,"big band, jazz trumpet, swing, vintage jazz"
+3Lt1LmMg1DtS5n2mUA3Fmb,Jelly-Roll Blues,Bunny Berigan and His Orchestra,203333,1934,1934,0.865,0.712,0.0789,0.833,0.0518,-14.397,0.0465,103.993,0.503,1,10,0,False,"man's orchestra, new orleans jazz"
+4zcP7qnG3y6pyFX7PJaCTz,Pecos Bill,Sons of the Pioneers,181320,1934-01-19,1934,0.98,0.662,0.429,0.00028,0.359,-10.924,0.166,128.478,0.841,1,10,1,False,"cowboy western, traditional country, vocal harmony group, western swing"
+3bfTKAQBqho00pfXM1XCXO,Little Black Shawl (Roy Fox),Roy Fox,193333,1934,1934,0.961,0.472,0.0335,0.0551,0.138,-17.748,0.0437,133.898,0.418,1,0,0,False,british dance band
+2j3uo6b9hOyYvGD0wh3MNO,She Broke My Heart in Three Places,Hoosier Hot Shots,169293,1934-09-15,1934,0.918,0.794,0.297,0.000495,0.197,-10.56,0.194,102.158,0.824,1,3,1,False,"novelty, traditional country"
+1jwUUUO6nezeG7itzfEKL6,Little Brown Jug,Sons of the Pioneers,146733,1934-01-19,1934,0.892,0.775,0.269,0.0,0.0717,-10.031,0.0674,96.896,0.871,1,7,0,False,"cowboy western, traditional country, vocal harmony group, western swing"
+3hevysFpXXQHljBnTjCB2A,Pretty Baby,Hoosier Hot Shots,88933,1934-09-15,1934,0.79,0.664,0.275,6.44e-05,0.0841,-9.295,0.112,156.876,0.954,1,3,0,False,"novelty, traditional country"
+1lsPoBeNyRkAsx26RwQ4Xn,Jeepers Creepers (with Benny Goodman & His Orchestra),"Billie Holiday, Benny Goodman",181573,1934,1934,0.973,0.731,0.447,0.0,0.363,-10.282,0.14,104.298,0.925,1,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+6IZm3pIbX4bFNpspZmyHM2,I Cried for You (with Benny Goodman & His Orchestra),"Billie Holiday, Benny Goodman",149506,1934,1934,0.979,0.582,0.33,0.0,0.174,-11.573,0.0385,73.012,0.695,1,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+20uGXvQblrwLzNFA3ko8c9,More Than You Know (with Teddy Wilson & His Orchestra) - Take 2,"Billie Holiday, Teddy Wilson",183906,1934,1934,0.901,0.682,0.158,2.42e-06,0.0817,-11.946,0.0423,99.69,0.512,1,7,2,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+1gQK2knIi0R2uLbRrNWii0,Practice Makes Perfect - Take 3,Billie Holiday,162106,1934,1934,0.885,0.537,0.279,0.0013,0.0358,-9.014,0.0452,145.604,0.607,0,5,0,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+2MH2yQOuudHLRkX7UJ2BCJ,Practice Makes Perfect - Take 2,Billie Holiday,155000,1934,1934,0.92,0.63,0.283,0.00408,0.0712,-9.173,0.041,76.251,0.575,0,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+7t8z32FpcO4UaOGnaz7zLx,Let's Dream In the Moonlight (with Teddy Wilson & His Orchestra) - Take 1,"Billie Holiday, Teddy Wilson",174200,1934,1934,0.947,0.659,0.0983,2.26e-05,0.098,-13.066,0.0431,107.992,0.474,1,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+68l4RTNtJ3BYW5ZK1rpHQz,The Same Old Story - Take 3,Billie Holiday,189666,1934,1934,0.953,0.581,0.11,4.22e-06,0.401,-16.086,0.0382,86.414,0.44,0,9,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+1LJVsmwzIC2vxffCkJiIGF,I Hear Music - Take 2,Billie Holiday,159360,1934,1934,0.911,0.6,0.306,0.000237,0.397,-10.592,0.0601,165.517,0.743,1,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+0sg8zFrCzObI6AtfEzhvEu,"Hello, My Darling (with Teddy Wilson & His Orchestra) - Take 2","Billie Holiday, Teddy Wilson",162106,1934,1934,0.97,0.739,0.15,0.00233,0.42,-13.117,0.0391,101.369,0.532,1,7,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+3UyQdCIFvm3lBUk2GLURK9,You're Too Lovely to Last - Take 2,Billie Holiday,181733,1934,1934,0.943,0.423,0.167,5.76e-06,0.264,-11.086,0.034,81.119,0.344,0,0,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+3rNNBBc8aCBLo9gvifZPt3,They Say (with Teddy Wilson & His Orchestra) - Take 2,"Billie Holiday, Teddy Wilson",183333,1934,1934,0.96,0.585,0.172,0.00333,0.0826,-12.835,0.0597,119.722,0.619,1,5,1,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+4TsWxY9h3rJPt2qm0Ny0BC,Practice Makes Perfect - Take 4,Billie Holiday,164133,1934,1934,0.877,0.548,0.308,0.00273,0.0598,-8.523,0.0426,145.748,0.616,1,8,0,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+5YF8Txczos2jYR2zh8p86t,The Same Old Story - Take 2,Billie Holiday,189933,1934,1934,0.966,0.526,0.144,9.17e-06,0.413,-13.75,0.0338,85.942,0.391,0,9,0,False,"adult standards, harlem renaissance, jazz, jazz blues, soul, swing, torch song, vocal jazz"
+0OFBp294QWjCNeb1eotlTa,Russian Lullaby,Bunny Berigan,185133,1934,1934,0.97,0.711,0.25,0.897,0.117,-14.439,0.0421,116.423,0.704,0,2,1,False,"big band, jazz trumpet, swing, vintage jazz"
+1MU08jL6TLIUS2HYGYsRSB,King Porter Stomp - Remastered - 1999,Bunny Berigan and His Orchestra,187000,1934,1934,0.877,0.59,0.416,0.897,0.0993,-10.681,0.0888,181.331,0.866,1,1,1,False,"man's orchestra, new orleans jazz"
+0njY04Jo8CrqSBptzxSo1S,"Sometimes I'm Happy (from ""Hit the Deck"")",Benny Goodman,221573,1934,1934,0.952,0.653,0.183,0.791,0.157,-12.433,0.0339,129.748,0.71,1,8,1,False,"adult standards, big band, dixieland, jazz, jazz clarinet, swing, vintage jazz, vocal jazz"
+3VTuGnsvzX4HETs1YUe4jr,Liebestraum,Bunny Berigan,207773,1934,1934,0.934,0.558,0.37,0.868,0.0752,-11.277,0.166,161.009,0.795,0,7,1,False,"big band, jazz trumpet, swing, vintage jazz"
+04J4GM5KscKk4M2RDEL0mZ,Candlelights,Bunny Berigan,190440,1934,1934,0.972,0.607,0.0628,0.667,0.263,-15.865,0.0454,120.253,0.364,1,0,0,False,"big band, jazz trumpet, swing, vintage jazz"
+0mJYz487aGsuRZ540uPWHb,Mendelssohn's Spring Song,"Bunny Berigan, Tommy Dorsey",153666,1934,1934,0.945,0.546,0.402,0.671,0.33,-11.9,0.116,173.453,0.965,1,4,2,False,"big band, jazz trumpet, swing, vintage jazz"
+1f1Ge5ulaWpOvEYeY5Keta,The Pied Piper,"Ruth Gaylor, Bunny Berigan",201240,1934,1934,0.96,0.689,0.156,4.87e-05,0.329,-14.069,0.0691,144.133,0.725,1,8,1,False,
+0ft365DKlE5Cr0Wg5ixQJt,Since My Best Girl Turned Me Down,Jimmie Lunceford & His Orchestra,201090,1934-04-25,1934,0.939,0.766,0.149,0.000897,0.276,-14.547,0.049,130.473,0.72,1,5,1,False,"big band, man's orchestra, swing, vintage jazz"
+2FEIQTnMibDf2rHbSQztZH,Place de Brouckere,Django Reinhardt,176093,1934-05-20,1934,0.791,0.793,0.335,0.825,0.115,-12.988,0.0626,119.46,0.628,1,6,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+6TnnBUI5i1QFZdIKxVFSt9,Har Ek Baat Pe Kehte Ho Tum Ke Tu Kya Hai,K. L. Saigal,193263,1934-01-01,1934,0.99,0.515,0.329,0.825,0.219,-10.692,0.083,103.791,0.5,1,7,0,False,"classic bollywood, filmi, ghazal"
+61TTtcofReRFhn1m1WSVCS,Har Ek Baat Pe Kehte Ho Tum Ke Tu Kya Hai,K. L. Saigal,193249,1934-01-01,1934,0.99,0.576,0.33,0.832,0.238,-10.589,0.073,106.309,0.508,1,7,3,False,"classic bollywood, filmi, ghazal"
+5NqJufLXIyv9Ok4Sn0byRs,With Every Breath I Take,"Richard Himber and his Orchestra, Joey Nash",178266,1934-07-01,1934,0.746,0.363,0.322,0.00139,0.0957,-11.243,0.0391,124.947,0.613,1,5,0,False,
+5GqlqFomeaTyU5yyD21VLf,Fun To Be Fooled,"Richard Himber and his Orchestra, Joey Nash",183986,1934-07-01,1934,0.94,0.286,0.381,0.61,0.272,-11.121,0.0374,136.494,0.412,1,7,0,False,
+13VptFTZUo6Yj45SvBPTL9,You Oughta Be In Pictures,"Richard Himber and his Orchestra, Joey Nash",169813,1934-07-01,1934,0.991,0.393,0.365,0.000414,0.174,-9.65,0.0911,155.945,0.572,1,0,1,False,
+6csIkXnM4JOQvO5fEF8i1s,Kaun Virane Mein Dekhega Bahar,K. L. Saigal,187504,1934-01-01,1934,0.984,0.323,0.302,0.00366,0.0956,-10.32,0.0641,67.993,0.414,1,0,3,False,"classic bollywood, filmi, ghazal"
+4IHCEOBsQ6khbOhF7v1keW,You Leave Me Breathless,Red Norvo,166440,1934-12-15,1934,0.95,0.722,0.101,0.000521,0.34,-14.995,0.0515,108.709,0.383,0,11,1,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+7ClnvmrYqdkyid6gMZXFaf,En el Corsito del Barrio,Julio Sosa,146653,1934-02-25,1934,0.861,0.564,0.674,5.83e-06,0.106,-5.277,0.0702,112.229,0.734,0,9,4,False,"folklore argentino, tango"
+50dxKsSpNOTDVa7bOVqJpN,Biyer Aage,Bimal Gupta,187458,1934-12-31,1934,0.994,0.576,0.297,0.896,0.206,-18.286,0.319,118.365,0.769,1,9,0,False,
+0lxjAnjTPqtiq4Ehm13LJV,Biyer Pare,Bimal Gupta,192807,1934-12-31,1934,0.994,0.367,0.293,0.921,0.226,-18.038,0.171,221.741,0.841,1,4,0,False,
+6R5gJjdW8X2nXCYWYdWIO9,Blue Moon,Calogero Barino,280138,1934,1934,0.959,0.353,0.2,0.612,0.109,-15.241,0.031,73.941,0.373,1,3,0,False,
+33z5caUpase3PKTJoI70cH,"Bangali Babu Aaja Ki Bada Maza Ho (From ""Saubhagya Sundari"")","Shulochona, Pransukh M Nayak, M G Dev",176644,1934-01-01,1934,0.948,0.64,0.143,0.000614,0.41,-9.975,0.173,92.063,0.578,0,1,0,False,
+2wzLHBlEKoatpAdmf9ogBt,Blue moon,"Darosio, se",223577,1934,1934,0.728,0.337,0.285,0.000417,0.109,-8.608,0.0336,109.898,0.175,1,0,0,False,
+3zRkUmHvVVtUv7m96F0gVw,Baare Baare More Phiraye,Bimal Bhushan,193906,1934-12-01,1934,0.986,0.253,0.171,0.00126,0.12,-13.948,0.0454,175.542,0.22,1,6,0,False,
+1UpzozZsX7L4unXgKP8p4x,Blue Moon,Nelson Hoerlle,83017,1934,1934,0.804,0.663,0.674,0.949,0.0728,-9.284,0.0403,104.908,0.948,0,9,0,False,
+4MFKTYgCfwc154AysWgzgO,Because It's Love,Jack Jackson & His Orchestra,187893,1934,1934,0.989,0.66,0.0954,0.0847,0.31,-19.949,0.062,117.331,0.662,0,0,0,False,british dance band
+3djuATcxd7lVphf5hSRLAg,"Blue River, Roll On",Jack Jackson & His Orchestra,157773,1934,1934,0.947,0.824,0.292,0.1,0.428,-15.081,0.0706,104.639,0.927,1,10,0,False,british dance band
+6mKyxX3rla5qBegJ2RHxzI,Blue Moon,"Juan Carlos Rodriguez Cerdan, Arturo Rodríguez Gonzales, Erick Durante Debernardi",190171,1934,1934,0.837,0.557,0.162,0.935,0.136,-22.686,0.0402,96.792,0.428,1,3,0,False,
+2FsCi4UAO6zNdKAhctbkoM,Blue Moon,Fabio Vaz,133459,1934,1934,0.78,0.657,0.38,0.0,0.108,-7.977,0.0382,130.075,0.649,1,7,0,False,
+742mkKxGqLvBYcf3UpNZco,The Buggy Song,Jack Jackson & His Orchestra,184213,1934,1934,0.901,0.789,0.277,0.000332,0.402,-16.381,0.112,111.667,0.963,1,2,0,False,british dance band
+6Ld9DDxSlUCUxteRwmFyjY,Bisaar Hari Na,Krishan Bai,253712,1934-12-31,1934,0.99,0.523,0.293,0.507,0.221,-7.716,0.366,81.507,0.598,1,4,0,False,
+7vltgClIJwjmiilwWAZpSf,Blue Christmas,The Moors,22961,1934,1934,0.0277,0.623,0.933,0.000311,0.14,0.674,0.0427,100.226,0.827,1,4,0,False,
+2kxyYJIeUji66oWJg888Os,Bhairavi Thumri - Kamleshwari Bai,Kamleshwari Bai,342762,1934-12-31,1934,0.995,0.406,0.145,0.5,0.565,-14.26,0.174,78.14,0.54,1,10,0,False,
+4uYTqJoekgnSQcyQv5ofqw,Bangari Mori Murak Gai Chhano,Pt Bhimsen Josi,226981,1934-12-31,1934,0.986,0.517,0.221,0.123,0.159,-20.462,0.39,79.573,0.613,0,8,0,False,
+0nilqnSpgweiheVbOpXNgM,Baajay Mori Payaliyaa,Shree-Mati Bai Narvekar,169784,1934-12-31,1934,0.98,0.469,0.28,0.109,0.59,-9.009,0.372,76.145,0.599,0,6,0,False,
+4nerUchV8lUXrqf27FwskO,The Big Boat,"Kokomo Arnold, Casey Bill Weldon",191813,1934-05-20,1934,0.995,0.731,0.378,0.204,0.116,-15.145,0.0523,123.738,0.93,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+1CXIkNpNEvclqN6nD3lvBN,Back Door Blues 2,"Kokomo Arnold, Casey Bill Weldon",188800,1934-05-20,1934,0.996,0.799,0.375,0.598,0.276,-15.574,0.0471,123.964,0.927,1,0,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+32wX3v9LxZTIVUClKyNUxc,Back to the Woods 2,"Kokomo Arnold, Casey Bill Weldon",183413,1934-05-20,1934,0.986,0.64,0.309,6.06e-05,0.114,-13.515,0.0479,145.687,0.7,0,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+415Kz2qXsUQWNOWyY0cJLo,Busy Bootin' 2,"Kokomo Arnold, Casey Bill Weldon",147933,1934-05-20,1934,0.966,0.747,0.23,1.38e-06,0.0758,-14.659,0.0901,88.836,0.508,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7upI8lJi68HTKF2lg93gOA,Bad Luck Blues,Kokomo Arnold,170173,1934-05-20,1934,0.98,0.691,0.195,3.09e-06,0.0582,-13.838,0.0684,127.716,0.467,1,3,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+581FJeuGPL1zEZlHwDIvuM,Biscuit Roller Blues,Kokomo Arnold,194493,1934-05-20,1934,0.971,0.803,0.0521,0.0,0.0799,-17.816,0.05,88.016,0.507,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3DO1LwprxnaeLhHqmq6tkX,Black Money Blues,Kokomo Arnold,187333,1934-05-20,1934,0.844,0.524,0.185,0.0,0.0743,-12.818,0.0588,174.768,0.495,1,3,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+773G0M73nbE0XVffPvJTDP,Baqadr-E-Shauq Iqrar-E-Wafa Kya,K. L. Saigal,202105,1934-01-01,1934,0.992,0.592,0.265,0.161,0.106,-10.091,0.0435,94.434,0.676,1,10,0,False,"classic bollywood, filmi, ghazal"
+58mISZfJtq98OREgYHL9nq,Blue Moments,Roy Fox,188040,1934,1934,0.957,0.504,0.0811,0.00733,0.249,-18.234,0.0386,123.148,0.354,1,0,0,False,british dance band
+3s8kZ8VUb6BWaHhG4mMtVK,Blues in e Flat,Red Norvo,179493,1934-12-15,1934,0.95,0.646,0.227,0.858,0.156,-13.877,0.0562,82.17,0.561,1,3,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+67T8GwD0SpvOhmZzKcB42C,Back on the Job,Kokomo Arnold,181693,1934-05-20,1934,0.993,0.656,0.0969,1.55e-05,0.148,-17.721,0.0379,87.308,0.692,0,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6N5fQKyYqcUbBHjCAMgfP6,Bahut Uss Gali Ke Kiye Hain Re Phere,K. L. Saigal,200495,1934-01-01,1934,0.993,0.519,0.161,0.958,0.106,-17.651,0.0526,137.653,0.569,0,8,0,False,"classic bollywood, filmi, ghazal"
+6cLNx93lOqN7meqnjGfAny,Backfence Picket Blues,Kokomo Arnold,187946,1934-05-20,1934,0.995,0.695,0.143,0.000214,0.142,-14.293,0.0375,86.081,0.54,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+44qiECQXH2WVumDhKoeaMS,Brujerías - Remasterizado,"Francisco Canaro, Ernesto Fama",187000,1934-01-10,1934,0.99,0.743,0.213,0.101,0.11,-14.969,0.102,128.412,0.818,1,0,0,False,"orquesta tipica, tango, vintage tango"
+388TKpB3X0eUeoNAJZDRzg,Back to the Woods,Kokomo Arnold,186506,1934-05-20,1934,0.984,0.591,0.164,0.0,0.11,-15.775,0.1,97.106,0.71,0,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7Amn0FhoIfaLxOPaOuuGQ0,Black Mattie,Kokomo Arnold,192986,1934-05-20,1934,0.989,0.645,0.0824,7.48e-06,0.213,-16.815,0.0463,83.041,0.492,1,5,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+1ZiomFKsNlpfv66mA0byAQ,Big Ship Blues,Kokomo Arnold,189960,1934-05-20,1934,0.996,0.646,0.174,0.000621,0.134,-15.422,0.0655,123.499,0.617,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6oz2wNaTYMagzD8BExbGJ4,Breezin' Along with the Breeze,Hoosier Hot Shots,159600,1934-09-15,1934,0.863,0.788,0.27,0.00147,0.423,-10.9,0.0675,107.298,0.887,1,7,0,False,"novelty, traditional country"
+1wfictHny2OmmB5awGeLT5,Baqadr-E-Shauq Iqrar-E-Wafa Kya,K. L. Saigal,198306,1934-01-01,1934,0.98,0.533,0.438,0.0502,0.216,-7.094,0.0436,95.962,0.686,1,5,0,False,"classic bollywood, filmi, ghazal"
+1aZzpEKAOnQB6CTugPqrP6,Bhaju Main To Bhavse Girdhari,K. L. Saigal,195397,1934-01-01,1934,0.995,0.447,0.397,0.877,0.208,-10.223,0.11,79.17,0.581,1,0,0,False,"classic bollywood, filmi, ghazal"
+4hm5l5upcVhjgw0Hg4nzVi,Bajo el Sol de Granada - Remasterizado,"Francisco Canaro, Carlos Galán",158506,1934-01-10,1934,0.989,0.68,0.261,0.0645,0.296,-11.59,0.0562,123.333,0.924,1,2,0,False,"orquesta tipica, tango, vintage tango"
+0tGBdM5VGWzapSBF5BSMtB,Bagh Laga Doon Sajani,K. L. Saigal,185515,1934-01-01,1934,0.991,0.5,0.467,0.895,0.225,-8.951,0.0327,104.704,0.623,1,8,0,False,"classic bollywood, filmi, ghazal"
+6RzLu47ZzilqmslTNJDpcs,Buddie Brown Blues (Rolling Time),Kokomo Arnold,175240,1934-05-20,1934,0.986,0.584,0.198,1.62e-06,0.0579,-11.88,0.0628,184.378,0.656,1,1,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6ZxqrTwH1IYXDNYhUUCYyQ,Black Annie,Kokomo Arnold,181853,1934-05-20,1934,0.969,0.56,0.0529,0.0,0.0783,-16.401,0.0573,175.481,0.544,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6gzGQRvEnGVNHfMsg9fiu8,Barcarola del Riachuelo - Remasterizado,"Francisco Canaro, Ernesto Fama",163506,1934-01-10,1934,0.993,0.686,0.247,0.000112,0.374,-12.555,0.084,119.774,0.905,1,2,0,False,"orquesta tipica, tango, vintage tango"
+2BxBpbO64eh5WcVtBGpwg8,Banwa Ki Chhavi Sakhi,Vasant Desai,99186,1934-12-31,1934,0.993,0.459,0.241,0.934,0.108,-20.219,0.0687,70.479,0.716,1,8,0,False,
+1zpqLmfDJyBfe20FQXytKl,O Bidesi Bandhu,Kamala Jharia,199927,1934-12-31,1934,0.994,0.268,0.336,0.912,0.27,-14.936,0.0596,73.058,0.621,1,7,0,False,
+4EY1RdddsxwTAwgF14398N,Raag Bhatiyaar - Banday Khan,Banday Khan,179562,1934-12-31,1934,0.972,0.247,0.287,0.892,0.442,-14.684,0.053,71.489,0.623,1,10,0,False,
+5WMT39zO0lWZqVf9lAIMQY,Naaheen Baajay Ghaneshyam Bansuri,Bano Bai Latekar,178747,1934-12-31,1934,0.995,0.431,0.281,0.675,0.102,-13.805,0.367,72.253,0.724,1,1,0,False,
+6pSgQM1k5wPCWsfZE86JPg,Prabhu Laaj Bhakton Ki Rakhe Sada,Ratnaprabha,202895,1934-12-31,1934,0.988,0.418,0.142,0.00071,0.245,-10.351,0.145,64.624,0.56,1,1,0,False,
+1kTYu1IZdiCLt5Z8izTVUN,Raag Bhairavi Roshanara Bai,Roshanara Bai,180186,1934-12-31,1934,0.988,0.44,0.195,0.848,0.105,-9.665,0.0598,133.572,0.611,1,0,0,False,
+51pVaik73BHgir2gBkbppV,ABRAHAM'S BOSOM (An Ode to Jerome Anderson),davnDaum,148819,1934-10-04,1934,0.618,0.545,0.54,0.000104,0.433,-9.021,0.375,119.736,0.793,1,6,0,False,
+01ZxETwixdufMBXxPQw2fE,Jingle Bells,Ozzie Nelson & His Orchestra,186145,1934-12-12,1934,0.925,0.682,0.305,0.0,0.138,-14.77,0.0761,184.268,0.865,1,8,0,False,"man's orchestra, vintage jazz"
+06WjIvo3S5QMJONEb02Rft,I'll Be up Someday 2,"Kokomo Arnold, Casey Bill Weldon",184920,1934-05-20,1934,0.993,0.781,0.22,0.000817,0.0891,-14.709,0.0429,96.043,0.478,0,11,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6KzPy5QbPITVgaISrNBH9e,Midnight Blues,Kokomo Arnold,170173,1934-05-20,1934,0.993,0.652,0.16,6.3e-06,0.131,-16.732,0.0344,92.29,0.627,0,9,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4X0ugRd0fIHXXrqVhGnH0e,Sioux City Sue,Hoosier Hot Shots,172813,1934-09-15,1934,0.99,0.848,0.171,0.000121,0.155,-13.505,0.133,96.29,0.781,0,1,21,False,"novelty, traditional country"
+6Q5aoaMgpaxoz7penRhJb9,Canto - Remasterizado,"Francisco Canaro, Ernesto Fama",186506,1934-01-10,1934,0.996,0.637,0.101,0.86,0.117,-19.442,0.0647,121.459,0.788,1,2,0,False,"orquesta tipica, tango, vintage tango"
+18qHbgz9zWmkVEUtyWb0TB,Camouflage,Julio Sosa,147733,1934-02-25,1934,0.91,0.555,0.642,0.000377,0.545,-8.937,0.0967,118.816,0.822,0,4,5,False,"folklore argentino, tango"
+4yr71rDqaCDeOGu5seh9GF,Negrito - Remasterizado,"Francisco Canaro, Carlos Galán",159000,1934-01-10,1934,0.991,0.648,0.342,0.00884,0.707,-12.085,0.0797,82.064,0.956,1,4,1,False,"orquesta tipica, tango, vintage tango"
+3Gaqs5NuqaeaUevXaqICHD,Ya No Cantas Más - Instrumental (Remasterizado),Francisco Canaro,170506,1934-01-10,1934,0.995,0.725,0.0866,0.386,0.27,-17.346,0.122,120.747,0.779,1,2,4,False,"orquesta tipica, tango, vintage tango"
+4Ojj2cpzkDgGhTED0nu9Ph,Eras Como una Flor,Julio Sosa,203653,1934-02-25,1934,0.916,0.617,0.496,0.0,0.297,-6.236,0.124,122.187,0.705,1,10,3,False,"folklore argentino, tango"
+66duK1xTI3amrpskijJjtj,It Can Happen to You,Red Norvo,188413,1934-12-15,1934,0.988,0.574,0.159,0.347,0.248,-12.805,0.0524,166.441,0.561,0,5,1,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+5XBC4UaKmGORNjk3SNV7yE,Pour commencer,Django Reinhardt,182773,1934-05-20,1934,0.609,0.814,0.251,0.908,0.103,-12.551,0.126,112.227,0.938,1,8,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+0FiefNu292Mr24PBmhNfOK,King Crab,Plain Oatmeal,100549,1934-09-20,1934,0.625,0.275,0.802,0.149,0.621,-5.568,0.241,69.516,0.34,1,8,0,True,
+2ZZZoDoZT6aWliyUVLfoeF,June In January,"Richard Himber and his Orchestra, Joey Nash",203840,1934-07-01,1934,0.898,0.348,0.378,0.00516,0.111,-10.844,0.0374,116.505,0.243,1,0,0,False,
+6b6Ux06pFD6XWRxheIuAEk,Winter Wonderland,"Richard Himber and his Orchestra, Joey Nash",181800,1934-07-01,1934,0.816,0.614,0.344,0.0,0.132,-9.729,0.0523,123.194,0.47,0,3,1,False,
+0qiALfhbs9vZEv8tBwVRB3,May I?,"Richard Himber and his Orchestra, Joey Nash",179466,1934-07-01,1934,0.844,0.449,0.271,0.0299,0.288,-10.911,0.0307,123.825,0.526,1,5,1,False,
+6YmrDugCSHlSoHU4bC3XQd,Night On The Desert,"Richard Himber and his Orchestra, Joey Nash",199133,1934-07-01,1934,0.964,0.278,0.302,0.917,0.0966,-13.397,0.0331,141.018,0.274,1,1,0,False,
+0eOclvn71uV2C7LZgHf7Bn,Straight From The Shoulder,"Richard Himber and his Orchestra, Joey Nash",208906,1934-07-01,1934,0.955,0.376,0.273,0.175,0.293,-13.794,0.0386,118.811,0.314,1,7,0,False,
+0Uk7Ofk4wGum2fxTsCbgb0,Tea For Two,"Richard Himber and his Orchestra, Joey Nash",180253,1934-07-01,1934,0.908,0.342,0.319,0.55,0.105,-13.917,0.036,63.018,0.336,1,1,1,False,
+1zl7Cznxdaiwd6Fj3pKcLt,It's Psychological,"Richard Himber and his Orchestra, Joey Nash",162986,1934-07-01,1934,0.865,0.572,0.31,0.00513,0.178,-10.375,0.161,168.195,0.617,1,1,1,False,
+1zttxftADvRLwxCckJWPne,Say When,"Richard Himber and his Orchestra, Joey Nash",173800,1934-07-01,1934,0.596,0.253,0.416,0.00875,0.352,-9.789,0.0355,142.98,0.494,0,2,0,False,
+6jz41tI6tcoBUJ7lHNn6Z3,Without that certain thing,Roy Fox,188546,1934,1934,0.954,0.644,0.125,0.0119,0.127,-18.413,0.0915,125.613,0.616,1,5,0,False,british dance band
+3DDxOIOFQ4VSlhqdnqRXiV,Swaller Tail Coat (Roy Fox),Roy Fox,161480,1934,1934,0.958,0.577,0.213,5.74e-05,0.109,-16.926,0.159,201.455,0.86,1,5,0,False,british dance band
+7B5HjA70ibqe2wWIONvohP,My Grandfather's Clock,Sons of the Pioneers,164933,1934-01-19,1934,0.898,0.582,0.0568,0.0,0.157,-12.594,0.142,90.152,0.622,1,7,1,False,"cowboy western, traditional country, vocal harmony group, western swing"
+2ElyRjQ2V9Lfx7sc7uK7LJ,Main Unhe Chhedun,K. L. Saigal,200429,1934-01-01,1934,0.993,0.471,0.356,0.218,0.11,-8.441,0.0458,108.436,0.324,1,0,2,False,"classic bollywood, filmi, ghazal"
+4I7KODlzuX2HiYS0EhXZzK,La Última Copa,Julio Sosa,152040,1934-02-25,1934,0.995,0.554,0.316,0.832,0.14,-13.044,0.0364,104.791,0.707,0,9,5,False,"folklore argentino, tango"
+4t2K8DaMKVNtJwaXVdx7Qy,Dancing On The Ceiling - Of Thee I Sing,"Richard Himber and his Orchestra, James Harkins",256866,1934-07-01,1934,0.98,0.462,0.377,0.00216,0.116,-10.725,0.0492,118.891,0.59,1,1,2,False,
+1Vu6pWFP2u4WXLWBzzGy7F,Pa' Que Sepan Como Soy,Julio Sosa,180533,1934-02-25,1934,0.895,0.517,0.717,0.0,0.0871,-3.493,0.0692,117.792,0.715,0,5,16,False,"folklore argentino, tango"
+3ow4XUsdovDebtOjG8qroT,Sus Ojos Se Cerraron,Julio Sosa,206813,1934-02-25,1934,0.958,0.432,0.498,4.67e-06,0.263,-9.678,0.12,110.14,0.373,0,9,12,False,"folklore argentino, tango"
+4mSraK1VkrcbOd4Lv4WOSs,El Rosal de los Cerros,Julio Sosa,218226,1934-02-25,1934,0.93,0.59,0.551,1.62e-06,0.284,-6.537,0.0484,122.673,0.452,0,9,6,False,"folklore argentino, tango"
+4L4SeDPd1C5mkfvaai2qYn,Going Places: Jeepers Creepers,Django Reinhardt,195160,1934-05-20,1934,0.875,0.654,0.179,0.905,0.0648,-12.637,0.381,181.091,0.648,1,9,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+6DWvkx59Z1MPh6aHosjbQa,Everything I Have Is Yours,Roy Fox,175666,1934,1934,0.987,0.513,0.0349,0.0352,0.0955,-22.098,0.0489,93.075,0.237,1,10,0,False,british dance band
+7qghdxUZNwAdsNbcpgGAmL,Song Without Words,Roy Fox,194120,1934,1934,0.984,0.398,0.0532,0.00927,0.226,-21.536,0.0469,114.373,0.422,1,10,0,False,british dance band
+3JsunQCSFM65YBt2vi2Rv3,"No More Heartaches, No More Tears (Roy Fox)",Roy Fox,181880,1934,1934,0.977,0.458,0.177,0.0503,0.0903,-16.373,0.0804,139.392,0.668,0,7,0,False,british dance band
+6q3maw7KgAF4s0ubXG4lD3,My Hat's On the Side of My Head,Roy Fox,181093,1934,1934,0.972,0.7,0.29,0.217,0.0796,-17.575,0.299,167.553,0.869,1,0,0,False,british dance band
+1QJnTI9arWbHWFOnKXsigi,Love Locked Out,Roy Fox,190346,1934,1934,0.989,0.486,0.0858,0.00133,0.118,-18.769,0.0436,99.345,0.391,0,9,0,False,british dance band
+3OzifrHjLj0zC9Lyw3oxJq,Everybody Loves My Marguerite,Roy Fox,153146,1934,1934,0.979,0.692,0.141,0.116,0.122,-18.256,0.0556,103.311,0.422,1,0,0,False,british dance band
+5tqLEOVjWXkhvtczWY7UbG,Oh! Johanna!,Roy Fox,148573,1934,1934,0.951,0.797,0.345,0.441,0.0497,-13.618,0.211,122.665,0.882,1,7,0,False,british dance band
+01vCLqI8kmG7fpJjCiVj4u,Little Dutch Mill (Roy Fox),Roy Fox,170226,1934,1934,0.969,0.616,0.142,0.131,0.159,-16.092,0.276,168.686,0.84,1,0,0,False,british dance band
+4SIxIiAXS91qPlnfVbWhrS,Charamusca - Instrumental (Remasterizado),"Francisco Canaro, Carlos Galán",194493,1934-01-10,1934,0.975,0.824,0.179,0.583,0.177,-12.798,0.0861,120.447,0.839,1,11,0,False,"orquesta tipica, tango, vintage tango"
+3iWEvl4NnvBAVyKVo3fqtv,Con los Colores del Cielo - Remasterizado,"Francisco Canaro, Carlos Galán",196506,1934-01-10,1934,0.984,0.66,0.25,0.00481,0.106,-16.888,0.168,150.851,0.963,1,0,0,False,"orquesta tipica, tango, vintage tango"
+5GdDlPk2MXnN3myrAsgGH0,Cuesta Abajo - Remasterizado,"Francisco Canaro, Carlos Galán",204000,1934-01-10,1934,0.992,0.638,0.26,0.00386,0.392,-12.054,0.179,119.547,0.8,1,4,0,False,"orquesta tipica, tango, vintage tango"
+37DNgkaVUj1dCq117Grboj,Como el Carancho - Remasterizado,"Francisco Canaro, Carlos Galán",180493,1934-01-10,1934,0.976,0.687,0.278,3.1e-05,0.179,-11.767,0.155,149.966,0.927,1,7,0,False,"orquesta tipica, tango, vintage tango"
+6wHQfpiKMCXQZerZYRWMrw,Campanas de Bronce - Remasterizado,"Francisco Canaro, Ernesto Fama",215000,1934-01-03,1934,0.995,0.692,0.0852,0.488,0.373,-18.453,0.111,123.122,0.665,0,5,0,False,"orquesta tipica, tango, vintage tango"
+5qO9zJDpWWKuBFaNj7dycj,Canto Rodado - Remasterizado,Ignacio Corsini,221066,1934-06-26,1934,0.962,0.476,0.326,0.00101,0.511,-15.282,0.0706,137.504,0.387,0,2,0,False,vintage tango
+0QBLv3HeLeUVl1U7sEj6vi,Cuando el Indio Ama - Remasterizado,Ignacio Corsini,240626,1934-06-26,1934,0.994,0.436,0.119,0.104,0.109,-20.795,0.0406,74.615,0.419,0,5,0,False,vintage tango
+0YNvR4T0GKFec5tjvHMATL,Cambalache - Remasterizado,"Francisco Canaro, Roberto Maida",182493,1934-01-10,1934,0.981,0.802,0.128,0.341,0.147,-17.717,0.0804,123.734,0.917,1,3,0,False,"orquesta tipica, tango, vintage tango"
+7KAeDGvgQTDTJJSrbpbGBM,Churrasca - Remasterizado,"Francisco Canaro, Ernesto Fama",162506,1934-01-10,1934,0.993,0.724,0.156,0.0329,0.287,-15.903,0.0768,121.426,0.694,0,5,0,False,"orquesta tipica, tango, vintage tango"
+7edavnuaeT7jM2mHWzTvix,Ciego - Remasterizado,"Francisco Canaro, Roberto Maida",175493,1934-01-10,1934,0.993,0.697,0.0813,0.000758,0.102,-17.791,0.053,120.054,0.634,0,11,0,False,"orquesta tipica, tango, vintage tango"
+7C1uLZts3YGQn2Hoi4zQYy,Cobardía - Remasterizado,Ignacio Corsini,150066,1934-06-26,1934,0.995,0.545,0.24,0.239,0.199,-18.761,0.108,128.148,0.724,0,3,0,False,vintage tango
+4eWaB3tK6NYEHSFP9bQeUq,Cuesta Abajo,Carlos Gardel,173500,1934-12-11,1934,0.994,0.558,0.246,0.0452,0.122,-13.105,0.0781,65.318,0.724,1,3,0,False,
+6FQx7qUYUncRWOQMRrWJYv,Capítulo 7 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.779,0.623,0.235,0.0,0.115,-12.622,0.924,80.772,0.268,0,11,0,False,
+2Nd9a2zyghKZIIVvPbh0H3,Capítulo 10 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.716,0.717,0.225,0.0,0.112,-12.74,0.875,125.174,0.284,1,0,0,False,
+0GYYnCB9XT1cXGdeg8z1em,Capítulo 8 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.722,0.705,0.193,0.0,0.113,-12.554,0.926,84.829,0.328,0,1,0,False,
+2PHWYALMn7zYm0wnUCEJtq,Capítulo 5 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.82,0.674,0.193,0.0,0.111,-12.466,0.875,97.187,0.326,0,11,0,False,
+726FJ8HlySmFnsrm82EjC2,Capítulo 3 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.83,0.712,0.215,0.0,0.122,-12.23,0.871,127.295,0.372,1,9,0,False,
+4ldK3kPdpQPZuBXAUgmxGj,Capítulo 1 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.825,0.669,0.181,0.0,0.127,-12.217,0.917,95.669,0.351,1,8,0,False,
+4YcHKoFpbIsFEDMv16kXoX,Capítulo 11 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",187510,1934,1934,0.748,0.619,0.214,0.0,0.172,-12.289,0.936,178.044,0.214,0,6,0,False,
+0tlg78QggUTkJI0foa9lEw,Capítulo 2 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.837,0.706,0.225,0.0,0.115,-11.817,0.911,131.064,0.355,1,2,0,False,
+1ww9mIab61PvRT4wq4PTR0,Capítulo 6 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.809,0.719,0.197,0.0,0.12,-12.47,0.868,122.957,0.26,1,2,0,False,
+5fJLxe3PUWewd1LJzXkzmH,Capítulo 9 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.664,0.644,0.209,0.0,0.117,-12.479,0.899,159.94,0.395,0,11,0,False,
+07Rm6qA97esWYeQhOan0O1,Capítulo 4 - La Sibila blanca,"Clark Ashton Smith, Estela Frank",180010,1934,1934,0.842,0.625,0.203,0.0,0.131,-11.75,0.882,171.99,0.325,1,9,0,False,
+5nsS3AywbV8VvEJnRj6Agh,"Chori Kahin Khule Na Naseemen Bahar Ki (From ""Aurat Ka Pyaar"")","Mukhtar Begum, Mustak Ahamad",575965,1934-01-01,1934,0.978,0.296,0.327,0.646,0.278,-11.696,0.0572,66.088,0.382,1,6,0,False,
+2TWmgl2LYZQM6v1pT6GtGG,Cocktails for Two,Nelson Hoerlle,148352,1934,1934,0.297,0.712,0.543,0.656,0.112,-13.013,0.0328,104.242,0.901,1,0,0,False,
+5TNwC0d7BdWOob21qSQ91z,Chotay Say Balma Moray Aangna Mein Gilli Khailein,Miss Zohra Jaan,178678,1934-12-31,1934,0.996,0.494,0.111,0.85,0.153,-14.032,0.285,78.472,0.778,0,10,0,False,
+7hkzcOzc52LIjOY3BBCL7H,Cupid (Roy Fox),Roy Fox,178946,1934,1934,0.962,0.623,0.0487,0.00148,0.0738,-20.179,0.061,109.813,0.278,0,0,0,False,british dance band
+3xhRASmerKfYK0NHqBG00H,Cherie (Roy Fox),Roy Fox,172213,1934,1934,0.949,0.392,0.0691,0.246,0.0683,-16.603,0.0363,113.032,0.231,1,7,0,False,british dance band
+5uB9EU6NVrJtwBZSLIqS2y,The Cage in the Window,Roy Fox,184386,1934,1934,0.952,0.63,0.232,0.00507,0.0787,-18.649,0.2,200.73,0.771,1,3,0,False,british dance band
+3Ciq1TMr47fheYkoX0LCtn,Contramarca,Julio Sosa,159440,1934-02-25,1934,0.899,0.537,0.492,6.25e-06,0.399,-9.52,0.0811,58.925,0.848,1,9,2,False,"folklore argentino, tango"
+1z7WxmIBGKACg4LIZ85BMb,Cuando Era Mi Vieja,Julio Sosa,174826,1934-02-25,1934,0.971,0.354,0.68,0.00687,0.193,-9.071,0.091,78.197,0.549,1,8,2,False,"folklore argentino, tango"
+4VSoznPJm7Boj9WURWQ7Z9,Cuddle up a Little Closer,Hoosier Hot Shots,113746,1934-09-15,1934,0.795,0.759,0.172,0.000477,0.0604,-9.87,0.0657,76.439,0.783,1,5,0,False,"novelty, traditional country"
+4UGzx0zxbA9OjI7rvicVBl,Chain Gang Blues,Kokomo Arnold,185853,1934-05-20,1934,0.922,0.77,0.0449,0.0,0.118,-18.458,0.0633,87.768,0.509,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+0bgqYyKLshIrxXgS2ODpnw,Chah Barbaad Karegi Hemen,K. L. Saigal,198721,1934-01-01,1934,0.995,0.491,0.316,0.162,0.303,-8.901,0.0369,80.104,0.409,1,8,0,False,"classic bollywood, filmi, ghazal"
+6qkxcGh3tHz4D1McDRZA7F,Chhoopona Chhoopona,K. L. Saigal,177524,1934-01-01,1934,0.996,0.388,0.303,0.919,0.128,-12.226,0.0902,178.498,0.54,1,3,0,False,"classic bollywood, filmi, ghazal"
+5uBclXiEYykMcjvTHYZY5l,The Coat and Pants Do All the Work and the Vest Gets All the Gravy,Hoosier Hot Shots,163626,1934-09-15,1934,0.841,0.726,0.376,0.0,0.136,-8.089,0.107,129.011,0.809,1,0,0,False,"novelty, traditional country"
+2BKZntjruCWrf6ZlQUJCM7,Certificao,Julio Sosa,179453,1934-02-25,1934,0.984,0.482,0.603,0.0,0.341,-5.263,0.0632,105.704,0.695,0,11,2,False,"folklore argentino, tango"
+6pMTFuhazbOYOSLnhGc51Z,Cold Winter Blues,Kokomo Arnold,192013,1934-05-20,1934,0.994,0.759,0.15,0.00656,0.126,-15.332,0.0482,85.174,0.39,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+5Ku5iZzQrPoiyFN8SYXiXz,Carnaval,Julio Sosa,172213,1934-02-25,1934,0.827,0.567,0.634,0.0,0.146,-3.766,0.0721,122.568,0.718,1,8,1,False,"folklore argentino, tango"
+2OavLPxTWwOhtxDb2XVVaQ,Crying Blues,Kokomo Arnold,179813,1934-05-20,1934,0.986,0.736,0.187,0.000207,0.132,-15.119,0.0505,94.038,0.548,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7Jcwi35hVEMDMon4G4BlZ9,Plainfield / Monarch of Scum,Dragged Into Sunlight,275549,1934-11-12,1934,0.816,0.27,0.359,0.213,0.603,-19.898,0.124,88.966,0.0677,0,1,8,False,"autonomous black metal, british black metal, drone metal, post-doom metal, sludge metal, uk doom metal, voidgaze"
+1yvh7QElnmOI30YfNaguJ2,Swing 48,Django Reinhardt,164213,1934-05-20,1934,0.465,0.615,0.463,0.704,0.209,-13.05,0.0641,126.829,0.884,0,5,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+1sLnXvvaBVmBuCcGLmanG6,Topsy,Django Reinhardt,185520,1934-05-20,1934,0.832,0.815,0.211,0.928,0.111,-13.739,0.0896,92.569,0.637,0,5,4,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+2Yjwwzb95YfhbzWhQsg3rB,Japanese Sandman,Django Reinhardt,161320,1934-05-20,1934,0.697,0.821,0.367,0.908,0.0587,-11.85,0.365,123.691,0.868,0,9,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+1XZCdrtMxfcLxCDQUymnd1,Stomp,Django Reinhardt,139133,1934-05-20,1934,0.741,0.739,0.301,0.859,0.0795,-10.596,0.0986,154.222,0.884,0,7,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+4DuC27bbbyzy4ZyTeJ4zH7,Hallelujah,Django Reinhardt,171253,1934-05-20,1934,0.746,0.716,0.279,0.887,0.096,-15.853,0.0785,145.398,0.846,1,4,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+4J46CkA9BeIndbg0r3IJTU,Gabriel's Swing,Django Reinhardt,160240,1934-05-20,1934,0.714,0.554,0.497,0.859,0.0409,-10.408,0.113,201.182,0.961,1,5,4,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+0yN293eU9YYHrkIcqG7FTo,My Melancholy,Django Reinhardt,168480,1934-05-20,1934,0.891,0.847,0.276,0.801,0.0843,-12.828,0.158,99.833,0.758,1,6,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+7BIxrh8CeKRjsRCmNaLbda,Sugar,Django Reinhardt,160853,1934-05-20,1934,0.932,0.886,0.132,0.92,0.115,-13.762,0.101,103.576,0.713,0,9,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+4q2vrLdwppPMPnUUmqy2do,Vette,Django Reinhardt,193840,1934-05-20,1934,0.809,0.787,0.288,0.591,0.311,-14.309,0.0543,128.948,0.961,1,7,3,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+2fFOKIjw0HSy7K1QODlheS,Dance of the Octopus,Red Norvo,199760,1934-12-15,1934,0.995,0.516,0.106,0.936,0.16,-23.635,0.0379,111.605,0.134,1,10,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+26G8J6Q0vE492Dlw1Bvwzy,Dil Se Teri Nigah Jigar Tak Utar Gayi,K. L. Saigal,197590,1934-01-01,1934,0.988,0.473,0.316,0.114,0.192,-7.952,0.0407,62.734,0.501,1,2,0,False,"classic bollywood, filmi, ghazal"
+7nFWuh3XYWexMrG5UfYNSn,Jab Dil Hi Toot Gaya,K. L. Saigal,200088,1934-01-01,1934,0.992,0.397,0.404,0.347,0.166,-7.331,0.0292,108.227,0.489,0,10,0,False,"classic bollywood, filmi, ghazal"
+0kbpf9Tk3TCRYVsW0LW2pJ,My Dancing Lady,"Richard Himber and his Orchestra, Joey Nash",171400,1934-07-01,1934,0.972,0.452,0.297,0.00651,0.186,-9.186,0.0348,151.676,0.838,1,3,0,False,
+1UoshTJFNeCAZDrOXMDVCL,Why Do I Dream Those Dreams,"Richard Himber and his Orchestra, Joey Nash",168853,1934-07-01,1934,0.993,0.471,0.316,0.0295,0.0996,-9.849,0.0741,143.921,0.666,1,10,0,False,
+67YDugcRo1sEblT4GnDDnj,Gham Diya Mustaquil,K. L. Saigal,193719,1934-01-01,1934,0.995,0.289,0.309,0.867,0.146,-9.999,0.0615,65.81,0.256,1,10,0,False,"classic bollywood, filmi, ghazal"
+4uPiULMF95XmZU7OkFMvP3,Les yeux noirs (Dark Eyes),Django Reinhardt,133866,1934-05-20,1934,0.739,0.719,0.326,0.874,0.127,-15.205,0.102,131.085,0.603,1,10,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+2kCjtZuTsJj7zm1J0b7B20,Echoes of Spain,Django Reinhardt,187493,1934-05-20,1934,0.988,0.578,0.0339,0.198,0.0989,-19.632,0.104,76.318,0.181,0,9,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+5Zr8Jwqmi2Ak7Yma364o5r,Margie,Django Reinhardt,135333,1934-05-20,1934,0.892,0.819,0.193,0.843,0.091,-13.942,0.111,148.937,0.902,1,5,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+64qs81kQdTtTQYAbUB8AwN,Tiger Rag,Django Reinhardt,135880,1934-05-20,1934,0.522,0.716,0.412,0.948,0.0829,-15.252,0.174,135.887,0.828,0,3,2,False,"french jazz, gypsy jazz, jazz, jazz guitar, swing"
+686ZmjL61ZFdTcJpVLKGLv,Polly Wolly Doodle,Red Norvo,170200,1934-12-15,1934,0.956,0.817,0.328,0.0112,0.307,-13.393,0.0703,95.514,0.911,1,5,1,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3rQWy37HFDeNEz1MudohnV,Nuktacheen Hai Ghame Dil,K. L. Saigal,199980,1934-01-01,1934,0.991,0.477,0.203,0.00891,0.169,-8.632,0.0561,124.616,0.236,0,2,1,False,"classic bollywood, filmi, ghazal"
+0Qr8Z2IfYkBfXCizffDj0J,Nuktacheen Hai Ghame Dil,K. L. Saigal,189647,1934-01-01,1934,0.989,0.354,0.39,0.507,0.412,-10.903,0.0382,137.344,0.434,1,5,0,False,"classic bollywood, filmi, ghazal"
+2EDcLwamXSN2UA8yTbwYD9,Herb of Suffocation,Plain Oatmeal,148204,1934-09-20,1934,0.422,0.278,0.738,0.788,0.361,-5.854,0.133,129.541,0.18,0,1,0,True,
+03P0VmWzrzGoWCrF68coiR,Marie,Tommy Dorsey,196800,1934,1934,0.983,0.52,0.162,0.0315,0.0897,-15.741,0.0607,165.538,0.784,1,5,0,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+2IKTey8hGsj2zBVGYuHtTO,Self Imposed Hatred,Plain Oatmeal,299175,1934-09-20,1934,0.759,0.334,0.66,0.48,0.369,-8.334,0.131,104.144,0.111,1,2,0,True,
+1IooFueUyctPJgKYEdW7dj,Paddy (Roy Fox),Roy Fox,188600,1934,1934,0.823,0.404,0.0796,0.0427,0.175,-19.237,0.0367,104.098,0.319,1,0,0,False,british dance band
+3Zm7YY0IiOBsHJbdBo00wf,Dicha Pasada,Julio Sosa,188293,1934-02-25,1934,0.968,0.525,0.525,3.6e-05,0.0605,-7.852,0.12,122.474,0.637,0,10,5,False,"folklore argentino, tango"
+3nasAEGzobGNGuOkgAIrBW,Dios Te Salve Mi Hijo,Julio Sosa,208413,1934-02-25,1934,0.921,0.525,0.508,1.47e-05,0.138,-9.942,0.162,118.665,0.73,1,5,5,False,"folklore argentino, tango"
+1cQxQWbH19MYtzugt4H0Td,Duniya Men Hoon,K. L. Saigal,198438,1934-01-01,1934,0.993,0.343,0.319,0.912,0.199,-9.65,0.0736,61.636,0.594,1,0,0,False,"classic bollywood, filmi, ghazal"
+76hQSGlQABMZWpCDmgWwB6,Duniya Men Hoon,K. L. Saigal,199648,1934-01-01,1934,0.993,0.416,0.41,0.0905,0.112,-8.74,0.0375,133.919,0.459,1,0,0,False,"classic bollywood, filmi, ghazal"
+5IRDeS7aUZbOIMM8pCvOlK,Do Naina Matware,K. L. Saigal,191317,1934-01-01,1934,0.995,0.491,0.303,0.808,0.0912,-11.094,0.0526,128.17,0.624,1,4,0,False,"classic bollywood, filmi, ghazal"
+0JTI2rO9ZJ4JMeMITQ2fEO,Din Nike Beete Jaat,K. L. Saigal,189841,1934-01-01,1934,0.996,0.433,0.294,0.919,0.157,-12.308,0.0623,67.9,0.318,1,11,0,False,"classic bollywood, filmi, ghazal"
+4wMTGGfnnbsjwb7xoBC5Un,Dekho Ree Na Maanay Kaanha,Pandit B. R. Deodhaar,171084,1934-12-31,1934,0.989,0.522,0.231,2e-06,0.227,-10.466,0.41,76.392,0.738,1,10,0,False,
+6WD6HApLZ084PVub4kvFX7,Ding! Dong! Ding!,Jack Jackson & His Orchestra,168560,1934,1934,0.983,0.757,0.133,3.11e-05,0.0879,-18.155,0.0883,109.771,0.577,1,10,0,False,british dance band
+6bL5a7jXWMhwczXVVHvocy,Diez Años - Remasterizado,"Francisco Canaro, Ernesto Fama",165200,1934-01-10,1934,0.995,0.68,0.137,0.712,0.169,-19.345,0.113,119.365,0.796,0,7,0,False,"orquesta tipica, tango, vintage tango"
+70JfLRn68xoUXkgWhWFgCt,Diya Jalao,K. L. Saigal,189169,1934-01-01,1934,0.994,0.397,0.351,0.852,0.123,-11.361,0.0604,134.735,0.227,1,3,0,False,"classic bollywood, filmi, ghazal"
+3LZvsVxrbvCRcOaGzUqPnj,Desde Que Te Fuiste - Remasterizado,Ignacio Corsini,172426,1934-06-26,1934,0.993,0.466,0.217,0.884,0.111,-24.83,0.0707,97.108,0.561,0,5,0,False,vintage tango
+4s9rQ0qnjAGBxhJ8GsvcFs,Dil Se Teri Nigah Jigar Tak Utar Gayi,K. L. Saigal,197568,1934-01-01,1934,0.987,0.473,0.32,0.0799,0.194,-7.933,0.0392,126.865,0.482,1,2,0,False,"classic bollywood, filmi, ghazal"
+0kQMObxQjDkw5geOksPVcx,Dolor Gaucho - Remasterizado,"Francisco Canaro, Ernesto Fama",189000,1934-01-03,1934,0.996,0.667,0.224,0.883,0.112,-19.039,0.124,74.739,0.845,1,5,0,False,"orquesta tipica, tango, vintage tango"
+6BhWDJsp4kJsWc25qmIDY7,Dark Angel,Kokomo Arnold,189213,1934-05-20,1934,0.988,0.677,0.284,0.00461,0.25,-11.098,0.0493,82.848,0.509,0,5,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3iMGSinOpTeUSDz3DPpc2Y,Decime Adiós - Remasterizado,"Francisco Canaro, Ernesto Fama",163506,1934-01-10,1934,0.996,0.705,0.0547,0.00962,0.126,-18.563,0.139,120.678,0.707,0,2,0,False,"orquesta tipica, tango, vintage tango"
+3ELCGECsP7JguQ0mcXbBJB,Duniya Rang Rangili Bada,K. L. Saigal,198420,1934-01-01,1934,0.996,0.638,0.343,0.911,0.328,-11.018,0.0683,121.214,0.652,1,11,0,False,"classic bollywood, filmi, ghazal"
+68icsmA1n2wbzK9Or40iuQ,Divina Gitana - Remasterizado,"Francisco Canaro, Ernesto Fama",192506,1934-01-03,1934,0.995,0.603,0.348,0.189,0.311,-12.168,0.0453,125.835,0.911,1,0,0,False,"orquesta tipica, tango, vintage tango"
+26ePCYOE2DmNivxZLOGdxf,Diwana Hoon Rahat Se,K. L. Saigal,206965,1934-01-01,1934,0.993,0.333,0.267,0.303,0.181,-11.487,0.0374,75.967,0.197,1,10,0,False,"classic bollywood, filmi, ghazal"
+67BRBmNtKYOcIG8zQJc7vr,De Puerta en Puerta - Remasterizado,"Francisco Canaro, Carlos Galán",168000,1934-01-10,1934,0.992,0.71,0.116,0.495,0.147,-17.635,0.0695,117.455,0.86,1,7,0,False,"orquesta tipica, tango, vintage tango"
+1xtsGniKmOqSrStD1dI8KA,Diya Jisne Dil,K. L. Saigal,202668,1934-01-01,1934,0.994,0.521,0.375,0.436,0.121,-8.406,0.044,126.825,0.722,1,11,0,False,"classic bollywood, filmi, ghazal"
+65w8oDDtVU98umKa6AO6lc,Dost Dukh Mein Koshish Karenge Kya,Chammiyaa Bai,182392,1934-12-31,1934,0.988,0.653,0.117,2.51e-06,0.159,-8.76,0.368,106.192,0.611,1,8,0,False,
+1pY0j5QVR1sdY9FNVgn0zT,Dulce Amargura - Remasterizado,Ignacio Corsini,164546,1934-06-26,1934,0.968,0.69,0.112,0.0,0.112,-16.663,0.0619,88.163,0.734,0,2,0,False,vintage tango
+4vLGDkRI78b6HXGF64pd1w,Do You Miss Me Tonight?,"Richard Himber and his Orchestra, Joey Nash",181640,1934-07-01,1934,0.989,0.402,0.29,0.0306,0.105,-7.98,0.0387,80.72,0.437,1,5,0,False,
+3MD32cEA5zQdjU9Q4qkPh4,Dekho Sakhiyan Kaisi Chhai Badri,Shanta Apte,193893,1934-12-31,1934,0.921,0.402,0.277,0.0,0.125,-9.958,0.0387,111.727,0.379,0,6,0,False,classic bollywood
+1AyKwKzzvHRxI2BVXH2802,Dagha-Baaz Tori Batiyaan Na Maanun,Mallikarjun Mansur,270336,1934-12-31,1934,0.995,0.601,0.0493,0.624,0.165,-15.956,0.14,69.814,0.708,1,10,0,False,"hindustani classical, hindustani vocal, indian classical, khayal"
+4JF4vLkXm9ap5iAJGlMbQP,Destellos,Julio Sosa,200693,1934-02-25,1934,0.979,0.424,0.62,0.151,0.166,-9.408,0.132,87.956,0.738,1,8,2,False,"folklore argentino, tango"
+2iGGHiNg1M5ucJrT4ZXv28,Dicen Que Dicen,Julio Sosa,190213,1934-02-25,1934,0.893,0.522,0.502,1.41e-06,0.0874,-8.199,0.0856,121.748,0.671,1,10,3,False,"folklore argentino, tango"
+53Jh3blomuJdhEqnfyLmK8,Des Bandish - Pearaa Saheb,Pearaa Saheb,152369,1934-12-31,1934,0.996,0.455,0.0671,0.111,0.15,-13.448,0.0929,67.78,0.47,1,10,0,False,
+0VqTFPmg0etq7vyRFHbpET,Den Yparheis Gia Mena,"Kostas Giannidis, Kakia Mendri, Aggela Lykiardopoulou",185330,1934,1934,0.991,0.389,0.248,0.00249,0.409,-11.394,0.0509,102.977,0.614,1,2,0,False,
+1E5DjX0e04yd2FBZ5ZCkHM,Delmar Avenue,Kokomo Arnold,185133,1934-05-20,1934,0.99,0.566,0.109,1.08e-05,0.222,-13.223,0.0564,85.6,0.535,1,9,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+44LOBcIlIJvEuLIGzoG575,Donde Te Cache Sola - Remasterizado,"Francisco Canaro, Ernesto Fama",178000,1934-01-10,1934,0.996,0.653,0.208,0.701,0.187,-16.875,0.431,118.073,0.739,1,6,0,False,"orquesta tipica, tango, vintage tango"
+2RlOPSi3ehRfYbpLDCWdwB,Do You Wanna Be Free - Acoustic Mix,Geoff Horgan,367246,1934,1934,0.865,0.634,0.2,1.23e-06,0.0858,-11.684,0.0308,95.333,0.219,1,2,0,False,
+2RKseUMDieLL4XTsoz91cs,He Daya Ghana,"Ratnaprabha, Dadasaheb Torne",199854,1934-01-01,1934,0.995,0.39,0.123,0.219,0.149,-10.061,0.0628,69.438,0.586,1,2,0,False,
+6Z7y81CfJYNVGyJ2zGuR1B,Prière De La Charlotte,Marie Dubas,371026,1934,1934,0.931,0.445,0.195,4.66e-06,0.374,-17.353,0.152,85.405,0.35,1,4,0,False,vintage chanson
+0VyHJO9MAvhYSBF5xTvvHE,Feitiço Da Vila,Nelson Hoerlle,155968,1934,1934,0.638,0.469,0.584,0.967,0.218,-14.851,0.0379,149.984,0.86,1,0,0,False,
+2jdrvYV19fqiCtBIQfXCb7,Mitraan De Aas Umeed Wich Pyaar Umaar Daa Day Diteum,Thaakur Dutt,184784,1934-12-31,1934,0.994,0.598,0.224,0.0676,0.415,-11.887,0.441,75.992,0.712,1,5,0,False,
+7pduwXC6Eu6UuUR4at6i5k,Ae Do Jahanwale Fariyad Sun Hamari,Phiroz Dastur,195500,1934-12-31,1934,0.937,0.481,0.284,0.000326,0.144,-9.143,0.0379,116.79,0.462,0,7,0,False,
+3wRcFe8UrbAIyFsyDLmMVJ,Rubias de New York,Carlos Gardel,148003,1934-12-11,1934,0.992,0.466,0.28,0.585,0.31,-14.441,0.0462,88.554,0.517,1,9,0,False,
+25G8eSohg00lyncqwcsufj,El día que me quieras,Carlos Gardel,202545,1934-12-11,1934,0.985,0.41,0.165,0.325,0.271,-16.487,0.0469,131.994,0.427,0,0,0,False,
+58EvhfQN5FGNNsJhIJHzzD,Front Door Blues (32 20 Blues),Kokomo Arnold,204613,1934-05-20,1934,0.991,0.61,0.0367,0.000139,0.111,-21.22,0.0612,90.103,0.35,1,11,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+659fVqNoVUdRpbQIOIWQZv,Nis Din Barsat Nain Hamare,K. L. Saigal,173976,1934-01-01,1934,0.996,0.422,0.342,0.887,0.101,-9.531,0.0382,79.093,0.619,1,9,0,False,"classic bollywood, filmi, ghazal"
+4cGHBy9Zg85UuSRB5iZh1K,Pote Den Tha Sto Po,"Kostas Giannidis, Rita Mitsouko",196475,1934,1934,0.931,0.464,0.407,0.0,0.278,-5.941,0.0309,98.089,0.584,1,10,0,False,
+6USkrtPQLndCJNgztVGzQy,Salty Dog,Kokomo Arnold,170360,1934-05-20,1934,0.99,0.773,0.288,0.00114,0.133,-13.177,0.0406,94.325,0.476,0,8,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3jlzEUVtuVOlKA4NWDShnC,Relámpago de Gloria - Remasterizado,"Francisco Canaro, Ernesto Fama",164506,1934-01-10,1934,0.993,0.64,0.211,6.66e-05,0.352,-13.361,0.0881,119.737,0.861,0,0,0,False,"orquesta tipica, tango, vintage tango"
+6p0TXR6P0cZSgtHJ4q3av8,Madrecita de Pompeya - Remasterizado,"Francisco Canaro, Carlos Galán",191000,1934-01-10,1934,0.995,0.547,0.0749,0.882,0.116,-18.991,0.0674,118.985,0.64,1,10,0,False,"orquesta tipica, tango, vintage tango"
+2cVyks718hdTMpbxVriy0w,Viaje de Bodas - Remasterizado,"Francisco Canaro, Roberto Maida",193000,1934-01-10,1934,0.968,0.444,0.132,0.000631,0.175,-18.158,0.0415,141.368,0.521,1,8,0,False,"orquesta tipica, tango, vintage tango"
+4ebOYyOihvPhim60mcSEg2,Ídolos de la Radio - Instrumental (Remasterizado),Francisco Canaro,184493,1934-01-10,1934,0.975,0.642,0.322,0.223,0.219,-11.608,0.0628,119.644,0.934,1,2,0,False,"orquesta tipica, tango, vintage tango"
+0CPB4mLus2GgUan1mKwcas,Jeevan Dukhamay Ho Main,"Gohar Bai, Of Ambala",181333,1934-12-31,1934,0.99,0.47,0.0983,0.0,0.282,-11.759,0.126,74.335,0.603,1,2,0,False,
+2BicrUA49l6wODO1Qsv8kn,Fin de Fiesta - Remasterizado,"Francisco Canaro, Ernesto Fama",187000,1934-01-03,1934,0.995,0.697,0.218,0.809,0.145,-15.229,0.168,123.367,0.83,1,0,0,False,"orquesta tipica, tango, vintage tango"
+3MoKOV8WtS6kz0hnwotNkl,Salty Dog 2,"Kokomo Arnold, Casey Bill Weldon",167466,1934-05-20,1934,0.989,0.559,0.256,0.00138,0.144,-15.233,0.0419,93.286,0.546,0,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+5k83eX9egofRcTu26OsSa1,Sevilla de Mis Amores - Remasterizado,"Francisco Canaro, Carlos Galán",168000,1934-01-10,1934,0.988,0.711,0.344,0.655,0.27,-13.535,0.119,129.501,0.936,1,10,0,False,"orquesta tipica, tango, vintage tango"
+1Z5tz9nGJ7PwVy8cKOwJJU,E Dukkha Ranga Dinguli Sab,Ila Ghosh,197320,1934-12-01,1934,0.979,0.292,0.204,0.83,0.106,-13.818,0.0532,180.976,0.453,1,8,0,False,
+7igTxFWa8Otmr4WAeG8tsE,Alma de Bandoneón - Remasterizado,"Francisco Canaro, Roberto Maida",159040,1934-01-10,1934,0.992,0.578,0.074,0.696,0.111,-19.727,0.0628,123.449,0.651,1,5,0,False,"orquesta tipica, tango, vintage tango"
+1PrByveHze91fAYsGu1vs3,Kaheen Dekha Hay Yaaro Mera Sanam,Pyaari Jaan,161401,1934-12-31,1934,0.996,0.45,0.186,0.933,0.173,-15.042,0.21,71.732,0.657,0,9,0,False,
+5QxSjq7TZeNuRhKSd7PAIg,Aye Dil E Beqraar Jhoom,K. L. Saigal,181967,1934-01-01,1934,0.995,0.47,0.307,0.873,0.364,-7.919,0.0414,152.545,0.585,1,10,0,False,"classic bollywood, filmi, ghazal"
+0vNyqAVOVKoE6F0HmxRVjN,"Sweet Dreams, Pretty Lady",Jack Jackson & His Orchestra,204373,1934,1934,0.923,0.258,0.0827,0.00586,0.0925,-21.366,0.0373,100.987,0.191,1,0,0,False,british dance band
+1gLkxpdWT9RGh1LCBig9lC,Some Days You Can't Make a Nickel,Hoosier Hot Shots,154653,1934-09-15,1934,0.754,0.728,0.405,0.0142,0.585,-11.048,0.144,129.916,0.884,1,10,0,False,"novelty, traditional country"
+67DZpdvaihQ4qHDruqKdNr,Amores de Estudiante - Remasterizado,"Francisco Canaro, Carlos Galán",233493,1934-01-10,1934,0.987,0.402,0.209,0.28,0.105,-16.598,0.0502,121.885,0.525,1,3,0,False,"orquesta tipica, tango, vintage tango"
+6IaSN3spEB26jEXt060d3b,Rosa de Sangre - Remasterizado,"Francisco Canaro, Ernesto Fama",196493,1934-01-10,1934,0.995,0.719,0.145,1.6e-05,0.335,-13.53,0.117,120.256,0.809,1,2,0,False,"orquesta tipica, tango, vintage tango"
+1VTSMn410LfmODsiTqkrlH,Goin' Down in Galilee (Swing Along with Me),Kokomo Arnold,149213,1934-05-20,1934,0.991,0.509,0.248,3.56e-06,0.226,-13.049,0.0714,165.299,0.876,1,10,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4h4a0ryqpa9tj2XAbG3FcW,Raag Des Roshanara Bai,Roshanara Bai,180059,1934-12-31,1934,0.986,0.397,0.394,0.134,0.191,-8.545,0.0411,117.409,0.416,1,11,0,False,
+4qkYUJ541W4GdrYmhQBxWF,Running Drunk Again,Kokomo Arnold,189840,1934-05-20,1934,0.994,0.707,0.224,0.000451,0.143,-15.488,0.0426,99.787,0.794,1,11,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4rW4FZet2jqP83RVUp2Lp6,Why Doesn't Somebody Tell Me These Things,Jack Hylton & His Orchestra,192306,1934,1934,0.927,0.468,0.506,0.000518,0.848,-7.33,0.055,179.777,0.627,1,0,0,False,"british dance band, man's orchestra, vintage jazz"
+5AZLRhnq1Myf6Vo0NTUwAQ,Set Down Gal,Kokomo Arnold,163160,1934-05-20,1934,0.989,0.607,0.548,0.00072,0.251,-11.333,0.0352,145.693,0.943,1,5,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4rEqp9EHE2LcXfxhQFx38p,Ronda del Querer - Remasterizado,"Francisco Canaro, Carlos Galán",178000,1934-01-10,1934,0.994,0.538,0.238,0.684,0.576,-15.956,0.165,165.96,0.883,0,4,0,False,"orquesta tipica, tango, vintage tango"
+5SRu6WlzRPBHsPefAYwCo9,O Duti Nayan,Kamala Jharia,196957,1934-12-31,1934,0.993,0.299,0.303,0.904,0.154,-14.932,0.0517,80.735,0.559,1,7,0,False,
+0eo0ftn6gRcAraf7LhfuJM,A Dose of the Blues,Blueshakers,294426,1934,1934,0.737,0.697,0.396,0.982,0.122,-13.865,0.0343,122.717,0.669,1,4,0,False,
+4mArecE7Q7EN2WfuGhm3aH,Rung Dekh Jiyara Lagayay Kanhaiyaa Mora Rey,Malka Jaan,168669,1934-12-31,1934,0.995,0.493,0.211,0.89,0.141,-10.789,0.0974,65.493,0.76,0,7,0,False,
+1MlGTXdgRgEB92jrMMJLFJ,Están de Fiesta en la Estancia - Remasterizado,"Francisco Canaro, Ernesto Fama",186493,1934-01-10,1934,0.995,0.638,0.31,0.746,0.226,-13.533,0.319,146.584,0.961,1,7,0,False,"orquesta tipica, tango, vintage tango"
+5qO9Zg7I6q3Kbfqa4YjOeF,Tarde de Lluvia - Remasterizado,Ignacio Corsini,155186,1934-06-26,1934,0.976,0.594,0.255,0.000595,0.15,-15.832,0.051,76.726,0.615,1,1,0,False,vintage tango
+3m3YffQt7bvSLnlOVJDls8,Negrita de Mi Alma - Remasterizado,"Francisco Canaro, Ernesto Fama",182506,1934-01-10,1934,0.973,0.469,0.283,0.935,0.11,-20.467,0.279,164.438,0.888,1,3,0,False,"orquesta tipica, tango, vintage tango"
+2jgftFdWn7Gm5MaTGmFuwD,Poncho de Dolor - Remasterizado,"Francisco Canaro, Carlos Galán",165493,1934-01-10,1934,0.992,0.705,0.143,0.695,0.133,-17.516,0.0826,118.617,0.904,1,6,0,False,"orquesta tipica, tango, vintage tango"
+0PSDSU6U5EhfP5C5I1xodp,San Domingo,Julio Sosa,154026,1934-02-25,1934,0.891,0.706,0.861,0.000164,0.0678,-4.647,0.216,124.457,0.736,1,0,1,False,"folklore argentino, tango"
+26w5mEMzdMvEsFcZIkdtY1,La Diablita - Remasterizado,"Francisco Canaro, Ernesto Fama",169506,1934-01-03,1934,0.994,0.628,0.333,0.0836,0.114,-14.439,0.678,74.6,0.829,1,8,0,False,"orquesta tipica, tango, vintage tango"
+5t0lvFblGm6EFAduzPeex8,Silbidos de un Vago - Remasterizado,"Francisco Canaro, Carlos Galán",192000,1934-01-10,1934,0.977,0.765,0.261,0.00276,0.26,-17.388,0.148,117.404,0.902,1,4,0,False,"orquesta tipica, tango, vintage tango"
+5EMRQZOucyHfThXba5cM4D,Princesa del Fango,Julio Sosa,216853,1934-02-25,1934,0.931,0.46,0.612,2.21e-06,0.113,-4.179,0.0679,120.983,0.634,1,5,2,False,"folklore argentino, tango"
+5PH4qD6UvHXATJ1P4F3EUd,"Lalo: Symphonie espagnole in D Minor, Op. 21: V. Rondo. Allegro","Édouard Lalo, George Szell, Wiener Philharmoniker",464800,1934-01-01,1934,0.927,0.501,0.205,0.174,0.138,-20.834,0.115,86.047,0.46,1,2,0,False,"early modern classical, french romanticism, late romantic era"
+2E45u2tIi68SQ1hbDDU51S,"Lalo: Symphonie espagnole in D Minor, Op. 21: II. Scherzando. Allegro molto","Édouard Lalo, George Szell, Wiener Philharmoniker",224480,1934-01-01,1934,0.908,0.353,0.198,0.0708,0.106,-20.28,0.107,88.452,0.378,1,3,0,False,"early modern classical, french romanticism, late romantic era"
+2m2SS1oAmOfk2oW5ORHp1y,"Lalo: Symphonie espagnole in D Minor, Op. 21: IV. Andante","Édouard Lalo, George Szell, Wiener Philharmoniker",355160,1934-01-01,1934,0.946,0.209,0.174,0.476,0.111,-21.624,0.0429,78.463,0.0498,0,2,0,False,"early modern classical, french romanticism, late romantic era"
+4DoEVo6jfyHMQak8N7Glbr,"Lalo: Symphonie espagnole in D Minor, Op. 21: I. Allegro ma non troppo","Édouard Lalo, George Szell, Wiener Philharmoniker",433093,1934-01-01,1934,0.968,0.383,0.173,0.582,0.142,-17.067,0.0582,85.37,0.274,1,10,0,False,"early modern classical, french romanticism, late romantic era"
+0myj0HMlSvlEGIiGW0IHzO,Rachmaninov: Variation 18 from Rhapsody on a Theme of Paganini,"Daniel Roberts, Eastwood Ensemble Symphony Orchestra",156055,1934,1934,0.995,0.193,0.119,0.923,0.0894,-19.813,0.0338,90.376,0.0777,1,1,0,False,
+1eJpizLDc19biacDuPeUf9,Jivan Ka Sukh,K. L. Saigal,217227,1934-01-01,1934,0.994,0.323,0.387,0.941,0.13,-11.4,0.077,67.483,0.202,1,8,0,False,"classic bollywood, filmi, ghazal"
+0NcPxLB3lSOvVwDqjLsqfn,Tha Xanartheis,Danai,192458,1934,1934,0.824,0.443,0.327,1e-06,0.139,-6.267,0.0332,107.316,0.604,0,2,0,False,
+42rYdhSa6tyhKBNFrrQ7uh,Tha Xanartheis,"Kostas Giannidis, Danai",192458,1934,1934,0.822,0.443,0.327,0.0,0.139,-6.266,0.0333,107.317,0.605,0,2,0,False,
+7tyg4DiFEHkJxPJh7atUsd,More Than Ever,Red Norvo,172360,1934-12-15,1934,0.983,0.759,0.169,0.254,0.168,-13.629,0.0529,142.371,0.687,0,10,4,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3OEVplvPus0M9xMohermgF,Justo el 31,Julio Sosa,171400,1934-02-25,1934,0.912,0.494,0.482,0.0,0.0995,-5.269,0.0438,121.534,0.824,1,0,16,False,"folklore argentino, tango"
+5wZP1c5V71nbeMXsSGn26u,Sophisticated Lady,Jimmie Lunceford & His Orchestra,188986,1934-04-25,1934,0.956,0.504,0.141,0.545,0.179,-11.707,0.0415,92.711,0.525,1,8,1,False,"big band, man's orchestra, swing, vintage jazz"
+5GtT3aROomyLk9yXKQHISs,Stratosphere,Jimmie Lunceford & His Orchestra,134518,1934-04-25,1934,0.88,0.698,0.643,0.897,0.197,-6.411,0.247,126.897,0.612,0,2,1,False,"big band, man's orchestra, swing, vintage jazz"
+4qS7trJSypYHa7NMZKcFlz,Stomp It Off,Jimmie Lunceford & His Orchestra,185502,1934-04-25,1934,0.858,0.807,0.312,0.605,0.112,-10.066,0.106,95.666,0.779,1,7,1,False,"big band, man's orchestra, swing, vintage jazz"
+1DgNpocvis6cgZNDpogbYr,Solitude,Jimmie Lunceford & His Orchestra,183668,1934-04-25,1934,0.977,0.483,0.0556,0.011,0.122,-14.504,0.0371,121.274,0.28,0,5,0,False,"big band, man's orchestra, swing, vintage jazz"
+2npjJlgSRYXmkNNtw8NRy0,Sleepy Time Gal,Jimmie Lunceford & His Orchestra,185685,1934-04-25,1934,0.975,0.584,0.143,0.17,0.0891,-11.081,0.0656,74.731,0.618,0,4,1,False,"big band, man's orchestra, swing, vintage jazz"
+1ZY5fW0EzyuUiFLsvXfgPW,Stardust,Jimmie Lunceford & His Orchestra,183484,1934-04-25,1934,0.984,0.51,0.0559,0.00263,0.291,-17.185,0.0377,100.186,0.446,1,1,1,False,"big band, man's orchestra, swing, vintage jazz"
+0Fr28qLZQFfM3NXxukvek0,Shake Your Head (From Side to Side),Jimmie Lunceford & His Orchestra,162394,1934-04-25,1934,0.922,0.616,0.23,0.689,0.0875,-11.709,0.226,202.043,0.79,1,0,1,False,"big band, man's orchestra, swing, vintage jazz"
+057GtiQteWvHPH14CNimyN,East of the sun,Jazz radio collective,286000,1934,1934,0.912,0.51,0.337,0.318,0.155,-13.212,0.0344,133.363,0.405,0,4,1,False,
+1rfQvpCpca23sq8q6K05l5,El Tango de la Mula - Remasterizado,"Francisco Canaro, Ernesto Fama",186000,1934-01-10,1934,0.995,0.719,0.137,0.00122,0.174,-19.664,0.568,126.394,0.718,0,5,0,False,"orquesta tipica, tango, vintage tango"
+1YnMiTBmeqxiJIxSaVLM7u,East Of The Sun,James Piano Bar,147405,1934,1934,0.99,0.734,0.149,0.948,0.115,-16.946,0.0497,102.018,0.173,1,11,0,False,
+4ewzJd5MWvTRpate4eXa6o,El Pescante - Remasterizado,"Francisco Canaro, Ernesto Fama",204066,1934-01-10,1934,0.991,0.763,0.199,0.000159,0.71,-13.167,0.0668,119.967,0.747,1,6,0,False,"orquesta tipica, tango, vintage tango"
+2XDY0LZ1gZOvHQrSBQdG51,El Aparecido - Remasterizado,"Francisco Canaro, Ernesto Fama",183493,1934-01-10,1934,0.988,0.65,0.482,0.00684,0.398,-11.849,0.0714,150.285,0.976,1,7,0,False,"orquesta tipica, tango, vintage tango"
+6BYjLcqlnUc68VzgFO5J2W,Esquinas Porteñas - Remasterizado,"Francisco Canaro, Ernesto Fama",217000,1934-01-10,1934,0.995,0.589,0.0854,0.0772,0.142,-19.252,0.157,166.154,0.71,1,9,0,False,"orquesta tipica, tango, vintage tango"
+1dhe1dEzLcf1frtYarSiOD,Eu Achei,Niél Rodrigues,178625,1934,1934,0.659,0.348,0.458,0.0,0.105,-8.945,0.0408,173.391,0.667,0,6,0,False,
+6LlGm1adJozJ2ue9Qn01Li,Eimai Mia Tsakpina,Kitsa Korina,193735,1934,1934,0.893,0.562,0.34,0.0,0.2,-6.453,0.0807,179.379,0.828,1,9,0,False,
+6CB1GS66mrfBKDnsvIQ6Hm,En Taxei,"Kostas Bezos, Aspra Poulia",193782,1934,1934,0.866,0.557,0.451,0.0,0.0293,-6.43,0.051,203.364,0.801,1,2,0,False,
+2BhYpGo9uKIeRFqzJa0iHT,El Tigre Millan - Remasterizado,"Francisco Canaro, Ernesto Fama",193493,1934-01-10,1934,0.994,0.791,0.0654,0.00577,0.192,-18.062,0.149,121.968,0.811,0,1,0,False,"orquesta tipica, tango, vintage tango"
+5BBWrfwVk0Jd9tXNmbNNbG,"Elenaki Mou, Elenaki Mou","Kostas Giannidis, Loudiana, Lena Mavi",183077,1934,1934,0.917,0.487,0.578,0.0,0.491,-6.707,0.057,79.165,0.846,1,7,0,False,
+1d3AZBYKCfG5eJkNP6WSFZ,Ena Nai I Ena Ohi,"Kostas Giannidis, Tonis Maroudas",197450,1934,1934,0.869,0.266,0.562,0.0348,0.665,-6.511,0.0388,86.942,0.371,1,2,0,False,
+5DiyzYCmWQQ29kCaCLbRkX,Everyone Got To Be Free - Remastered Mix,"One Nation Experience, Phil Bates, Lea Hart, Sugar T., Jackie Deane, Irie White, The Nice Guys, Rick Chase, Dennis Jarrett, Alvin Davis",230933,1934,1934,0.0313,0.769,0.505,0.0,0.117,-10.271,0.0528,94.098,0.862,1,0,0,False,
+1qWEfJjqInmL0B8YkXPWHq,El Hijo Triste,Julio Sosa,222720,1934-02-25,1934,0.992,0.352,0.233,0.249,0.111,-16.4,0.0877,201.428,0.486,0,0,2,False,"folklore argentino, tango"
+5KjZrIsYLud351OyMQGjCB,Elle Est Épatante,Michel Simon,176200,1934,1934,0.931,0.657,0.306,0.0,0.164,-11.426,0.246,93.775,0.75,1,0,0,False,vintage chanson
+0nNs8SYNFT1NVmUnlhvWD1,El Ciruja,Julio Sosa,177386,1934-02-25,1934,0.978,0.593,0.273,0.0213,0.329,-13.672,0.0916,126.262,0.638,1,1,4,False,"folklore argentino, tango"
+6W7sM6ASA1dp3wqWQFpRQv,El Adiós - Remasterizado,Ignacio Corsini,215360,1934-06-26,1934,0.941,0.708,0.172,0.0,0.0975,-15.414,0.0963,123.608,0.497,0,2,0,False,vintage tango
+6rwavK0I5N6IdYhHpXo68A,Ek Raja Ka Beta,K. L. Saigal,192913,1934-01-01,1934,0.994,0.675,0.303,0.00251,0.136,-8.967,0.387,136.848,0.552,1,5,0,False,"classic bollywood, filmi, ghazal"
+05GHbQWRtGpVavi6Sj5TRg,El Mismo Final,Julio Sosa,195693,1934-02-25,1934,0.853,0.452,0.596,0.04,0.384,-10.684,0.205,123.507,0.533,0,11,1,False,"folklore argentino, tango"
+4Si3DUHDWz10CKHYxJemoE,El Amor de los Troveros - Remasterizado,"Francisco Canaro, Carlos Galán",195493,1934-01-10,1934,0.993,0.423,0.113,0.699,0.257,-21.456,0.0619,163.934,0.585,0,0,0,False,"orquesta tipica, tango, vintage tango"
+77MXOOTJt80698TJjBTM1w,Eto Shudhu Bhalolaga,Anantadev Mukherjee,165853,1934-12-01,1934,0.976,0.319,0.217,0.0838,0.112,-14.367,0.0333,139.835,0.438,1,4,0,False,
+299CyMflSkpmo3NPiqAq06,Everything I Have Is Yours,"Richard Himber and his Orchestra, Joey Nash",182946,1934-07-01,1934,0.99,0.502,0.238,0.0111,0.102,-10.025,0.0405,124.158,0.402,0,5,0,False,
+0X0zCwvQY1VL6lapcgnpSj,El Casamiento No Me Interesa - Remasterizado,"Francisco Canaro, Ada Falcón",187466,1934-01-10,1934,0.995,0.615,0.239,0.298,0.146,-16.274,0.182,176.019,0.839,1,4,0,False,"orquesta tipica, tango, vintage tango"
+5GBno63olmtqa53gk7bzi7,Eki Sapno Shudhui Swapno,Souren Roy,190426,1934-12-01,1934,0.972,0.35,0.165,0.00221,0.106,-15.373,0.0369,83.95,0.357,0,0,0,False,
+2Mc5p5ARbY1PQpRpukGv2o,No Ensartamos Ni Una - Remasterizado,"Francisco Canaro, Ernesto Fama",163506,1934-01-10,1934,0.994,0.821,0.133,0.736,0.161,-17.514,0.198,120.368,0.884,1,2,0,False,"orquesta tipica, tango, vintage tango"
+6wByUTm9ubeurm9R4MxoDI,La Vida Es una Milonga - Remasterizado,"Francisco Canaro, Ernesto Fama",170000,1934-01-10,1934,0.99,0.668,0.131,0.000715,0.117,-15.882,0.106,126.637,0.67,1,2,0,False,"orquesta tipica, tango, vintage tango"
+0dELDjtofehNxiEkLGJmuX,Kainourgios Eros,"Kostas Giannidis, Soula Karagiorgi, Danai",192783,1934,1934,0.776,0.56,0.594,0.000135,0.0879,-6.797,0.0347,130.466,0.874,1,5,0,False,
+7r2i9j4ndpeWWalqoC0K0m,Viva el Casorio - Remasterizado,"Francisco Canaro, Roberto Maida",181506,1934-01-10,1934,0.983,0.688,0.188,0.273,0.11,-14.636,0.0666,158.697,0.958,1,11,0,False,"orquesta tipica, tango, vintage tango"
+2LHUL1uyO1ePzdhfaqnlqF,Yo Era el Jardinero - Remasterizado,Ignacio Corsini,219520,1934-06-26,1934,0.943,0.531,0.376,1.12e-05,0.107,-15.157,0.105,166.647,0.793,1,0,0,False,vintage tango
+03nqzgT74U7DvePlJBX0rF,Mentir en Amor Es Pecado - Remasterizado,"Francisco Canaro, Carlos Galán",198000,1934-01-10,1934,0.993,0.5,0.213,0.00119,0.364,-11.659,0.0465,137.782,0.793,1,7,0,False,"orquesta tipica, tango, vintage tango"
+4yPXbmFHdyToK7KuEj0bhG,Ya Encontré el Mango - Remasterizado,"Francisco Canaro, Carlos Galán",187493,1934-01-10,1934,0.986,0.693,0.33,0.00724,0.0798,-12.017,0.238,152.802,0.963,1,2,0,False,"orquesta tipica, tango, vintage tango"
+6BUypHU3IuyR5095osZY95,Por el Camino - Remasterizado,Ignacio Corsini,220253,1934-06-26,1934,0.993,0.629,0.174,0.000381,0.741,-19.308,0.149,105.738,0.585,1,1,0,False,vintage tango
+2BmfP7DtdbzRjaArMznn0i,Ya Tiene Comisario el Pueblo - Remasterizado,"Francisco Canaro, Ernesto Fama",189506,1934-01-03,1934,0.992,0.662,0.239,0.0432,0.0869,-15.725,0.402,154.732,0.966,1,0,0,False,"orquesta tipica, tango, vintage tango"
+1wb15wfLhmFAQbzXkoLh8C,Horis Pote Na Pio Krasi,"Kostas Giannidis, Lena Mavi, Eleni De Roze",168377,1934,1934,0.904,0.582,0.43,0.0,0.161,-8.307,0.0618,122.006,0.818,0,5,0,False,
+5OAqIu2ivJgI58ZfK3xckn,Serenata - Remasterizado,"Francisco Canaro, Ernesto Fama",152000,1934-01-10,1934,0.995,0.668,0.182,0.751,0.32,-17.206,0.0681,125.824,0.922,1,8,0,False,"orquesta tipica, tango, vintage tango"
+2zonDWP8BSgldmFRRQIzME,"Yo Me Llamo ""Juan Te Quiero"" - Remasterizado","Francisco Canaro, Ernesto Fama",167493,1934-01-10,1934,0.996,0.71,0.227,0.525,0.42,-15.149,0.194,77.545,0.881,1,7,0,False,"orquesta tipica, tango, vintage tango"
+3gkHkIxNKyCtecbWilDi7N,Symphony No. 7 - 2021 Remastered Version,"Roy Harris, Eugene Ormandy, Philadelphia Orchestra",1132560,1934,1934,0.805,0.208,0.39,0.841,0.0977,-13.413,0.0362,141.828,0.137,1,7,0,False,"american modern classical, early modern classical"
+5tOPkDa15VEvwaqwtoc4eT,La Canción de los Barrios - Remasterizado,"Francisco Canaro, Ernesto Fama",186000,1934-01-10,1934,0.991,0.68,0.257,0.0677,0.253,-16.997,0.0606,120.751,0.687,0,7,0,False,"orquesta tipica, tango, vintage tango"
+5QFG88zsIscL7CbteKtdJQ,Yo No Se Porque Te Quiero - Remasterizado,"Francisco Canaro, Ernesto Fama",192000,1934-01-10,1934,0.995,0.531,0.023,0.0245,0.155,-22.792,0.0681,115.546,0.439,0,1,1,False,"orquesta tipica, tango, vintage tango"
+5doMLr8bPiuEyULefLIhkM,Asturias - Remasterizado,"Francisco Canaro, Ernesto Fama",178000,1934-01-10,1934,0.995,0.71,0.213,0.534,0.266,-17.221,0.283,120.455,0.767,1,1,0,False,"orquesta tipica, tango, vintage tango"
+7uo1Gawl7Yicjl9fUas17u,Ya Vendrán Tiempos Mejores - Remasterizado,"Francisco Canaro, Ernesto Fama",213000,1934-01-03,1934,0.996,0.623,0.258,0.0815,0.311,-13.687,0.188,123.037,0.881,1,9,0,False,"orquesta tipica, tango, vintage tango"
+29kFMXU2QSOI8RzPtnLy6x,Aparcero - Remasterizado,"Francisco Canaro, Ernesto Fama",184000,1934-01-10,1934,0.995,0.769,0.103,0.00733,0.223,-17.855,0.0671,121.959,0.737,1,8,0,False,"orquesta tipica, tango, vintage tango"
+3jCg1N992FyNUQ3t4Uux0T,Un Jardín de Ilusión - Remasterizado,"Francisco Canaro, Ernesto Fama, Ada Falcón",228000,1934-01-10,1934,0.996,0.523,0.0493,0.000427,0.166,-18.747,0.0558,123.991,0.477,1,2,0,False,"orquesta tipica, tango, vintage tango"
+4C1uO49WBc43dkbanSwOH8,"Yo Me Caso, Doña Lola - Remasterizado","Francisco Canaro, Ernesto Fama",155000,1934-01-03,1934,0.994,0.625,0.259,0.955,0.32,-14.098,0.313,151.932,0.96,1,4,0,False,"orquesta tipica, tango, vintage tango"
+3UxWWxkhklkvNQg2ko9OMv,Milonga - Remasterizado,"Francisco Canaro, Ernesto Fama",176506,1934-01-03,1934,0.992,0.745,0.178,0.0132,0.104,-13.197,0.0596,123.196,0.606,0,4,0,False,"orquesta tipica, tango, vintage tango"
+2Vfwzbfa8AaHHYY405KLTG,Santa Milonguita - Remasterizado,"Francisco Canaro, Ernesto Fama",182000,1934-01-03,1934,0.993,0.596,0.181,0.896,0.128,-15.61,0.085,127.083,0.641,1,4,0,False,"orquesta tipica, tango, vintage tango"
+7IrCfEQJTUIxALBqsPPqZH,¿Por Qué Cierras los Ojos Cuando Besas? - Remasterizado,"Francisco Canaro, Ernesto Fama",208506,1934-01-10,1934,0.995,0.509,0.145,0.137,0.171,-15.35,0.0715,144.126,0.571,1,2,0,False,"orquesta tipica, tango, vintage tango"
+3wiGImojFuDRY8hAWmEoNR,La Cachetada - Remasterizado,"Francisco Canaro, Ernesto Fama",204000,1934-01-03,1934,0.991,0.762,0.143,0.385,0.117,-15.597,0.204,119.816,0.702,1,1,0,False,"orquesta tipica, tango, vintage tango"
+3XIxfcVeOSNm0sR0cCFAWF,La Canción de la Rivera - Remasterizado,"Francisco Canaro, Ernesto Fama",215000,1934-01-10,1934,0.992,0.613,0.114,0.00339,0.365,-15.895,0.112,117.81,0.434,1,3,0,False,"orquesta tipica, tango, vintage tango"
+6ZsT3CRJ1xmN2LhEMvqlSQ,Voy Pidiendo de Rodillas - Remasterizado,"Francisco Canaro, Ernesto Fama",180000,1934-01-10,1934,0.99,0.687,0.118,0.024,0.169,-17.92,0.0711,124.116,0.785,0,7,0,False,"orquesta tipica, tango, vintage tango"
+0329LA1d0P2PYVZpV0AIaq,Piano Concerto in G: II Adagio assai,"Maurice Ravel, Marguerite Long, London Symphony Orchestra",526066,1934,1934,0.972,0.17,0.0236,0.912,0.128,-28.874,0.0328,77.642,0.0394,1,4,0,False,"classical, impressionism, neoclassicism, post-romantic era"
+2yYg26pHkq3MqzzNzbUIEs,Lirio Blanco - Remasterizado,"Francisco Canaro, Ernesto Fama",216506,1934-01-10,1934,0.995,0.558,0.2,0.111,0.134,-14.479,0.15,160.954,0.784,0,6,0,False,"orquesta tipica, tango, vintage tango"
+43aduBGBU61R0HoWu8k0Gt,Quisiera Amarte Menos - Remasterizado,"Francisco Canaro, Ernesto Fama",241506,1934-01-03,1934,0.995,0.486,0.137,0.915,0.174,-19.584,0.092,73.974,0.51,0,7,0,False,"orquesta tipica, tango, vintage tango"
+4AYnjqgCW4of0hpX2zASsJ,Te Quiero Mucho Más - Remasterizado,"Francisco Canaro, Ernesto Fama",220000,1934-01-10,1934,0.995,0.544,0.157,0.0096,0.296,-16.943,0.138,71.336,0.681,1,2,0,False,"orquesta tipica, tango, vintage tango"
+3SiaMlMhR3OhWPG0rZEJeq,Farolero - Remasterizado,"Francisco Canaro, Ernesto Fama",195506,1934-01-10,1934,0.986,0.673,0.129,0.945,0.11,-18.092,0.123,122.336,0.539,1,7,0,False,"orquesta tipica, tango, vintage tango"
+3K14rlNhGHSM7gsII4G2tr,No Quiero Verlo Más - Remasterizado,"Francisco Canaro, Ernesto Fama",163000,1934-01-03,1934,0.994,0.601,0.257,0.87,0.203,-14.897,0.145,127.353,0.782,1,8,0,False,"orquesta tipica, tango, vintage tango"
+3xrqZkW3dQ5BiaQH7PoiEe,Sin Rumbo - Remasterizado,"Francisco Canaro, Ernesto Fama",172506,1934-01-10,1934,0.995,0.8,0.0867,0.00695,0.185,-16.054,0.0821,121.037,0.779,0,7,0,False,"orquesta tipica, tango, vintage tango"
+4Tnqqz3vWgFe2xkvSv8j1k,Frente al Dolor - Remasterizado,"Francisco Canaro, Ernesto Fama",158493,1934-01-10,1934,0.99,0.711,0.191,0.414,0.115,-17.104,0.218,122.746,0.836,0,3,0,False,"orquesta tipica, tango, vintage tango"
+0Zss1Cp31Mkd4Qa0eZYw51,Justicia Baturra - Remasterizado,"Francisco Canaro, Ernesto Fama",216506,1934-01-03,1934,0.995,0.399,0.296,0.907,0.109,-17.516,0.0518,122.457,0.53,1,2,0,False,"orquesta tipica, tango, vintage tango"
+7ij4pBHTk9SvyallMZOp9E,Lina - Remasterizado,"Francisco Canaro, Ernesto Fama",225506,1934-01-10,1934,0.973,0.552,0.234,0.0177,0.102,-15.764,0.208,130.676,0.494,1,9,0,False,"orquesta tipica, tango, vintage tango"
+6YBw64TaeZxaZqykv0n5Vb,Piano Concerto in G: I Allegramente,"Maurice Ravel, Marguerite Long, London Symphony Orchestra",447200,1934,1934,0.984,0.251,0.128,0.862,0.277,-19.477,0.0372,64.358,0.13,1,2,0,False,"classical, impressionism, neoclassicism, post-romantic era"
+48w6OXHCSDCkNitOAV1PJZ,La Mascotita - Remasterizado,"Francisco Canaro, Ernesto Fama",186506,1934-01-03,1934,0.996,0.659,0.182,0.136,0.28,-16.51,0.393,151.71,0.786,1,2,0,False,"orquesta tipica, tango, vintage tango"
+4169wOaWmQeWteXrKOOxmV,La Canción del Camino - Remasterizado,"Francisco Canaro, Ernesto Fama",181000,1934-01-10,1934,0.995,0.709,0.0348,0.0461,0.1,-17.241,0.0708,120.116,0.584,1,5,0,False,"orquesta tipica, tango, vintage tango"
+5GsD3lFY9XGTprB8n8UpgF,Suavemente - Remasterizado,"Francisco Canaro, Ernesto Fama",187000,1934-01-10,1934,0.989,0.686,0.205,0.000172,0.247,-11.098,0.0545,145.532,0.755,0,2,0,False,"orquesta tipica, tango, vintage tango"
+50I4WytFRBt2g2MbMPJMey,Piano Concerto in G: III Presto,"Maurice Ravel, Marguerite Long, London Symphony Orchestra",243800,1934,1934,0.985,0.397,0.216,0.806,0.199,-17.836,0.0419,78.16,0.323,1,7,0,False,"classical, impressionism, neoclassicism, post-romantic era"
+7kpMoIOGL8On8d2oISLRBg,Promesa - Remasterizado,"Francisco Canaro, Ernesto Fama",209506,1934-01-03,1934,0.994,0.444,0.205,0.794,0.109,-19.425,0.06,126.936,0.607,0,7,0,False,"orquesta tipica, tango, vintage tango"
+3lrMor47dPRjhbHeHYefBy,"Santa Fe, New Mexico",Sons of the Pioneers,158733,1934-01-19,1934,0.944,0.363,0.273,0.00137,0.214,-10.511,0.0268,98.835,0.395,1,2,1,False,"cowboy western, traditional country, vocal harmony group, western swing"
+5UMc5cexBh3hYsJq1MA6ns,I'll Follow You,Red Norvo,152920,1934-12-15,1934,0.976,0.587,0.258,0.195,0.153,-9.538,0.0493,120.901,0.504,1,0,3,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+1gNYddDUuhrjSDjWVqgJ27,Oceans (Where Feet May Fail),samedowski,133920,1934-05-21,1934,0.0281,0.557,0.766,0.0,0.22,-6.211,0.0472,121.058,0.294,0,11,6,False,
+6DYhBKrPfkq4uCm1IyVO2f,It Isn't Fair,"Richard Himber and his Orchestra, Joey Nash",193400,1934-07-01,1934,0.986,0.411,0.402,0.000301,0.123,-11.069,0.0353,109.64,0.357,1,1,2,False,
+1pbZ6nVq3FuhlGMI48YQYG,Savin' Myself for You,Red Norvo,188786,1934-12-15,1934,0.897,0.81,0.14,0.000503,0.1,-11.158,0.0483,128.638,0.513,0,7,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+5uMq1ylUsF07QizwZhIoEF,Levanta la Frente,Julio Sosa,200920,1934-02-25,1934,0.807,0.606,0.647,1.45e-05,0.421,-3.863,0.137,60.287,0.801,0,11,4,False,"folklore argentino, tango"
+0jGICXDsXUCLwsC8Hnka3N,Sophisticated Lady - Instrumental,Richard Himber and his Orchestra,181293,1934-07-01,1934,0.969,0.502,0.246,0.234,0.227,-11.885,0.034,98.209,0.554,1,0,1,False,
+6F8NP3dSVawYTvdOnxh1yx,That's Love,"Richard Himber and his Orchestra, Joey Nash",177000,1934-07-01,1934,0.992,0.369,0.41,0.0341,0.253,-8.701,0.0335,123.658,0.339,1,5,0,False,
+2TXyZHmZokMq3Bv93ANBdR,Shama Ka Jalna Hai Ya Sozshe-Parwana Hai,K. L. Saigal,197309,1934-01-01,1934,0.993,0.522,0.458,0.845,0.181,-10.564,0.0594,98.615,0.567,1,5,4,False,"classic bollywood, filmi, ghazal"
+0c5KE4NRLr4RD5SfVBInfV,Rehmat Pe Teri Mere Gunahon Ko Naaz Hai,K. L. Saigal,187446,1934-01-01,1934,0.994,0.539,0.317,0.937,0.11,-12.327,0.059,67.354,0.579,0,6,5,False,"classic bollywood, filmi, ghazal"
+06nFx1mKlztOTRWkDXGke8,Florya'da Sahilde Gördüm Onu,Safiye Ayla,183928,1934-03-22,1934,0.991,0.398,0.426,0.42,0.408,-8.826,0.0478,111.525,0.526,1,9,0,False,"rumeli turkuleri, turk sanat muzigi"
+0q5jFouCP3khCQophmrEK5,For All We Know,James Piano Bar,136697,1934,1934,0.993,0.496,0.103,0.971,0.106,-17.329,0.0869,73.262,0.514,0,7,0,False,
+0enXAhEpM5DkSEcSrTP7CL,Fiesta Granadina - Remasterizado,"Francisco Canaro, Roberto Maida",188000,1934-01-10,1934,0.967,0.627,0.239,0.116,0.168,-12.167,0.0418,124.817,0.785,1,2,0,False,"orquesta tipica, tango, vintage tango"
+2RZHeEavcqXhcgAGCtEuPm,Faisons Notre Bonheur Nous Même,Jean Lumière,185200,1934,1934,0.978,0.463,0.279,0.000316,0.0979,-12.022,0.0488,116.975,0.377,1,8,0,False,vintage chanson
+3OIMkTSJ4dlmNxA2t58uyZ,Fool Man Blues,Kokomo Arnold,187773,1934-05-20,1934,0.994,0.59,0.176,0.000168,0.192,-15.014,0.0418,86.421,0.489,0,1,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4zDweZr8pyC1xE73LoiYYr,Farolito Viejo,Julio Sosa,191106,1934-02-25,1934,0.935,0.533,0.502,8.56e-06,0.082,-5.342,0.0693,123.707,0.761,0,5,2,False,"folklore argentino, tango"
+3y4nBIzgkstnp0GnpTvkie,Faint Harmony,Jack Jackson & His Orchestra,191826,1934,1934,0.958,0.56,0.0893,0.0125,0.104,-19.982,0.0549,79.928,0.64,1,3,0,False,british dance band
+47OwU1V7VcmaZDP9ezP9Rd,Feels so Good 2,"Kokomo Arnold, Casey Bill Weldon",193000,1934-05-20,1934,0.955,0.662,0.349,2.93e-05,0.0501,-10.366,0.0447,110.28,0.809,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7eE7YKocaPocNXjeQwekWq,From Me to You,Jack Jackson & His Orchestra,190453,1934,1934,0.981,0.661,0.232,0.0667,0.2,-15.208,0.0914,153.614,0.779,1,5,0,False,british dance band
+5GdR0Grutd83wXL8wCQky2,Feels so Good,Kokomo Arnold,196146,1934-05-20,1934,0.967,0.702,0.18,1.56e-06,0.0545,-13.999,0.0873,110.333,0.912,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+08LVagORwMpz5CIXGRl22y,Fats Waller Stomp,Morris Hot Babies,202493,1934,1934,0.906,0.694,0.36,0.88,0.109,-11.686,0.043,102.911,0.527,1,0,0,False,
+3J9Rdigfo5uv8bGwwE78rn,Stars Fell on Alabama,Nelson Hoerlle,145949,1934,1934,0.806,0.537,0.286,0.927,0.352,-23.726,0.035,113.721,0.92,1,0,0,False,
+1XFt3W29s1QXbj0WgXvwkX,Old Fashioned Love,Red Norvo,179986,1934-12-15,1934,0.965,0.501,0.341,0.844,0.22,-10.529,0.127,202.395,0.723,1,5,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4gtnGCZ9lajIkBj71u0oD5,Thanks for the Memory,Red Norvo,162986,1934-12-15,1934,0.995,0.582,0.256,0.869,0.169,-10.946,0.0567,101.733,0.376,1,1,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4YHzElGTRfTlYmqmVy1BdD,Old Fashioned Sweethearts,Jack Jackson & His Orchestra,183880,1934,1934,0.933,0.506,0.108,0.00554,0.257,-19.644,0.0383,77.054,0.483,1,10,0,False,british dance band
+3cGj6NsjvemrEBFQsuKzU6,True (Roy Fox),Roy Fox,187253,1934,1934,0.942,0.35,0.151,0.00985,0.324,-17.757,0.0413,136.647,0.378,1,8,0,False,british dance band
+5kFJMSztwJA5QCWJVGmQoq,I'm a Failure (Roy Fox),Roy Fox,190600,1934,1934,0.983,0.422,0.0968,0.197,0.1,-16.492,0.053,143.131,0.512,1,3,0,False,british dance band
+7bVw50agAwALAcBlLXPW6Z,Je N'attends Plus Rien,Fréhel,206906,1934,1934,0.979,0.455,0.204,2.98e-05,0.206,-12.375,0.0405,112.551,0.419,1,8,0,False,vintage chanson
+5ap3Cm9mBSEckxCHqFU9hT,Horchatera Valenciana - Remasterizado,"Francisco Canaro, Roberto Maida",183000,1934-01-10,1934,0.964,0.712,0.291,0.229,0.337,-12.217,0.0675,121.657,0.854,1,9,0,False,"orquesta tipica, tango, vintage tango"
+5T9C6ZSPufglBynrrYYasv,La Machona - Remasterizado,"Francisco Canaro, Carlos Galán",157000,1934-01-10,1934,0.995,0.638,0.334,0.785,0.347,-16.401,0.17,150.047,0.966,0,8,0,False,"orquesta tipica, tango, vintage tango"
+2jmI7VYKe7z61AuUl8o1lx,"Quien Más, Quien Menos - Remasterizado","Francisco Canaro, Carlos Galán",158506,1934-01-10,1934,0.994,0.638,0.11,0.0142,0.335,-14.817,0.0769,116.462,0.674,1,5,0,False,"orquesta tipica, tango, vintage tango"
+2cQ5El7Ek2CQZNcZtAoZAA,No Hay Mal Que por Bien No Venga - Remasterizado,"Francisco Canaro, Roberto Maida",197493,1934-01-10,1934,0.928,0.647,0.141,0.00107,0.121,-13.181,0.0757,147.859,0.824,1,4,0,False,"orquesta tipica, tango, vintage tango"
+2YJ6hMaDEO9KpixLYl1Qvj,Siempre Así - Remasterizado,"Francisco Canaro, Carlos Galán",191506,1934-01-10,1934,0.989,0.562,0.26,0.0027,0.0838,-11.104,0.0616,153.867,0.846,0,0,0,False,"orquesta tipica, tango, vintage tango"
+1qDqMWX4XrjG35pNF7UdKa,Piano Concerto No. 3 in C Minor Op. 37: II Largo,"Ludwig van Beethoven, Marguerite Long, Paris Conservatoire Orchestra",509720,1934,1934,0.984,0.23,0.028,0.921,0.202,-27.113,0.039,61.12,0.039,1,4,0,False,"classical, classical era, early romantic era, german romanticism"
+3heRMl7Lt4uXrkSpaO7haC,"Symphony No. 10 in D Minor, Op. 145","Riccardo Muti, Esyoda Emtems, Sleepnaz",160320,1934,1934,0.558,0.474,0.286,0.839,0.111,-18.19,0.0355,150.014,0.0377,0,7,0,False,"classical performance, orchestral performance"
+0eZdSxDYAhzh3fsvGU7Cpf,Penas y Alegrías - Remasterizado,"Francisco Canaro, Roberto Maida",177000,1934-01-10,1934,0.901,0.664,0.293,0.333,0.381,-12.054,0.0491,120.43,0.862,1,7,0,False,"orquesta tipica, tango, vintage tango"
+3UjiD1D0SyR6XAYI4THN1t,Vinchas y Espuelas - Remasterizado,"Francisco Canaro, Carlos Galán",205493,1934-01-10,1934,0.986,0.611,0.258,0.0363,0.407,-13.348,0.109,148.984,0.937,1,5,0,False,"orquesta tipica, tango, vintage tango"
+3CIGFS9oD9Q8OAgkRxAOnJ,La Cruz del Sauce - Remasterizado,"Francisco Canaro, Carlos Galán",186493,1934-01-10,1934,0.978,0.672,0.121,0.0382,0.183,-13.249,0.0538,115.168,0.569,0,0,0,False,"orquesta tipica, tango, vintage tango"
+1sXwqTz0s8khWj2n8bJdxr,Piano Concerto No. 3 in C Minor Op. 37: I Allegro con brio (cadenza: Moscheles),"Ludwig van Beethoven, Marguerite Long, Paris Conservatoire Orchestra",921186,1934,1934,0.985,0.27,0.111,0.824,0.118,-19.735,0.0408,73.581,0.127,0,5,0,False,"classical, classical era, early romantic era, german romanticism"
+5MwOre4Zpa2F0rtxjfpcFa,Rosa Peregrina - Remasterizado,"Francisco Canaro, Carlos Galán",215000,1934-01-10,1934,0.985,0.404,0.206,0.0181,0.416,-13.317,0.0423,121.862,0.603,1,3,0,False,"orquesta tipica, tango, vintage tango"
+30RouqMSXu81uOUZhI4PwE,Soledad - Remasterizado,"Francisco Canaro, Roberto Maida",178493,1934-01-10,1934,0.961,0.6,0.221,0.0083,0.108,-14.007,0.0717,122.033,0.678,1,4,0,False,"orquesta tipica, tango, vintage tango"
+0HY5MbYa1nDonQPIIWEquH,Tormento - Remasterizado,"Francisco Canaro, Carlos Galán",150506,1934-01-10,1934,0.994,0.664,0.199,0.0434,0.105,-14.33,0.0569,117.831,0.837,1,2,0,False,"orquesta tipica, tango, vintage tango"
+2jLBCItauaz0IgY87o8D9i,Puerto Nuevo - Remasterizado,"Francisco Canaro, Ernesto Fama",179000,1934-01-03,1934,0.975,0.653,0.31,0.000169,0.0709,-12.212,0.142,128.284,0.902,1,9,0,False,"orquesta tipica, tango, vintage tango"
+0Q3WMao3drcsgWABuV5Ok7,La Mezquita - Remasterizado,"Francisco Canaro, Carlos Galán",173493,1934-01-10,1934,0.993,0.721,0.265,0.344,0.231,-13.214,0.0531,123.464,0.917,0,2,0,False,"orquesta tipica, tango, vintage tango"
+6G8ydGqM5Pbz4XEucokDKG,Mi Buenos Aires Querido - Remasterizado,"Francisco Canaro, Carlos Galán",196000,1934-01-10,1934,0.995,0.634,0.199,0.756,0.16,-13.984,0.106,118.973,0.58,1,6,0,False,"orquesta tipica, tango, vintage tango"
+5Zix2hjExwR6unVSIDUOsA,Orquideas a la Luz de la Vida - Remasterizado,Francisco Canaro,195506,1934-01-10,1934,0.995,0.661,0.109,0.00064,0.14,-14.465,0.0948,120.558,0.735,0,5,0,False,"orquesta tipica, tango, vintage tango"
+2VE5kHvkmBbIUwspxjX0zC,Media Noche - Remasterizado,"Francisco Canaro, Carlos Galán",170506,1934-01-10,1934,0.995,0.735,0.121,0.759,0.247,-16.65,0.126,117.428,0.533,0,2,0,False,"orquesta tipica, tango, vintage tango"
+3fPiQHKezPTZ8cp7b0bRdE,Mis Claveles - Remasterizado,"Francisco Canaro, Carlos Galán",193493,1934-01-10,1934,0.984,0.685,0.293,0.0026,0.227,-9.973,0.0664,120.822,0.924,1,10,0,False,"orquesta tipica, tango, vintage tango"
+7u62KAUTwlTlb3K8Ks90YW,Profecía Gitana - Remasterizado,"Francisco Canaro, Carlos Galán",171000,1934-01-10,1934,0.992,0.742,0.245,0.00791,0.116,-14.141,0.0901,123.214,0.827,1,9,0,False,"orquesta tipica, tango, vintage tango"
+7wPuncxOcQqhTZobOC652k,Ushuaia - Remasterizado,"Francisco Canaro, Carlos Galán",151960,1934-01-10,1934,0.98,0.694,0.221,0.262,0.585,-12.513,0.128,117.4,0.919,1,11,0,False,"orquesta tipica, tango, vintage tango"
+7300PxCJlpQCEodZmjCg54,Quiereme Otra Vez - Remasterizado,"Francisco Canaro, Carlos Galán",213000,1934-01-10,1934,0.952,0.454,0.282,0.104,0.538,-12.869,0.0577,125.78,0.761,1,7,0,False,"orquesta tipica, tango, vintage tango"
+556swAYYvgMaOglO6TnEE1,Piano Concerto No. 3 in C Minor Op. 37: III Rondo (allegro),"Ludwig van Beethoven, Marguerite Long, Paris Conservatoire Orchestra",511333,1934,1934,0.988,0.405,0.171,0.853,0.224,-19.731,0.0385,122.327,0.318,0,0,0,False,"classical, classical era, early romantic era, german romanticism"
+6lKBfX1BK5xGByy6QpPdvJ,No Seas Niña - Remasterizado,"Francisco Canaro, Carlos Galán",173506,1934-01-10,1934,0.995,0.695,0.134,0.9,0.164,-18.068,0.0556,119.78,0.891,1,2,0,False,"orquesta tipica, tango, vintage tango"
+2zjWioNUL12eB8sRpRVejY,Last Chance,Frankie Goes To Bollywood,215800,1934,1934,0.863,0.763,0.529,0.73,0.12,-15.049,0.0427,116.322,0.614,1,0,0,False,
+3Qp0FqfCku6sk8jczLeFzd,Mi Musa Campera - Remasterizado,"Francisco Canaro, Carlos Galán",155000,1934-01-10,1934,0.994,0.61,0.136,0.00698,0.453,-15.128,0.0617,117.812,0.731,1,5,0,False,"orquesta tipica, tango, vintage tango"
+0jcI0pMwUuV2Zd9zxQbnOy,Santo Remedio - Remasterizado,"Francisco Canaro, Carlos Galán",169506,1934-01-10,1934,0.985,0.663,0.39,0.169,0.141,-10.523,0.289,152.807,0.93,0,4,0,False,"orquesta tipica, tango, vintage tango"
+2GZaAOc9FykuIzHSeQGAQI,21 Guns,samedowski,161111,1934-12-15,1934,0.191,0.621,0.555,0.0213,0.0734,-8.603,0.0499,112.665,0.4,1,7,26,False,
+5a1eeTzIWizPJLR9LS4cq8,Ghamza Paikan Hua Jaata Hai,K. L. Saigal,201340,1934-01-01,1934,0.995,0.479,0.146,0.948,0.0935,-17.801,0.0555,94.169,0.42,0,9,1,False,"classic bollywood, filmi, ghazal"
+04b0QbnpNR2MCup4FdN5Ju,Ghar Ye Tera Sada Na Mera Hai,K. L. Saigal,198186,1934-01-01,1934,0.996,0.518,0.267,0.784,0.168,-11.411,0.0679,115.771,0.349,0,8,1,False,"classic bollywood, filmi, ghazal"
+1KPFHoywWOxO2XRy3Tn9lo,Garden of the Moon,Red Norvo,175773,1934-12-15,1934,0.824,0.69,0.222,0.00658,0.32,-10.627,0.0419,104.82,0.587,1,6,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+2zzUGzxBmP26yTA05xoExE,I've Got My Love to Keep Me Warm,Red Norvo,178213,1934-12-15,1934,0.99,0.608,0.274,0.0182,0.0498,-10.756,0.0608,173.282,0.641,0,9,1,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+10KIRxz4oahrw2ejYMcs9Z,Ibne Mariyam Hua Kare Koi,K. L. Saigal,213758,1934-01-01,1934,0.995,0.449,0.237,0.0204,0.34,-13.338,0.0512,136.626,0.298,0,9,4,False,"classic bollywood, filmi, ghazal"
+5E3tYxfp956lPLL2pTRj9Y,Gar Sia Bakhat Hi Hona Tha,K. L. Saigal,194644,1934-01-01,1934,0.995,0.428,0.33,0.87,0.313,-11.178,0.131,64.597,0.44,1,2,0,False,"classic bollywood, filmi, ghazal"
+4Wn36bOT5rAFi6sDoqGP6A,Gia Sena Monaha,"Kostas Giannidis, Stella Greka",168158,1934,1934,0.893,0.372,0.323,0.0,0.163,-8.449,0.0645,75.908,0.459,1,10,0,False,
+6RLsLadmJPbck00LDAasKe,Giati Palia Mou Agapi,"Kostas Giannidis, Kakia Mendri",197000,1934,1934,0.966,0.544,0.198,3.93e-06,0.302,-12.181,0.146,113.016,0.521,1,9,0,False,
+5SkXHQxQjew01IDhuh6mre,Giati Na Xehaseis,"Kostas Giannidis, Danai",193538,1934,1934,0.878,0.333,0.33,0.0109,0.194,-8.329,0.0372,99.147,0.516,0,2,0,False,
+2sLa7dwf6jYKHHDtb6SaL4,Gyrise Piso,"Kostas Giannidis, Koula Nikolaidou",199923,1934,1934,0.72,0.341,0.672,4.8e-06,0.315,-7.795,0.0907,91.562,0.789,0,8,0,False,
+0eC0Vfv59RT2CXI338sqiu,"Giati, Giati, Giati","Kostas Giannidis, Kostas Maniatakis",183600,1934,1934,0.978,0.497,0.453,0.0589,0.516,-6.387,0.0633,115.315,0.811,1,9,0,False,
+4LP99a2RZLPCzOgD55gG1b,Ghar Ye Tera Sada Na Mera Hai,K. L. Saigal,200522,1934-01-01,1934,0.995,0.47,0.24,0.794,0.146,-11.247,0.0522,79.523,0.394,1,8,0,False,"classic bollywood, filmi, ghazal"
+2lnxh7WBVEZmZwaIx48qHv,Glow Reefer Glow,Cellular Project,299853,1934,1934,0.742,0.45,0.651,0.964,0.287,-3.509,0.0361,116.394,0.219,0,2,0,False,
+0yOGWVSkBCwnHzAxvIXXGY,Gather Lip Rouge While You May,"Richard Himber and his Orchestra, Joey Nash",160666,1934-07-01,1934,0.966,0.758,0.367,7.51e-06,0.341,-9.325,0.0854,93.176,0.906,0,3,0,False,
+78dqkEFrT7aBRhc1mCaO12,"Go Ahead, Buddy","Kokomo Arnold, Casey Bill Weldon",164253,1934-05-20,1934,0.989,0.716,0.292,0.00869,0.181,-14.43,0.0528,104.887,0.968,1,0,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+2BS77oiueNq1Q0AI7DYGlX,Grandpa Got Drunk,Kokomo Arnold,185973,1934-05-20,1934,0.992,0.586,0.176,2.96e-05,0.191,-15.348,0.0531,87.912,0.486,1,5,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6QLy1YRiIXwbLpWfCgRWRX,Gahan Bhav Sarita,"Shanta Apte, Shantaram Athavale",194218,1934-12-31,1934,0.965,0.366,0.219,0.27,0.0825,-12.399,0.0576,75.848,0.352,1,9,0,False,classic bollywood
+4MUyS6sg2vRlCEck7njPJR,Gokul Gaaon Ka Choraa,Bano Bai Latekar,227091,1934-12-31,1934,0.996,0.403,0.341,0.964,0.148,-13.185,0.122,72.198,0.581,1,8,0,False,
+5GdC5zpydTcclcKke1fhTf,Gosh! I Must Be Falling in Love,Jack Jackson & His Orchestra,172213,1934,1934,0.98,0.514,0.0878,0.021,0.0959,-17.537,0.0464,147.014,0.658,0,7,0,False,british dance band
+7LvUSSqUZrIxrSMoECD7qi,Ghazal - Kamleshwari Bai,Kamleshwari Bai,342796,1934-12-31,1934,0.994,0.515,0.0551,0.828,0.377,-15.516,0.268,70.078,0.482,0,10,0,False,
+3Hdabig0IgtRNV7QfdbKZP,Golondrinas - Remasterizado,"Francisco Canaro, Roberto Maida",186000,1934-01-10,1934,0.975,0.725,0.167,0.179,0.155,-13.85,0.0657,118.642,0.678,1,4,0,False,"orquesta tipica, tango, vintage tango"
+4vyQDEfPEWvuoKQZN0hSKb,Giridhaar Jhoolat Raadhay,Laxmibai Jadhav,185945,1934-12-31,1934,0.996,0.367,0.259,0.965,0.344,-12.745,0.0381,68.441,0.416,1,7,0,False,
+5xyNbtpSNVTB7tZTSuciJm,Gee! Oh Gosh! I'm Grateful (Roy Fox),Roy Fox,152653,1934,1934,0.965,0.697,0.0956,0.00117,0.106,-18.301,0.0972,107.096,0.432,1,0,0,False,british dance band
+7j4B4u1npi7gYBhauzCrya,"Goodnight, Llittle Girl of My Dreams",Roy Fox,195533,1934,1934,0.982,0.366,0.0562,0.244,0.085,-20.881,0.0508,67.469,0.244,1,7,0,False,british dance band
+5egvDGFmi2DvkD1uZd8cYA,Για πες αλεύρι,Κώστας Μαυρέας,94210,1934-01-01,1934,0.994,0.523,0.185,0.835,0.109,-20.212,0.115,132.35,0.75,1,5,0,False,
+1A9QNc25qWEXti3bfKROCa,Mara Ba Ghamza,K. L. Saigal,186607,1934-01-01,1934,0.995,0.644,0.298,0.955,0.163,-13.223,0.137,66.188,0.613,1,11,0,False,"classic bollywood, filmi, ghazal"
+7kDsyA9Lvc6IkHdORgzAuW,I Gynaika Ehei Panta Karnavali,"Kostas Giannidis, Vasos Seitanidis",196916,1934,1934,0.872,0.506,0.502,9.37e-05,0.876,-9.504,0.157,119.465,0.661,0,9,0,False,
+1sLbkotLyUl6WZT0BUDc3C,Kahe Guman Kare,K. L. Saigal,191015,1934-01-01,1934,0.995,0.472,0.298,0.892,0.0909,-9.867,0.0547,137.934,0.451,1,2,0,False,"classic bollywood, filmi, ghazal"
+71oCLeBEdOf2cqn2sAwnd4,Lag Gayi Chot Karejwa Mein,K. L. Saigal,190451,1934-01-01,1934,0.996,0.436,0.231,0.857,0.141,-9.494,0.032,106.617,0.219,1,6,0,False,"classic bollywood, filmi, ghazal"
+6RL0zWjw0yb28xk33GuDZU,Toot Gaya Sab Sapne Mere,K. L. Saigal,161970,1934-01-01,1934,0.995,0.539,0.184,0.933,0.127,-13.959,0.0705,72.865,0.51,1,5,0,False,"classic bollywood, filmi, ghazal"
+1VEwahxp2gNwtnFe98fh1T,Hat Gayi Lo Kaali Ghata,K. L. Saigal,195818,1934-01-01,1934,0.996,0.447,0.38,0.814,0.295,-8.885,0.037,72.479,0.558,1,9,0,False,"classic bollywood, filmi, ghazal"
+53Y1IiZTJgBFvBoK6sTsR6,I've Gone (1967),The Revolution,216160,1934,1934,0.673,0.331,0.73,0.659,0.162,-6.362,0.0704,185.306,0.714,1,4,0,False,electro jazz
+0Nas53DbLE3NyMQHiMbxah,I'm Going Fishing Too,Kokomo Arnold,187013,1934-05-20,1934,0.99,0.701,0.266,1.96e-05,0.141,-10.185,0.0375,84.57,0.585,1,5,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+441fe0Nwz9hYZfiJ9p36cn,My Gal's Been Foolin' Me,Kokomo Arnold,162560,1934-05-20,1934,0.994,0.693,0.339,0.000116,0.191,-13.623,0.0492,81.946,0.704,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+1vh0nDAKWfZTVlUushp2tD,Naadh Gupt Vedha,Laxmi Bai,282047,1934-12-31,1934,0.967,0.348,0.315,0.913,0.163,-13.498,0.104,90.09,0.481,1,7,0,False,
+5UZ442u3etcFjKyiKQCrEh,Katwa Garra Gayalwa,Laxmibai Jadhav,190519,1934-12-31,1934,0.994,0.353,0.35,0.974,0.247,-12.505,0.0475,69.782,0.636,1,7,0,False,
+1htL2o2htfDWAxh9ylySB9,Rehmat Pe Teri Mere Gunahon Ko Naaz Hai,K. L. Saigal,187403,1934-01-01,1934,0.994,0.499,0.309,0.937,0.108,-13.44,0.0465,128.405,0.537,1,9,0,False,"classic bollywood, filmi, ghazal"
+7vLY9MykWrvMqm8ecd6drf,O Sohne Saqiya Meri Gali Vi Phera Paunda Ja,K. L. Saigal,219943,1934-01-01,1934,0.995,0.591,0.382,0.875,0.104,-10.745,0.0664,95.044,0.57,1,1,0,False,"classic bollywood, filmi, ghazal"
+3i4QHDmIYu1F87ECJi8cYh,Shama Ka Jalna Hai Ya Sozshe-Parwana Hai,K. L. Saigal,191125,1934-01-01,1934,0.992,0.452,0.376,0.93,0.147,-11.961,0.0558,101.504,0.444,1,6,0,False,"classic bollywood, filmi, ghazal"
+2GoPimN9kdgigxjuHNh0Fp,Jaag Aur Dekh Zara Alam-E-Veeraan Mera,K. L. Saigal,193910,1934-01-01,1934,0.994,0.547,0.481,0.829,0.238,-7.926,0.0864,76.177,0.755,0,4,0,False,"classic bollywood, filmi, ghazal"
+6h51uX66VVzOwTVuhEzi1c,I only have eyes for you,Georgina Jackson,261720,1934,1934,0.764,0.358,0.198,0.000102,0.161,-13.612,0.0303,80.082,0.121,1,3,0,False,
+71k0HRntP1f2WtkkFGXmqh,Ae Bekhabari Dil Ko Deewana Bana Dena,K. L. Saigal,202451,1934-01-01,1934,0.985,0.6,0.494,0.00101,0.445,-6.3,0.194,140.858,0.475,1,9,0,False,"classic bollywood, filmi, ghazal"
+6c1OIYabaO4OMOz7b8e3Rv,Shukriya Hasti Ka Lekin Tumne Ye Kya Kar Diya,K. L. Saigal,202511,1934-01-01,1934,0.994,0.671,0.279,0.946,0.138,-14.03,0.243,113.921,0.61,1,0,0,False,"classic bollywood, filmi, ghazal"
+2tBOpe45kSWWspKxkwIJtE,Mahi Naal Je Akh Lad Di Kadi Na,K. L. Saigal,219629,1934-01-01,1934,0.996,0.428,0.282,0.937,0.105,-13.658,0.0463,83.075,0.497,1,1,0,False,"classic bollywood, filmi, ghazal"
+17w56SiGwh70R0Y7aXp5as,Hasratein Khamosh Hain,K. L. Saigal,192106,1934-01-01,1934,0.996,0.425,0.0969,0.941,0.113,-19.126,0.0632,116.791,0.469,1,11,0,False,"classic bollywood, filmi, ghazal"
+75g5iY9ZVv3dazFY8rqdlI,Je Ne Suis Pas Bien Portant,Gaston Ouvrard,194200,1934,1934,0.953,0.746,0.285,0.0,0.161,-14.059,0.398,101.309,0.757,1,5,0,False,"chanson humoristique, vintage chanson"
+0mmVLNzfLCSinNllC5STAx,Hairate Nazara,K. L. Saigal,194053,1934-01-01,1934,0.995,0.335,0.155,0.915,0.359,-11.523,0.067,74.963,0.312,1,8,0,False,"classic bollywood, filmi, ghazal"
+2IgLcFb8vLJFkdnRTz9xEl,Rollin' Home,"Richard Himber and his Orchestra, Guy Russell",204653,1934-07-01,1934,0.939,0.516,0.267,0.109,0.111,-10.128,0.0279,113.169,0.56,1,10,0,False,
+2CeYbREc749GxD0c5OLLwA,Idhar Phir Bhi Aana Udhar Jaane Waale,K. L. Saigal,210407,1934-01-01,1934,0.995,0.522,0.318,0.81,0.151,-10.218,0.0423,125.976,0.45,1,11,0,False,"classic bollywood, filmi, ghazal"
+6QZJFQnC7g7agSBvrwRz9r,Koi Kisi Ka Nahi Jahan Main,Gauhar,202073,1934-01-01,1934,0.975,0.352,0.105,4.89e-06,0.0997,-14.508,0.0502,73.389,0.4,1,1,0,False,
+7jsxzeggw6LuSHNyARgeFE,Ishq Khud Maile-Hijaab Hai Aaj,K. L. Saigal,211487,1934-01-01,1934,0.994,0.558,0.194,0.0336,0.0947,-9.992,0.0594,113.312,0.417,1,5,0,False,"classic bollywood, filmi, ghazal"
+46Qr3VYTLAn1kBtYzfalQ1,Apni Hasti Ka Asar Khushnamaya Ho Jaaye,K. L. Saigal,198519,1934-01-01,1934,0.995,0.513,0.299,0.926,0.108,-9.798,0.042,101.092,0.483,0,10,0,False,"classic bollywood, filmi, ghazal"
+2lmMYNVZvsEvr5yrJNUv5g,Muskurate Huye,K. L. Saigal,195589,1934-01-01,1934,0.992,0.33,0.156,0.925,0.142,-17.267,0.0672,69.121,0.23,0,5,0,False,"classic bollywood, filmi, ghazal"
+6XJNfWLir3ISunlLNq7SSw,Jaha Kichhu Mamo Achhe Priyotamo,Gyanendra Prasad Goswami,206413,1934-12-01,1934,0.994,0.458,0.0956,0.00573,0.715,-16.713,0.0625,73.206,0.32,1,1,0,False,
+58heypz4S6hqvVS8aJUbra,Matwale Panese,K. L. Saigal,210346,1934-01-01,1934,0.995,0.489,0.353,0.913,0.108,-11.636,0.0614,101.549,0.458,0,4,0,False,"classic bollywood, filmi, ghazal"
+1k9riLvLZYOOJTvDnYJ5zG,Hum Apna Unhey,K. L. Saigal,205823,1934-01-01,1934,0.995,0.459,0.316,0.909,0.256,-10.695,0.0829,69.323,0.717,1,0,0,False,"classic bollywood, filmi, ghazal"
+0CorZdUHKmHT2eyrvz5VhM,Mat Karo Kisi Se Pyar,Gauhar,183983,1934-01-01,1934,0.992,0.435,0.0648,0.0419,0.101,-15.771,0.124,73.925,0.536,1,6,0,False,
+0H6th8ZEzJqOKRnifM43Qy,Home On the Range,Sons of the Pioneers,157173,1934-01-19,1934,0.991,0.395,0.137,0.000115,0.146,-13.535,0.0291,96.943,0.489,1,6,14,False,"cowboy western, traditional country, vocal harmony group, western swing"
+2z2vT0x2L0vUwjOPgOY39d,Says My Heart,Red Norvo,176213,1934-12-15,1934,0.924,0.666,0.159,0.0319,0.0846,-13.286,0.0648,152.223,0.582,1,3,11,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3f1sQVzxVHZwSsblO6gWvY,Skeleton Rag,Hoosier Hot Shots,86240,1934-09-15,1934,0.43,0.657,0.46,0.929,0.139,-10.302,0.0355,145.685,0.965,1,5,6,False,"novelty, traditional country"
+6PdWL1SKXKy2kv2EMz6TWZ,Some Like It Hot,Red Norvo,174853,1934-12-15,1934,0.954,0.794,0.459,0.871,0.164,-9.713,0.0548,98.376,0.886,0,2,8,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+49Fo8VmIxXi4Z6i7Vj7HBY,Honeysuckle Rose,Red Norvo,169093,1934-12-15,1934,0.884,0.807,0.381,0.822,0.705,-14.01,0.138,119.876,0.881,0,7,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4jaThVeilwveLmkwnOzjsI,Zing! Went the Strings of My Heart,Red Norvo,209723,1934-12-15,1934,0.615,0.416,0.512,0.578,0.105,-9.819,0.0425,165.033,0.743,1,8,5,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3YEg8fszz1aMebJr7wuFFX,Sweet Jennie Lee,Hoosier Hot Shots,119053,1934-09-15,1934,0.646,0.727,0.359,5.68e-06,0.133,-8.841,0.0646,129.719,0.952,1,8,0,False,"novelty, traditional country"
+7DMcu4fN04O8g84rLxkM2k,Who's Sorry Now,Hoosier Hot Shots,164560,1934-09-15,1934,0.964,0.62,0.163,0.00282,0.0914,-12.467,0.176,163.898,0.774,0,0,0,False,"novelty, traditional country"
+6IrD053ve8476emSZKhDHL,"Toot Toot, Tootsie",Hoosier Hot Shots,163106,1934-09-15,1934,0.823,0.708,0.441,0.0215,0.119,-10.369,0.0883,132.549,0.968,1,3,1,False,"novelty, traditional country"
+4jDleuFQ6FgnjqVsT5vlkz,I Like Mountain Music,Hoosier Hot Shots,151853,1934-09-15,1934,0.823,0.857,0.444,0.0357,0.127,-9.659,0.101,120.03,0.967,1,3,1,False,"novelty, traditional country"
+0m19wqa54CsGmYLHtXOdYG,Love Is Here to Stay,Red Norvo,167880,1934-12-15,1934,0.88,0.792,0.125,0.000625,0.112,-12.135,0.0561,127.232,0.61,1,8,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+6DJDAGjojvO2seebhNMJIM,Madame Ivone,Julio Sosa,188066,1934-02-25,1934,0.934,0.506,0.626,0.0,0.604,-6.725,0.226,114.953,0.648,1,2,7,False,"folklore argentino, tango"
+4VHZmeNXe6zYtL8yt6ozdE,I Wonder As I Wander,Stephen DeCesare,288560,1934,1934,0.985,0.22,0.179,0.0103,0.137,-15.326,0.0369,81.036,0.181,0,10,0,False,
+6WkuMrxQyteELFKEXdPZ8Y,Isle Of Capri,Stephen DeCesare,118986,1934,1934,0.72,0.674,0.763,0.0,0.122,-5.11,0.0311,129.337,0.941,1,5,0,False,
+1unrAOQF0FKH7qXV2JwjXf,I Wonder as I Wander,Sandy Campbell Merritt,250931,1934,1934,0.81,0.186,0.117,0.000222,0.117,-11.96,0.0333,79.766,0.0809,0,3,0,False,
+1Hf2qs6qfAKPhHQzK43fpR,İçelim,Safiye Ayla,170292,1934-11-11,1934,0.989,0.539,0.461,0.00294,0.813,-6.709,0.158,120.735,0.538,0,1,0,False,"rumeli turkuleri, turk sanat muzigi"
+1ONHJEOJO3vEnFITklRGV0,Inourmi (Fox Exandrik),"Kostas Bezos, Tasos Vamparis, Christos Mnimatidis, Danai",192841,1934,1934,0.864,0.573,0.538,0.0,0.0843,-5.424,0.0293,97.183,0.907,1,9,0,False,
+4Kkoj0GwOFq7eujGf95ddo,It Might Have Been A Diff'rent Story,"Richard Himber and his Orchestra, Joey Nash",181946,1934-07-01,1934,0.978,0.568,0.32,7.87e-06,0.22,-10.733,0.059,116.437,0.552,1,11,0,False,
+0AJKTjr1gbu81uXdLbfqJd,It All Begins and Ends with You,Red Norvo,184240,1934-12-15,1934,0.979,0.647,0.281,0.00609,0.194,-10.186,0.0389,119.995,0.578,0,5,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+2hSs8kGoHUpfCiOymgdqfe,Ishq Mujhko Nahin Wahshat Hi Sahi,K. L. Saigal,200228,1934-01-01,1934,0.995,0.497,0.204,0.922,0.104,-17.241,0.0903,76.913,0.476,1,4,0,False,"classic bollywood, filmi, ghazal"
+5xwUMGrtWi7AjazKYXRd2h,I Always Keep My Girl Out Late,Jack Jackson & His Orchestra,195813,1934,1934,0.938,0.907,0.276,0.0103,0.105,-16.686,0.074,117.026,0.863,1,10,0,False,british dance band
+076PnTo8TVVV3ewMXkg1cQ,If I Had You,Red Norvo,249400,1934-12-15,1934,0.99,0.553,0.307,0.922,0.113,-13.618,0.0437,80.122,0.311,0,2,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+3eUXbMSJSTXg9ADKMwKL0w,Ishq Mujhko Nahin Wahshat Hi Sahi,K. L. Saigal,200329,1934-01-01,1934,0.996,0.447,0.206,0.925,0.105,-17.293,0.116,74.843,0.498,1,9,0,False,"classic bollywood, filmi, ghazal"
+5McZTOjD6GwSQiKpqjUPFE,I'll Show You Off,Jack Jackson & His Orchestra,179320,1934,1934,0.974,0.909,0.234,0.00636,0.0704,-16.027,0.0715,108.013,0.8,0,7,0,False,british dance band
+1UvBTeV1oUvMH3LWFuE8nM,"In Other Words, We're Through (Roy Fox)",Roy Fox,194680,1934,1934,0.986,0.56,0.0556,0.00146,0.284,-17.286,0.0399,94.197,0.277,0,5,1,False,british dance band
+4CXvhMFbdGlvnImUxkZYvV,I'll Be Around,Red Norvo,202373,1934-12-15,1934,0.988,0.383,0.0792,0.15,0.0829,-14.923,0.0329,69.071,0.236,1,8,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+41e3tb9hB1xrFnuWpVbeax,Ici L'on Pêche,Jean Tranchant,187893,1934,1934,0.93,0.431,0.174,3.37e-06,0.311,-16.197,0.0413,104.477,0.634,1,0,0,False,vintage chanson
+1rc0Udzrh4o7hBkGtTE1C2,I'm Paying With Fire,Jack Jackson & His Orchestra,200306,1934,1934,0.986,0.654,0.0568,0.223,0.172,-18.659,0.0695,114.443,0.581,1,7,0,False,british dance band
+5zucCRWtyfPiZQ4X46rOdL,I'll Be up Someday,Kokomo Arnold,187240,1934-05-20,1934,0.992,0.777,0.266,0.000113,0.0876,-12.598,0.0452,96.484,0.525,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+57xqkKAjtZvvZVYJKPnHqX,"I Kiss Your Hand, Madame",Red Norvo,181640,1934-12-15,1934,0.917,0.63,0.465,0.779,0.301,-8.708,0.126,164.186,0.747,1,8,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+2VSML3kSpWDPg51FRO2HeF,No Peace In the World - Blue Earth Mix,Irie White,423253,1934,1934,0.00897,0.659,0.915,0.266,0.0507,-5.424,0.0467,138.014,0.596,1,4,0,False,
+4tuy7NOS9I5yb4KDhtUgLu,Love Is The Thing,"Richard Himber and his Orchestra, Joey Nash",185426,1934-07-01,1934,0.953,0.495,0.294,3.32e-06,0.203,-10.791,0.0433,116.437,0.509,1,5,0,False,
+6f0qhB6pd48E64NAohoiEO,Love Is The Sweetest Thing,"Richard Himber and his Orchestra, Joey Nash",183706,1934-07-01,1934,0.952,0.416,0.325,7.39e-05,0.13,-10.717,0.0405,119.084,0.565,0,10,0,False,
+1fSEfFVb7ptJmK2faM28zz,Music is a Friend of Love,Jack Jackson & His Orchestra,200026,1934,1934,0.966,0.59,0.107,0.000467,0.413,-19.363,0.11,149.4,0.693,0,7,0,False,british dance band
+3JfGR8L1DfNUjAWeYW1JBE,Sittin' in The Dark,Jack Jackson & His Orchestra,192653,1934,1934,0.983,0.731,0.156,0.216,0.0522,-19.036,0.0582,137.046,0.745,0,7,0,False,british dance band
+5LqGA4uxv7q0xe7KGZxuJT,Reflections in the Water,Jack Jackson & His Orchestra,179893,1934,1934,0.959,0.334,0.107,0.741,0.167,-20.067,0.0425,127.672,0.369,1,3,0,False,british dance band
+4w6fv7Bqf0gL8AO0DSvsu5,Mañana Iré Temprano,Julio Sosa,175506,1934-02-25,1934,0.901,0.433,0.53,7.31e-05,0.204,-8.081,0.0539,123.542,0.632,0,10,3,False,"folklore argentino, tango"
+4ZlUHgXDv097fR0PQIYpKd,"Variations on a Hebrew Melody, Variation I","Ira Givol, Matan Givol, Jonathan Aner",105213,1934,1934,0.989,0.423,0.0376,0.906,0.0669,-25.604,0.0462,98.145,0.0388,1,9,0,False,
+67DAg99qKtldcUoUVHPYJj,"Variations on a Hebrew Melody, Variation III: Alla Marcia","Ira Givol, Matan Givol, Jonathan Aner",117466,1934,1934,0.98,0.442,0.261,0.0364,0.126,-17.307,0.0476,98.89,0.602,0,7,0,False,
+4q7UdYv8BA9D7LPRgt6ULK,"Variations on a Hebrew Melody, Variation II: Allegretto grazioso","Ira Givol, Matan Givol, Jonathan Aner",104120,1934,1934,0.979,0.376,0.0764,0.00784,0.0635,-25.401,0.036,96.484,0.36,1,7,0,False,
+0A8xrRnrdqyqQrZXwogPQ7,Hopa Hopa - Remasterizado,Ignacio Corsini,156560,1934-06-26,1934,0.979,0.678,0.152,0.000154,0.182,-16.194,0.0798,101.001,0.596,0,3,0,False,vintage tango
+6wFdEjRsDOw6MBFw5pAVRr,Misterio - Remasterizado,Ignacio Corsini,170280,1934-06-26,1934,0.955,0.466,0.214,5.58e-05,0.138,-16.377,0.0606,167.521,0.491,0,1,0,False,vintage tango
+6wzXHSUeKYyzRFIx40LHqD,Tuyita - Remasterizado,Ignacio Corsini,185906,1934-06-26,1934,0.992,0.324,0.139,0.763,0.224,-21.453,0.0468,69.873,0.433,1,6,0,False,vintage tango
+3HidmR8gM3ZtY1XTqTnxYd,"Variations on a Hebrew Melody, Variation VI: Molto tranquillo","Ira Givol, Matan Givol, Jonathan Aner",300320,1934,1934,0.95,0.0971,0.011,0.202,0.172,-35.316,0.0435,79.646,0.0645,1,4,0,False,
+0HzoRw2LEFYbtTk3ojzjTw,Pillerías - Remasterizado,Ignacio Corsini,150413,1934-06-26,1934,0.992,0.629,0.39,0.000301,0.168,-16.404,0.0554,116.436,0.902,1,4,0,False,vintage tango
+0LjhnsHsMu2cujOTrFMtO1,"Variations on a Hebrew Melody, Variation V: Molto vivace e tempestoso","Ira Givol, Matan Givol, Jonathan Aner",126066,1934,1934,0.981,0.539,0.321,0.566,0.108,-17.485,0.0658,128.936,0.514,0,11,0,False,
+0W00x3CpfbXAQPg8zKbJ1m,Amar y Ser Amado - Remasterizado,Ignacio Corsini,155066,1934-06-26,1934,0.902,0.65,0.215,2.8e-06,0.123,-15.296,0.0925,80.126,0.71,1,5,0,False,vintage tango
+2smuGDE78RhO22qTVpW5BA,"Variations on a Hebrew Melody, Moderato molto tranquillo","Ira Givol, Matan Givol, Jonathan Aner",80533,1934,1934,0.972,0.206,0.00203,0.137,0.0813,-43.385,0.0394,83.896,0.124,0,8,0,False,
+0Dv3d9x02E0r0WJjTF5nUT,Perdona Si No Vuelvo - Remasterizado,Ignacio Corsini,220333,1934-06-26,1934,0.995,0.66,0.118,0.259,0.112,-19.224,0.217,113.752,0.495,1,5,0,False,vintage tango
+1xStbpEahjo4UKxeSQy8Zj,Koee Nahin Noor Malik Ke Saamane,Inayati Bai,179490,1934-12-31,1934,0.995,0.569,0.0878,0.0647,0.116,-10.478,0.418,108.382,0.661,0,11,0,False,
+6tDi0QNhTMbCbhjSVvVmrp,Los Sauces del Uruguay - Remasterizado,Ignacio Corsini,222066,1934-06-26,1934,0.963,0.62,0.322,0.000227,0.152,-16.173,0.0415,110.134,0.677,1,3,0,False,vintage tango
+2u9fXzWHYVB4Nkx1EP9fri,La Tropilla - Remasterizado,Ignacio Corsini,154093,1934-06-26,1934,0.993,0.484,0.178,0.016,0.477,-20.836,0.0742,114.527,0.536,1,11,0,False,vintage tango
+1wpaEOUKkVUlEGck7elo23,"Variations on a Hebrew Melody, Adagio misterioso","Ira Givol, Matan Givol, Jonathan Aner",215146,1934,1934,0.976,0.223,0.0562,0.0317,0.0564,-23.865,0.0407,72.266,0.0413,1,8,0,False,
+2MUmUhEmYum2HIg4JIr1uO,Siete Lágrimas - Remasterizado,Ignacio Corsini,139106,1934-06-26,1934,0.951,0.622,0.175,1.56e-05,0.621,-18.484,0.0667,107.595,0.611,1,0,0,False,vintage tango
+3X0iBJD9GZ6IPb0ctnSYW9,Por una Mujer - Remasterizado,Ignacio Corsini,159106,1934-06-26,1934,0.995,0.531,0.124,0.0168,0.118,-23.243,0.0711,101.902,0.555,1,2,0,False,vintage tango
+64iPJSbV6fUBKOjYAoyAk4,Violetas - Remasterizado,Ignacio Corsini,155506,1934-06-26,1934,0.932,0.528,0.412,0.0138,0.248,-15.979,0.162,42.736,0.765,1,5,0,False,vintage tango
+3BTj1E1pxMeXstUQEJwwha,Santa Claus Is Coming To Town,Peter Micciche,245283,1934,1934,0.518,0.704,0.307,0.908,0.106,-20.156,0.066,84.96,0.25,0,5,0,False,
+2UjSld62JAS0H13MDrwKZ4,Santa Claus is Coming to Town - XMAS in Eastgate,Woody Harvey,152531,1934,1934,0.000432,0.326,0.928,0.0,0.116,-5.505,0.0429,75.009,0.559,1,6,0,False,
+0sJMcar80y8f8dRjsQ9iJn,Santa Claus Is Coming to Town,Stephanie Woodford,154618,1934,1934,0.695,0.507,0.202,0.0,0.178,-16.752,0.0404,133.263,0.878,1,7,0,False,
+3jvRnc0VvC5zLLJZnwp2kN,Santa Claus Is Coming To Town,The Haywains,106036,1934,1934,0.00107,0.377,0.811,0.0,0.268,-7.917,0.0505,148.588,0.569,1,7,0,False,
+3uHqYzQ52yIFSCnN6gFxFv,The Wind's in the West,Roy Fox,195666,1934,1934,0.969,0.566,0.173,0.111,0.0673,-15.505,0.0496,180.842,0.629,0,9,0,False,british dance band
+63sJkrCgXNdLYNrrYLI6Sc,The Lady Is a Tramp,Tommy Dorsey,174226,1934,1934,0.751,0.586,0.638,0.00486,0.0941,-7.312,0.15,198.753,0.962,1,0,0,False,"adult standards, big band, dixieland, jazz trombone, swing, tin pan alley, vintage jazz"
+2x4Cf1mBmCaCWYEiSNgGOk,That's What I Learned in College,Hoosier Hot Shots,136586,1934-09-15,1934,0.754,0.722,0.291,0.00088,0.0817,-12.135,0.255,133.993,0.958,1,3,0,False,"novelty, traditional country"
+29IVdlO7CSlcoOIpOsamkO,Santa Claus Is Coming To Town,The Moors,14628,1934,1934,0.00244,0.0,0.801,0.00125,0.0503,-0.671,0.0,0.0,0.0,0,4,0,False,
+4uEnygcR6fsbgGTMdnkygy,One Morning in May (Roy Fox),Roy Fox,179146,1934,1934,0.982,0.323,0.144,0.0034,0.107,-16.17,0.0476,166.249,0.32,1,8,0,False,british dance band
+7GCyGih4vUF4YCo9NptQtB,My Well Is Dry,Kokomo Arnold,161493,1934-05-20,1934,0.974,0.822,0.156,6.13e-05,0.125,-14.486,0.0424,99.737,0.786,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+0oPowkLWDoHxfju2BJQ7ph,Que Me Importa Tu Pasado,Julio Sosa,167880,1934-02-25,1934,0.937,0.472,0.528,0.00239,0.271,-10.176,0.0527,121.203,0.604,1,11,2,False,"folklore argentino, tango"
+6CuC5ceZg9BtTyPp3VtlRK,What Can I Say After I Say I'm Sorry?,Hoosier Hot Shots,144880,1934-09-15,1934,0.951,0.719,0.209,7.39e-06,0.0713,-10.978,0.0671,170.041,0.842,1,3,0,False,"novelty, traditional country"
+2ODpNF79IgFPmt67ehyKh6,The Show is Over (Roy Fox),Roy Fox,177280,1934,1934,0.953,0.371,0.0974,0.00731,0.109,-15.405,0.0356,123.84,0.214,0,2,0,False,british dance band
+7efygglBmoc6IBSXqBgupM,O Corse Ile D'amour,Tino Rossi,184666,1934,1934,0.97,0.413,0.141,2.71e-05,0.322,-14.543,0.0512,74.316,0.188,1,0,0,False,"vintage chanson, ye ye"
+2jqDOzeAaqYl0OkvQGV4gX,Let Me Do It To You Baby,E-Motion,308613,1934,1934,0.00942,0.869,0.888,0.00111,0.186,-2.731,0.0859,135.023,0.856,0,4,0,False,
+0AhXmVoSMjrIFRZz3hTh46,Symphonie sur un chant montagnard français Op. 25: III Animé,"Vincent d'Indy, Marguerite Long, Colonne Symphony Orchestra",431920,1934,1934,0.96,0.292,0.267,0.826,0.235,-15.138,0.0455,86.567,0.121,1,8,0,False,"early modern classical, french romanticism, impressionism, late romantic era"
+0ybo79Gu1pm9IwiYOAOPgC,Nrc Jump,Red Norvo,297733,1934-12-15,1934,0.917,0.688,0.162,0.00556,0.106,-17.695,0.0565,97.62,0.598,0,5,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+2shhptegkTUGqhYqnUEovR,Rencor,Julio Sosa,187493,1934-02-25,1934,0.974,0.422,0.627,1.38e-05,0.313,-9.24,0.119,122.196,0.528,0,10,7,False,"folklore argentino, tango"
+1h9tGEO9xbarDMKW7MeFBk,María,Julio Sosa,176933,1934-02-25,1934,0.954,0.418,0.579,0.0,0.163,-10.134,0.0912,121.858,0.598,0,7,9,False,"folklore argentino, tango"
+1wvWLObklI38hPs5VnQk2J,Tiempos Viejos,Julio Sosa,139893,1934-02-25,1934,0.99,0.594,0.447,0.876,0.144,-10.386,0.0839,126.732,0.658,0,0,12,False,"folklore argentino, tango"
+5E1QiDTyXUYFazkXFMf4iG,Recordándote,Julio Sosa,187640,1934-02-25,1934,0.904,0.567,0.493,0.00042,0.13,-8.878,0.0817,116.249,0.561,1,9,13,False,"folklore argentino, tango"
+5h1BzrnHYlw4v4lM18LzCI,Sur,Julio Sosa,195693,1934-02-25,1934,0.991,0.561,0.364,0.0073,0.11,-5.771,0.0545,120.339,0.389,1,5,5,False,"folklore argentino, tango"
+4APzh2qBbISWkapq9BFLhP,Nunca Tuvo Novio,Julio Sosa,219613,1934-02-25,1934,0.96,0.366,0.638,0.0,0.0959,-8.747,0.0708,118.341,0.519,1,10,8,False,"folklore argentino, tango"
+1412v8NRstozIrgGZioI9m,Volvio una Noche,Julio Sosa,195413,1934-02-25,1934,0.971,0.442,0.571,0.0605,0.168,-9.567,0.0785,112.472,0.773,1,1,4,False,"folklore argentino, tango"
+1TbfrHZWEWcd1ivdS6965I,Miss Otis Regrets/Just One of Those Things,"The Pogues, Kirsty MacColl",284133,1934,1934,0.338,0.332,0.79,0.000151,0.147,-11.023,0.0752,156.875,0.644,1,0,11,False,"celtic punk, celtic rock, folk punk, punk"
+2YyiEkkMgxdw3VDNyL9A9U,Llorando la Carta,Julio Sosa,167880,1934-02-25,1934,0.832,0.56,0.686,0.0,0.0942,-4.593,0.0595,123.787,0.815,1,5,5,False,"folklore argentino, tango"
+6qW7kzDdTOAqUXOip8GPGg,Jivan Been Madhur Na Baje,K. L. Saigal,202043,1934-01-01,1934,0.995,0.369,0.252,0.969,0.11,-11.507,0.0669,68.684,0.358,1,1,0,False,"classic bollywood, filmi, ghazal"
+2g9xAg7WCfabnu1erVebgh,Jaagay Ho Kaheen Rain Baalam Moray,Kamala Singha Jharia,186624,1934-12-31,1934,0.994,0.427,0.281,0.925,0.198,-10.631,0.0426,92.069,0.668,0,6,0,False,
+6UunFFvx4RHzOKUwegE7fc,Jo Beet Chuki So Beet Chuki,K. L. Saigal,193277,1934-01-01,1934,0.993,0.492,0.278,0.187,0.149,-9.284,0.037,95.223,0.279,1,8,0,False,"classic bollywood, filmi, ghazal"
+0b67Fz1xiHojV7XOCxcbrg,Jhuaniya Waali Ray Daiyya,Siddheshwari Bai,190258,1934-12-31,1934,0.986,0.456,0.0862,0.00138,0.55,-13.276,0.318,75.518,0.44,1,2,0,False,
+6H5aDXSY3UqkEHMNzpF0ze,Jholo Nai Jholo Re Jholo,Waheedan Bai,187608,1934-12-31,1934,0.991,0.433,0.0636,0.0241,0.291,-14.234,0.245,75.202,0.564,0,9,0,False,
+0rjDxuPhsjVT1BxY2ge4IS,Janam Janam Ka Dukhiya Prani,K. L. Saigal,173125,1934-01-01,1934,0.996,0.588,0.477,0.938,0.193,-10.26,0.0374,134.854,0.748,1,10,0,False,"classic bollywood, filmi, ghazal"
+5GMDVua99nu0WygAFG5s0v,Jibone Jegechhilo Madhumas,Pankaj Mullick,195466,1934-12-01,1934,0.972,0.319,0.138,0.778,0.108,-16.494,0.0429,68.699,0.0735,0,3,0,False,"classic bollywood, filmi, rabindra sangeet"
+7o66cNTnbOkbHmaw20pz5J,Jhulana Jhulao Ri,K. L. Saigal,186934,1934-01-01,1934,0.994,0.537,0.426,0.734,0.0845,-9.235,0.0322,119.245,0.599,1,5,0,False,"classic bollywood, filmi, ghazal"
+0eNyLYi3zvG7H5Jy8nCwUV,You Just as Well Let Her Go,"Kokomo Arnold, Casey Bill Weldon",189080,1934-05-20,1934,0.992,0.646,0.407,0.107,0.111,-11.207,0.0449,178.394,0.883,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7swvAYnysK0DX9DjndKddC,Raag Jogiya - Raag Rani Durga Bai,Raag Rani Durga Bai,261269,1934-12-31,1934,0.993,0.443,0.0539,0.00515,0.11,-16.623,0.079,127.904,0.275,1,9,0,False,
+4jztNa9rbMHDchRFQNDzwF,So Ja Rajkumari,K. L. Saigal,178815,1934-01-01,1934,0.991,0.245,0.202,0.955,0.0999,-14.07,0.0403,185.9,0.12,0,6,2,False,"classic bollywood, filmi, ghazal"
+3KSTpSGhrMtNyohQxvugsV,Tumi Jabe Chole Balo Ki,Santosh Sengupta,184826,1934-12-01,1934,0.993,0.294,0.241,0.0154,0.152,-11.934,0.0407,161.764,0.203,1,9,0,False,
+6eOq9nNvOmQFLq9U005gdJ,Slop Jar Blues,Kokomo Arnold,180693,1934-05-20,1934,0.952,0.737,0.0378,0.0,0.107,-18.978,0.0591,87.577,0.534,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4YbpDu1yUdFJMsAv19WCE9,Mam Jiva Sukhvaya,"Ratnaprabha, Dadasaheb Torne",210845,1934-01-01,1934,0.995,0.463,0.157,0.805,0.22,-9.791,0.0553,71.805,0.479,0,1,0,False,
+7sAVIkanRFFOvUbiclBhKM,Sister Jane Cross the Hall,Kokomo Arnold,160893,1934-05-20,1934,0.984,0.575,0.208,7.25e-05,0.0968,-15.054,0.0567,128.348,0.767,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+0faZUw3gtlSw1ZUhKhZ3Mn,Mala Suerte - Versión Con Julio Sosa,Julio Sosa,183853,1934-02-25,1934,0.973,0.504,0.494,0.0209,0.239,-11.828,0.0822,122.925,0.847,1,11,2,False,"folklore argentino, tango"
+3CrRh7ScCSNI51dY7tNfsh,Tenemos Que Abrirnos,Julio Sosa,200466,1934-02-25,1934,0.89,0.541,0.553,1.14e-06,0.076,-3.805,0.0518,119.692,0.811,1,2,1,False,"folklore argentino, tango"
+5jgaZ7ReEPC6WfaXBs2CuV,Lloró Como una Mujer,Julio Sosa,188893,1934-02-25,1934,0.944,0.507,0.63,0.0,0.0815,-9.817,0.0671,119.625,0.749,0,2,2,False,"folklore argentino, tango"
+6VjFjspKBJB0LuhGeeKIj9,Silbando,Julio Sosa,190960,1934-02-25,1934,0.866,0.519,0.544,5.92e-06,0.115,-5.876,0.0425,123.94,0.532,1,7,1,False,"folklore argentino, tango"
+1KejplBCIlhxUjFQnNGtsk,Mala Suerte - Versión Alternativa,Julio Sosa,183973,1934-02-25,1934,0.994,0.483,0.587,0.537,0.281,-9.495,0.0939,125.413,0.867,1,11,1,False,"folklore argentino, tango"
+2x5JZpIDdB90XIxmEk4UnL,Por Seguidora y por Fiel,Julio Sosa,204680,1934-02-25,1934,0.955,0.469,0.607,0.0,0.16,-4.717,0.0444,118.976,0.623,1,3,2,False,"folklore argentino, tango"
+21knx0snztykwZCZH9nXgK,La Casita Está Triste,Julio Sosa,178546,1934-02-25,1934,0.922,0.528,0.561,3.45e-06,0.331,-4.271,0.0529,120.591,0.695,0,11,2,False,"folklore argentino, tango"
+1HakvLncrgLt0BjSuVj1gT,Soledad,Julio Sosa,198973,1934-02-25,1934,0.96,0.327,0.648,0.0788,0.169,-7.666,0.107,51.151,0.722,0,0,2,False,"folklore argentino, tango"
+5li9TuAL1aDuLl1TqQBfRa,Padrino Pelao,Julio Sosa,194253,1934-02-25,1934,0.837,0.605,0.483,0.0,0.0857,-5.069,0.0944,118.296,0.685,1,9,2,False,"folklore argentino, tango"
+3VNyO7VGwZU9qlbOdiDR1b,"No Te Apures, Cara Blanca",Julio Sosa,145280,1934-02-25,1934,0.981,0.499,0.427,0.63,0.477,-11.557,0.0619,117.978,0.662,1,0,2,False,"folklore argentino, tango"
+06SCZnoE0qiuBBV5fvccut,Nunca Tuvo Novio - Versión Alternativa,Julio Sosa,222546,1934-02-25,1934,0.946,0.394,0.608,2.32e-06,0.155,-10.563,0.0604,108.979,0.551,1,10,1,False,"folklore argentino, tango"
+1e66MFiuyjYc471f2KKuPb,Yo Soy Aquel Muchacho,Julio Sosa,206344,1934-02-25,1934,0.914,0.504,0.462,0.0,0.373,-5.625,0.0852,60.038,0.505,1,1,2,False,"folklore argentino, tango"
+13uiZTebMQjEnVqClynjPU,Uno,Julio Sosa,216293,1934-02-25,1934,0.978,0.408,0.527,0.0898,0.176,-13.415,0.0622,118.398,0.596,0,0,3,False,"folklore argentino, tango"
+1D84qUQWsLHt8wwt3qQ2fn,Tan Solo por Verte,Julio Sosa,154533,1934-02-25,1934,0.982,0.517,0.441,2.29e-06,0.171,-6.096,0.0434,123.331,0.451,0,10,1,False,"folklore argentino, tango"
+0T8B70yl3qFfobewN85bIy,Mascarita,Julio Sosa,187573,1934-02-25,1934,0.973,0.581,0.302,0.0173,0.132,-11.341,0.0573,124.914,0.484,0,7,2,False,"folklore argentino, tango"
+0diude5OJlpDshNQtTvtGf,Una y Mil Noches,Julio Sosa,163373,1934-02-25,1934,0.983,0.692,0.272,5.56e-05,0.0806,-7.054,0.0564,124.52,0.526,1,9,1,False,"folklore argentino, tango"
+2tPXM5r53c5c56nHM6E5OH,Viejo Smoking,Julio Sosa,172573,1934-02-25,1934,0.971,0.447,0.494,9.93e-05,0.103,-10.859,0.0697,126.802,0.636,1,11,2,False,"folklore argentino, tango"
+6lx8Np44g4mDRL3xu9fHlR,Pa' Mi Es Igual,Julio Sosa,176546,1934-02-25,1934,0.956,0.49,0.464,0.00121,0.484,-9.038,0.0982,123.408,0.781,0,2,2,False,"folklore argentino, tango"
+6iGlEGA0Ms7NQJfJveXC1d,Mi Sentencia,Julio Sosa,181773,1934-02-25,1934,0.961,0.536,0.438,7.42e-05,0.11,-5.163,0.0536,121.901,0.435,1,5,1,False,"folklore argentino, tango"
+3I7vvoDjPKp441C4NN680q,Olvidao,Julio Sosa,195373,1934-02-25,1934,0.948,0.485,0.515,0.0,0.241,-3.96,0.041,129.864,0.487,0,3,2,False,"folklore argentino, tango"
+4S6ueqoqZy6xjXLLiklc6T,No Me Pidas Amor,Julio Sosa,125693,1934-02-25,1934,0.859,0.515,0.644,0.0,0.2,-8.031,0.272,81.722,0.622,0,9,1,False,"folklore argentino, tango"
+6vw5dkhM6ZBcmsawOJupsF,Maria - Versión Alternativa,Julio Sosa,173213,1934-02-25,1934,0.973,0.495,0.526,0.0661,0.132,-9.632,0.0827,61.845,0.694,0,7,1,False,"folklore argentino, tango"
+3OY39VjH9y2SQNK5K1MK5T,Quién Hubiera Dicho,Julio Sosa,171573,1934-02-25,1934,0.939,0.505,0.544,5.97e-05,0.374,-10.248,0.124,124.43,0.588,0,4,2,False,"folklore argentino, tango"
+0MylXGNmWAP7I3EWc0zQxr,Un Alma Buena,Julio Sosa,190893,1934-02-25,1934,0.902,0.457,0.765,2.67e-05,0.234,-3.374,0.105,123.981,0.548,1,8,1,False,"folklore argentino, tango"
+02lyuV5LMOo3Twb132nmT0,Por una Mala Mujer,Julio Sosa,220680,1934-02-25,1934,0.948,0.525,0.565,3.34e-05,0.11,-4.375,0.0422,116.778,0.527,0,9,2,False,"folklore argentino, tango"
+2vAqLkOCnFa5NFHDFbo6bW,Must We Say Goodnight - So Soon,"Richard Himber and his Orchestra, Joey Nash",167586,1934-07-01,1934,0.856,0.227,0.421,0.00822,0.128,-9.974,0.0331,137.648,0.193,1,10,0,False,
+2IUki2FNlStZ7dRJtI3PvP,Time to Go Home,Jack Jackson & His Orchestra,180226,1934,1934,0.957,0.687,0.158,0.0329,0.0645,-15.922,0.0646,161.1,0.932,1,10,0,False,british dance band
+2rkQX8ZL0S3B3Xn5fQfFcC,Ol' Pappy,Jack Jackson & His Orchestra,194520,1934,1934,0.982,0.709,0.0311,0.00103,0.101,-23.874,0.0777,99.294,0.506,1,3,0,False,british dance band
+4uPTbkyaF0wTZAP0jsjmFC,Our Big Love Scene,"Richard Himber and his Orchestra, Joey Nash",158746,1934-07-01,1934,0.985,0.293,0.34,0.0021,0.106,-9.33,0.0337,141.414,0.338,1,10,0,False,
+670CzmDwQh19kiyETeLv3B,When Loves Comes Swinging Along,"Richard Himber and his Orchestra, Joey Nash",178213,1934-07-01,1934,0.758,0.381,0.298,0.00151,0.172,-10.745,0.0451,120.082,0.539,1,3,0,False,
+3SUr76hUzTepeqrkhZ5iXj,Smoke Rings,"Richard Himber and his Orchestra, Joey Nash",165933,1934-07-01,1934,0.979,0.652,0.142,0.000327,0.137,-11.551,0.0442,100.299,0.525,0,5,0,False,
+6JSl4HTxDPcw37pIbWOODI,"Play to Me, Gypsy!",Jack Jackson & His Orchestra,187813,1934,1934,0.905,0.42,0.0648,0.000681,0.26,-22.374,0.0498,130.788,0.626,1,10,0,False,british dance band
+0O36GAbWkXax3qC8j3bRaI,Kadam Chale Aage,K. L. Saigal,194307,1934-01-01,1934,0.994,0.377,0.339,0.94,0.24,-11.534,0.0449,77.103,0.528,1,10,0,False,"classic bollywood, filmi, ghazal"
+7JxZsrGaT1D1RbTibQGill,Kya Humne Bigada Hai Kyun,K. L. Saigal,175605,1934-01-01,1934,0.995,0.508,0.403,0.894,0.369,-9.355,0.0743,146.143,0.814,1,5,0,False,"classic bollywood, filmi, ghazal"
+7BjCj5WNUSXsumuHceHkHI,Kahe Ko Raad Machai,"K. L. Saigal, Pahari Sanyal",197019,1934-01-01,1934,0.995,0.608,0.355,0.692,0.126,-8.941,0.0381,119.957,0.705,0,2,0,False,"classic bollywood, filmi, ghazal"
+7JMyLL0LlKHsR62m4ZERtW,Kaun Bujhave Ram Tapas More,K. L. Saigal,193209,1934-01-01,1934,0.995,0.4,0.292,0.891,0.147,-11.115,0.0347,85.053,0.254,0,7,0,False,"classic bollywood, filmi, ghazal"
+54oQmzvv8KQv1MsZI8tB37,Kisney Yeh Sab Khel Rachaya,K. L. Saigal,187392,1934-01-01,1934,0.994,0.421,0.0554,0.372,0.162,-16.415,0.0543,72.685,0.149,1,1,0,False,"classic bollywood, filmi, ghazal"
+281b3CcRUT0XsxYEBI5reS,Karun Kya Aas Nirash Bhai,K. L. Saigal,203671,1934-01-01,1934,0.995,0.62,0.203,0.0965,0.104,-11.133,0.0369,97.498,0.457,1,9,0,False,"classic bollywood, filmi, ghazal"
+3fp2M2m19TAr8vO7yB8uTI,Kid Man Blues,Kokomo Arnold,167813,1934-05-20,1934,0.995,0.702,0.206,3.73e-05,0.237,-15.469,0.0354,93.162,0.495,0,10,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+0tT3ZbgGth7f02WfE7sAf1,Kapoio Mystiko,"Kostas Giannidis, Koula Nikolaidou, Takis Morakis",208375,1934,1934,0.844,0.135,0.517,0.0,0.338,-6.326,0.035,79.394,0.412,1,2,0,False,
+0RNz3BHaAvtcPE1TSYk0Ac,Katha Chhilo Aaj Raate,K.C.Dey,199453,1934-12-01,1934,0.994,0.506,0.101,0.888,0.109,-18.514,0.038,73.99,0.23,1,9,0,False,
+44cSKxwvjtge2B0Sn0xsoE,Kahaan Hain Sab Kuchh Laala Aur Gule Mein Pramukh Bane,Miss Kamala Singh,173534,1934-12-31,1934,0.951,0.485,0.343,0.517,0.624,-10.693,0.23,114.091,0.74,0,3,0,False,
+77j9Aoe68CXJrRVFYIuaLC,Kiti Sukhada Yet Nisha,"Shanta Apte, Shantaram Athavale",190411,1934-12-31,1934,0.978,0.497,0.172,0.436,0.115,-13.553,0.101,105.62,0.532,1,4,0,False,classic bollywood
+5Z7vrKIHvqYSP2T0BELPFc,Kaisay Katay Rajani Sajani,Bhaag-Wati Shankar,166440,1934-12-31,1934,0.995,0.561,0.256,0.91,0.399,-11.857,0.185,79.943,0.835,1,10,0,False,
+10NlChlTLMUTQZ5VkhVjR9,Kaisay Kaisay Jaawun Shyam Milan Ko,Mallikarjun Mansur,275655,1934-12-31,1934,0.996,0.683,0.125,0.751,0.258,-14.055,0.0828,66.296,0.809,1,5,0,False,"hindustani classical, hindustani vocal, indian classical, khayal"
+52nAqS62Aq6REs47ED8XlF,Kamsini Mein Dil Pe Gham Ka,Shanta Apte,128666,1934-12-31,1934,0.985,0.272,0.0339,0.000401,0.113,-20.963,0.0363,105.149,0.149,1,3,0,False,classic bollywood
+6cpTYgUwvl5HqFPWVccFf2,Kudrat Aaya Chamke,Phiroz Dastur,187617,1934-12-31,1934,0.994,0.404,0.16,0.868,0.441,-12.099,0.0851,81.992,0.77,1,10,0,False,
+0ACKes5QlsC9KRMgvXvi4V,Kesay Bitaai Sukh Rain Sakhi,Saraswatibai,183344,1934-12-31,1934,0.956,0.287,0.681,0.964,0.432,-9.359,0.109,69.613,0.468,1,1,0,False,
+6h9phPXKLI9wgfpwyHW0ob,Kaanha Anokhe Khillari Holii Khelan Hun Jawo,Zohra Bai,179815,1934-12-31,1934,0.996,0.563,0.226,0.893,0.255,-12.685,0.261,68.381,0.632,1,7,0,False,
+2bmPz9hK7gXEAcQwI3Cobn,Aah Ko Chaahiye Ik Umr Asar Hone Tak,K. L. Saigal,210545,1934-01-01,1934,0.995,0.54,0.223,0.916,0.0799,-13.94,0.14,121.305,0.38,1,7,0,False,"classic bollywood, filmi, ghazal"
+5mmwVykVVgNZbZuzd3ak2c,Main Kya Janu Kya Jaadoo Hai,K. L. Saigal,179368,1934-01-01,1934,0.995,0.655,0.336,0.881,0.14,-8.945,0.0336,114.16,0.51,0,5,0,False,"classic bollywood, filmi, ghazal"
+0olKM6Td2bLRTll1fleoIr,Panchi Kahe Hota Udas,K. L. Saigal,193665,1934-01-01,1934,0.992,0.327,0.673,0.819,0.497,-8.498,0.0585,83.761,0.617,1,5,0,False,"classic bollywood, filmi, ghazal"
+7BU9uetkaQZwWPPJeZita2,Ab Kya Bataun Main Tere Milne Se Kya Mila,K. L. Saigal,193011,1934-01-01,1934,0.973,0.616,0.507,0.0156,0.188,-5.964,0.15,73.703,0.435,1,7,0,False,"classic bollywood, filmi, ghazal"
+2ZEPvxFOm3G0E6HEPrEsKD,Ye Kaisa Anyay Data,K. L. Saigal,211565,1934-01-01,1934,0.994,0.4,0.309,0.946,0.161,-10.296,0.0438,67.891,0.28,1,9,0,False,"classic bollywood, filmi, ghazal"
+2mqvekJaQjikEwrAO8OzsU,Main Man Ki Baat Bataoon,K. L. Saigal,186485,1934-01-01,1934,0.994,0.546,0.259,0.854,0.248,-10.266,0.0584,124.53,0.701,1,4,0,False,"classic bollywood, filmi, ghazal"
+0iuEVwb15h03Awwn1rZHHZ,Nayan Heen Ko Raah Dikha,K. L. Saigal,177399,1934-01-01,1934,0.993,0.234,0.351,0.822,0.111,-11.444,0.0454,67.607,0.287,1,5,0,False,"classic bollywood, filmi, ghazal"
+3CAKFZQBdVgFZHeAtEBqCD,Apni Hasti Ka Asar Khushnamaya Ho Jaaye,K. L. Saigal,198511,1934-01-01,1934,0.995,0.49,0.302,0.905,0.108,-9.786,0.0419,100.646,0.465,0,10,0,False,"classic bollywood, filmi, ghazal"
+6rkVYmyNclei9sTbexwVSW,Haaye Kis Baat Ki Mohabbat Mein,K. L. Saigal,203124,1934-01-01,1934,0.995,0.283,0.231,0.967,0.119,-14.099,0.0406,76.687,0.231,1,9,0,False,"classic bollywood, filmi, ghazal"
+5jShAKt65dYTWuD17eiyf6,Ab Kya Bataun Main Tere Milne Se Kya Mila,K. L. Saigal,190843,1934-01-01,1934,0.992,0.572,0.406,0.152,0.17,-9.034,0.0847,72.236,0.438,1,7,0,False,"classic bollywood, filmi, ghazal"
+1C1f1iELy7ZkqjRwF4GWjn,O Koubaros Ki I Koubara,"Kostas Giannidis, Nikos Gounaris",204207,1934,1934,0.942,0.379,0.48,0.0,0.508,-8.812,0.0516,73.762,0.497,1,1,0,False,
+3d4DedEBRdByys0lCqfqld,Main Nahin Makhan Khayo,K. L. Saigal,167759,1934-01-01,1934,0.995,0.402,0.27,0.822,0.11,-11.593,0.0491,132.559,0.758,1,10,0,False,"classic bollywood, filmi, ghazal"
+4WS2AUc19g2tyAzHhq7dVB,Suno Suno Hey Krishna Kala,K. L. Saigal,212114,1934-01-01,1934,0.994,0.542,0.189,0.834,0.162,-13.228,0.0469,126.377,0.376,1,4,0,False,"classic bollywood, filmi, ghazal"
+4cc3c5kwgwWbjHROOdkDCQ,Andhe-ki-laathitu Hi Hai,K. L. Saigal,217290,1934-01-01,1934,0.992,0.386,0.322,0.0225,0.164,-9.484,0.0419,103.577,0.144,1,6,0,False,"classic bollywood, filmi, ghazal"
+68RRb4DEs4FFfAhS54Bdvy,Prem Nagar Mein Banaaoongi,K. L. Saigal,194840,1934-01-01,1934,0.966,0.631,0.422,9.27e-05,0.17,-5.574,0.0372,109.731,0.726,0,0,0,False,"classic bollywood, filmi, ghazal"
+3FmdZLCHtjlNjQCAVEe5bp,Matwale Panese,K. L. Saigal,212745,1934-01-01,1934,0.995,0.476,0.302,0.894,0.12,-12.694,0.0551,100.844,0.508,1,11,0,False,"classic bollywood, filmi, ghazal"
+2Uw5C1ZnUV4x1Hkinb9tsM,Us Mast Nazar Pe,K. L. Saigal,182298,1934-01-01,1934,0.966,0.286,0.391,0.0,0.104,-7.393,0.0394,77.576,0.526,1,5,0,False,"classic bollywood, filmi, ghazal"
+7dtcAN6yWZi2POnZXtXZVX,Main Unhe Chhedun,K. L. Saigal,200301,1934-01-01,1934,0.993,0.469,0.361,0.191,0.114,-8.348,0.0485,108.334,0.337,1,0,0,False,"classic bollywood, filmi, ghazal"
+7a5OaainESJIlCglHzeoji,Madhukar Shyam Hamare Chor,K. L. Saigal,196398,1934-01-01,1934,0.994,0.399,0.238,0.94,0.158,-12.426,0.0531,73.059,0.573,0,3,0,False,"classic bollywood, filmi, ghazal"
+0KvwVN7q2SjoUpNqH7woNd,Sapt Suran Teen Gram,K. L. Saigal,219485,1934-01-01,1934,0.995,0.398,0.301,0.854,0.135,-10.559,0.0413,123.079,0.288,1,8,0,False,"classic bollywood, filmi, ghazal"
+6G94eDOY2llSSdfnQoas69,Hori Ho Brijraj Dulare,K. L. Saigal,198270,1934-01-01,1934,0.994,0.446,0.31,0.956,0.233,-9.875,0.0357,67.069,0.654,1,0,0,False,"classic bollywood, filmi, ghazal"
+59Ax9IXkm7zW8tGiM8TKXd,Layi Hayaat Aaye Qaza Le Chali Chale,K. L. Saigal,201316,1934-01-01,1934,0.991,0.484,0.339,0.572,0.179,-9.251,0.0808,128.759,0.377,1,10,0,False,"classic bollywood, filmi, ghazal"
+4EyaTctbds1ceF8sVl49VA,Tadapat Beete Din Rain,K. L. Saigal,194893,1934-01-01,1934,0.994,0.275,0.141,0.442,0.0974,-11.698,0.0464,73.894,0.105,1,2,0,False,"classic bollywood, filmi, ghazal"
+6QjAWVjah298UkiZeAmObN,Radhe Rani Daro Na Bansuri Bole,K. L. Saigal,189993,1934-01-01,1934,0.994,0.435,0.421,0.863,0.159,-10.073,0.0459,74.771,0.603,1,0,0,False,"classic bollywood, filmi, ghazal"
+5o0M91GArv3RZ9Y6FRot3V,Hum Apna Unhey,K. L. Saigal,209841,1934-01-01,1934,0.996,0.577,0.309,0.892,0.0968,-10.657,0.0603,115.098,0.719,1,7,0,False,"classic bollywood, filmi, ghazal"
+0sOUJsYOEN5p1ucd9H03mZ,Absar Bito Jaat,K. L. Saigal,186235,1934-01-01,1934,0.996,0.475,0.436,0.869,0.324,-9.457,0.0589,68.193,0.564,1,11,0,False,"classic bollywood, filmi, ghazal"
+2I6kHAinx3SaUCoUs6PyzC,Preet Mein Hai Jeevan Jokhon,K. L. Saigal,193454,1934-01-01,1934,0.994,0.266,0.0735,0.791,0.402,-14.526,0.0339,74.947,0.171,1,7,0,False,"classic bollywood, filmi, ghazal"
+3bTtB5eSc1Kgiz10EHEFiX,Persi Tetoio Kairo,"Kostas Giannidis, Stella Greka",194432,1934,1934,0.842,0.272,0.311,0.0,0.591,-8.114,0.0337,81.974,0.401,0,7,0,False,
+62wvHPk0yaLAoLfLugkRg0,Aik Kaafir Pey Tabiyat Aa Gayi,Janki Bai,163143,1934-12-31,1934,0.995,0.49,0.206,0.733,0.267,-11.318,0.133,79.107,0.718,1,7,0,False,
+5n8ZbGSfiT1XeNaziG2jRM,Nadiya Kinare Mora Gaon,Siddheshwari Devi,184726,1934-12-31,1934,0.988,0.514,0.18,0.000559,0.452,-8.577,0.0648,124.239,0.603,1,3,0,False,"hindustani vocal, indian classical"
+2IZO4RUBSKTc38S329RyjN,Ahesan Kia To,Waheedan Bai,192002,1934-12-31,1934,0.983,0.571,0.0403,0.000131,0.428,-14.375,0.375,127.318,0.558,1,1,0,False,
+5FFEqsPhgmjkPMROYKPRDn,Udd Kaagaa Bol Na Bolay,Thaakur Dutt,184227,1934-12-31,1934,0.404,0.632,0.232,0.0,0.615,-12.254,0.952,82.482,0.64,1,6,0,False,
+0ZoNjXLPiGK2xxUdwxHpiB,Nadiya Kinaaray Mora Gaaon,Siddheshwari Bai,192975,1934-12-31,1934,0.992,0.427,0.115,8.66e-05,0.552,-11.959,0.178,72.153,0.513,1,2,0,False,
+7nf829lk5pLJ5VoXVj1JBZ,Pyari Laad Se Jhoolay Laadli Laad Karay,Khadim Hussain Khan,206864,1934-12-31,1934,0.944,0.445,0.48,0.921,0.112,-14.162,0.0876,71.186,0.914,1,7,0,False,
+3N7KYZYzPfcZvvmPzMAC9b,Long and Tall,Kokomo Arnold,167973,1934-05-20,1934,0.978,0.792,0.17,2.69e-05,0.0884,-13.352,0.0495,96.44,0.516,0,10,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+61gofCxP6vTHmvAft9aqLi,Old Black Cat Blues (Jinx Blues),Kokomo Arnold,205160,1934-05-20,1934,0.893,0.699,0.0859,1.97e-05,0.123,-18.227,0.0657,86.092,0.649,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3q3jrWBN6TRrLkko2fn4Cu,Rocky Road Blues,Kokomo Arnold,166160,1934-05-20,1934,0.995,0.744,0.172,0.00688,0.177,-17.327,0.0453,97.354,0.804,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3AasNH8B2bPjlmwQKuzlCZ,How Long How Long Blues,Kokomo Arnold,195546,1934-05-20,1934,0.957,0.596,0.0573,8.14e-06,0.131,-20.481,0.0826,171.465,0.546,1,2,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4AU3dN0vOt2sYRHK4PX6on,Laugh and Grin Blues,Kokomo Arnold,189280,1934-05-20,1934,0.981,0.758,0.225,2.06e-05,0.116,-14.854,0.0448,84.26,0.376,0,9,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+6gBFw4utgYljRRqdioLNiT,Sagefield Woman Blues 2,"Kokomo Arnold, Casey Bill Weldon",182813,1934-05-20,1934,0.979,0.561,0.389,1.27e-05,0.146,-10.081,0.0464,177.863,0.49,1,8,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3GTS10ZvZ4WBvL9SLP6Oef,Shake That Thing,Kokomo Arnold,160853,1934-05-20,1934,0.985,0.633,0.248,0.000112,0.107,-15.683,0.0726,166.02,0.903,1,0,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+0EZuOV6filxekCZeTM50AZ,Tired of Runnin' from Door to Door,Kokomo Arnold,158453,1934-05-20,1934,0.993,0.446,0.218,1.48e-05,0.193,-14.744,0.0603,201.229,0.609,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+2xr9JTrsFo2878t767EWSK,Hitch Me to Your Buggy and Drive Me Like a Mule,"Kokomo Arnold, Casey Bill Weldon",181053,1934-05-20,1934,0.994,0.669,0.158,0.00473,0.127,-18.264,0.0477,129.122,0.58,1,8,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+27UYazbPVZ8rhDzlRuRtRB,Lonesome Road Blues,Kokomo Arnold,179773,1934-05-20,1934,0.987,0.629,0.227,3.3e-06,0.105,-15.449,0.0488,94.229,0.618,1,11,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+25xLxxPoh5ggxC0El8WlUg,Russian Lullaby,Red Norvo,182320,1934-12-15,1934,0.983,0.69,0.451,0.89,0.117,-9.769,0.0378,94.83,0.858,0,2,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4yh0gaHmdlscHXo0QICNCY,Le Chaland Qui Passe,Lys Gauty,194000,1934,1934,0.926,0.359,0.232,0.0,0.0975,-15.124,0.0509,119.749,0.383,1,11,0,False,vintage chanson
+3SmINSBLr34fqEXcxxhpWO,Le Moulin Qui Jase,Lys Gauty,196640,1934,1934,0.961,0.251,0.277,1.64e-05,0.906,-12.376,0.0512,69.912,0.323,1,10,0,False,vintage chanson
+0seRXxLcBSmaZL9Vu8WpQM,Le Bonheur N'est Plus Un Rêve,Lys Gauty,197533,1934,1934,0.94,0.343,0.291,1.97e-05,0.321,-14.498,0.081,87.971,0.407,1,0,0,False,vintage chanson
+5HzXJTghk6VzrH5pnpKXrX,Layi Hayaat Aaye Qaza Le Chali Chale,K. L. Saigal,198297,1934-01-01,1934,0.995,0.504,0.399,0.627,0.29,-10.098,0.0991,124.5,0.408,1,10,0,False,"classic bollywood, filmi, ghazal"
+7pTMtRym656vPbBhxv4VJ2,Les Beaux Dimanches De Printemps,Reda Caire,204226,1934,1934,0.975,0.46,0.241,0.0,0.111,-14.027,0.0573,135.754,0.616,1,0,0,False,vintage chanson
+7BaftT4mAIiTRfH73UmekH,La Crise Est Finie,Albert Préjean,158226,1934,1934,0.927,0.662,0.362,0.0,0.218,-11.963,0.0638,130.665,0.857,1,3,0,False,vintage chanson
+5ap6vfWiDRdyUNzg3X5FLQ,Laagi Rey Mori Nandlaal,Saraswatibai,187431,1934-12-31,1934,0.995,0.499,0.495,0.871,0.301,-9.399,0.292,68.605,0.677,0,7,0,False,
+5LJ4WOk4SC4nXqB7Ko9W9v,La Boheme - At El Garage estudio,"Charras Gonzalez, Veronica Gonzalez Day, Adrian Charras",173728,1934,1934,0.964,0.513,0.208,2.45e-06,0.147,-10.818,0.0379,133.099,0.311,0,4,0,False,
+5YGR24vswbZdjaDdWQI7Q9,Lonesome Southern Blues,Kokomo Arnold,185853,1934-05-20,1934,0.988,0.605,0.119,0.0,0.151,-16.094,0.0915,86.389,0.728,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+48aKlIRpYd2zeXtgh9Ell3,Lagan Tau Se Laagi Saanwariya,Saraswatibai,176216,1934-12-31,1934,0.959,0.358,0.699,0.887,0.583,-8.068,0.158,68.042,0.504,1,1,0,False,
+456f4cmscROSN4TGcZc8Uc,La Mejorana - Remasterizado,Francisco Canaro,176000,1934-01-10,1934,0.994,0.635,0.141,0.937,0.112,-17.337,0.0626,121.419,0.636,0,4,0,False,"orquesta tipica, tango, vintage tango"
+2I2BWFOLWxssPeJuI12tV9,Lou'siana Lullaby,Roy Fox,187480,1934,1934,0.968,0.678,0.0692,0.00035,0.103,-20.606,0.126,102.711,0.619,1,7,0,False,british dance band
+3mJ5wWuPldUvyBClel3s3l,The Last Round Up,"Richard Himber and his Orchestra, Joey Nash",182413,1934-07-01,1934,0.976,0.463,0.161,0.0107,0.121,-16.314,0.0411,74.319,0.517,1,2,0,False,
+7045iBIFgiMTaSgUixCBfy,Laageen Laageen Re Saanwaariya Tau Se Akhiyan,Mallikarjun Mansur,279260,1934-12-31,1934,0.996,0.457,0.133,0.856,0.402,-15.586,0.143,67.792,0.63,1,0,0,False,"hindustani classical, hindustani vocal, indian classical, khayal"
+7rAU2sN7C21v3DfJ6U6M1o,Los Amores Con la Crisis - Remasterizado,"Francisco Canaro, Ernesto Fama",177493,1934-01-10,1934,0.995,0.631,0.165,0.211,0.121,-18.846,0.492,162.445,0.917,1,2,0,False,"orquesta tipica, tango, vintage tango"
+4Ds8TM57QzoT6J8cOeBG1e,Life's So Complete,"Richard Himber and his Orchestra, Joey Nash",185880,1934-07-01,1934,0.979,0.441,0.334,0.000837,0.127,-10.676,0.0462,114.465,0.492,1,10,0,False,
+53ifIoBZ9KPdjSvhR81pON,Liga Louloudia,"Kostas Giannidis, Nikos Gounaris",183135,1934,1934,0.792,0.686,0.381,0.0,0.0686,-7.892,0.0351,122.667,0.778,1,2,0,False,
+6oVd7cuD7fR42w6tcDa4dZ,La Reina de Mi Amor - Remasterizado,"Francisco Canaro, Roberto Maida",156000,1934-01-10,1934,0.924,0.577,0.218,0.000534,0.0608,-13.728,0.102,153.689,0.84,1,0,0,False,"orquesta tipica, tango, vintage tango"
+4AOScAcdMiJUJGaiplITWr,Love Thy Neighbor,Richard Himber and his Orchestra,164080,1934-07-01,1934,0.98,0.422,0.299,0.19,0.134,-8.634,0.0333,77.055,0.516,1,10,0,False,
+5LNXOr6w0M3C5im8QZGnti,Sweet Little Jesus Boy,Stephen DeCesare,194493,1934,1934,0.993,0.318,0.154,0.000132,0.111,-15.544,0.0508,80.549,0.144,1,5,0,False,
+6OE7evb7XvCsnXGauLUwk8,Annie Laurie,Jimmie Lunceford & His Orchestra,198339,1934-04-25,1934,0.88,0.529,0.361,0.926,0.546,-10.97,0.0773,175.879,0.772,1,2,0,False,"big band, man's orchestra, swing, vintage jazz"
+2O3FSlZHOvttPfTBb9vBs9,Pour Les Enfants II. Facile: Mazurka,"The Dark Red Piano, Marc van der Meulen",73418,1934,1934,0.996,0.71,0.0204,0.9,0.123,-30.084,0.315,124.689,0.412,1,7,0,False,
+4Qcq6r8C02TUa47Z5w1WY0,Hot Love,New Life,222400,1934,1934,0.245,0.554,0.921,0.542,0.304,-3.224,0.061,144.661,0.429,1,1,0,False,
+5ZSFmh9kExo7DAyedmUoKv,Sur Le Yang Tse Kiang,Charles & Johnny,154933,1934,1934,0.968,0.673,0.132,0.0,0.143,-19.41,0.47,74.8,0.583,1,9,0,False,
+3f7j3loz27OHvnuC7E8Q9K,Sur Le Plancher Des Vaches,Alibert,191560,1934,1934,0.95,0.789,0.27,0.0,0.371,-13.472,0.0529,112.432,0.969,1,9,0,False,vintage chanson
+77JjOoh4LL0LwZj628jczh,My Little Bimbo Down on the Bamboo Isle,Hoosier Hot Shots,161666,1934-09-15,1934,0.908,0.809,0.342,0.0095,0.0821,-10.414,0.0722,117.387,0.961,1,3,0,False,"novelty, traditional country"
+4GusCiP7B4EBZFRJ9solJ0,Three Little Fishes,Red Norvo,184346,1934-12-15,1934,0.787,0.679,0.314,0.0,0.332,-13.235,0.0922,170.417,0.8,1,8,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+6Eamtb4aRX2UtPf87JflyP,Goodbye Love,"Richard Himber and his Orchestra, Joey Nash",163400,1934-07-01,1934,0.984,0.52,0.281,0.00028,0.211,-8.776,0.0366,114.124,0.556,0,2,0,False,
+4Z00xcp2Gg94nwb3YcDmjn,My Love,"Richard Himber and his Orchestra, Joey Nash",180080,1934-07-01,1934,0.977,0.517,0.27,0.00609,0.199,-12.562,0.0389,82.39,0.527,1,5,0,False,
+5ynlMzij6UikiDKQYpjLSQ,Prem Ki Hai Is Jugmen Panth Nirala,K. L. Saigal,196085,1934-01-01,1934,0.994,0.364,0.173,0.768,0.0774,-12.167,0.0386,125.867,0.323,1,9,0,False,"classic bollywood, filmi, ghazal"
+3gbz3i4c6ISbQ6mGedMtg1,Aay Ree Aik Nazar,Laxmibai Jadhav,189033,1934-12-31,1934,0.994,0.449,0.332,0.956,0.18,-12.786,0.0507,66.646,0.514,0,3,0,False,
+66QSbx0VUjqtqVx7wCpiCf,Tiger Rag,Louis Armstrong & His Ensemble,185889,1934-01-01,1934,0.989,0.694,0.479,0.936,0.14,-7.672,0.114,141.062,0.961,0,0,0,False,
+4fDO1zNbR8GobrXU3QZK5N,Aayo Basant Sakhi,Laxmibai Jadhav,180047,1934-12-31,1934,0.995,0.474,0.138,0.352,0.305,-12.039,0.0709,68.05,0.741,1,11,0,False,
+44pjJYaVD04zHYWzjgX9MO,Amay Bolo Na Bhulite,Gyanendra Prasad Goswami,175706,1934-12-01,1934,0.988,0.467,0.164,0.96,0.113,-18.172,0.0693,72.326,0.472,1,11,0,False,
+4bYAjwd7vMBMTCstyR7vDW,No pueden llegar a España (Javeras),Chato de las ventas,170869,1934-09-01,1934,0.982,0.399,0.133,0.000304,0.143,-17.419,0.0557,99.052,0.351,1,7,0,False,
+1bzGVXaJQbtpXvlwlU6oza,Mein Ne Likhnay Ka Kiya Jab Qasad Bismillah Ka,Miss Kamala Singh,183498,1934-12-31,1934,0.986,0.407,0.357,7.35e-05,0.361,-12.353,0.0807,132.759,0.357,1,6,0,False,
+0junclfxOy8Y3wUn5QJtmi,Ti Sou Lene Ta Louloudia,"Kostas Giannidis, Nitsa Molly",192272,1934,1934,0.971,0.371,0.282,0.000378,0.111,-9.623,0.0413,134.06,0.504,1,8,0,False,
+0OcLL0tZCHIpiK2nOWtBH5,Symphonie sur un chant montagnard français Op. 25: I Assez lent,"Vincent d'Indy, Marguerite Long, Colonne Symphony Orchestra",606760,1934,1934,0.961,0.107,0.137,0.647,0.0987,-19.5,0.0388,71.874,0.0379,1,8,0,False,"early modern classical, french romanticism, impressionism, late romantic era"
+3OaP5VCOn7BDce6x0LPyLz,On N'a Pas Tous Les Jours Vingt Ans,Berthe Sylva,181800,1934,1934,0.962,0.628,0.259,0.0,0.294,-10.273,0.0647,121.189,0.697,1,6,0,False,vintage chanson
+1cfdOebNWypvWBCxDCUVDy,Maman Ne Vends Pas La Maison,Charles & Johnny,166133,1934,1934,0.987,0.602,0.0642,0.0,0.114,-20.724,0.0739,136.405,0.338,1,2,0,False,
+6TsJqvJU9eUfNibUMEwtL9,When You've Got a Little Springtime in Your Heart (Roy Fox),Roy Fox,197160,1934,1934,0.981,0.442,0.0914,0.0775,0.105,-18.677,0.0507,75.208,0.433,0,7,0,False,british dance band
+3MGEq8UygUxQm9riIxvK4P,When A Woman Loves A Man,Richard Himber and his Orchestra,192706,1934-07-01,1934,0.941,0.45,0.372,0.00112,0.37,-7.461,0.0299,111.884,0.47,0,0,0,False,
+7yntAVZm2EZAnA8P4NI4CO,Tha Se Paro Tha Me Pareis (Kai Ta Loipa),"Kostas Giannidis, Smaroula Giouli",189149,1934,1934,0.738,0.655,0.583,0.0,0.249,-7.458,0.0611,127.864,0.956,1,0,0,False,
+5Y50NKMJMBJMoVurrVXz25,Moray Ahmed Kamli Waalay Tum Per Laakhon Salam,Sudheera Kumari,194874,1934-12-31,1934,0.996,0.462,0.278,0.0492,0.181,-8.865,0.112,86.426,0.821,1,1,0,False,
+3B4vBatmgySybQSf1Bd3kC,Symphonie sur un chant montagnard français Op. 25: II Assez modéré,"Vincent d'Indy, Marguerite Long, Colonne Symphony Orchestra",343026,1934,1934,0.97,0.184,0.0661,0.385,0.125,-21.995,0.0375,89.989,0.0593,1,6,0,False,"early modern classical, french romanticism, impressionism, late romantic era"
+08AbQUpiXzydQYFS9Hnqqi,Aye Qatib-e-Taqdeer Mujhe,K. L. Saigal,208099,1934-01-01,1934,0.995,0.522,0.304,0.275,0.23,-10.056,0.0373,70.756,0.352,1,7,0,False,"classic bollywood, filmi, ghazal"
+4CU4xWUsNBpqY6bDVGgldm,Aik Ahle Dar Ne,K. L. Saigal,188614,1934-01-01,1934,0.994,0.346,0.223,0.799,0.193,-12.154,0.0404,77.109,0.457,1,0,0,False,"classic bollywood, filmi, ghazal"
+4RbS0IYUQgwbshnUdXDm72,Ye Tasarruf Allah Allah Tere Maikhane Mein Hai,K. L. Saigal,222331,1934-01-01,1934,0.987,0.363,0.248,0.000418,0.119,-12.492,0.0594,85.658,0.205,0,9,0,False,"classic bollywood, filmi, ghazal"
+16yxA3JltMOfMzWDEYzDMq,Matia,"Kostas Giannidis, Tzeni Arseni, Aggela Lykiardopoulou, Danai",196626,1934,1934,0.888,0.447,0.547,0.000613,0.193,-5.428,0.037,174.044,0.845,1,7,0,False,
+4Ze6V2vEYeA0vlmrgqIbfU,Adieu Venise Provencale,Alibert,171640,1934,1934,0.958,0.571,0.236,0.0,0.0772,-13.979,0.0636,102.3,0.86,1,0,0,False,vintage chanson
+2ZBYIWJ8qJ3q9E0yeiZUux,Pourquoi M'as Tu Fait Ça,Arletty,188266,1934,1934,0.928,0.471,0.106,0.0,0.112,-18.833,0.0599,108.593,0.574,1,5,0,False,vintage chanson
+4uj3blg9QnNF9F8Kghpjl3,Gharriyaan Ginat Jaagon,Bano Bai Latekar,185759,1934-12-31,1934,0.995,0.457,0.416,0.882,0.321,-12.938,0.426,72.693,0.796,1,0,0,False,
+6FAoy4Agq5A3lgyGQGmGK4,Summertime,Chris G LeBon,291552,1934,1934,0.388,0.504,0.555,0.011,0.32,-11.807,0.047,135.88,0.633,0,9,0,False,
+5nty8B607AyK9SaDGVAmq9,Naaheen Parrat Sukha Chain Sakhi Ree,Bano Bai Latekar,229738,1934-12-31,1934,0.996,0.404,0.154,0.185,0.18,-13.815,0.311,80.1,0.512,0,0,0,False,
+5kgHqOwEYwJwvYpfWH0otr,Madame Arthur,Yvette Guilbert,212226,1934,1934,0.981,0.602,0.231,2.23e-06,0.0601,-13.596,0.244,78.56,0.592,1,10,0,False,vintage chanson
+3rby85jVVxQF341HpiwuwF,Vieni Vieni,Tino Rossi,179373,1934,1934,0.92,0.413,0.169,0.0172,0.431,-16.031,0.0683,77.9,0.263,1,9,0,False,"vintage chanson, ye ye"
+621TXdYgHkZS1XtgLuuBMc,Quand C'est Aux Autos De Passer,Paul Colline,205200,1934,1934,0.936,0.715,0.269,0.0,0.079,-16.145,0.599,112.759,0.596,1,4,0,False,
+61uSnUWqF5na0TkrYYTecf,Someday (You'll Want Me to Want You),Hoosier Hot Shots,161760,1934-09-15,1934,0.96,0.459,0.13,0.423,0.116,-15.274,0.0318,105.749,0.277,1,0,0,False,"novelty, traditional country"
+6kWakRIm82sSphanujBlnC,Mon Vieux Pataud,Berthe Sylva,181800,1934,1934,0.913,0.71,0.317,0.0,0.133,-10.135,0.138,102.213,0.711,0,3,0,False,vintage chanson
+2AbNoRSmmiDMbt0oUcxPOa,You Have Taken My Heart (Roy Fox),Roy Fox,198026,1934,1934,0.984,0.274,0.212,0.292,0.261,-15.334,0.0373,144.006,0.213,1,7,1,False,british dance band
+5Ojyhhy1vLe6Hw13IhGO3m,Over My Shoulder (Roy Fox),Roy Fox,186173,1934,1934,0.901,0.872,0.322,0.166,0.129,-15.216,0.0517,115.603,0.875,0,7,0,False,british dance band
+5KoeHe9JJzyNBeNMxgMNrA,With All My Heart (Roy Fox),Roy Fox,191213,1934,1934,0.955,0.407,0.0816,0.00977,0.158,-15.63,0.0425,103.401,0.316,0,7,0,False,british dance band
+5kICEmAJFDSSPSrJ0HvLpp,Picture Me Without You,Red Norvo,198853,1934-12-15,1934,0.986,0.636,0.159,0.203,0.0657,-12.854,0.0329,127.745,0.628,1,5,11,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4FSVcJVnQctPEfgAgI3j4z,Tomboy,Red Norvo,162400,1934-12-15,1934,0.977,0.724,0.394,0.9,0.11,-12.591,0.0641,127.635,0.743,1,5,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+5TdgPmSqV03dLmqc1gJHYU,Swiss Yodel,Sons of the Pioneers,162106,1934-01-19,1934,0.918,0.389,0.278,0.0,0.106,-10.203,0.0313,97.376,0.475,1,3,0,False,"cowboy western, traditional country, vocal harmony group, western swing"
+5X91E8XhoN8xaF5BmTwDjM,Qatl Mujhay Ker Daala Raama Paas Bula Key Nazar Mila Key,Malka Jaan,164931,1934-12-31,1934,0.994,0.6,0.317,0.784,0.396,-11.256,0.35,69.602,0.815,0,0,0,False,
+5ieeoHiLlpIBxAHT2BYqph,Que c´est triste Venise,"Charras Gonzalez, Veronica Gonzalez Day, Adrian Charras",155468,1934,1934,0.979,0.468,0.175,2.04e-05,0.116,-11.609,0.0427,115.674,0.344,1,9,0,False,
+0fOYKVZ4Ml10NeQTuojlEe,"Que Hacés, Que Hacés? - Remasterizado","Francisco Canaro, Ernesto Fama",160506,1934-01-03,1934,0.993,0.723,0.241,0.416,0.137,-15.603,0.33,122.94,0.647,0,5,0,False,"orquesta tipica, tango, vintage tango"
+2NuWbS19E0yyhNxpaasLZd,No Hay Que Hacerse Mala Sangre - Remasterizado,"Francisco Canaro, Roberto Maida",174933,1934-01-10,1934,0.989,0.631,0.0732,0.644,0.116,-21.64,0.0899,124.38,0.615,1,2,0,False,"orquesta tipica, tango, vintage tango"
+0ZlPJoeo4AgMOhCBd8CY0K,No Se Quien Soy - Remasterizado,"Francisco Canaro, Carlos Galán",162000,1934-01-10,1934,0.987,0.648,0.132,0.0,0.257,-18.347,0.0563,120.54,0.787,0,0,0,False,"orquesta tipica, tango, vintage tango"
+6vvbIfqH8bUqSz76nzDKRR,Yo no sé qué me han hecho tus ojos,Carlos Gardel,186332,1934-12-11,1934,0.984,0.739,0.26,1.07e-05,0.171,-13.803,0.391,85.49,0.563,0,4,0,False,
+7sO0riicRtmpcmiBCxy6rz,"String Quartet No. 22 in B-Flat Major, K. 589 ""Prussian Quartet No. 2"": I. Allegro - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",502080,1934-01-01,1934,0.967,0.216,0.144,0.23,0.106,-17.083,0.0486,77.198,0.406,1,10,0,False,"classical, classical era"
+1Lo66SIkze3CWHdlUoyr5a,"String Quartet No. 15 in G Major, D. 887: IV. Allegro assai - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",536969,1934-01-01,1934,0.939,0.491,0.166,0.816,0.211,-19.601,0.0611,80.331,0.49,1,2,0,False,"classical, classical era"
+47gdte1EFLj8NuvcjTHvSc,"String Quartet No. 21 in D Major, K. 575 ""Prussian Quartet No. 1"": I. Allegretto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",289426,1934-01-01,1934,0.985,0.317,0.164,0.221,0.275,-17.844,0.0707,81.346,0.323,0,7,0,False,"classical, classical era"
+46JIefFhyeCklctSDXpNsO,"Piano Quartet in E-Flat Major, Op. 47: II. Scherzo. Molto vivace - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, Hortense Monath",198845,1934-01-01,1934,0.965,0.455,0.356,0.718,0.121,-18.659,0.043,119.449,0.499,0,7,0,False,"classical, classical era"
+3Gbsgpu3TpKW24zfuV14a9,"Piano Quartet in E-Flat Major, Op. 47: I. Sostenuto assai - Allegro ma non troppo - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, Hortense Monath",513833,1934-01-01,1934,0.93,0.3,0.1,0.00856,0.196,-19.468,0.0378,99.543,0.164,1,3,0,False,"classical, classical era"
+44VzfP5rlpcV2O91sd6rmx,"String Quartet No. 12 in C Minor, D. 703 - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",291656,1934-01-01,1934,0.952,0.282,0.142,0.657,0.355,-19.914,0.0436,133.914,0.287,1,8,0,False,"classical, classical era"
+444RPm7oMEfyhQqO93J2pc,"String Quartet No. 13 in A Minor, D. 804 ""Rosamunde"": IV. Allegro moderato - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",428760,1934-01-01,1934,0.971,0.486,0.0463,0.234,0.134,-19.378,0.0476,102.088,0.342,1,9,0,False,"classical, classical era"
+06bxSBtZr81IHCgLpEH1Nx,"String Quartet No. 15 in G Major, D. 887: III. Scherzo. Allegro vivace - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",368559,1934-01-01,1934,0.96,0.296,0.137,0.698,0.223,-20.959,0.0524,79.824,0.449,1,2,0,False,"classical, classical era"
+5XZCO6EFoRgXZVVk2XPGSn,"String Quartet No. 15 in G Major, D. 887: II. Andante un poco moto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",519718,1934-01-01,1934,0.962,0.32,0.101,0.294,0.684,-21.901,0.0517,114.151,0.103,0,4,0,False,"classical, classical era"
+14pwh800A2sU59zd3jjDFF,"String Quartet No. 22 in B-Flat Major, K. 589 ""Prussian Quartet No. 2"": III. Menuetto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",446472,1934-01-01,1934,0.955,0.425,0.127,0.248,0.28,-18.634,0.0474,103.793,0.416,1,10,0,False,"classical, classical era"
+3QWngfotB3uJib5QC2DXA6,"Piano Quartet in E-Flat Major, Op. 47: III. Andante cantabile - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, Hortense Monath",300026,1934-01-01,1934,0.904,0.17,0.124,0.123,0.317,-20.034,0.0392,89.167,0.115,1,10,0,False,"classical, classical era"
+3npVaz1pRLvTXBqPDkgG06,"Piano Quartet in E-Flat Major, Op. 47: IV. Finale. Vivace - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, Hortense Monath",442945,1934-01-01,1934,0.974,0.424,0.138,0.399,0.06,-16.164,0.0355,142.449,0.489,1,3,0,False,"classical, classical era"
+3Hz3WYD5o0SKJ5XG3RgKST,"String Quartet No. 22 in B-Flat Major, K. 589 ""Prussian Quartet No. 2"": II. Larghetto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",369629,1934-01-01,1934,0.939,0.24,0.095,0.016,0.0784,-22.688,0.0535,78.381,0.241,1,3,0,False,"classical, classical era"
+6oRCTts4pNdEc8k9CVksVU,"String Quartet No. 13 in A Minor, D. 804 ""Rosamunde"": III. Menuetto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",288533,1934-01-01,1934,0.948,0.215,0.0838,0.386,0.12,-19.927,0.049,171.484,0.127,1,9,0,False,"classical, classical era"
+3lYiVvBj7ccwlNiAsOGldp,"String Quartet No. 13 in A Minor, D. 804 ""Rosamunde"": I. Allegro ma non troppo - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",527055,1934-01-01,1934,0.957,0.263,0.0956,0.793,0.203,-19.613,0.0429,105.348,0.14,0,9,0,False,"classical, classical era"
+0YgllAWtZPx6Z4rYB8UonQ,"String Quartet No. 21 in D Major, K. 575 ""Prussian Quartet No. 1"": II. Andante - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",241859,1934-01-01,1934,0.982,0.269,0.123,0.732,0.346,-20.242,0.0481,125.926,0.117,1,2,0,False,"classical, classical era"
+5PuVMNDdemLoDvrgE8W90I,"String Quartet No. 22 in B-Flat Major, K. 589 ""Prussian Quartet No. 2"": IV. Allegro assai - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",216540,1934-01-01,1934,0.949,0.423,0.145,0.392,0.247,-17.736,0.0469,159.713,0.668,1,10,0,False,"classical, classical era"
+2Awz89a57iPUO12GWKZA1L,"String Quartet No. 21 in D Major, K. 575 ""Prussian Quartet No. 1"": III. Menuetto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",195592,1934-01-01,1934,0.984,0.362,0.137,0.306,0.404,-16.964,0.0651,180.539,0.441,1,2,0,False,"classical, classical era"
+4iqlnPT3smE2Vnvj9kIcwS,"String Quartet No. 13 in A Minor, D. 804 ""Rosamunde"": II. Andante - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",414448,1934-01-01,1934,0.98,0.188,0.091,0.649,0.346,-21.993,0.0522,82.645,0.106,1,0,0,False,"classical, classical era"
+4Dy3Fz2ZKeyTdvcfvWqYxI,"String Quartet No. 21 in D Major, K. 575 ""Prussian Quartet No. 1"": IV. Allegretto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",315841,1934-01-01,1934,0.983,0.279,0.199,0.334,0.346,-16.336,0.12,179.055,0.336,0,7,0,False,"classical, classical era"
+3TYcTGVGaAuKdRxBhXLJju,"String Quartet No. 15 in G Major, D. 887: I. Allegro molto moderato - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet",785493,1934-01-01,1934,0.95,0.384,0.149,0.462,0.443,-19.586,0.0499,107.181,0.187,1,7,0,False,"classical, classical era"
+5ZirhJ3GMxqSk59kYLGHBT,"Ein musikalischer Spaß, K. 522: II. Menuett. Maestoso - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, John Barrows, Domenico Caputo",277554,1934-01-01,1934,0.98,0.422,0.0431,0.0733,0.104,-17.288,0.0526,96.927,0.44,1,5,0,False,"classical, classical era"
+2emztVi2ASVne5fnoY8Vcs,"Ein musikalischer Spaß, K. 522: III. Adagio cantabile - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, John Barrows, Domenico Caputo",308925,1934-01-01,1934,0.961,0.356,0.0706,0.367,0.409,-20.602,0.0513,132.566,0.275,1,7,0,False,"classical, classical era"
+5JoXK7lvTxNbKCn0Nnl7Lm,"Ein musikalischer Spaß, K. 522: I. Allegro - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, John Barrows, Domenico Caputo",204986,1934-01-01,1934,0.978,0.565,0.0745,0.0729,0.0975,-14.993,0.0828,142.773,0.605,1,5,0,False,"classical, classical era"
+4S9ju8TQc15Tg2ezMwVPdO,"Ein musikalischer Spaß, K. 522: IV. Presto - Remastered 2024","Wolfgang Amadeus Mozart, Kolisch Quartet, John Barrows, Domenico Caputo",250588,1934-01-01,1934,0.982,0.566,0.122,0.759,0.0968,-16.195,0.0722,121.2,0.579,1,5,0,False,"classical, classical era"
+6pe6vlTige8f1urz47VVo2,Unstoppable,samedowski,129382,1934-06-06,1934,0.0892,0.519,0.666,0.0,0.109,-8.556,0.0895,100.067,0.346,1,8,9,False,
+2SLNo8CN343PAPtcSE2p9w,Whistling Under the Moon,Jack Jackson & His Orchestra,185440,1934,1934,0.959,0.707,0.0949,0.0762,0.0929,-19.012,0.0911,139.657,0.748,1,5,0,False,british dance band
+5bsxS2W1RihXVCRmarDR6k,Haan Re Murraliyaa,Krishan Bai,259622,1934-12-31,1934,0.988,0.386,0.396,0.917,0.217,-7.536,0.0401,140.082,0.379,1,4,0,False,
+5QH0KquTQzZ5ttfpRs83oX,Man Mohan Muraari,Siddheshwari Bai,189442,1934-12-31,1934,0.988,0.685,0.00936,0.0,0.578,-15.572,0.46,101.064,0.619,1,2,0,False,
+5FPZpt65XUcvLk4aqsee2R,Aawo Re Daiyya Saiyaan Naaheen Aawo Rey,Mohammadi Jaan,198803,1934-12-31,1934,0.995,0.418,0.228,0.737,0.187,-13.278,0.352,84.524,0.593,1,6,0,False,
+520FZGlECSKxkJOgvdUXnG,Sovat Nindiya Jagaay,Siddheshwari Bai,189242,1934-12-31,1934,0.993,0.591,0.0198,0.00353,0.323,-15.581,0.268,101.52,0.745,1,4,0,False,
+25C3ppOaFMu7TT03ytczYY,Murli Na Bajawo Rey Girdhaari,Mohammadi Jaan,192213,1934-12-31,1934,0.995,0.44,0.178,0.729,0.197,-15.323,0.382,71.144,0.562,1,6,0,False,
+3z6s4B2H5BfugX5Idy38RL,Naaheen Parrat Mohay Chain Tarrpat Hoon Bin Chain Sanwariya,Janki Bai,192124,1934-12-31,1934,0.996,0.464,0.128,0.72,0.144,-15.056,0.25,74.41,0.541,1,8,0,False,
+78TxNAF9r7hRb79tfLVUru,Mathura Mein Na Sahi Gokul Mein Sahi,Siddheshwari Bai,207760,1934-12-31,1934,0.994,0.649,0.0325,0.000457,0.169,-14.051,0.454,130.094,0.521,0,6,0,False,
+4oJl6QBTGDtSdAle5d3cG4,Matwaaly Naiyanwa Zulm Karein,Janki Bai,201068,1934-12-31,1934,0.996,0.515,0.0648,0.551,0.173,-15.63,0.305,67.471,0.458,1,8,0,False,
+6cE2ETSYgVypE2YOg0XsyF,Muraliya Naahen Bajawo Shyaam Ray,Siddheshwari Bai,187186,1934-12-31,1934,0.989,0.522,0.0274,0.000616,0.43,-17.156,0.328,75.57,0.774,1,4,0,False,
+1rOQfoykmN5AVjw9XV0JGj,Panghtwaa Pe Nand-Laal Chairr Gaay Ray,Ustad Azmat Hussain Khan,200295,1934-12-31,1934,0.993,0.508,0.45,0.938,0.137,-12.167,0.0874,71.882,0.64,1,3,0,False,
+7JjbTVytXHk9mlZo7IcjNz,Yah Aaj Raat Tumhaare Paas Se Nikalega Koee Mujhe Yaad Nahin Karega,Jaddan Bai,190786,1934-12-31,1934,0.995,0.539,0.18,0.541,0.357,-9.752,0.104,122.713,0.536,0,9,0,False,
+4kKNW7PxirJwSB555ZI9sc,He Naastik Nigaahon To Aansuon Ka Bahaana Karana Hai,"Gohar Bai, Of Ambala",184607,1934-12-31,1934,0.993,0.589,0.038,0.000474,0.198,-13.703,0.3,134.312,0.575,1,7,0,False,
+7I06dp37Vmu5K5Jox4Niox,Put on Your Slippers and Fill up Your Pipe (You're Not Going Bye-Bye Tonight),Hoosier Hot Shots,124546,1934-09-15,1934,0.717,0.71,0.376,0.00032,0.359,-9.782,0.107,135.396,0.963,1,5,0,False,"novelty, traditional country"
+4PTsGYi3izUdsqdpoSNTtt,Ο υπομονητικός,Κώστας Μαυρέας,104163,1934-01-01,1934,0.784,0.725,0.56,4.22e-05,0.127,-13.115,0.66,86.774,0.808,0,7,0,False,
+1NKEsI5TcZtgUst6aH2ent,Ερωτοχτυπημενος κανταδόρος,"Π.Μισιρλής, Γ.Καμβύσης, Ρ.Αγγελίδου",111529,1934-01-01,1934,0.957,0.608,0.367,0.0,0.338,-14.795,0.942,61.605,0.669,0,11,0,False,
+5RjbrCgrAvl99mPO3MeSnh,Κουτσομπόλης Μαυρέας,Κώστας Μαυρέας,80026,1934-01-01,1934,0.995,0.627,0.384,0.0513,0.13,-15.339,0.394,114.459,0.679,1,10,0,False,
+5HQkoyRYlkTc6rFWdHRgeK,Κοσμογυρισμένος Μαυρέας,Κώστας Μαυρέας,90644,1934-01-01,1934,0.98,0.527,0.346,1.14e-05,0.12,-15.577,0.243,99.526,0.614,1,8,0,False,
+1KMLL9nXybHvBMQhnJ6XNj,To παράπονο του μάγκα,Πέτρος Κυριακός,92810,1934-01-01,1934,0.989,0.718,0.178,0.0,0.622,-12.732,0.577,86.3,0.552,1,7,0,False,
+51eVqdJVGJlpdJoixJeAl8,Εορτολόγιο,"Γιώργος Καμβύσης, Πέτρος Κυριακός",92094,1934-01-01,1934,0.952,0.73,0.293,0.0,0.0978,-15.389,0.906,96.157,0.521,1,9,0,False,
+0kPOcuCcDxwujJ7N0iYJFO,Λοταρτζής,Κώστας Μαυρέας,89769,1934-01-01,1934,0.989,0.538,0.209,0.0,0.321,-13.412,0.253,85.821,0.565,1,5,0,False,
+5aN1ppt1YZEhNJWxhfN6pS,Πρόοδος,"Πέτρος Κυριακός, Νίτσα Λαζαρίδου",94406,1934-01-01,1934,0.968,0.625,0.386,2.04e-06,0.374,-12.58,0.578,100.26,0.524,1,4,0,False,
+7d61LqW1W8nbvy9ht3i2Eu,Παγώνα (Παρωδία Ramonas),Πέτρος Κυριακός,92682,1934-01-01,1934,0.992,0.618,0.122,0.218,0.109,-15.654,0.226,81.648,0.514,0,9,0,False,
+7kOyt0i0XgogNI9sumPzuz,Θα γίνω γυναίκα,"Γιάννης Καμβύσης, Πέτρος Κυριακός",98834,1934-01-01,1934,0.984,0.71,0.169,0.0,0.162,-13.756,0.897,132.851,0.625,1,5,0,False,
+48UvenoAtkMPvBJTGl9co7,Πολιτισμένος μάγκας,"Πέτρος Κυριακός, Μαρία Ανδρονίκου",91781,1934-01-01,1934,0.989,0.697,0.181,0.0,0.51,-13.325,0.598,104.734,0.587,1,7,0,False,
+3a2amzRpWpiNtkjkGpq93u,Ο Σελέμης,Πέτρος Κυριακός,129175,1934-01-01,1934,0.968,0.629,0.194,1.75e-06,0.33,-11.27,0.32,125.319,0.6,1,5,0,False,
+6GpZ97YAxnCrfxpdtwLGVH,Τα ελαττώματα,Ιωάννης Ιατρού,92904,1934-01-01,1934,0.902,0.581,0.355,0.0,0.133,-12.663,0.24,85.276,0.655,1,5,0,False,
+4PoNo1rzzdKcaAR5YGE12p,Ρούμπα κι όχι αρλούμπα,Πέτρος Κυριακός,98442,1934-01-01,1934,0.995,0.512,0.311,0.000114,0.409,-12.422,0.162,166.555,0.773,0,9,0,False,
+4Usxz3enxVQg8yCoykfvRo,Φτώχεια τι μας κάνεις,"Πέτρος Κυριακός, Γιώργος Καμβύσης",98520,1934-01-01,1934,0.968,0.559,0.342,0.0,0.622,-16.575,0.478,168.455,0.881,1,5,0,False,
+08gNINeWkkHiP1kaeE0PGw,Ο τεμπέλης,Πέτρος Κυριακός,126001,1934-01-01,1934,0.987,0.462,0.242,0.0,0.21,-16.414,0.192,81.875,0.392,0,8,0,False,
+15zDE6ceQ7LfQkIbH5MuNt,Αχ Μπριγκίτα!,"Βασίλης Μεσολογγίτης, Μαρία Ανδρονίκου",101746,1934-01-01,1934,0.956,0.715,0.364,0.0,0.184,-14.947,0.902,77.64,0.72,1,9,0,False,
+6UbJMj9pFigHqCMlS3tb2E,Έφοδος στον τεκέ,"Γιάννης Καμβύσης, Πέτρος Κυριακός",98599,1934-01-01,1934,0.965,0.725,0.197,0.00479,0.0839,-17.669,0.454,112.112,0.731,0,9,0,False,
+6RQvvMkRbONwolRc7HATUx,Ραδιολατέρνα,"Μαρία Ανδρονίκου, Βασίλης Μεσολογγίτης",101198,1934-01-01,1934,0.966,0.685,0.246,0.0,0.42,-16.905,0.438,74.734,0.625,1,3,0,False,
+3ttzGWpvqKc9iM6U7oeLZk,Winter Wonderland,Véronique Flamand-Somers,151258,1934-01-01,1934,0.764,0.552,0.228,3.01e-06,0.121,-11.926,0.0492,116.475,0.417,1,8,0,False,
+7uCnptLmrd5eVsxZHjKggv,Winter Wonderland,Honeytraps,199838,1934-01-01,1934,0.00694,0.618,0.796,2.29e-05,0.113,-5.631,0.0328,116.031,0.627,1,5,0,False,
+5AUv9HovYUYiF5SfVDsJ5f,WInter Wonderland,Jeff Henry,138495,1934,1934,0.962,0.7,0.0878,0.959,0.103,-22.805,0.21,110.008,0.963,1,1,0,False,
+3XlALFpge0A8slrschxs3a,Winter Wonderland,Al Ancar,203400,1934,1934,0.302,0.398,0.534,0.0,0.108,-8.203,0.0326,133.235,0.37,0,4,0,False,
+0uSi5VZCDnKt0XCSfrSG14,Who Needs Summer?,The Haywains,208410,1934,1934,0.0773,0.208,0.703,0.00129,0.28,-8.063,0.0386,166.606,0.716,1,9,0,False,
+41ZTuek6QDqN1dsN4pcd62,Worried over You,Red Norvo,193133,1934-12-15,1934,0.984,0.546,0.218,0.0799,0.174,-11.455,0.0352,95.279,0.267,1,0,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+4NmHI0AUKkas6GskbbYaWt,Wigwammin',Red Norvo,171173,1934-12-15,1934,0.813,0.74,0.609,0.0355,0.0667,-8.126,0.294,97.157,0.81,0,9,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+1sHmFwpCTGwxlVQyzVF8wl,What You're Doing To Me,Marty Murray,220586,1934,1934,0.841,0.656,0.174,2.28e-06,0.0897,-17.523,0.0316,98.448,0.567,1,2,0,False,
+0UTfq5bukun3ZxUIDCAyy0,The Wearin' of The Green,Bunny Berigan,211933,1934,1934,0.908,0.63,0.225,0.634,0.103,-12.19,0.0915,146.572,0.662,1,10,0,False,"big band, jazz trumpet, swing, vintage jazz"
+2Ium9amjptrstWpnnWV0L1,The Way We Are,The Psychedelic Scorzonera,190920,1934,1934,6.14e-05,0.571,0.626,0.269,0.11,-6.36,0.0283,131.252,0.498,0,0,0,False,
+2a4nfkiHMUQsbPEN8PVwp9,Wah-Hoo!,Hoosier Hot Shots,154666,1934-09-15,1934,0.706,0.769,0.352,1.76e-06,0.0894,-9.729,0.134,124.468,0.883,1,10,0,False,"novelty, traditional country"
+4y51xrNGFsshZKH3MVZIu3,"What's the Good Word, Mr. Bluebird?",Hoosier Hot Shots,127560,1934-09-15,1934,0.738,0.726,0.391,1.47e-06,0.228,-8.59,0.0669,128.069,0.938,1,10,0,False,"novelty, traditional country"
+1A7W005Lx25FVH3cqakw9C,Wild Water Blues,Kokomo Arnold,194493,1934-05-20,1934,0.979,0.727,0.152,1.53e-05,0.171,-14.573,0.0481,85.471,0.538,1,0,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3m81AeESYghEUXPZRXc3jZ,A Woman Should Stick to Her Man,Roy Fox,185560,1934,1934,0.988,0.483,0.0471,0.00201,0.181,-21.425,0.0419,144.526,0.586,1,5,0,False,british dance band
+3JoxgdQDFSBs6IdvfIMKHH,Your Ways and Actions,Kokomo Arnold,167891,1934-05-20,1934,0.991,0.646,0.17,0.0,0.167,-15.228,0.0361,96.143,0.54,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+3zGCMb9m5hBgFueWIbL18T,Since We Put the Radio out in the Henhouse,Hoosier Hot Shots,137560,1934-09-15,1934,0.607,0.711,0.443,0.0,0.419,-8.721,0.445,133.243,0.859,1,5,0,False,"novelty, traditional country"
+4gVAloFqjMRIAcndQHYMwy,My Wild Oat,Roy Fox,165666,1934,1934,0.979,0.881,0.288,0.00167,0.195,-15.16,0.0719,124.002,0.897,1,0,0,False,british dance band
+2CTlxwMcQ1aa9V1q9fUUb2,Running Wild,Hoosier Hot Shots,138240,1934-09-15,1934,0.641,0.738,0.359,0.125,0.345,-8.854,0.14,133.827,0.948,1,10,0,False,"novelty, traditional country"
+4DFcVahVfx8Xv8u0vmgHjW,Angel,Why Not,286853,1934,1934,0.185,0.789,0.366,0.0,0.0986,-10.291,0.0358,99.989,0.526,1,2,0,False,
+5QhJ3MCz8xHOCD5VxsBAkR,Now That We're Sweethearts Again,Jack Jackson & His Orchestra,184813,1934,1934,0.971,0.86,0.0999,0.00118,0.0739,-21.29,0.218,124.386,0.861,1,7,0,False,british dance band
+6ea2YYiJF39Ya92jZzCyjT,That's Me Without You,Roy Fox,190466,1934,1934,0.974,0.754,0.0734,0.000946,0.101,-21.213,0.112,114.984,0.539,1,8,0,False,british dance band
+4pC34IRlrzPBI2i1DXdVl7,Things 'Bout Coming My Way,Kokomo Arnold,168093,1934-05-20,1934,0.974,0.455,0.113,0.0,0.103,-15.868,0.0402,182.792,0.502,1,8,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+5OdXmHRkHdjr2roMH62cj3,You Shouldn't Do That,"Kokomo Arnold, Casey Bill Weldon",171646,1934-05-20,1934,0.988,0.73,0.257,0.00201,0.109,-15.396,0.151,111.849,0.944,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7s74MuqIglOdOhMFF8aFnx,The Twelves (The Dirty Dozens),"Kokomo Arnold, Casey Bill Weldon",191106,1934-05-20,1934,0.942,0.571,0.423,0.00201,0.117,-11.155,0.0536,101.764,0.713,1,6,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+1gSdA3orxgueyontMK5v4E,Aloha Beloved (Roy Fox),Roy Fox,193640,1934,1934,0.967,0.468,0.121,0.00145,0.136,-20.928,0.0382,136.161,0.523,1,5,0,False,british dance band
+6K3xjA3zLzu1YvaTXuL3oO,Muhammad (S.A.W) Sa Dau Aalum Ka Shahanshah Ho Nahen Sakta,Miss Kamala Singh,193930,1934-12-31,1934,0.993,0.44,0.244,0.0177,0.374,-14.015,0.0548,128.677,0.541,0,11,0,False,
+7jAnnxmpxQdn0uMgmcEEV6,Aaay Aaj Murari Khelan Rung Horri,Bhaag-Wati Shankar,172942,1934-12-31,1934,0.995,0.416,0.233,0.866,0.231,-13.451,0.139,68.571,0.415,1,5,0,False,
+44xt26JjxtG0tiFgXEuFeJ,Winter Wonderland - Cover,Shiny Shiny Black,144706,1934,1934,0.319,0.57,0.466,0.00886,0.103,-7.501,0.0314,63.003,0.153,1,9,0,False,indiana indie
+35jiRhdwsuZG3mpYZlp60Z,Xehase Me,"Kostas Giannidis, Antonis Delendas",185420,1934,1934,0.919,0.648,0.298,0.0,0.0925,-11.382,0.167,116.827,0.841,0,7,0,False,
+7lGrNwhPxBEUHhkirwzPGJ,You Ought to See Sally On Sunday,Roy Fox,190893,1934,1934,0.956,0.465,0.141,0.0177,0.264,-16.182,0.0594,180.944,0.54,1,7,0,False,british dance band
+2sqAauCR3q91pcpJ58ai5a,You Should Not A'done It (Getting It Fixed),Kokomo Arnold,196040,1934-05-20,1934,0.992,0.611,0.137,1.02e-06,0.101,-15.772,0.329,77.547,0.771,1,3,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+7v0JrBIddC73cVM31sz4Fx,"You're My Past, Present And Future","Richard Himber and his Orchestra, Joey Nash",165626,1934-07-01,1934,0.982,0.33,0.225,0.000567,0.125,-12.553,0.043,120.237,0.322,0,6,0,False,
+7wsmjct1NpFTTPObkWH4tC,Yvonne,Jack Jackson & His Orchestra,200920,1934,1934,0.917,0.334,0.0731,0.00681,0.123,-20.121,0.0346,106.751,0.297,1,0,0,False,british dance band
+3Qd0743VR2NIML4V0T2lm4,Oh Yeah Oh Yeah,"Mad Dog, Meltdown",203333,1934,1934,0.0217,0.956,0.594,0.0151,0.095,-6.066,0.0454,109.037,0.924,1,2,0,False,
+29c76gCTZfcr3Qe8ofWY6D,Put Your Heart in a Song,Red Norvo,172853,1934-12-15,1934,0.911,0.647,0.216,0.0229,0.198,-10.438,0.054,126.961,0.626,1,10,0,False,"cool jazz, jazz vibraphone, swing, vintage jazz"
+79X9G1M66ObVFOXGig9TZE,Raga Yaman Kalyan - Raag Rani Durga Bai,Raag Rani Durga Bai,254780,1934-12-31,1934,0.993,0.331,0.174,0.867,0.53,-15.027,0.0627,68.396,0.245,1,10,0,False,
+3Id33cbN9TUxYitgJbYrUw,Amrit Prakat Zale,Shanta Apte,189893,1934-12-31,1934,0.993,0.406,0.276,0.798,0.173,-8.008,0.116,84.789,0.432,0,5,0,False,classic bollywood
+22J801wXSSxY1GhIab03be,Sygnomi Sou Zito,"Kostas Giannidis, Sofia Vembo",205543,1934,1934,0.796,0.372,0.392,0.0,0.414,-8.188,0.0361,101.972,0.438,1,7,0,False,
+746hibQemPWb20fyWoYmVm,Amrit Prakat Zale,"Shanta Apte, Shantaram Athavale",189893,1934-12-31,1934,0.993,0.406,0.277,0.798,0.173,-8.008,0.116,84.789,0.432,0,5,0,False,classic bollywood
+78DdEZbo6apA3orG4pyWmd,Andhairiyaa Ho Raat Sajan Rahiyo Kay Jaiyo,Miss Zohra Jaan,166023,1934-12-31,1934,0.995,0.493,0.147,0.783,0.155,-13.316,0.0945,63.866,0.687,1,6,0,False,
+6bXtiBLlMVMB1UUm5wjOsm,Silencio,Carlos Gardel,147714,1934-12-11,1934,0.98,0.582,0.255,0.303,0.19,-14.732,0.06,63.132,0.578,1,8,0,False,
+1h9QBVOSS4vvzxW0ABhQVK,After Sundown,"Richard Himber and his Orchestra, Joey Nash",167786,1934-07-01,1934,0.986,0.394,0.241,0.00326,0.0961,-11.69,0.0464,117.86,0.438,1,10,0,False,
+2YiqYc4YfBhsSozBSGB3nl,Aaji Nabo Parichaye,Bina Chowdhury,208920,1934-12-01,1934,0.991,0.402,0.0997,0.653,0.11,-14.567,0.0379,128.333,0.403,0,9,0,False,
+2qIzeCtiXY7UzYyW9FcZrD,At He Barish Rish Maala,Pandit B. R. Deodhaar,172361,1934-12-31,1934,0.974,0.533,0.221,0.0,0.611,-9.75,0.354,78.676,0.649,1,10,0,False,
+17jYbh2ief9Z1LMFlLmq4v,Ab Mil Aaya Apne Piya Ke,Pt Bhimsen Josi,828194,1934-12-31,1934,0.986,0.267,0.0626,0.212,0.109,-22.41,0.063,72.135,0.156,0,8,0,False,
+4bSNlO7QKdqcoGWHteKujA,Tomar Amar Milan Biraha,Sudha Mukherjee,183893,1934-12-01,1934,0.993,0.443,0.139,0.00308,0.11,-11.81,0.0341,141.713,0.239,1,5,0,False,
+3tbMbqOV2WCUEArORdBJqK,Tomar Ankhir Pare,Sabita Singha,204386,1934-12-01,1934,0.9,0.451,0.284,0.0,0.158,-10.695,0.0432,99.002,0.592,0,8,0,False,
+63L2QxPMyL307rYLqyuwlZ,Hoyto Abar Asbe,Nitin Mukesh,199630,1934-12-01,1934,0.929,0.35,0.496,0.0232,0.157,-11.201,0.0418,130.017,0.566,1,9,0,False,"classic bollywood, filmi"
+436E3R7jv6scoi4XbcLVnK,Hazrat Ali Tum Ho Mahaan,Khadim Hussain Khan,205754,1934-12-31,1934,0.919,0.405,0.53,0.875,0.18,-14.813,0.138,146.329,0.618,1,3,0,False,
+07inszbxQTHRJ851LoeMmJ,Tarana Aiman,Mogubai Kurdikar,171502,1934-12-31,1934,0.995,0.515,0.382,0.968,0.321,-13.08,0.196,72.09,0.798,1,5,0,False,"hindustani vocal, indian classical"
+2eDgpfNf1sD1A7Ow5baERF,Mori Aankh Namay,Shree-Mati Bai Narvekar,168089,1934-12-31,1934,0.988,0.555,0.221,0.0407,0.432,-9.596,0.351,132.194,0.624,1,8,0,False,
+6yvxtsFccLGuLSc3rzmM6H,"Symphony No. 1 ""1933"": II. Andante","Roy Harris, Serge Koussevitzky, Boston Symphony Orchestra",678040,1934,1934,0.976,0.0975,0.201,0.89,0.439,-20.423,0.046,75.482,0.0372,0,0,0,False,"american modern classical, early modern classical"
+6aLHqdP0j0mByOAVXqWBDP,"Symphony No. 1 ""1933"": I. Allegro","Roy Harris, Serge Koussevitzky, Boston Symphony Orchestra",489560,1934,1934,0.985,0.262,0.296,0.905,0.108,-15.008,0.0363,109.565,0.109,1,10,0,False,"american modern classical, early modern classical"
+7gHAl0VszEyGGdQ221uLcf,Sedin Madhabi Raate,Anima Dasgupta,202400,1934-12-01,1934,0.963,0.493,0.239,0.00264,0.316,-9.748,0.0282,78.8,0.254,1,2,0,False,
+7BXANBQZQc3ArvYQN0rfDm,Sabar Haate Biliye Dilam,Asit Baran,195573,1934-12-01,1934,0.981,0.31,0.214,0.89,0.134,-15.717,0.0473,77.923,0.55,1,7,0,False,
+2TKsS6IdkAtbyr5biiwKbt,Sanjher Taraka Ami,Juthika Roy,182013,1934-12-01,1934,0.99,0.462,0.153,0.00184,0.107,-9.583,0.0453,79.573,0.52,1,8,0,False,bhajan
+7Ey2Er62s4Twyyiafbmjej,Piya Naaheen Aaay,Kamala Singha Jharia,188152,1934-12-31,1934,0.979,0.416,0.336,0.526,0.578,-9.822,0.0441,103.217,0.594,1,9,0,False,
+1nZRkdh4feST2mk4yr5X3d,Pyaaray Toray Aangan Mein Phoolan Ki Bahaar Hay,Pyaari Jaan,160496,1934-12-31,1934,0.996,0.45,0.19,0.892,0.312,-15.286,0.391,68.404,0.864,1,4,0,False,
+2k4z57UXCEcKlKSPoaRtmT,Raaga Bhoopali - Miss Akku Jaan,Miss Akku Jaan,196077,1934-12-31,1934,0.986,0.353,0.513,0.59,0.679,-7.597,0.0426,109.856,0.621,1,9,0,False,
+3agCaFfbZaJfbn8gyWMR1Q,Mon Niye Priyo,Santa Apte,210453,1934-12-01,1934,0.981,0.338,0.209,0.000111,0.541,-11.088,0.0341,124.634,0.264,0,10,0,False,
+5ufPTUNHqPiafwWcaIpgLt,The Prisoner's Song,Bunny Berigan and His Orchestra,251960,1934,1934,0.957,0.685,0.374,0.937,0.226,-13.661,0.0529,121.477,0.942,1,10,0,False,"man's orchestra, new orleans jazz"
+3tlm43G1EhRRpKDu1E3D2W,The Marines Hymn,"Richard Himber and his Orchestra, Guy Russell",154813,1934-07-01,1934,0.919,0.822,0.336,0.321,0.0567,-9.516,0.0385,116.663,0.721,1,10,0,False,
+3Vlc5jdUYimpZUK1ZI0Mv4,"Milk Cow Blues, No 2",Kokomo Arnold,189013,1934-05-20,1934,0.977,0.741,0.036,0.0,0.137,-18.373,0.0832,87.511,0.471,1,7,0,False,"acoustic blues, chicago blues, delta blues, traditional blues"
+4wjmgMHW21FHuwXUj5bSE0,Two Can't Sit On a Three-Piece Suite,Jack Jackson & His Orchestra,171093,1934,1934,0.916,0.877,0.272,0.0,0.0793,-18.656,0.377,119.836,0.861,1,7,0,False,british dance band
+4RnKjNwWJNtzJKDpNLwdMN,At the End of the Day,Roy Fox,193573,1934,1934,0.985,0.548,0.0432,0.00433,0.093,-19.206,0.0373,116.403,0.434,1,2,0,False,british dance band
+4lKIPXK7M5vuQ2aEGHY3HP,There's a Ring Around the Moon,Roy Fox,184040,1934,1934,0.941,0.489,0.0973,0.0534,0.118,-21.309,0.0523,119.87,0.498,1,10,0,False,british dance band
+1V1YQiniobktHFwVOzEYdx,Symphony of the Breeze,Roy Fox,186280,1934,1934,0.97,0.4,0.046,0.0148,0.293,-19.896,0.038,88.314,0.267,1,10,0,False,british dance band
+3m3P0EJj8RwtHFiUMxaDvD,"Symphony No. 1 ""1933"": III. Finale - Maestoso","Roy Harris, Serge Koussevitzky, Boston Symphony Orchestra",390933,1934,1934,0.988,0.166,0.456,0.847,0.1,-14.519,0.0546,77.868,0.158,1,2,0,False,"american modern classical, early modern classical"
+3oR6YmMy30looCdUmKNlj2,Sooraath Bandish - Pearaa Saheb,Pearaa Saheb,155716,1934-12-31,1934,0.987,0.444,0.18,0.00478,0.55,-11.711,0.0746,83.487,0.503,1,7,0,False,
+6yZHUrFzE6U3vjxaB721J3,Raag Poorvi - Banday Khan,Banday Khan,203474,1934-12-31,1934,0.992,0.453,0.327,0.96,0.115,-14.212,0.0529,69.813,0.705,1,11,0,False,
+5T9sazJFIHEDnUi9tecOM1,Pyari Pyari Bnasi Baajay Saanwalay Ki,Saraswatibai,191611,1934-12-31,1934,0.992,0.404,0.578,0.902,0.386,-9.802,0.195,72.977,0.711,0,5,0,False,
+4fCtHfFR1o9wDrXnj6FIrP,Taranum Mein Bulbul K Hay Tu He Tu,Sudheera Kumari,192322,1934-12-31,1934,0.996,0.418,0.341,0.137,0.471,-9.303,0.0522,100.69,0.531,0,2,0,False,
+7q5oJHRVvSANdi5F1Arl2D,Main To Tumaro,Pt Bhimsen Josi,191100,1934-12-31,1934,0.975,0.581,0.246,0.653,0.191,-17.86,0.247,119.865,0.643,1,0,0,False,
+2iyZtgm62SvdsU8BrxZS2R,Poor Old Flo,Jack Jackson & His Orchestra,197360,1934,1934,0.965,0.693,0.054,0.001,0.109,-18.291,0.0569,77.027,0.45,1,5,0,False,british dance band
+0JupcotaiKDK48QcK8S5FE,So Shy,Jack Jackson & His Orchestra,195680,1934,1934,0.931,0.581,0.201,0.000114,0.598,-17.063,0.139,140.956,0.684,1,0,0,False,british dance band
+4zlzT2ieQcm8uMw2URpFWi,Sajna Ray Pallu Chorro,Mallikarjun Mansur,270210,1934-12-31,1934,0.995,0.611,0.082,0.316,0.228,-14.321,0.221,104.419,0.795,1,10,0,False,"hindustani classical, hindustani vocal, indian classical, khayal"
+24gAXLQBKdMfJkcQ6aBUsY,Man-Mohan Muraari,Siddheshwari Devi,182079,1934-12-31,1934,0.979,0.58,0.102,0.0,0.863,-11.237,0.308,81.299,0.486,1,2,0,False,"hindustani vocal, indian classical"
+21487jidDcL2BS7YQxy4NS,Mere Hazrat Ne Madinay Mein Manai Holi,Gauhar Jaan,179443,1934-12-31,1934,0.995,0.612,0.146,0.897,0.235,-13.384,0.348,70.843,0.642,1,11,0,False,"hindustani vocal, indian classical"

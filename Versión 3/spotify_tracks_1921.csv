@@ -1,0 +1,613 @@
+id,name,artists,duration_ms,release_date,year,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,mode,key,popularity,explicit,genre
+4qhtI6Tm0MTo1BpWn6c0Et,After Tonight,Clarence Williams,187120,1921-12-10,1921,0.985,0.826,0.218,0.348,0.0624,-13.14,0.169,110.157,0.508,0.0,7.0,15,False,"boogie-woogie, new orleans jazz"
+0R0vDlhPOs2ioPPUApKgaU,As for Me and My House,Lance Blake,178536,1921-04-16,1921,0.673,0.752,0.497,0.0,0.202,-9.599,0.0602,82.035,0.283,1.0,6.0,2,False,
+2yJv6OBedgqve5ZKPLnFbC,A Love Like This,Lance Blake,219354,1921-04-16,1921,0.523,0.706,0.437,1.04e-06,0.107,-10.764,0.0607,92.978,0.144,0.0,0.0,2,False,
+6WWB00CGa2QwUbj6iCJV9P,Bread and Gravy,Ethel Waters,175853,1921-11-26,1921,0.994,0.447,0.14,0.000279,0.214,-11.538,0.0551,80.069,0.471,1.0,1.0,4,False,"harlem renaissance, torch song"
+0p1iF6WMatIRfeW2mapihd,Mountain Song,Lance Blake,179709,1921-04-16,1921,0.836,0.826,0.45,5.56e-05,0.219,-11.502,0.118,110.026,0.238,0.0,9.0,5,False,
+0SXZAVU3v3vray1J8pZcZi,Can't Have My Home,Lance Blake,255485,1921-04-16,1921,0.804,0.516,0.473,7.33e-05,0.0879,-9.244,0.365,67.519,0.487,1.0,9.0,4,False,
+7gjEto6qX3uYmBx4XzvnSE,Stormy Weather (Alternate Take),Ethel Waters,185960,1921-11-26,1921,0.981,0.361,0.162,0.0,0.322,-13.481,0.0463,81.856,0.421,1.0,0.0,19,False,"harlem renaissance, torch song"
+5U5xww8Edc6BECoyR1NaiX,I'm a Fool for Lovin' You,Fletcher Henderson,156920,1921-12-17,1921,0.772,0.639,0.386,0.747,0.171,-5.346,0.0626,134.106,0.903,1.0,1.0,4,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1cO7jkIpiIDo03oaXMqPWk,awesome,"Mekbok, agmo, lemurr",96000,1921-05-27,1921,0.473,0.8,0.533,0.13,0.108,-4.08,0.477,120.049,0.628,1.0,0.0,1,True,
+0YoTiFH4KSRAZTQpA7M9pZ,Anmol Pahadi Bait,Kabul Bukhari,368793,1921-07-07,1921,0.756,0.735,0.505,0.0,0.33,-6.767,0.0298,115.987,0.602,1.0,10.0,1,False,kashmiri pop
+3B71XnxFQuaVsXmdOWyBys,We Live Free,Lance Blake,216801,1921-04-16,1921,0.319,0.765,0.472,9.93e-05,0.117,-6.9,0.126,88.047,0.679,0.0,6.0,2,False,
+6HHkI3wsj8PZfIURrHu9EP,Never Leave Us,Lance Blake,163333,1921-04-16,1921,0.202,0.665,0.509,0.0,0.0949,-9.1,0.0536,89.969,0.23,1.0,9.0,2,False,
+5oeHhnl54ipkW1X8oRzh70,Secret Place,Lance Blake,180000,1921-04-16,1921,0.589,0.746,0.639,8.72e-06,0.167,-7.984,0.0526,128.982,0.29,0.0,5.0,2,False,
+1Hveb6hQLqGKRAixXXBCpT,Ain't Misbehavin',James P. Johnson,177493,1921-05-06,1921,0.974,0.791,0.232,0.822,0.123,-14.833,0.0535,131.905,0.614,0.0,0.0,2,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+12SAcvoGp9xyArre74gyx0,Honey In A Hurry,Ethel Waters,167013,1921-11-26,1921,0.929,0.497,0.383,2.34e-06,0.549,-8.851,0.197,90.695,0.767,1.0,8.0,4,False,"harlem renaissance, torch song"
+4rMuocTH6hrfSG8t9uNqIr,Come Up And See Me Sometimes,Ethel Waters,185026,1921-11-26,1921,0.971,0.559,0.279,0.0,0.106,-12.998,0.378,95.838,0.549,1.0,0.0,3,False,"harlem renaissance, torch song"
+4rTdSK7JtQG6o1akeeqGNk,I've Found a New Baby,Ethel Waters,176613,1921-11-26,1921,0.995,0.636,0.32,0.0203,0.101,-7.435,0.17,161.902,0.695,1.0,7.0,4,False,"harlem renaissance, torch song"
+2GQUcBkfDujV31EdWkZBMk,"I Can't Dance, I Got Ants in My Pants",Clarence Williams,182040,1921-12-10,1921,0.991,0.902,0.487,0.148,0.0828,-11.425,0.137,128.697,0.962,1.0,0.0,2,False,"boogie-woogie, new orleans jazz"
+7Bn3LVEtp9WQtnpHonKZuI,You Are Loved,Lance Blake,153333,1921-04-16,1921,0.354,0.356,0.509,0.000263,0.118,-11.029,0.478,179.246,0.431,0.0,3.0,0,False,
+1kltaHgjzeVejXtH5X5Lgk,Hot And Anxious,Fletcher Henderson,200786,1921-12-17,1921,0.979,0.719,0.351,0.00445,0.168,-7.737,0.0515,132.587,0.741,1.0,3.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+4p0hB83qAT7Qa4zTUzxDIv,Stealin' Apples,Fletcher Henderson,176213,1921-12-17,1921,0.983,0.788,0.563,0.82,0.217,-6.929,0.0567,92.603,0.957,1.0,2.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+01v65wCdY8LwJ62Mio8rVA,Intro,Lance Blake,135170,1921-04-16,1921,0.121,0.701,0.51,0.0,0.278,-10.368,0.0641,146.003,0.237,0.0,4.0,0,False,
+1waFmRXn7IRicLuFsScZ3E,(What Did I Do to Be So) Black And Blue,Ethel Waters,179973,1921-11-26,1921,0.974,0.673,0.206,0.0,0.348,-10.962,0.132,76.232,0.526,1.0,7.0,1,False,"harlem renaissance, torch song"
+1TOCFcQLMIRJWW6sfvDNdE,I'm Gonna Sit Right Down and Write Myself a Letter,James P. Johnson,168013,1921-05-06,1921,0.949,0.706,0.27,0.85,0.0929,-15.303,0.0496,81.285,0.893,1.0,1.0,1,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+39kzrRdUfKjC10lOXM7XbZ,Crazy Blues (Alternate Take),Clarence Williams,198653,1921-12-10,1921,0.933,0.651,0.316,0.0184,0.438,-11.089,0.244,98.993,0.657,0.0,1.0,0,False,"boogie-woogie, new orleans jazz"
+6W5vXeQUgw3Kssc2U42OLu,"Baby, Don't You Tell On Me","Count Basie Orchestra, Jimmy Rushing",212186,1921,1921,0.868,0.553,0.395,0.00497,0.463,-11.041,0.0592,144.257,0.744,0.0,4.0,1,False,"big band, jazz, swing"
+4KfEpWuKbIt4ZATkEKzwoM,Something New,Count Basie Orchestra,244226,1921,1921,0.829,0.55,0.437,0.173,0.432,-12.263,0.0371,161.607,0.616,1.0,3.0,0,False,"big band, jazz, swing"
+4pKAvrM0X3uUYMNrQG05qz,Blue Skies,"Count Basie Orchestra, Jimmy Rushing",158840,1921,1921,0.957,0.514,0.621,0.905,0.58,-7.128,0.0709,92.528,0.688,1.0,7.0,0,False,"big band, jazz, swing"
+4UYSSjdIIFzc2VyDE80Ng2,Alcoholic Blues,All Star Trio,162530,1921-04-18,1921,0.993,0.46,0.454,0.898,0.219,-16.628,0.0458,181.504,0.812,1.0,11.0,0,False,
+0DAmNf5cOLGh5WTooojJ53,Afriendisjustanenemywhostabsyouinthefront (Solar Plexus Remix I),Young Astronauts Club,745052,1921-01-15,1921,0.000185,0.529,0.236,0.725,0.0922,-25.416,0.0367,139.981,0.0373,1.0,7.0,0,False,
+1yH68JPvAuZBtjjQFbqzWD,Afriendisjustanenemywhostabsyouinthefront (Diodism Remix II),Young Astronauts Club,435031,1921-01-15,1921,0.00044,0.299,0.134,0.851,0.563,-27.023,0.0449,140.164,0.0713,1.0,2.0,0,False,
+0aUfhHoJryrBNsr90CjgHt,Afriendisjustanenemywhostabsyouinthefront (Diodism Remix I),Young Astronauts Club,435031,1921-01-15,1921,3.14e-05,0.422,0.194,0.891,0.612,-25.435,0.0444,139.981,0.0359,1.0,2.0,0,False,
+2bF1OOpqo5WW8UOuhXfXQ9,Afriendisjustanenemywhostabsyouinthefront (Diodism Remix V),Young Astronauts Club,435031,1921-01-15,1921,9.7e-06,0.419,0.176,0.757,0.612,-25.256,0.0395,139.969,0.11,1.0,2.0,0,False,
+43ZnuFsVglJXndauDG7BTF,Afriendisjustanenemywhostabsyouinthefront (Solar Plexus Remix III),Young Astronauts Club,745052,1921-01-15,1921,0.000975,0.48,0.251,0.772,0.0922,-25.454,0.0397,139.974,0.0468,1.0,0.0,0,False,
+2UoBMyg6qw2IEleYzV3tmB,Afriendisjustanenemywhostabsyouinthefront (Diodism Remix IV),Young Astronauts Club,435031,1921-01-15,1921,0.000172,0.181,0.174,0.847,0.561,-27.187,0.0544,139.982,0.0429,1.0,2.0,0,False,
+5owYddx922AY2H4dwYmfIe,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,360033,1921-01-15,1921,0.0688,0.235,0.119,0.882,0.109,-25.597,0.0427,135.068,0.029,1.0,2.0,0,False,
+5qoM6o3Q2fe04YKp1atSAg,Afriendisjustanenemywhostabsyouinthefront (Solar Plexus Remix II),Young Astronauts Club,745052,1921-01-15,1921,0.000282,0.621,0.446,0.781,0.0937,-24.006,0.0426,140.003,0.0383,1.0,7.0,0,False,
+0fsGqaKtdeuwHjkVggiffW,Afriendisjustanenemywhostabsyouinthefront (Diodism Remix III),Young Astronauts Club,435031,1921-01-15,1921,0.000515,0.32,0.135,0.9,0.612,-26.923,0.0459,140.107,0.039,1.0,2.0,0,False,
+6IK0OJDsIwd0DmyrSnWg5s,Arp dialogue,Mr. Cat,366000,1921-02-08,1921,0.606,0.566,0.481,0.869,0.104,-13.984,0.035,159.998,0.458,1.0,1.0,0,False,
+2YySrNm4OeKIgf8DSNugra,Alabama Luv,Marigold Rose,226302,1921,1921,0.221,0.591,0.446,0.000122,0.148,-6.753,0.0667,72.194,0.416,1.0,3.0,0,False,
+1jkLa97Udyqwp2MtLgV4lz,ASSOCIATE PRODUCER (ZACK SNYDER'S JUSTICE LEAGUE),Enosh Fee,325485,1921-04-05,1921,0.0121,0.756,0.741,9.16e-06,0.0569,-13.092,0.195,119.986,0.518,0.0,5.0,0,False,
+0lndHbl43mjDjZx9xQbNv3,Adicta,"Qravi, Dollaro",163367,1921-02-26,1921,0.205,0.788,0.746,2.15e-06,0.103,-5.719,0.282,178.163,0.663,1.0,8.0,0,True,
+6FV4rOXB3jJhWu7ltOAdJt,Am Einberg geboren,Einbergs Erben,199660,1921,1921,0.138,0.643,0.865,0.0,0.109,-4.935,0.0432,120.009,0.626,1.0,11.0,0,False,
+7AIjpopQN5ojA2KXCqCKP3,"A Midsummer Night's Dream, Op. 61: Wedding March","Felix Mendelssohn, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",252466,1921,1921,0.995,0.456,0.0923,0.0526,0.275,-18.975,0.0374,76.428,0.306,1.0,0.0,0,False,"classical, early romantic era, german romanticism"
+2Y7qu3XXzM6lXWx5cQTMqO,Action,GreenBow,188865,1921-06-09,1921,0.462,0.682,0.547,0.0,0.108,-7.858,0.166,91.94,0.0915,0.0,6.0,0,False,
+5ZMgYvzelw6ALor5G54Wjw,Antiche danze e arie per liuto: II. Gagliarda,"Ottorino Respighi, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",240533,1921,1921,0.988,0.301,0.0953,0.0757,0.374,-18.424,0.0314,75.179,0.374,1.0,2.0,0,False,"classical, early modern classical, impressionism, italian romanticism, neoclassicism, post-romantic era"
+4CBOKYg561Y3gNYBmmLTj8,Ain't We Got Fun!,Jack Norworth,174681,1921-03-09,1921,0.993,0.614,0.177,0.867,0.576,-20.952,0.207,88.46,0.67,1.0,4.0,0,False,
+4wX1xtFyqlhBMBX7xaOfNB,Avec Le Sourire,Maurice Chevalier,153973,1921,1921,0.996,0.526,0.247,0.0,0.116,-13.68,0.0483,83.837,0.775,1.0,2.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+273hgBmjqe8KSxmWHyyPAD,"A Midsummer Night's Dream, Op. 61: Scherzo","Felix Mendelssohn, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",269680,1921,1921,0.976,0.301,0.233,0.205,0.211,-24.463,0.0449,86.27,0.647,0.0,7.0,0,False,"classical, early romantic era, german romanticism"
+4VDkmjXpA2XMdMAYlpdN7V,"A Song, Etc. I",Young Astronauts Club,300000,1921-01-14,1921,3.2e-05,0.35,0.436,0.949,0.261,-15.672,0.0383,140.114,0.0376,1.0,0.0,0,False,
+4pGptJJ2WER8ptc1VOi1ZP,"A Song, Etc. IV",Young Astronauts Club,640000,1921-01-14,1921,0.191,0.773,0.0785,0.85,0.103,-30.181,0.0426,119.961,0.034,1.0,6.0,0,False,
+2naBsFFjAHwM71kKBLhpn0,"A Song, Etc. II",Young Astronauts Club,489999,1921-01-14,1921,0.0342,0.304,0.202,0.875,0.226,-18.198,0.0359,69.869,0.0374,1.0,7.0,0,False,
+6z5ZpkJfzCLp3LOysdiBrN,"A Song, Etc. III",Young Astronauts Club,524999,1921-01-14,1921,0.00875,0.803,0.126,0.838,0.124,-23.225,0.0643,115.016,0.0375,0.0,10.0,0,False,
+4xWqQGRyrIx8RV6cq6cSTQ,"A Song, Etc. VII",Young Astronauts Club,2175000,1921-01-14,1921,0.75,0.251,0.00218,0.895,0.0724,-36.061,0.0318,106.702,0.0293,1.0,0.0,0,False,
+6gzQIz1LESi9BQSBC2WnSc,"A Song, Etc. VI",Young Astronauts Club,2170000,1921-01-14,1921,0.379,0.342,0.017,0.199,0.0684,-26.833,0.0385,114.112,0.0343,1.0,0.0,0,False,
+7FloLYASnnL1bokAD9wid9,"A Song, Etc. V",Young Astronauts Club,1600000,1921-01-14,1921,0.099,0.265,0.0171,0.654,0.052,-30.456,0.0339,56.389,0.0309,1.0,6.0,0,False,
+6n18Iz7N6XxFasqge0aNCr,Antarctic National Anthem - Red Death Remix I,Young Astronauts Club,920000,1921-01-01,1921,0.151,0.575,0.233,0.566,0.101,-19.118,0.0297,100.124,0.33,1.0,6.0,0,False,
+4Lb4vgrb5Em1JM17mfIfMd,Antarctic National Anthem - Cold Coma Remix I,Young Astronauts Club,415000,1921-01-01,1921,0.341,0.235,0.234,0.776,0.0478,-28.673,0.0964,120.148,0.0396,0.0,10.0,0,False,
+7EJQOPmBg0XKUHpYRmrfHK,Antarctic National Anthem - Clock Watch Remix I,Young Astronauts Club,310000,1921-01-01,1921,0.00977,0.826,0.331,0.794,0.381,-23.088,0.146,100.005,0.143,0.0,6.0,0,False,
+04nLyRoBWTO024wVb6wn8q,Afriendisjustanenemywhostabsyouinthefront,Young Astronauts Club,360000,1921-01-12,1921,0.0971,0.126,0.099,0.871,0.109,-25.647,0.0514,39.372,0.0294,1.0,0.0,0,False,
+1VrFeq8ggHN1ry7t7N3e7D,An Entrance 2 Hope,Young Astronauts Club,300000,1921-01-01,1921,0.0177,0.426,0.182,0.842,0.0967,-18.517,0.0441,119.925,0.0338,1.0,2.0,0,False,
+2v71AC2LYdYhqN7agTz3v2,At war,Sezua,280398,1921-09-07,1921,0.417,0.698,0.495,1.68e-05,0.12,-9.638,0.0255,114.986,0.373,1.0,6.0,0,False,
+6C1RY9iOSSOP5Zd03M19iW,Antarctic National Anthem - Musique Concrète Intermission Remix I,Young Astronauts Club,190000,1921-01-01,1921,0.705,0.55,0.281,0.855,0.107,-15.126,0.066,101.015,0.0432,0.0,9.0,0,False,
+7DwIts5dBcGhlOejmKQxDh,A Time 4 Choosing,Young Astronauts Club,620623,1921-01-03,1921,0.675,0.508,0.243,0.456,0.0687,-16.889,0.0424,74.153,0.223,1.0,10.0,0,False,
+4U6BbCd9APw25LBDMwtS2t,Am I Asking Too Much,"Count Basie Orchestra, Dinah Shore",218080,1921,1921,0.989,0.398,0.31,0.685,0.904,-9.62,0.0351,66.535,0.323,1.0,4.0,0,False,"big band, jazz, swing"
+1Dv9mfkMm2nvPsVA1YTheR,Amnesia Haze,Yung Schnooty,31207,1921-08-08,1921,0.649,0.717,0.512,0.00254,0.098,-12.067,0.79,190.221,0.591,0.0,1.0,0,False,
+4XgkMU9mpHrgcSKuebC2ea,artiista impegnato,EVANGELIRICI PURO SANGUE,156949,1921-03-27,1921,0.921,0.321,0.101,2.27e-05,0.101,-26.454,0.0422,86.859,0.367,0.0,4.0,0,False,
+2GdUG0kUEGNkM4J3scYyu8,Al Pie de la Reja - Remasterizado,Ignacio Corsini,174960,1921-03-20,1921,0.995,0.334,0.147,0.258,0.101,-23.214,0.0486,135.111,0.524,1.0,7.0,0,False,vintage tango
+0yKcdafy64xX9n1ant34Ry,Amurado Me Dejaste - Remasterizado,Ignacio Corsini,159013,1921-03-20,1921,0.991,0.484,0.215,0.000546,0.137,-22.223,0.106,76.277,0.614,0.0,4.0,0,False,vintage tango
+2oM5yu6WtfoO2xAju0LKkP,Answer - Live,Trakk sessions,192000,1921-03-19,1921,0.329,0.488,0.27,0.0,0.271,-10.245,0.199,182.216,0.509,0.0,1.0,0,False,
+4Msb1nvoRRLS2FxNV2trro,Arnold Palmer,Yung Schnooty,146181,1921-08-08,1921,0.555,0.612,0.927,0.0,0.339,-6.087,0.398,131.627,0.268,1.0,6.0,0,True,
+753VFGCHEm6RfbP6LawNuk,All Muddled Up,Paul Specht,183072,1921-08-23,1921,0.996,0.493,0.346,0.927,0.149,-13.38,0.0656,180.385,0.893,1.0,0.0,0,False,vintage jazz
+0y3F8OUDFuB5bpWpXnQi7n,A Mi Palomita - Remasterizado,Ignacio Corsini,166986,1921-03-20,1921,0.992,0.332,0.179,4.41e-06,0.432,-20.937,0.0443,75.704,0.403,1.0,0.0,0,False,vintage tango
+4mjzfV62ndPm4Rw9gUi1wr,Azerbaijan National Anthem - Remake,Kaxözæ,135197,1921,1921,0.43,0.4,0.278,0.843,0.0931,-11.696,0.0285,69.872,0.111,0.0,10.0,1,False,
+27o4t3WUGeACeifHtxMNJv,Ain’t We Got Fun,The Benson Orchestra of Chicago,192000,1921-02-17,1921,0.992,0.646,0.256,0.19,0.214,-15.991,0.0677,172.49,0.711,1.0,3.0,0,False,
+0eI1VHyOPA65DThFNJNtSk,I Am An American,Young Astronauts Club,410000,1921-01-15,1921,0.439,0.301,0.209,0.254,0.207,-17.703,0.154,69.853,0.195,1.0,7.0,0,False,
+3ZlvfjWLxFqfOGK2FTR2ph,Un Agent Courait,Georgius,158173,1921,1921,0.978,0.502,0.403,0.0,0.255,-16.814,0.466,67.883,0.716,1.0,7.0,0,False,vintage chanson
+2aCCdTBcNmbcplMO66UAvU,Si J'avais Su,Alice Cocéa,172133,1921,1921,0.995,0.514,0.256,0.0,0.349,-15.145,0.0871,79.467,0.574,1.0,0.0,0,False,
+2ikGmgf43Y10bp5J7IF9QU,Elle Porte Un Nom Charmant,André Urban,177733,1921,1921,0.994,0.426,0.226,0.0,0.235,-16.126,0.0693,73.63,0.552,1.0,9.0,0,False,
+0OjpEnnzN1gFRYkdSh12OI,Trapped In A Burning Weed Forest,ANEURGASM,163720,1921-02-17,1921,0.000844,0.71,0.535,0.726,0.123,-18.418,0.0818,129.007,0.606,1.0,1.0,0,False,
+7FOdz0ddtjeG7WREJQOVa1,La Femme A La Rose,Emma Liebel,162466,1921,1921,0.9,0.371,0.454,0.0,0.332,-15.691,0.0781,110.567,0.551,1.0,6.0,0,False,vintage chanson
+0iN5rCKFd3syYEvHYDS9J9,I am he,Sezua,216032,1921-09-07,1921,0.183,0.694,0.651,4.3e-05,0.081,-7.686,0.03,130.006,0.272,1.0,5.0,0,False,
+4Xdl7jHCxwgyEvZ2IEYc7S,Diamonds and gold,Yano malo,229982,1921-09-17,1921,0.00533,0.924,0.519,0.0,0.109,-12.549,0.398,91.967,0.55,1.0,2.0,0,True,
+2JnZN35adpTjXBH2tIyGF0,On Air Interview - Live @ Open Canvas,Young Astronauts Club,3015000,1921-01-03,1921,0.828,0.619,0.192,3.93e-06,0.248,-16.008,0.959,75.483,0.38,0.0,6.0,0,False,
+12EcgIeLYzfWUxG1XgIwng,I am Groot,Princ3 Goldi3_SplashGod,209372,1921-12-23,1921,0.124,0.791,0.556,0.0,0.254,-9.578,0.313,141.041,0.517,1.0,7.0,0,True,
+0UqiUmGDlhL0A0pmLxafn4,İmtidadı Aşkıma,Hanende İbrahim Efendi,158908,1921-12-18,1921,0.995,0.223,0.245,0.876,0.354,-14.387,0.0387,142.136,0.381,1.0,7.0,0,False,
+2tMXh6THe1xnFMiutyM1wc,In a Monastery Garden,Victor Concert Orchestra,254564,1921-05-30,1921,0.99,0.209,0.174,0.892,0.107,-22.337,0.0416,84.975,0.148,1.0,5.0,0,False,
+5TiLbp6JUvevNfAvZBH7eb,Jazzing Around,Eubie Blake,167020,1921-05-26,1921,0.994,0.553,0.351,0.962,0.281,-23.515,0.0349,135.213,0.828,0.0,7.0,0,False,"harlem renaissance, jazz piano, ragtime, stride"
+3TVH0VRcZo1WElXa7Qs5nI,Independence Anthem (Turkish National Anthem),Kaxözæ,72321,1921,1921,0.451,0.479,0.414,0.946,0.0697,-10.835,0.0354,98.37,0.448,0.0,7.0,1,False,
+0e7LnvE0ZSKedMrCrxkApw,Himno a la Victoria de Yungay (1921),"Orfeón de la Policía de Santiago, Equipo Bandas Militares de Chile",137654,1921,1921,0.996,0.59,0.158,0.954,0.173,-12.71,0.108,209.423,0.939,1.0,10.0,0,False,
+52M2o1iFLWfkOq4ZvciLoR,Home Again Blues,Gene Rodemich,206472,1921-02-08,1921,0.995,0.444,0.317,0.894,0.369,-13.267,0.0827,169.477,0.925,1.0,7.0,0,False,
+2jp18cYBjMLsaDxI4nCazi,Hearts and Flowers-Intermezzo,Victor Concert Orchestra,209189,1921-05-30,1921,0.988,0.136,0.228,0.954,0.15,-24.262,0.0664,86.076,0.119,1.0,7.0,0,False,
+5Om1fEMzEOO9Nzn1OkkqC9,I Ain't Got Nobody,Marion Harris,171268,1921-04-08,1921,0.995,0.238,0.179,0.00369,0.372,-15.802,0.034,62.671,0.415,1.0,9.0,0,False,"torch song, vaudeville, vintage jazz"
+0ppf6ZPAC2I2uIN9fOEHu5,Blueberry AK,Yung Schnooty,182787,1921-08-08,1921,0.546,0.621,0.826,0.000146,0.169,-7.452,0.402,94.361,0.817,0.0,1.0,0,True,
+3tFIHORymiNRnnrqOkBd9Z,parapappa aspetta +,EVANGELIRICI PURO SANGUE,145437,1921-03-27,1921,0.936,0.521,0.0671,6.92e-05,0.542,-16.73,0.171,138.128,0.309,1.0,4.0,0,False,
+69DlPOcYjzLglshmMXiMjU,Montréal (Alien Techno Extended Dub Drone Ambient Remix I),Young Astronauts Club,3430048,1921-01-15,1921,0.703,0.197,0.316,0.852,0.531,-22.193,0.245,150.01,0.086,1.0,1.0,0,False,
+6HvmpluJ9FcKlal9IGoUef,Montréal (Alien Techno Extended Dub Drone Ambient Remix II),Young Astronauts Club,3430048,1921-01-15,1921,0.0178,0.442,0.348,0.879,0.531,-20.396,0.0378,149.996,0.146,1.0,1.0,0,False,
+1RgXfAX9PrSfTKTFvOQxPR,Je N'peux Pas Vivre Sans Amour,Maurice Chevalier,170626,1921,1921,0.992,0.522,0.29,0.0,0.381,-12.194,0.0522,92.707,0.651,0.0,0.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+5qf7z7H2ehaBtJmUd4h4pV,"Symphony No. 39 in E-Flat Major, K. 543: IV. Finale. Allegro","Wolfgang Amadeus Mozart, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",220866,1921,1921,0.994,0.38,0.304,0.681,0.4,-18.47,0.0451,147.681,0.458,1.0,3.0,0,False,"classical, classical era"
+7zph0VMbYl7KoqReyowKiv,"Carmen, WD 31: Aragonaise (Act IV Entr'acte)","Georges Bizet, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",139533,1921,1921,0.984,0.441,0.2,0.598,0.178,-19.763,0.0392,124.762,0.512,1.0,10.0,0,False,"classical, french opera, french romanticism, late romantic era"
+4ThZ5kjaWK29G7EcRJbVAr,"Baby, What Else Can I Do?",Ethel Waters,177000,1921-11-26,1921,0.964,0.488,0.0745,0.0,0.241,-15.734,0.0746,80.426,0.334,1.0,5.0,31,False,"harlem renaissance, torch song"
+2sJui2hAG9oIilZZzSQ5X7,Blue Lou,Fletcher Henderson,190106,1921-12-17,1921,0.984,0.597,0.287,0.894,0.115,-11.84,0.0634,201.517,0.877,1.0,2.0,18,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3j3PVQqMkuo0XZbPJy5mNm,Crazy Blues,Clarence Williams,146773,1921-12-10,1921,0.943,0.791,0.37,0.891,0.0795,-10.606,0.0849,110.957,0.808,0.0,7.0,17,False,"boogie-woogie, new orleans jazz"
+5mZ7CIkcMXxW6vn9Fpzvau,Bring Your Greenbacks,Ethel Waters,173653,1921-11-26,1921,0.994,0.718,0.203,0.00139,0.15,-12.423,0.0612,103.524,0.585,1.0,5.0,9,False,"harlem renaissance, torch song"
+6GRUXp9MOfSlvzzRKRWZfX,Big John's Special,Fletcher Henderson,164586,1921-12-17,1921,0.987,0.802,0.434,0.947,0.173,-10.577,0.0507,107.527,0.893,1.0,11.0,4,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+0H9upbRJXUGlRVvlZLLmNr,Blazin',Fletcher Henderson,177000,1921-12-17,1921,0.992,0.641,0.45,0.687,0.173,-7.969,0.0574,104.193,0.902,1.0,8.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2yUaDB5SHoJYbJYdKqZ5yn,Back in Your Own Backyard,Fletcher Henderson,150200,1921-12-17,1921,0.972,0.534,0.531,0.891,0.0796,-6.959,0.0573,173.99,0.963,1.0,2.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1ZrG0R7e1ucFxECxtrHKvP,Everybody Loves My Baby,Clarence Williams,154480,1921-12-10,1921,0.995,0.555,0.289,0.0837,0.278,-10.463,0.124,181.934,0.804,1.0,0.0,18,False,"boogie-woogie, new orleans jazz"
+1gad3H1JbEjCagBk2eUCz5,Shoo Shoo Boogie Boo,Ethel Waters,170920,1921-11-26,1921,0.884,0.641,0.323,0.0,0.137,-8.552,0.0471,128.713,0.732,1.0,7.0,12,False,"harlem renaissance, torch song"
+6doOUNr7cGsEFjPA4NnGiC,Wild Cat Blues,Clarence Williams,180973,1921-12-10,1921,0.996,0.495,0.426,0.93,0.324,-9.098,0.0545,182.997,0.952,1.0,5.0,11,False,"boogie-woogie, new orleans jazz"
+2uQB9Btx9prrBEQ0YnNzvr,Texas Moaner Blues,Clarence Williams,186493,1921-12-10,1921,0.995,0.524,0.296,0.828,0.36,-14.405,0.0622,80.567,0.546,1.0,11.0,10,False,"boogie-woogie, new orleans jazz"
+6zHWaxJULpoDnUsCwyVxSN,Sweet Georga Brown,Ethel Waters,192613,1921-11-26,1921,0.995,0.581,0.29,0.746,0.325,-9.133,0.103,76.382,0.718,1.0,0.0,5,False,"harlem renaissance, torch song"
+0SDp460ZqQQWC5EWP6ZEHJ,Blue Turning Grey over You,James P. Johnson,166026,1921-05-06,1921,0.929,0.828,0.193,0.827,0.0906,-16.07,0.0736,101.632,0.503,1.0,1.0,2,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5T9OEAPrSzdbSLekOvlR3D,"Blue Moods, Sex",James P. Johnson,281000,1921-05-06,1921,0.995,0.734,0.068,0.913,0.116,-19.494,0.0501,96.902,0.384,1.0,3.0,1,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+1RfqQcvUB1ahGj0fonZVG5,Singing the Blues,Fletcher Henderson,168360,1921-12-17,1921,0.987,0.689,0.191,0.856,0.064,-11.385,0.048,143.062,0.844,1.0,3.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+4dtuk5TUxQnQe4V8KfG5z7,What-Cha-Call-'Em Blues,Fletcher Henderson,169653,1921-12-17,1921,0.995,0.647,0.483,0.838,0.106,-8.275,0.161,202.308,0.931,1.0,0.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+7cOx8MVKmclLFJQfYK2aFb,Organ Grinder Blues,Clarence Williams,191000,1921-12-10,1921,0.983,0.692,0.157,0.0443,0.122,-15.383,0.0654,102.642,0.656,1.0,7.0,1,False,"boogie-woogie, new orleans jazz"
+16Vnvf0jLcHhb0lIPzHztF,Snowy Morning Blues,James P. Johnson,152413,1921-05-06,1921,0.993,0.567,0.233,0.882,0.106,-18.194,0.0713,103.722,0.907,1.0,7.0,1,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5BQ3fLDwp8U1SAtoYkCo3Z,Shoe Shine Boy,Fletcher Henderson,215213,1921-12-17,1921,0.919,0.681,0.24,0.0814,0.119,-8.336,0.0592,122.714,0.725,0.0,7.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3XCU2Z2WrEEcTfC0AFUgSC,Rocky Mountain Blues,Fletcher Henderson,169813,1921-12-17,1921,0.992,0.7,0.486,0.849,0.071,-7.657,0.157,116.819,0.852,1.0,10.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+7zG1PqiOxTsJM3WP79sGL0,"Come On, Baby!",Fletcher Henderson,174720,1921-12-17,1921,0.968,0.825,0.596,0.512,0.0995,-7.236,0.0736,109.271,0.913,1.0,8.0,1,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+6UHEhtQPC4kGk9Jws8em3a,Wang Wang Blues,Fletcher Henderson,180973,1921-12-17,1921,0.99,0.793,0.426,0.92,0.294,-9.409,0.102,109.55,0.964,1.0,5.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+4jkbPE7xh8H5aG2aEE7h0i,Over the Bars,James P. Johnson,146813,1921-05-06,1921,0.99,0.527,0.276,0.876,0.106,-18.465,0.0443,136.827,0.96,0.0,9.0,2,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+0yEdIA1Sgssd20Doihsgi6,If I Could Be with You,James P. Johnson,165533,1921-05-06,1921,0.986,0.805,0.144,0.829,0.196,-17.542,0.0879,106.481,0.596,1.0,1.0,2,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+086sdwPimxyYzrG3wjodgq,I Like to Go Back in the Evening,Clarence Williams,153093,1921-12-10,1921,0.977,0.621,0.304,0.00256,0.0681,-11.378,0.122,84.669,0.628,1.0,3.0,0,False,"boogie-woogie, new orleans jazz"
+6DAsKCMgqSVpGCcVAFiJp9,666,"Lil Boy, Lil Tr3Yckh",227826,1921-03-29,1921,0.644,0.772,0.474,3.14e-06,0.156,-9.728,0.253,136.999,0.322,1.0,0.0,1,True,
+40SeLyXKA7AUk3tsfrdy7m,Beatbox,OnlyAce,126437,1921-09-14,1921,0.00649,0.842,0.371,0.0,0.0923,-11.6,0.122,106.677,0.184,1.0,1.0,0,True,
+0Vq4By4cMBRcYcRLkLEqBJ,Bader badest,Sea man,210076,1921-03-13,1921,0.244,0.912,0.629,0.000814,0.12,-6.728,0.083,108.966,0.756,1.0,1.0,0,False,
+4k6EyMilMDjRBK6QTf1lgC,Basie Boogie,Count Basie Orchestra,145253,1921,1921,0.968,0.513,0.306,0.697,0.113,-15.838,0.0555,179.277,0.754,1.0,0.0,0,False,"big band, jazz, swing"
+0j2zQJODU785f1yX8omtRP,Be Fair,Count Basie Orchestra,155973,1921,1921,0.965,0.456,0.198,8.61e-06,0.759,-14.713,0.0444,109.764,0.331,1.0,7.0,0,False,"big band, jazz, swing"
+6S6IdbwYqOknzUThiNTmtR,Bandana Days/I'm Just Wild About Harry,Eubie Blake,166160,1921-05-26,1921,0.996,0.627,0.106,0.917,0.168,-27.147,0.0597,129.755,0.402,0.0,5.0,0,False,"harlem renaissance, jazz piano, ragtime, stride"
+5dVjWBGd2OUaJb8Oi8OdBR,Broadway,Count Basie Orchestra,191986,1921,1921,0.967,0.486,0.338,0.839,0.0862,-13.007,0.0338,167.926,0.799,1.0,1.0,0,False,"big band, jazz, swing"
+1eb6mtLWBMvYnitnmWE6Ml,Board Meeting,Count Basie Orchestra,151733,1921,1921,0.933,0.668,0.517,0.823,0.202,-11.241,0.0358,93.216,0.651,0.0,5.0,0,False,"big band, jazz, swing"
+4C84uRnMwhHukXBbv08ikk,Blossom Time,Joseph C Smith,196964,1921-11-22,1921,0.996,0.219,0.133,0.864,0.148,-19.334,0.0576,88.183,0.371,1.0,7.0,0,False,
+4cE6nG1YWREIjHhfliCh4n,Bombsicle,Yung Schnooty,110181,1921-08-08,1921,0.463,0.762,0.79,9.86e-05,0.568,-6.173,0.121,104.973,0.582,0.0,4.0,0,True,
+1j9so9ZLYV3HLTRdcvhYnB,Bhula Gailu Jaan,"The Regional Cafee, Abhas Chaturvedi",261125,1921-06-21,1921,0.396,0.684,0.831,0.00486,0.286,-4.507,0.0361,140.121,0.952,1.0,0.0,0,False,
+6YBqmlodT9LcejuGTaIWZC,Beyaz Entarisiyle Kar Gibi Kız,Mehmet Kemiksiz,199392,1921,1921,0.589,0.625,0.587,0.0,0.404,-7.052,0.0353,136.951,0.683,0.0,6.0,0,False,"ilahiler, sufi chant"
+6lwygJ9iQV6NNOQh1Gn3Gb,Baksana Kim Boynu Bükük Ağlayan,Mehmet Kemiksiz,244897,1921,1921,0.167,0.623,0.655,0.00418,0.0891,-7.54,0.0425,126.859,0.64,0.0,1.0,0,False,"ilahiler, sufi chant"
+5Yknrra9N4AKkm6BP6jHpU,Billets Doux,Simone Judic,151200,1921,1921,0.994,0.355,0.199,0.000154,0.236,-16.714,0.053,173.13,0.589,1.0,1.0,0,False,
+2koVN4vxAXOmaqILK5Kbbs,Bakma Kabristanın Saha-i Medhûşuna,Mehmet Kemiksiz,324858,1921,1921,0.793,0.199,0.377,1.96e-06,0.112,-8.668,0.0421,180.181,0.274,0.0,1.0,0,False,"ilahiler, sufi chant"
+4bDblM9ANgWJPgJ4s0FiIC,Believe,Sezua,265133,1921-09-07,1921,0.0119,0.243,0.77,0.0,0.433,-1.966,0.0339,105.048,0.147,1.0,0.0,0,False,
+6NLLFFpIolA76oIgDWiCBl,boxino record,EVANGELIRICI PURO SANGUE,44961,1921-03-27,1921,0.937,0.555,0.0864,0.0568,0.117,-26.257,0.128,109.879,0.789,1.0,2.0,0,False,
+17gxBcWBIkEFUZA0vN5khu,Bir Zamanlar Bizde Millet,Mehmet Kemiksiz,187977,1921,1921,0.384,0.65,0.443,0.0,0.375,-9.478,0.0334,130.009,0.161,0.0,6.0,0,False,"ilahiler, sufi chant"
+28zPUSTbxeExjw0xJW9mJK,Bomb Cyclone,Yung Schnooty,315545,1921-08-08,1921,0.0173,0.506,0.751,0.0,0.129,-5.738,0.357,94.094,0.664,1.0,0.0,0,True,
+4TJ19bfBYABiqbJrki1pNe,Jazz Baby,Jim Europe's 369th Infantry Hell Fighters Band,163129,1921-03-01,1921,0.986,0.552,0.285,0.14,0.632,-18.218,0.149,137.428,0.714,1.0,7.0,0,False,
+5MsBdwaSjCQF6KrVXpoEEn,Hesitating Blues,Jim Europe's 369th Infantry Hell Fighters Band,169714,1921-03-01,1921,0.971,0.536,0.463,0.879,0.361,-14.25,0.0423,96.596,0.921,1.0,10.0,0,False,
+3njBwxOxtUlHlKl2qJs3Bk,Stingaree Blues,Esther Bigeou,188291,1921-12-14,1921,0.988,0.443,0.343,1.74e-05,0.912,-12.606,0.0588,99.983,0.518,1.0,2.0,0,False,classic female blues
+0p6YbqZZXUiZ1RBIYpKTwR,Under the Blood,"Vil, Brotha john",135113,1921-04-04,1921,0.326,0.807,0.65,0.0,0.0921,-7.167,0.145,114.905,0.221,0.0,3.0,0,False,
+1ONAdadR3zkXGNr3jRQkSQ,Darktown Strutter's Ball,Jim Europe's 369th Infantry Hell Fighters Band,169015,1921-03-01,1921,0.94,0.454,0.417,0.861,0.486,-22.16,0.0593,110.027,0.575,1.0,5.0,0,False,
+1iMHHxmlKWglloPz89JDfC,St Louis Blues,Jim Europe's 369th Infantry Hell Fighters Band,180390,1921-03-01,1921,0.966,0.284,0.413,0.889,0.447,-19.244,0.0446,166.696,0.78,1.0,8.0,0,False,
+5qfDpetioBs1o3pKRJ5oeW,Crazy Blues,Mary Stafford and her Jazz Band,180298,1921-08-02,1921,0.995,0.41,0.267,8.34e-05,0.446,-13.46,0.0343,95.875,0.42,0.0,7.0,0,False,
+3sLJUrOFuu3VD7coNrPQ4J,"Cry baby, cry",Pablo Duarte,138867,1921-05-12,1921,0.845,0.22,0.273,0.572,0.0971,-12.365,0.0388,138.627,0.14,0.0,4.0,0,True,
+4qPTJOy3lT5YFaKnXDzsJx,My Brother My Father,"Schake, D. Strode",280000,1921-06-20,1921,0.563,0.686,0.62,0.0,0.242,-6.675,0.0425,84.041,0.199,0.0,4.0,0,False,
+7l6n7R8RyukxWz0RpiSWpX,Unknown Blues,Fletcher Henderson,170084,1921-02-02,1921,0.973,0.448,0.197,0.936,0.0783,-22.278,0.079,131.854,0.843,0.0,0.0,0,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3WVFOl0rhkylyqBaoqRkRK,There'll Be Some Changes Made,"Count Basie Orchestra, Jimmy Rushing",175320,1921,1921,0.723,0.672,0.535,4.8e-06,0.686,-10.667,0.0875,102.367,0.581,1.0,6.0,0,False,"big band, jazz, swing"
+1Gsr2gkyYaK9yI2ZWnWNb0,METH BLEEK X IN THE MIX,Jigaa J,466834,1921-07-26,1921,0.129,0.599,0.351,1.16e-05,0.252,-20.365,0.39,145.411,0.455,0.0,8.0,0,True,
+7aTt6NzOQ5f8436zEp2RGl,3390 Blues I,Young Astronauts Club,190000,1921-01-14,1921,0.965,0.309,0.414,0.937,0.114,-17.288,0.0438,119.963,0.152,1.0,11.0,0,False,
+5cmOFmO6vjlc6DNcN3qkk8,3390 Blues II,Young Astronauts Club,190000,1921-01-14,1921,0.945,0.238,0.189,0.904,0.115,-25.464,0.0437,119.986,0.138,1.0,11.0,0,False,
+76DixYNSWomaC5hordqCyQ,Its Been A Good Time - Live,Trakk sessions,418000,1921-03-19,1921,0.494,0.445,0.253,5.57e-06,0.238,-12.058,0.0457,182.427,0.227,0.0,7.0,0,False,
+7wTMgZPCxgSurQmcETTvR4,La Brisa - Remasterizado,Ignacio Corsini,184200,1921-03-20,1921,0.995,0.587,0.158,0.224,0.69,-22.643,0.208,130.317,0.534,1.0,10.0,0,False,vintage tango
+2MtcWKwc16dqFqdM7v1WST,Şu Boğaz Harbi Nedir,Mehmet Kemiksiz,158641,1921,1921,0.757,0.55,0.515,0.0126,0.375,-6.064,0.0336,123.983,0.538,0.0,11.0,0,False,"ilahiler, sufi chant"
+2A1SsfG9SU5xOVVAYlASpp,CARMELO beneBENE,EVANGELIRICI PURO SANGUE,67570,1921-03-27,1921,0.463,0.624,0.627,0.0658,0.163,-18.924,0.0493,85.179,0.211,1.0,8.0,0,False,
+4yhXZDEdOZIDgXvu7e5RyT,Gati Brangta,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,490057,1921,1921,0.964,0.271,0.285,0.948,0.105,-12.916,0.0342,127.938,0.0944,1.0,8.0,0,False,javanese gamelan
+3VeEQAnp5mP5WWoVuyRgcF,vabbe basta,EVANGELIRICI PURO SANGUE,260958,1921-03-27,1921,0.959,0.409,0.02,0.000112,0.334,-32.842,0.0537,118.942,0.163,1.0,4.0,0,False,
+1o6I8BglA6ylDMrIELygv1,Gati Bali,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,500062,1921,1921,0.961,0.328,0.166,0.913,0.101,-14.85,0.0339,110.339,0.0394,1.0,3.0,0,False,javanese gamelan
+39ZYlUAoqyE05y7rsfeivo,Pour Bien Reussir Dans La Chaussure,Maurice Chevalier,169173,1921,1921,0.995,0.517,0.271,0.0,0.368,-15.487,0.0551,90.39,0.767,0.0,6.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+1WOXWCjKZzJJRSMJcrLrK1,Ey Bülbül-i Ter Zebân-i İrf,Mehmet Kemiksiz,145371,1921,1921,0.258,0.689,0.537,4.4e-06,0.0468,-9.843,0.0282,107.84,0.525,0.0,1.0,0,False,"ilahiler, sufi chant"
+1wrgyLsdflEKbRugkr3mGk,Plantation Echoes,Jim Europe's 369th Infantry Hell Fighters Band,170612,1921-03-01,1921,0.989,0.381,0.326,0.926,0.24,-18.211,0.052,132.285,0.639,1.0,10.0,0,False,
+7sp9mMFEXppoWclAC6v3wJ,L'Arlésienne Suite No. 2: IV. Farandole,"Georges Bizet, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",181293,1921,1921,0.993,0.528,0.355,0.0362,0.275,-16.665,0.0676,95.69,0.658,1.0,2.0,0,False,"classical, french opera, french romanticism, late romantic era"
+0POO8XaUgW5Qjbv9sbDy8W,"La damnation de Faust, Op. 24: Rákóczy March","Hector Berlioz, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",250746,1921,1921,0.996,0.541,0.283,0.898,0.393,-14.808,0.0477,108.986,0.664,1.0,9.0,0,False,"classical, early modern classical, french romanticism"
+3WV2AlpIn96bzLkkZ7RNob,"Symphony No. 5 in C Minor, Op. 67: IV. Allegro","Ludwig van Beethoven, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",522666,1921,1921,0.991,0.305,0.273,0.0746,0.377,-16.778,0.0386,82.801,0.318,1.0,0.0,0,False,"classical, classical era, early romantic era, german romanticism"
+3YWrfsNGrZNsC270jMiBad,"Symphony No. 1 in C Major, Op. 21: IV. Finale. Adagio - Allegro molto e vivace","Ludwig van Beethoven, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",269546,1921,1921,0.987,0.544,0.259,0.0532,0.139,-17.458,0.0437,78.29,0.433,1.0,0.0,0,False,"classical, classical era, early romantic era, german romanticism"
+2ghxu29pXItHoYIDGDR7eN,Drömmen,Benno Damerau,235914,1921-03-04,1921,0.463,0.758,0.584,0.00737,0.0666,-15.14,0.0367,130.993,0.717,0.0,9.0,0,False,
+1Dk68OIDgUXsBcBeZzG7yA,Tufan,"Bünyamin Can Polat, Arin",156447,1921-05-29,1921,0.585,0.734,0.321,0.0,0.133,-13.733,0.263,124.879,0.322,0.0,3.0,0,False,
+6z4gp0Kye2lJIIjFr6oIsQ,"Toot, Toot, Tootsie! (Goobye)",The Benson Orchestra of Chicago,202841,1921-02-17,1921,0.989,0.854,0.212,0.858,0.132,-17.248,0.0654,99.747,0.744,0.0,0.0,0,False,
+66FoyGwnQBXAoHarjUDBnV,Non Ti Scordar Di Me,"Ernesto de Curtis, Beniamino Gigli",200160,1921,1921,0.994,0.197,0.225,0.569,0.123,-13.479,0.0351,84.578,0.164,1.0,9.0,0,False,canzone napoletana
+1L0tVSblPOnFLMUomZd0Fs,Tu Sola,"Ernesto de Curtis, Beniamino Gigli",175053,1921,1921,0.994,0.248,0.173,0.128,0.0916,-12.579,0.0327,84.091,0.0597,0.0,2.0,0,False,canzone napoletana
+4abLonKWoLctb4FbL3EqBc,Fried or Fertalized (How do you like your eggs?),"Bloo, YoCol1n",98683,1921-03-29,1921,0.334,0.633,0.296,0.0,0.347,-8.986,0.0796,120.252,0.834,1.0,1.0,0,True,
+4In4ygixu2Ekq4kz5jrFye,O Sole Mio,"Eduardo di Capua, Beniamino Gigli",180040,1921,1921,0.996,0.203,0.132,0.21,0.251,-13.624,0.04,62.151,0.19,1.0,7.0,0,False,"canzone napoletana, post-romantic era"
+1genKo3fmanWjjKpN2ISZs,PUT IN THE WORK,Boro Slick,231862,1921-03-19,1921,0.0241,0.834,0.546,0.0,0.309,-9.619,0.139,149.997,0.496,1.0,11.0,0,False,
+5Epi8mF3VSVXaG1bBbMgbU,My Melancholy Baby,"Count Basie Orchestra, Jimmy Rushing",189746,1921,1921,0.842,0.564,0.449,0.000521,0.13,-11.398,0.0397,75.96,0.636,1.0,3.0,0,False,"big band, jazz, swing"
+2c6A5kt4ftLMUyDHjCIfWl,Royal Garden Blues,Original Dixieland Jazz Band,158846,1921-02-09,1921,0.995,0.572,0.241,0.869,0.386,-16.172,0.0435,102.166,0.692,1.0,11.0,0,False,
+6H3JkqCZdbTGjaxyQNoiqh,Royal Garden Blues,Mary Stafford and her Jazz Band,182184,1921-06-23,1921,0.993,0.469,0.327,7.74e-05,0.577,-14.168,0.159,72.557,0.41,0.0,5.0,0,False,
+5zwQC6qpVmTCid9fa52jyU,St. Louis Blues,Marion Harris,161991,1921-04-08,1921,0.991,0.449,0.223,0.0,0.0847,-13.295,0.0365,113.866,0.402,1.0,3.0,0,False,"torch song, vaudeville, vintage jazz"
+7rnKIqMtxCn4g72fzELVKc,I'm Nobody's Baby,Marion Harris,169432,1921-04-08,1921,0.995,0.434,0.303,0.302,0.82,-14.411,0.0595,188.411,0.708,1.0,0.0,0,False,"torch song, vaudeville, vintage jazz"
+1zBcLIHAqpBlL8gAJ5Cxa7,Yâ Râb Bu Uğursuz Gecenin Yok mu Sabahı -,Mehmet Kemiksiz,124786,1921,1921,0.597,0.508,0.5,4.49e-06,0.254,-7.805,0.0345,127.969,0.275,1.0,0.0,0,False,"ilahiler, sufi chant"
+47LO5zrjx6ShMymLqp80ef,Şühedâ Gövdesi Bir Baksana Dağlar Taşlar,Mehmet Kemiksiz,396355,1921,1921,0.672,0.403,0.385,0.000339,0.211,-6.507,0.0315,123.839,0.219,0.0,11.0,0,False,"ilahiler, sufi chant"
+1MApUehxLPXVEnr5qxGTcR,Waltzing the Blues,Paul Specht,185104,1921-08-23,1921,0.996,0.593,0.194,0.866,0.298,-14.657,0.0363,129.165,0.535,1.0,5.0,0,False,vintage jazz
+3zQqkuaoobzKGPKH4r4T2b,MUUUUU SOGNI BLUE,EVANGELIRICI PURO SANGUE,67200,1921-03-27,1921,0.792,0.793,0.556,0.663,0.212,-14.509,0.049,100.036,0.162,1.0,7.0,0,False,
+0soeUyCRyxinapMT0v688g,The Jazz Me Blues,Tim Brymn and his Black Devil Orchestra,181813,1921-09-21,1921,0.992,0.612,0.677,0.867,0.928,-11.14,0.107,100.068,0.94,0.0,7.0,0,False,
+3AghGoQRdTi8dXLub1or7T,Down Where They Play the Blues,Mary Stafford and her Jazz Band,189806,1921-01-05,1921,0.995,0.562,0.286,8.51e-05,0.823,-13.928,0.0417,110.287,0.645,1.0,8.0,0,False,
+5PgH6AAb9dKTHPsvJrOALq,Scènes pittoresques (Suite d'orchestre No. 4): IV. Fête bohème,"Jules Massenet, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",262720,1921,1921,0.994,0.508,0.147,0.000828,0.241,-18.392,0.0487,128.518,0.484,1.0,2.0,0,False,"classical, french opera, french romanticism, post-romantic era"
+1oOI1MEkrpbnMCRSK5vGZ1,"Symphony No. 39 in E-Flat Major, K. 543: III. Menuetto","Wolfgang Amadeus Mozart, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",248506,1921,1921,0.991,0.371,0.0742,0.0167,0.385,-20.093,0.0362,138.376,0.536,1.0,3.0,0,False,"classical, classical era"
+3APg2m40Vgzwtp9EtC26Nd,Out Of The Window,Count Basie Orchestra,187293,1921,1921,0.802,0.648,0.509,0.00424,0.462,-11.638,0.0672,111.808,0.532,1.0,4.0,0,False,"big band, jazz, swing"
+3Ff7Q0cw3kjftlrd1LbF5R,Topsy,Count Basie Orchestra,216693,1921,1921,0.894,0.631,0.438,0.177,0.367,-12.312,0.0325,94.592,0.699,0.0,10.0,0,False,"big band, jazz, swing"
+0RXrCSX1tGcwgvYIp6Awai,My Man,Fanny Brice,169594,1921-11-24,1921,0.973,0.512,0.108,0.0,0.745,-19.799,0.0698,113.381,0.546,0.0,10.0,0,False,torch song
+3wPaStVM9n3O8VyUWZI3tx,Second Hand Rose,Fanny Brice,172245,1921-02-17,1921,0.993,0.66,0.209,0.00291,0.431,-12.32,0.0438,94.44,0.648,1.0,9.0,0,False,torch song
+5bgcD0yDzCa0z8wO9oBkbg,Freak Nasty,Lil Bit,146991,1921-02-24,1921,0.182,0.761,0.764,0.0,0.0551,-5.4,0.0408,98.035,0.448,1.0,7.0,0,True,
+2EV71z9RFz15SDR8WezEXG,Une Canne Et Des Gants,Louis Boucot,169266,1921,1921,0.951,0.823,0.329,0.0,0.0646,-12.853,0.143,119.061,0.959,1.0,5.0,0,False,
+4WGoxyROSI7WsgNXI5VVTq,Tune Town Shuffle,Count Basie Orchestra,200280,1921,1921,0.833,0.612,0.57,0.299,0.825,-11.615,0.0519,90.572,0.745,1.0,1.0,0,False,"big band, jazz, swing"
+29ml7UV6iOUk4EpiuhFWSC,Paradise Squat,Count Basie Orchestra,108253,1921,1921,0.87,0.551,0.812,0.967,0.522,-7.74,0.49,81.565,0.513,0.0,9.0,0,False,"big band, jazz, swing"
+1E9JCSCkAMWqiQgzHcZvFg,I Got It from Heaven,Jeffrey Bryan,174376,1921,1921,0.146,0.846,0.577,4.05e-05,0.0698,-8.956,0.0346,130.056,0.965,1.0,2.0,0,False,
+0Loeks60tobFCbq7f1OVOy,Hungarian Rag,Eubie Blake,173206,1921-05-26,1921,0.996,0.548,0.66,0.901,0.525,-11.931,0.0299,128.701,0.816,1.0,5.0,0,False,"harlem renaissance, jazz piano, ragtime, stride"
+3hlojhgW7B1QoSntXOqWW9,Kitten on the Keys,"Louise Teunissen, Rodrigo Ferrari-Nunes, Daniel Baeder",203100,1921,1921,0.525,0.747,0.492,1.83e-05,0.297,-8.837,0.0442,100.019,0.789,1.0,5.0,0,False,
+294o6228Y1iIrgzIDp7sgy,Himno Nacional de Chile (1921),"Orfeón de la Policía de Santiago, Equipo Bandas Militares de Chile",133235,1921,1921,0.995,0.637,0.125,0.883,0.309,-15.962,0.0794,114.236,0.645,1.0,3.0,0,False,
+3MS3Mwf4hh4KOKtvqo1DjL,CRUEL WINTER - CHOPPEDNSCORRED,"DJ Robbie Rods, Infinite Disease, CASA BLANCA, G LOTTO",238835,1921-07-04,1921,0.194,0.67,0.343,0.688,0.11,-13.476,0.33,109.29,0.125,0.0,5.0,0,True,
+6ncKDX6CBB2CBtZWGeEEDK,Sabah Taksim,Neyzen İhsan Bey,211851,1921-02-20,1921,0.995,0.398,0.162,0.799,0.375,-18.142,0.241,71.599,0.378,0.0,2.0,0,False,
+56gbKGdIIYV9jBViI3fHHx,Journey,Joy Marie Boleda,251750,1921-01-21,1921,0.483,0.62,0.504,0.0184,0.1,-8.276,0.0405,160.004,0.127,1.0,3.0,0,False,
+7fIJz2yKRm6DJFxU1dlUjq,Ducc N Dodgers,Swisha MF Brown,153129,1921-08-14,1921,0.0193,0.816,0.364,0.0252,0.133,-15.36,0.311,137.986,0.396,1.0,7.0,0,True,
+6Kqdh8Ixja1SgqGAF2DgvY,Vrix III,Young Astronauts Club,900000,1921-01-14,1921,0.209,0.725,0.288,0.852,0.12,-31.234,0.0676,120.127,0.0361,1.0,1.0,0,False,
+5uAaBkXqYdQinxOpLzds7G,Pharmacy School Theme,Young Astronauts Club,165000,1921-01-14,1921,0.971,0.398,0.242,0.914,0.0776,-16.11,0.113,100.447,0.191,1.0,8.0,0,False,
+2jy7vkWNflSApGQ7b6ziA6,Don Pasquale: Overture,"Gaetano Donizetti, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",388866,1921,1921,0.988,0.341,0.139,0.114,0.304,-19.399,0.0643,68.031,0.287,1.0,2.0,0,False,"classical, early romantic era, italian opera, italian romanticism, opera"
+18BvzCRC1jeAsj1U70YuRy,Il segreto di Susanna: Overture,"Ermanno Wolf-Ferrari, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",151186,1921,1921,0.991,0.465,0.284,0.0225,0.146,-17.776,0.0591,98.336,0.791,1.0,9.0,0,False,"italian romanticism, post-romantic era"
+1qbPiMZIBTFdxCCHysBs1s,Sweet Mamma,The Synco Jazz Band,173010,1921-11-23,1921,0.615,0.439,0.313,0.0,0.132,-17.197,0.0915,80.049,0.62,1.0,0.0,0,False,
+6AVKTpxC3iCD5HcPUSZ88H,Vrix II,Young Astronauts Club,900000,1921-01-14,1921,0.819,0.498,0.0411,0.927,0.113,-37.163,0.0763,120.411,0.0336,0.0,11.0,0,False,
+7fTSelKmfusCCHGDBhSAue,Charleston,James P. Johnson,154613,1921-05-06,1921,0.98,0.445,0.257,0.807,0.114,-15.898,0.0967,201.659,0.744,0.0,7.0,30,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+7J8NvS8xZf3utjalyBAMtJ,Carolina Shout,James P. Johnson,167533,1921-05-06,1921,0.992,0.428,0.341,0.829,0.127,-16.659,0.0337,101.917,0.781,1.0,0.0,19,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+7kaAJ9S52WaQhbqPJkbU5G,Christopher Columbus,Fletcher Henderson,180600,1921-12-17,1921,0.954,0.674,0.527,0.927,0.0793,-8.049,0.0918,97.678,0.835,0.0,7.0,20,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2IEhojyr2eqJgilVoT6TPS,Jeepers Creepers,Ethel Waters,169093,1921-11-26,1921,0.971,0.634,0.191,4.62e-06,0.139,-10.819,0.149,167.898,0.688,1.0,5.0,17,False,"harlem renaissance, torch song"
+6i0yjFxhAexbV4kUmrSAY1,Caprice Rag,James P. Johnson,110133,1921-05-06,1921,0.986,0.427,0.472,0.886,0.41,-11.849,0.0438,120.519,0.891,1.0,6.0,4,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+1ap2Z8mA8bTjesTGOSBrIC,Clarinet Marmalade,Fletcher Henderson,167866,1921-12-17,1921,0.933,0.823,0.51,0.819,0.045,-6.478,0.0924,120.592,0.968,1.0,5.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1Tow5ku44IKitDot293xOG,Jerry the Junker,Clarence Williams,188520,1921-12-10,1921,0.992,0.779,0.217,4.86e-05,0.101,-12.617,0.0707,96.928,0.805,0.0,5.0,10,False,"boogie-woogie, new orleans jazz"
+7jwAEf4JKdtUPryxtpNkjx,Whoop It Up,Clarence Williams,173800,1921-12-10,1921,0.966,0.736,0.186,0.0444,0.0763,-10.755,0.222,140.39,0.738,0.0,5.0,8,False,"boogie-woogie, new orleans jazz"
+3FE0KiXzP283bhiW3CASMi,I Wish I Could Shimmy Like My Sister Kate,Clarence Williams,160613,1921-12-10,1921,0.947,0.794,0.852,0.303,0.155,-8.427,0.248,109.377,0.891,1.0,2.0,7,False,"boogie-woogie, new orleans jazz"
+6kSa6DakZifaP03SODMzA6,Whip Me with Plenty of Love,Clarence Williams,190811,1921-12-10,1921,0.895,0.75,0.303,0.545,0.0758,-8.363,0.112,122.588,0.66,0.0,2.0,3,False,"boogie-woogie, new orleans jazz"
+7w0T30i3mKh3Bur0SmdYcz,I'm Not Worrying,Clarence Williams,185346,1921-12-10,1921,0.993,0.685,0.249,0.0526,0.123,-10.93,0.0611,127.822,0.487,1.0,7.0,7,False,"boogie-woogie, new orleans jazz"
+4vgvENIXcluthE5kcHIjq6,Copenhagen,Fletcher Henderson,177573,1921-12-17,1921,0.994,0.717,0.421,0.898,0.402,-9.116,0.0511,111.474,0.796,1.0,10.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+0DZkK5THuug5S3Q5CFjnFo,You Had It Coming to You,Ethel Waters,138903,1921-11-26,1921,0.991,0.796,0.171,0.000132,0.225,-10.378,0.117,75.032,0.553,1.0,0.0,3,False,"harlem renaissance, torch song"
+34bhnxDoZiUSmwXaOG2RQA,What Goes Up Must Come Down,Ethel Waters,179333,1921-11-26,1921,0.948,0.652,0.294,2.07e-06,0.479,-7.098,0.0475,115.3,0.587,1.0,8.0,2,False,"harlem renaissance, torch song"
+7xVpN2qwQrxfqzTurWHfCH,Swaller-Tail Coat,Clarence Williams,188186,1921-12-10,1921,0.93,0.649,0.374,0.056,0.0591,-12.163,0.191,138.286,0.69,1.0,5.0,0,False,"boogie-woogie, new orleans jazz"
+0cENW4tHPAbOw3cAvG0QJp,I'm Coming Virginia,Fletcher Henderson,184173,1921-12-17,1921,0.994,0.676,0.311,0.786,0.0674,-10.249,0.0703,99.208,0.897,1.0,5.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+7t2CgKU9ypZZPGu2OFYWmk,Zonky,Clarence Williams,165780,1921-12-10,1921,0.94,0.585,0.217,0.000389,0.0574,-11.87,0.118,182.013,0.74,1.0,8.0,2,False,"boogie-woogie, new orleans jazz"
+3vvXAdlOk0qopHo6HP6DZU,High Society,Clarence Williams,191213,1921-12-10,1921,0.92,0.683,0.637,0.91,0.0838,-10.17,0.0744,103.677,0.914,1.0,4.0,2,False,"boogie-woogie, new orleans jazz"
+6DVErOxy7JR9tObMunOCB4,You've Got to Give Me Some,Clarence Williams,170896,1921-12-10,1921,0.922,0.736,0.641,0.0627,0.508,-6.978,0.404,98.586,0.936,1.0,10.0,2,False,"boogie-woogie, new orleans jazz"
+6mP0g0AWoSjQ4MW91UHeyb,The Vamp,Joseph C Smith,177403,1921-11-22,1921,0.996,0.546,0.258,0.892,0.293,-14.457,0.0401,109.784,0.646,0.0,2.0,0,False,
+6yyGrq0OXCiikK42xzZGJj,Tama O Te Mahana,Corinne Tiatia,204293,1921-06-02,1921,0.808,0.648,0.458,0.00105,0.171,-12.674,0.0282,124.086,0.74,1.0,5.0,5,False,
+16BQVLMzkheYIBelqosWZR,"Cuarteto de cuerdas (en un movimiento), Op. 89",Cuarteto Delta,810888,1921,1921,0.933,0.222,0.133,0.586,0.256,-15.606,0.0415,85.126,0.0426,0.0,7.0,0,False,
+4Rv29R4ydhHN9tYPfrZxTz,China Hereje - Remasterizado,Ignacio Corsini,168053,1921-03-20,1921,0.995,0.592,0.0322,0.0573,0.297,-25.844,0.209,69.958,0.451,0.0,5.0,0,False,vintage tango
+1df4BpAgLv4FrlPBPJf88G,Call of the Husky,"Ronald Wayne Thomas Jr, Neil Fagan",317997,1921-09-20,1921,0.841,0.386,0.0963,0.526,0.109,-21.219,0.038,120.386,0.0894,1.0,2.0,0,False,
+0CL5YUrIj1w8K5BxU58ExD,Carry Out,Nuggifreshbeats,227944,1921-06-27,1921,0.448,0.78,0.433,0.916,0.115,-13.448,0.039,119.006,0.423,1.0,7.0,0,False,
+5QzcW4x6BlW8NDnAEiBy5q,Cavalleria Rusticana Selections (Part 2),Victor Concert Orchestra,184686,1921-05-30,1921,0.994,0.333,0.291,0.7,0.289,-16.843,0.046,129.018,0.332,1.0,8.0,0,False,
+54Wq6bPDUv6YNngzkTL9dF,Capítulo 2 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",185109,1921,1921,0.398,0.582,0.0979,2.9e-06,0.471,-15.882,0.693,70.4,0.447,0.0,1.0,0,False,
+5GHFjgYfOfLfMFSsBMwHQF,CODA,Allesandre Cardenas,274285,1921-09-28,1921,0.00957,0.379,0.543,0.788,0.136,-10.362,0.0898,177.334,0.431,1.0,0.0,0,False,
+2gOTLK1aiM2orwvAwv6OCp,Capítulo 8 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",185818,1921,1921,0.449,0.667,0.0754,0.0,0.377,-17.549,0.936,90.014,0.481,0.0,1.0,0,False,
+3OgNPZwzUzoORK3JOwE4Ey,Capítulo 5 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",182473,1921,1921,0.448,0.634,0.111,3.37e-06,0.382,-15.564,0.949,84.686,0.358,0.0,1.0,0,False,
+6xC6Lzvn2Lk5surEEMO1iX,Capítulo 3 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",182520,1921,1921,0.56,0.695,0.117,0.0,0.162,-15.29,0.94,134.222,0.407,0.0,1.0,0,False,
+3h2bxoqG0eNeyrs92LrOWb,Capítulo 11 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",184088,1921,1921,0.597,0.617,0.117,1.23e-05,0.184,-15.701,0.931,167.063,0.446,0.0,1.0,0,False,
+7uFYfxtIQ7epfXjozCjbHh,Capítulo 12 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",183014,1921,1921,0.538,0.698,0.0889,7.96e-06,0.381,-16.068,0.928,127.683,0.453,0.0,1.0,0,False,
+5fNoPOu4dgws8eHNAcNaUE,Capítulo 10 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",186687,1921,1921,0.459,0.661,0.0963,1.24e-06,0.362,-16.431,0.936,75.767,0.443,1.0,4.0,0,False,
+3MVCuSGiCoGBhCt07BvIbr,Capítulo 14 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",218883,1921,1921,0.487,0.696,0.0865,1.15e-05,0.134,-15.717,0.881,132.201,0.398,0.0,1.0,0,False,
+7w7B24TSTOsxwJoJ9ulNsq,Capítulo 1 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",183791,1921,1921,0.501,0.672,0.0932,1.7e-06,0.154,-17.105,0.884,132.317,0.413,0.0,1.0,0,False,
+1FFk580yyYzhq1xOIyzcmF,Capítulo 13 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",181413,1921,1921,0.475,0.696,0.123,1.77e-05,0.175,-16.157,0.931,123.548,0.441,0.0,1.0,0,False,
+1FzEGLED25xpl6fWoe1ova,Capítulo 9 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",181191,1921,1921,0.49,0.719,0.0786,0.0,0.214,-16.657,0.916,101.958,0.471,0.0,1.0,0,False,
+4w9ScvHhLMVR89nRHEjUe6,Capítulo 6 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",181838,1921,1921,0.518,0.696,0.103,2.66e-05,0.15,-15.934,0.902,124.637,0.402,0.0,1.0,0,False,
+4lMnv9pEafok7M2bh53FaJ,Capítulo 4 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",182811,1921,1921,0.579,0.652,0.114,2.96e-05,0.243,-15.411,0.915,93.498,0.499,0.0,1.0,0,False,
+7FesCrO8A5N5t0uY5HHus0,Capítulo 7 - La ciudad sin nombre,"H.P. Lovecraft, Muriel Niebla",183378,1921,1921,0.442,0.668,0.0657,0.0,0.286,-17.757,0.885,76.983,0.394,0.0,1.0,0,False,
+5BOwFPKyqp63iWotfOgxqZ,Colombinella,Fred Gouin,187493,1921,1921,0.986,0.509,0.16,0.0,0.116,-12.68,0.0572,109.296,0.729,1.0,2.0,0,False,vintage chanson
+5bk3jPfA48g3AsH8b3VNJy,Capítulo 5 - El espectro,"Horacio Quiroga, Luis Marquez",184320,1921,1921,0.734,0.711,0.274,0.0,0.247,-14.652,0.932,127.187,0.799,0.0,11.0,0,False,
+5lvd0Y1vDOez2iMLTKEAjh,Capítulo 6 - El espectro,"Horacio Quiroga, Luis Marquez",184506,1921,1921,0.574,0.713,0.25,0.0,0.263,-15.134,0.926,113.942,0.708,1.0,9.0,0,False,
+3kM40kMWDuMvYz59j5vF4T,Capítulo 2 - El espectro,"Horacio Quiroga, Luis Marquez",183426,1921,1921,0.691,0.689,0.299,0.0,0.117,-14.338,0.903,111.14,0.74,1.0,9.0,0,False,
+6Hju9PI9v1yAhcn43aJ7U2,Capítulo 1 - El espectro,"Horacio Quiroga, Luis Marquez",184917,1921,1921,0.752,0.668,0.283,0.0,0.12,-13.926,0.939,147.561,0.754,1.0,8.0,0,False,
+658WfF5GlP1J12jTkDG5rd,Capítulo 7 - El espectro,"Horacio Quiroga, Luis Marquez",247936,1921,1921,0.612,0.69,0.272,0.0,0.219,-15.263,0.93,101.329,0.659,1.0,1.0,0,False,
+4jYlCRnGGchDJgU4m951YF,Capítulo 4 - El espectro,"Horacio Quiroga, Luis Marquez",183146,1921,1921,0.696,0.677,0.28,0.0,0.372,-14.938,0.929,90.996,0.654,1.0,1.0,0,False,
+0AIEPLGpfemy6OOB3I52pD,Capítulo 3 - El espectro,"Horacio Quiroga, Luis Marquez",181267,1921,1921,0.635,0.7,0.27,0.0,0.304,-14.333,0.916,63.017,0.779,1.0,7.0,0,False,
+5UJWQmEL7KuZ337eZamAm6,Capítulo 10 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",182990,1921,1921,0.619,0.607,0.38,2.73e-06,0.124,-15.384,0.957,64.918,0.559,1.0,11.0,0,False,
+0Cmwtbapnh8PNgCjc33Xf4,Capítulo 9 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",186081,1921,1921,0.601,0.715,0.361,0.0,0.171,-14.792,0.929,124.144,0.588,1.0,2.0,0,False,
+1GU6uy9Pn6pC6neC3XGPov,Capítulo 15 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181551,1921,1921,0.424,0.653,0.392,0.0,0.34,-15.834,0.951,85.064,0.651,1.0,1.0,0,False,
+3RLmOurdVohZ0jOqQGXEBG,Capítulo 14 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181608,1921,1921,0.396,0.708,0.367,0.0,0.134,-15.009,0.942,129.085,0.771,1.0,1.0,0,False,
+4huCzqVcW0UNjnEhJTyQNa,Capítulo 12 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181478,1921,1921,0.51,0.693,0.385,0.0,0.257,-14.909,0.917,129.264,0.6,1.0,2.0,0,False,
+0JTYwaUOd48IinwDWlK3OB,Capítulo 16 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",187469,1921,1921,0.498,0.696,0.399,0.0,0.26,-15.776,0.945,82.737,0.655,0.0,8.0,0,False,
+7oubQito15JYs8mDOgfiAC,Capítulo 20 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",186694,1921,1921,0.337,0.689,0.393,0.0,0.224,-15.523,0.929,133.212,0.589,1.0,11.0,0,False,
+1G8fk4pP3ZjXG9i7xuCNVD,Capítulo 17 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",184116,1921,1921,0.387,0.627,0.371,0.0,0.137,-15.585,0.948,82.486,0.735,0.0,8.0,0,False,
+6monvjmSx6yzvVbjAhjwbO,Capítulo 13 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181190,1921,1921,0.462,0.714,0.361,0.0,0.116,-15.382,0.939,126.552,0.581,0.0,8.0,0,False,
+4WoKAwW8qmc8SMHhHocDZO,Capítulo 11 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181844,1921,1921,0.519,0.602,0.41,0.0,0.294,-14.868,0.945,74.056,0.588,1.0,11.0,0,False,
+3rU1MouIDFKBxP6r8fzbgu,Capítulo 21 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181650,1921,1921,0.383,0.666,0.378,0.0,0.225,-15.972,0.933,95.717,0.714,1.0,11.0,0,False,
+2FQS7txtztvbG66F6T4RRw,Capítulo 5 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",180976,1921,1921,0.639,0.713,0.38,0.0,0.186,-14.61,0.943,84.831,0.688,1.0,2.0,0,False,
+0twSLLxkYLwcftem4u2kV9,Capítulo 4 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",187640,1921,1921,0.665,0.665,0.375,0.0,0.307,-14.598,0.944,73.665,0.734,1.0,2.0,0,False,
+2R1Absv51nE24gSGHcCOnL,Capítulo 8 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",181545,1921,1921,0.623,0.653,0.382,0.0,0.138,-14.823,0.939,146.41,0.734,1.0,11.0,0,False,
+3o5JxokDLD0kxcMArfyiqT,Capítulo 7 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",183434,1921,1921,0.788,0.7,0.4,2.89e-06,0.155,-15.009,0.92,120.341,0.664,0.0,11.0,0,False,
+1ZLaih7bjx8LQO6k9r357V,Capítulo 2 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",183228,1921,1921,0.682,0.716,0.351,0.0,0.267,-14.247,0.925,73.219,0.813,1.0,8.0,0,False,
+6RpS3s9aH8dOl74KtaMIai,Capítulo 19 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",184074,1921,1921,0.387,0.679,0.385,6.89e-06,0.248,-15.52,0.954,72.502,0.593,0.0,11.0,0,False,
+3Y8UCnZaKzzCtTCXgJkuPY,Capítulo 6 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",192271,1921,1921,0.655,0.667,0.395,0.0,0.365,-14.718,0.915,98.048,0.681,1.0,2.0,0,False,
+5ChlANNMKgdQ7T6ue5mR26,Capítulo 3 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",192354,1921,1921,0.716,0.61,0.349,0.0,0.146,-14.356,0.936,181.035,0.741,1.0,2.0,0,False,
+3WRpJEQqJIsuxmoiXsTPqn,Capítulo 1 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",185416,1921,1921,0.737,0.698,0.403,0.0,0.138,-13.977,0.868,105.264,0.766,1.0,2.0,0,False,
+0521TvQnInrbscU5mge1Mq,Capítulo 22 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",207674,1921,1921,0.401,0.631,0.39,2.03e-06,0.138,-16.661,0.93,86.039,0.381,1.0,2.0,0,False,
+3p3GTz2xM1So4uY9PcGcQd,Capítulo 18 - El morador de las tinieblas,"H.P. Lovecraft, Luis Marquez",185293,1921,1921,0.404,0.619,0.385,0.0,0.236,-15.977,0.95,175.9,0.691,1.0,1.0,0,False,
+6kR4DPo89As86sm3AYoF1P,Capítulo 21.3 & Capítulo 22.1 - La tía Tula,Miguel De Unamuno,200266,1921,1921,0.886,0.71,0.19,0.0,0.141,-23.899,0.921,129.607,0.84,1.0,4.0,0,False,
+0rFBrRnRRR99vhWwSnw1Qy,Capítulo 22.2 & Capítulo 23.1 - La tía Tula,Miguel De Unamuno,190995,1921,1921,0.909,0.786,0.18,0.0,0.135,-24.169,0.937,51.326,0.903,0.0,9.0,0,False,
+41qO7D6lKiGo2HVMrivdev,Capítulo 11.3 & Capítulo 12.1 - La tía Tula,Miguel De Unamuno,196013,1921,1921,0.934,0.663,0.159,0.0,0.124,-24.396,0.936,82.957,0.948,1.0,1.0,0,False,
+1Q43A6asdZxPTw7ea8S0Ck,Capítulo 8.3 & Capítulo 9.1 - La tía Tula,Miguel De Unamuno,205385,1921,1921,0.961,0.683,0.201,0.0,0.122,-23.554,0.933,101.514,0.845,1.0,11.0,0,False,
+7q5BGTDFHcltbqGy3BDOP7,Cheetah Piss,Yung Schnooty,184273,1921-08-08,1921,0.35,0.622,0.687,1.08e-05,0.497,-7.309,0.347,95.121,0.781,1.0,11.0,0,True,
+1ujO9iJp2m0BnVHtjoyUlf,Capítulo 12.2 - La tía Tula,Miguel De Unamuno,189200,1921,1921,0.87,0.7,0.136,0.0,0.156,-25.385,0.888,109.448,0.959,1.0,11.0,0,False,
+0Gtzk4WMSy07IP9eMSd6X5,Capítulo 12.3 & Capítulo 13.1 - La tía Tula,Miguel De Unamuno,206175,1921,1921,0.864,0.627,0.157,0.0,0.173,-24.342,0.933,63.804,0.886,1.0,1.0,0,False,
+79HN7OEdUMgCfxuKtEVD21,Do What You Did Last Night,Ethel Waters,157013,1921-11-26,1921,0.995,0.648,0.12,0.0,0.134,-15.503,0.113,106.329,0.471,1.0,8.0,12,False,"harlem renaissance, torch song"
+0ijrrGI7MoEovvgDrj7faD,Down In My Soul,Ethel Waters,183733,1921-11-26,1921,0.994,0.743,0.136,0.000481,0.143,-12.403,0.0898,126.04,0.546,0.0,10.0,3,False,"harlem renaissance, torch song"
+6HF7TPOlRYginTGQThzjff,DBEATZ (TRUTH),Dbeatzlegendary,229120,1921-02-26,1921,0.0783,0.702,0.45,0.691,0.694,-10.651,0.0519,144.052,0.839,0.0,7.0,0,False,
+5onW5WGJnE76uwRQN8fo2V,Dans Sa Petite Mansarde,Fortugé,180226,1921,1921,0.988,0.624,0.13,0.0,0.323,-15.988,0.17,78.28,0.574,1.0,7.0,0,False,
+0BMkRpQtDoKjcgzCpnqLNa,Dans La Vie Faut Pas S'en Faire,Maurice Chevalier,147133,1921,1921,0.995,0.463,0.26,0.0,0.258,-16.894,0.0557,85.146,0.826,1.0,9.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+4Zu1Kr6zfR04pETJbFh7Ox,Dolorosa,Robert Jysor,187933,1921,1921,0.995,0.421,0.231,2.62e-06,0.273,-15.493,0.0528,82.769,0.657,1.0,0.0,0,False,
+4SU8RBlxrOtlHjkUxkpDCY,Don't Run,THE GUY,279170,1921-09-11,1921,0.447,0.708,0.544,0.0375,0.0733,-8.124,0.0316,120.0,0.406,1.0,0.0,0,True,
+1Wy1BuvVlkZWsfSge0dp9Q,Doksan Senelik Ömre İlâhi,Mehmet Kemiksiz,256731,1921,1921,0.765,0.474,0.398,0.00368,0.202,-9.565,0.0309,75.931,0.449,1.0,11.0,0,False,"ilahiler, sufi chant"
+0tEOzkcL4OPWHc0hLOrgt2,DAEHAN,Allesandre Cardenas,273230,1921-09-28,1921,9.83e-05,0.804,0.69,0.829,0.0987,-11.78,0.0655,129.992,0.368,0.0,6.0,0,False,
+5MqmoxkxVr5rhillrxbuQ2,Dreaming Of You - Live,Trakk sessions,224000,1921-03-19,1921,0.108,0.445,0.263,0.0,0.158,-11.186,0.0309,140.442,0.136,0.0,6.0,0,False,
+3N8MBd89sUMWs8eIAq3bA7,Down Home Rag,James Europe's Society Orchestra,196752,1921-04-12,1921,0.996,0.447,0.352,0.876,0.369,-23.449,0.053,128.541,0.453,1.0,9.0,0,False,
+63UEKEkN7tvIFNdykgdxeX,I Dü Not Live (Morningstar Remix I),Young Astronauts Club,585052,1921-01-11,1921,0.363,0.494,0.637,0.665,0.0838,-17.853,0.0305,140.057,0.395,1.0,2.0,0,False,
+4vESzvEqHblxeJ8fUOwqHj,Não Vou Desistir,"Rafa, Delandro",150081,1921-01-16,1921,0.367,0.577,0.48,0.0,0.0857,-13.55,0.211,121.673,0.344,0.0,8.0,0,False,
+5m1wHOQ9hoIRKMV1rrekOv,Pree Deep,Topchef Records,153312,1921-01-03,1921,0.403,0.62,0.584,0.0,0.204,-7.854,0.325,127.849,0.79,0.0,11.0,0,False,
+1awYLuvDzWjl1W51O4cy9N,Quarantino Drip,Nuggifreshbeats,231000,1921-06-27,1921,0.0116,0.769,0.404,0.88,0.113,-12.534,0.0812,151.989,0.245,0.0,6.0,0,True,
+2mY1ziXkB3aISB3vFJdEqw,Outer Darkness,741,146285,1921-07-15,1921,0.659,0.0719,0.467,0.826,0.107,-20.49,0.104,77.106,0.06,1.0,5.0,0,False,
+4Kbk069AKG1DTSNxO7zbWe,Sunflower Dance,Margaret McKee,186071,1921-05-09,1921,0.991,0.675,0.327,0.00151,0.347,-16.873,0.0856,108.311,0.583,1.0,0.0,0,False,
+7x7DjIPocIRPnkWJTqGbZJ,I Dü Not Live - Xtremely Remix I,Young Astronauts Club,585000,1921-01-12,1921,0.207,0.542,0.436,0.758,0.0584,-13.767,0.0294,69.967,0.618,1.0,2.0,0,False,
+5lFMFVMpTBkkJlynGbMSjR,I Dü Not Live,Young Astronauts Club,420000,1921-01-12,1921,0.646,0.554,0.656,0.788,0.189,-13.101,0.0296,140.021,0.233,1.0,2.0,0,False,
+6VVYCnJqCWdbnh9Lpu758G,Green Dream,Yung Schnooty,159753,1921-08-08,1921,0.371,0.656,0.481,0.739,0.131,-13.634,0.251,139.96,0.153,0.0,9.0,0,True,
+3SzUxVvgAJh06GUQlC47t1,They Don't Really Know MO-TECH,Allesandre Cardenas,267595,1921-09-28,1921,0.0008,0.804,0.864,0.895,0.0344,-10.822,0.0633,129.119,0.555,1.0,7.0,0,False,
+6IB1DeH0OMLyPqzHc81ETj,Sunny Day - Live,Trakk sessions,238000,1921-03-19,1921,0.505,0.588,0.267,4.39e-06,0.352,-12.702,0.0357,130.91,0.374,0.0,2.0,0,False,
+4rkLztWpftdp6wJXtwmNWP,I Don't Need You,THE GUY,133668,1921-09-11,1921,0.104,0.605,0.329,0.0923,0.334,-11.636,0.0354,79.934,0.272,0.0,11.0,0,True,
+7gnyedTeaoQAmQk1Sgj8Yi,Soleil Du Pacifique,Corinne Tiatia,218400,1921-06-02,1921,0.178,0.698,0.462,0.000745,0.0502,-13.977,0.0425,123.054,0.963,1.0,9.0,1,False,
+5dBsIBr6Yj8IxvIuljmxDs,Hard Truth,DaVinci!,175438,1921-04-07,1921,0.229,0.789,0.259,4.2e-05,0.279,-12.3,0.263,74.985,0.323,1.0,0.0,0,False,
+56Ti3diGEoEi4gPB5pxe4S,El Pelao,Daniel Records,147029,1921-06-06,1921,0.563,0.786,0.743,6.25e-05,0.614,-10.512,0.0466,94.981,0.833,1.0,5.0,0,False,
+2t5UabjiPwVUXJtcpRHreq,Şehnaz Longa,Darüttalim-i Musiki Heyeti,192600,1921-02-20,1921,0.99,0.38,0.525,0.94,0.438,-12.112,0.0432,136.156,0.817,0.0,1.0,0,False,
+3I8393MR3DWSprtxgpZMoy,La Chanson Des Yeux Clos,Marcelly,159466,1921,1921,0.985,0.314,0.281,6.37e-05,0.134,-13.337,0.0648,78.811,0.354,0.0,0.0,0,False,
+0qt9g8zf2ZiQhy3FIx89xA,La Victoire De La Madelon,Fortugé,203800,1921,1921,0.99,0.665,0.231,0.0,0.287,-14.116,0.155,129.671,0.792,1.0,2.0,0,False,
+2SPPpt2HscWqDm8caLE16i,Galopa el Duende en el Rio,Matias Ivan Morales,223033,1921-04-22,1921,0.686,0.566,0.482,4.75e-06,0.178,-5.841,0.0949,131.862,0.413,0.0,9.0,0,False,
+6iQNINnBXPEHqYdjLuVOuc,You Can Do,Vibraty,155791,1921-04-29,1921,0.0677,0.7,0.915,0.0106,0.369,-7.395,0.1,128.097,0.263,1.0,10.0,0,False,
+2d4s665ytsvqukTTEFcfPn,I'm Gonna Do it if I Like it,Marion Harris,171696,1921-04-06,1921,0.987,0.457,0.441,0.0,0.477,-12.957,0.278,83.741,0.38,0.0,3.0,0,False,"torch song, vaudeville, vintage jazz"
+0QQmUf4aPFaN9U2yRko595,When We Die,THE GUY,204956,1921-09-11,1921,0.148,0.604,0.418,0.0382,0.102,-11.566,0.0417,80.073,0.0778,0.0,4.0,0,True,
+7LZfPBcXlGnMlhXuTgpH5Z,La Muerte de Milonguita - Remasterizado,Ignacio Corsini,144826,1921-03-20,1921,0.995,0.374,0.122,0.881,0.101,-25.462,0.0981,69.889,0.533,0.0,7.0,0,False,vintage tango
+5FzS9e2XA6nGvZLPGOu9ya,J'ai Tant D'amour Pour Toi,Corinne Tiatia,323546,1921-06-02,1921,0.516,0.499,0.251,2.67e-05,0.132,-14.198,0.0304,123.858,0.254,1.0,8.0,0,False,
+4wJ5bBGKlrH3rogJEGELAu,Popular Tradición de Esta Tierra - Remasterizado,Ignacio Corsini,174826,1921-03-20,1921,0.993,0.367,0.192,0.947,0.152,-23.92,0.296,83.11,0.637,1.0,6.0,0,False,vintage tango
+2WlMjnZIthzqfwYVHh6zbj,La Pisanelle Suite: II. Le quai du porte de Famagouste,"Ildebrando Pizzetti, Arturo Toscanini, Orchestra Del Teatro Alla Scala, Milano",207800,1921,1921,0.992,0.251,0.275,0.785,0.294,-17.295,0.0371,94.264,0.234,0.0,9.0,0,False,
+5iPQPlU6noZrpU27ABULoy,STEWIE WONDER NON HA L'ERBA DI DENNY,EVANGELIRICI PURO SANGUE,49226,1921-03-27,1921,0.941,0.53,0.0507,0.0521,0.104,-24.839,0.0612,109.631,0.161,1.0,2.0,0,False,
+7kI5S6CvyZcQ2yQip0wtbA,IL FUTURO NON HA RISPOSTE ma solo colpi di tosse,EVANGELIRICI PURO SANGUE,305557,1921-03-27,1921,0.856,0.518,0.342,5.88e-06,0.214,-21.653,0.286,116.753,0.19,1.0,6.0,0,False,
+3Hux9msGCYz3Vz4hn4s2eN,STEWIE WONDER ORA HA DECISAMENTE L'ERBA DI DENNY,EVANGELIRICI PURO SANGUE,115688,1921-03-27,1921,0.44,0.316,0.447,0.905,0.184,-18.526,0.136,108.798,0.188,1.0,0.0,0,False,
+7vlnvBX2t1eYdgVNkoremm,Quand Il Y A Une Femme Dans Un Coin,Maurice Chevalier,138600,1921,1921,0.995,0.408,0.242,1.31e-05,0.546,-16.626,0.0722,79.072,0.689,1.0,8.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+3PzcOyDiO8qTUlnOQB7zCv,I Know What 2 Dü,Young Astronauts Club,465000,1921-01-15,1921,0.00165,0.338,0.216,0.534,0.26,-24.902,0.0422,92.075,0.205,1.0,8.0,0,False,
+3WLvmcoHdM9rq7MZ5lBItg,Montréal (Alien Techno Decoded Remix I),Young Astronauts Club,940030,1921-01-15,1921,0.0954,0.531,0.521,0.786,0.277,-16.957,0.0413,150.005,0.213,1.0,8.0,0,False,
+4PPn0nkwRv4PmtZpxRPvXb,Montréal (Alien Techno Decoded Remix II),Young Astronauts Club,940030,1921-01-15,1921,0.105,0.581,0.521,0.865,0.277,-16.633,0.0645,150.092,0.0831,1.0,1.0,0,False,
+2JeX9jYPuFuWWCnRQttMAc,"I'm Free, Single, Disengaged, Looking for Someone to Love",Mamie Smith,175308,1921-02-16,1921,0.986,0.427,0.251,5.94e-06,0.859,-16.245,0.0577,75.0,0.511,0.0,9.0,0,False,"harlem renaissance, traditional blues"
+3ij8KRBn5i9VpBwM4fqESo,When the Leaves Come Tumbling Down,Paul Specht,189127,1921-08-23,1921,0.996,0.682,0.422,0.809,0.142,-7.345,0.037,96.815,0.764,1.0,3.0,0,False,vintage jazz
+0F30WM8qRpO8kdolepZqdM,Por Que Me Dejaste - Remasterizado,Ignacio Corsini,155413,1921-03-20,1921,0.994,0.378,0.115,0.906,0.11,-27.039,0.0414,70.37,0.578,0.0,10.0,0,False,vintage tango
+0i7MdVu0tNEyUdgpCBilKe,Je M'donne,Maurice Chevalier,181733,1921,1921,0.996,0.5,0.274,0.0,0.302,-14.001,0.041,79.218,0.678,1.0,2.0,0,False,"cabaret, vintage chanson, vintage hollywood, ye ye"
+1fb4Q5i8kkuTf48kZP4YxK,Capítulo 5.3 & Capítulo 6.1 - La tía Tula,Miguel De Unamuno,235541,1921,1921,0.961,0.64,0.17,0.0,0.139,-23.817,0.943,160.024,0.818,0.0,8.0,0,False,
+2tj15DEnw9WP7FqKPqqaSE,Capítulo 8.2 - La tía Tula,Miguel De Unamuno,186400,1921,1921,0.924,0.681,0.135,0.0,0.127,-24.243,0.919,108.866,0.93,1.0,11.0,0,False,
+4V5PzeHBtG7SSNHRyRCESR,Capítulo 29.2 - La tía Tula,Miguel De Unamuno,187200,1921,1921,0.72,0.631,0.122,0.0,0.211,-24.726,0.941,82.268,0.763,0.0,1.0,0,False,
+1jv90NvUxQYUAHCRukP2KJ,Capítulo 32.2 - La tía Tula,Miguel De Unamuno,213600,1921,1921,0.824,0.676,0.128,0.0,0.147,-23.643,0.929,98.228,0.755,1.0,1.0,0,False,
+4RWhziOz1RC9gEvfioZhAy,Capítulo 18.2 - La tía Tula,Miguel De Unamuno,189000,1921,1921,0.76,0.703,0.134,0.0,0.321,-24.066,0.929,109.253,0.697,0.0,10.0,0,False,
+7bdhiBID8ulENpZFzQ5MoD,Capítulo 30.2 & Capítulo 31.1 - La tía Tula,Miguel De Unamuno,188923,1921,1921,0.894,0.643,0.145,0.0,0.139,-25.081,0.901,97.297,0.938,1.0,11.0,0,False,
+0hBEZOuIEbqxn8gVOQkQvg,Capítulo 11.2 - La tía Tula,Miguel De Unamuno,194000,1921,1921,0.959,0.624,0.182,1.9e-06,0.123,-24.503,0.931,87.889,0.961,1.0,4.0,0,False,
+0SZaqCfwPbljmPJGPvoc1Z,Capítulo 32.3 - La tía Tula,Miguel De Unamuno,78627,1921,1921,0.86,0.683,0.175,0.0,0.174,-24.678,0.886,133.885,0.883,1.0,2.0,0,False,
+2Rjo9d9GEMmVrWgCTjng9b,Capítulo 7.3 & Capítulo 8.1 - La tía Tula,Miguel De Unamuno,192740,1921,1921,0.948,0.7,0.144,0.0,0.244,-25.364,0.916,119.362,0.843,1.0,1.0,0,False,
+1ZQIZXN9nanOOiFsogA7bI,sopinei,EVANGELIRICI PURO SANGUE,251368,1921-03-27,1921,0.921,0.549,0.4,4.27e-06,0.0906,-15.022,0.948,87.236,0.511,1.0,7.0,0,False,
+6ZIx5RWYeg7GzaD7cv0XQP,Capítulo 13.2 - La tía Tula,Miguel De Unamuno,194000,1921,1921,0.902,0.718,0.165,0.0,0.224,-23.782,0.854,124.178,0.862,0.0,1.0,0,False,
+3NLNAZ6lUQ7bTCmub0oFOz,Capítulo 1.2 - La tía Tula,Miguel De Unamuno,185900,1921,1921,0.961,0.693,0.18,0.0,0.123,-23.799,0.939,82.048,0.947,1.0,1.0,0,False,
+08zfJvRLp7pjAb94MA9JmF,Il Etait Syndiqué,Fortugé,196560,1921,1921,0.982,0.684,0.257,0.0,0.504,-16.415,0.399,109.378,0.771,1.0,8.0,0,False,
+5gpGhKPJHREwmmlsfT5MCJ,Capítulo 25.2 - La tía Tula,Miguel De Unamuno,215100,1921,1921,0.895,0.717,0.148,0.0,0.137,-24.175,0.919,80.646,0.932,1.0,1.0,0,False,
+3ZEMLaDRwUVIrrxCDc18YH,Capítulo 18.3 & Capítulo 19.1 - La tía Tula,Miguel De Unamuno,205594,1921,1921,0.841,0.718,0.167,0.0,0.22,-23.897,0.942,84.932,0.704,0.0,10.0,0,False,
+7LinUxj1nMFPhXIZtuSZxJ,Capítulo 17.3 - La tía Tula,Miguel De Unamuno,198700,1921,1921,0.741,0.688,0.148,0.0,0.201,-23.478,0.943,79.273,0.786,1.0,1.0,0,False,
+1m0vh8OPujI7KEnwxvxwCE,Capítulo 3.3 & Capítulo 4.1 - La tía Tula,Miguel De Unamuno,212561,1921,1921,0.951,0.656,0.158,0.0,0.296,-25.781,0.946,79.667,0.948,1.0,1.0,0,False,
+2Ps1psECYiGS9BlSMw8MYP,FAmMi TuO sKiT,EVANGELIRICI PURO SANGUE,52000,1921-03-27,1921,0.389,0.488,0.119,0.0,0.656,-26.559,0.332,70.912,0.482,1.0,0.0,0,False,
+6rQflsrQLKpV3RY78jOWhp,Pour Se Faire Remarquer,Georgius,154000,1921,1921,0.995,0.561,0.367,0.0,0.34,-15.549,0.354,75.554,0.759,1.0,9.0,0,False,vintage chanson
+6hNOv6GAcIOLJICV1XJfpp,Capítulo 9.2 & Capítulo 10.1 - La tía Tula,Miguel De Unamuno,207853,1921,1921,0.933,0.712,0.156,0.0,0.175,-24.631,0.922,123.247,0.853,0.0,8.0,0,False,
+0H3k2CvJvHULnWChlbeFgx,La Vipère,Georgel,190800,1921,1921,0.99,0.315,0.363,0.0,0.292,-12.562,0.0546,174.532,0.493,0.0,5.0,0,False,
+5hlAaNyKKLVItnc3f1YxSk,Capítulo 7.2 - La tía Tula,Miguel De Unamuno,189500,1921,1921,0.973,0.687,0.134,4.15e-06,0.108,-25.263,0.942,85.397,0.836,1.0,1.0,0,False,
+67Zwo75ot50mblY2wr2ND9,Capítulo 17.2 - La tía Tula,Miguel De Unamuno,188300,1921,1921,0.891,0.7,0.154,0.0,0.128,-25.062,0.928,106.722,0.939,1.0,11.0,0,False,
+05CgmTtEDRKTTnfdPU8HJ2,Capítulo 20.2 - La tía Tula,Miguel De Unamuno,190200,1921,1921,0.766,0.619,0.159,0.0,0.133,-24.395,0.92,178.723,0.798,1.0,1.0,0,False,
+4mk6eu4poaKZt7EJVjIgox,Capítulo 17.4 & Capítulo 18.1 - La tía Tula,Miguel De Unamuno,204427,1921,1921,0.816,0.709,0.138,0.0,0.152,-23.23,0.918,128.956,0.859,1.0,1.0,0,False,
+3R3XyIdAFEh4bAVyKsKzXL,Capítulo 4.2 & Capítulo 5.1 - La tía Tula,Miguel De Unamuno,195653,1921,1921,0.945,0.673,0.175,0.0,0.189,-23.332,0.949,84.683,0.764,0.0,10.0,0,False,
+20a0UgJ4f0WsFt3ZLcTjiS,Capítulo 3.2 - La tía Tula,Miguel De Unamuno,206000,1921,1921,0.922,0.73,0.186,0.0,0.116,-24.536,0.946,65.026,0.85,1.0,9.0,0,False,
+7wbKcg7pMsYExdxUa7R3Eb,PORTAMI IN AMERICA LATINA,EVANGELIRICI PURO SANGUE,146385,1921-03-27,1921,0.842,0.632,0.918,0.853,0.183,-3.882,0.266,123.236,0.776,0.0,9.0,0,False,
+46AF22f2uKcrsAHD0cvDUl,Capítulo 13.3 & Capítulo 14.1 - La tía Tula,Miguel De Unamuno,186454,1921,1921,0.842,0.684,0.141,0.0,0.128,-23.938,0.912,100.918,0.658,1.0,8.0,0,False,
+2HHyfH00tVAXFasskkkAmk,Capítulo 23.2 - La tía Tula,Miguel De Unamuno,217400,1921,1921,0.95,0.67,0.163,0.0,0.111,-24.396,0.893,98.111,0.967,1.0,6.0,0,False,
+4T3d2QzKqYvUX9LCNlEiZ6,"Going In, Pt. 1",PartyBoy D.S,146625,1921-09-16,1921,0.00753,0.922,0.447,1.91e-06,0.111,-9.098,0.21,99.016,0.254,1.0,1.0,0,True,
+4f5CGinf9BcAcEBirDPjFM,Capítulo 28.2 - La tía Tula,Miguel De Unamuno,188800,1921,1921,0.842,0.694,0.154,0.0,0.208,-23.749,0.923,88.421,0.889,1.0,2.0,0,False,
+6q92pMKUBSGQSFeaNXJ39u,Capítulo 25.3 & Capítulo 26.1 - La tía Tula,Miguel De Unamuno,188418,1921,1921,0.86,0.698,0.165,0.0,0.215,-23.298,0.92,105.291,0.864,1.0,11.0,0,False,
+0QvUUTHYUQQhSXLwffzjL7,Je Suis Toujours La,Fortugé,191333,1921,1921,0.994,0.67,0.113,0.0,0.213,-16.57,0.196,87.162,0.672,0.0,10.0,0,False,
+4hrY1sE4ZumfoFLYGr6prg,Oui Non,Mistinguett,159160,1921,1921,0.992,0.546,0.275,0.0,0.224,-18.119,0.309,80.57,0.463,1.0,5.0,0,False,vintage chanson
+3sbHJDoR2GEvLjSo2ztgOc,Capítulo 19.3 & Capítulo 20.1 - La tía Tula,Miguel De Unamuno,194469,1921,1921,0.895,0.634,0.187,0.0,0.24,-23.281,0.944,84.974,0.803,0.0,8.0,0,False,
+1UjrO34SMvLq6oCBdgZP42,Capítulo 16.3 & Capítulo 17.1 - La tía Tula,Miguel De Unamuno,246594,1921,1921,0.852,0.7,0.144,0.0,0.137,-24.587,0.901,106.269,0.916,1.0,1.0,0,False,
+2lgAz3rSTLcqyVj2fJsIzo,Une Femme Qui Passe,Mistinguett,160373,1921,1921,0.994,0.611,0.297,0.0,0.421,-15.801,0.0661,122.476,0.891,1.0,0.0,0,False,vintage chanson
+4MTktdny0uBZ2PPcxIZCej,Capítulo 2.2 & Capítulo 3.1 - La tía Tula,Miguel De Unamuno,204536,1921,1921,0.967,0.68,0.155,0.0,0.146,-26.682,0.913,103.3,0.961,1.0,11.0,0,False,
+5UEEjFQ38XgS2t0j5W2pGQ,Capítulo 31.3 & Capítulo 32.1 - La tía Tula,Miguel De Unamuno,186693,1921,1921,0.891,0.623,0.187,0.0,0.123,-23.276,0.946,79.858,0.875,0.0,8.0,0,False,
+4R3QCm3fnN0Ja3MNMbZmur,Capítulo 24.2 & Capítulo 25.1 - La tía Tula,Miguel De Unamuno,210516,1921,1921,0.92,0.697,0.195,0.0,0.164,-25.137,0.925,80.52,0.948,1.0,1.0,0,False,
+3RCWNjm7241XjJIKO9KxCy,Capítulo 19.2 - La tía Tula,Miguel De Unamuno,217500,1921,1921,0.865,0.622,0.167,0.0,0.223,-24.105,0.936,76.615,0.829,0.0,1.0,0,False,
+0I9GTOdcFEUJoSOgWTRG5p,Capítulo 28.3 & Capítulo 29.1 - La tía Tula,Miguel De Unamuno,189792,1921,1921,0.812,0.702,0.154,0.0,0.336,-24.283,0.873,102.824,0.821,0.0,8.0,0,False,
+7FpPqbUt8F1X6OBMZO5x2S,MORIREIIIIIIIIIIIIIIIIIIIII,EVANGELIRICI PURO SANGUE,43200,1921-03-27,1921,0.0487,0.66,0.213,0.908,0.103,-19.519,0.0282,100.089,0.162,1.0,0.0,0,False,
+1NSVMHeLyxnSQCZjNOAtlq,Capítulo 29.3 & Capítulo 30.1 - La tía Tula,Miguel De Unamuno,243248,1921,1921,0.763,0.616,0.115,0.0,0.182,-24.205,0.938,78.167,0.878,1.0,1.0,0,False,
+7uzxv816WtcReOodMDy2qe,Capítulo 14.3 & Capítulo 15.1 - La tía Tula,Miguel De Unamuno,201268,1921,1921,0.863,0.701,0.166,0.0,0.166,-23.779,0.932,106.296,0.732,1.0,1.0,0,False,
+0fq60Mwef4BbFG6hDjZmLg,Capítulo 20.3 & Capítulo 21.1 - La tía Tula,Miguel De Unamuno,189650,1921,1921,0.867,0.623,0.163,0.0,0.118,-23.929,0.907,81.071,0.897,1.0,1.0,0,False,
+3SyDVNeyGqRVQDzIMTfpMb,Capítulo 10.2 & Capítulo 11.1 - La tía Tula,Miguel De Unamuno,212103,1921,1921,0.952,0.676,0.163,0.0,0.141,-24.582,0.935,104.371,0.858,0.0,8.0,0,False,
+6V1LfugHTvA0MZWJa4Y1tp,Capítulo 31.2 - La tía Tula,Miguel De Unamuno,208900,1921,1921,0.911,0.703,0.166,0.0,0.196,-24.167,0.92,113.763,0.961,0.0,8.0,0,False,
+2F37W5vQ1XCikidxn6HTZg,Capítulo 6.2 & Capítulo 7.1 - La tía Tula,Miguel De Unamuno,206901,1921,1921,0.966,0.704,0.181,0.0,0.108,-24.158,0.922,107.971,0.869,1.0,1.0,0,False,
+3KCWdz6PBAf3RzRib36zAT,Capítulo 26.2 & Capítulo 27.1 - La tía Tula,Miguel De Unamuno,192083,1921,1921,0.9,0.692,0.158,0.0,0.148,-23.514,0.919,138.072,0.832,0.0,8.0,0,False,
+0DHEIfZHV7AXGK4yRlDUKY,Capítulo 16.2 - La tía Tula,Miguel De Unamuno,200100,1921,1921,0.915,0.615,0.197,0.0,0.134,-23.596,0.926,76.782,0.962,0.0,11.0,0,False,
+6F3Y20nROZQKKTWxlGyrhX,Capítulo 5.2 - La tía Tula,Miguel De Unamuno,188300,1921,1921,0.947,0.598,0.171,0.0,0.146,-25.202,0.915,79.891,0.786,1.0,0.0,0,False,
+5v4uCTFEvsVUVPfGWkrWTA,Capítulo 15.2 & Capítulo 16.1 - La tía Tula,Miguel De Unamuno,231811,1921,1921,0.849,0.679,0.159,0.0,0.154,-23.827,0.932,83.873,0.884,0.0,10.0,0,False,
+0jTp63pmkqrX3mRWbcGZbE,Stormy Weather,Ethel Waters,192266,1921-11-26,1921,0.989,0.363,0.156,0.0,0.168,-13.588,0.0419,84.932,0.372,1.0,0.0,29,False,"harlem renaissance, torch song"
+3Jab5ZvO3dQhdh3KIvl4m0,I Got Rhythm,Ethel Waters,186733,1921-11-26,1921,0.995,0.679,0.27,0.023,0.231,-11.096,0.313,141.719,0.67,1.0,5.0,30,False,"harlem renaissance, torch song"
+3KXETbwJQ4cFPwv2cD7PJP,Shine on Harvest Moon,Ethel Waters,181053,1921-11-26,1921,0.968,0.597,0.165,0.0,0.145,-11.58,0.0719,113.844,0.637,0.0,6.0,12,False,"harlem renaissance, torch song"
+64GF79iJIPnQDichKGnKu7,Eccentricity,James P. Johnson,197586,1921-05-06,1921,0.987,0.245,0.479,0.91,0.172,-11.09,0.0395,190.987,0.937,1.0,1.0,4,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+6dFvad72K2vJ51I9591907,Second Handed Man,Ethel Waters,170080,1921-11-26,1921,0.985,0.634,0.266,0.0,0.177,-10.073,0.242,93.137,0.694,1.0,3.0,11,False,"harlem renaissance, torch song"
+3FYyqbLxXIyJ2qWn0Q1Eye,My Handy Man,Ethel Waters,175000,1921-11-26,1921,0.994,0.527,0.388,1.56e-06,0.269,-9.016,0.0516,102.111,0.538,1.0,7.0,7,False,"harlem renaissance, torch song"
+5FJ66gub6cAB2eqbOWms64,Georgia on My Mind,Ethel Waters,207813,1921-11-26,1921,0.991,0.648,0.132,0.000145,0.0902,-11.927,0.0417,118.563,0.38,1.0,0.0,5,False,"harlem renaissance, torch song"
+6p8ka753YcmqTNzI6tGhlD,Summertime,Ethel Waters,184013,1921-11-26,1921,0.989,0.381,0.146,1.06e-05,0.121,-11.533,0.0843,174.596,0.281,0.0,6.0,4,False,"harlem renaissance, torch song"
+1kdX0V4tDwOLzo8PY5py7r,Heatwave,Ethel Waters,182333,1921-11-26,1921,0.99,0.716,0.283,0.0,0.224,-9.206,0.0605,86.106,0.525,1.0,2.0,3,False,"harlem renaissance, torch song"
+2vrrgPbjOngP0E7pwzE5jc,Push Out,Ethel Waters,167146,1921-11-26,1921,0.975,0.689,0.222,3.97e-06,0.327,-10.746,0.123,171.158,0.829,1.0,0.0,2,False,"harlem renaissance, torch song"
+4offAWw61fLVanDcbpTvbK,Eu Quero Ver Tua Glória,lennon Rossi,450940,1921-11-27,1921,0.0092,0.503,0.394,0.0,0.158,-12.957,0.0344,120.003,0.116,0.0,11.0,0,False,
+6zZ2xGoMpBvM6vz4fp9iWW,Earthstrang,Topchef Records,204000,1921-03-22,1921,0.35,0.656,0.629,1.77e-05,0.0746,-6.822,0.105,100.117,0.153,1.0,2.0,0,False,
+0sEcgAjxofWbr3sCWKdWq9,Electrum,Young Astronauts Club,325146,1921-01-15,1921,0.452,0.334,0.156,0.89,0.172,-24.669,0.0497,84.793,0.0735,1.0,0.0,0,False,
+1ofMBeqCS6JJx0D8X76gAW,E1,Young Astronauts Club,390000,1921-01-15,1921,0.129,0.446,0.3,0.896,0.076,-17.707,0.0334,139.95,0.36,1.0,7.0,0,False,
+4sujj22Tw6JNE7txvwrjSF,ENDURE,Allesandre Cardenas,153600,1921-09-28,1921,0.00174,0.795,0.454,0.547,0.0474,-13.671,0.0643,124.998,0.294,0.0,4.0,0,False,
+3Q4f3n6GqzKPzwXklQaUaa,E Mata Nei Au Tau Lama,Corinne Tiatia,206733,1921-06-02,1921,0.792,0.657,0.461,6.66e-05,0.162,-14.992,0.0308,130.016,0.639,1.0,0.0,1,False,
+107JTiqeqxj5P0ocypagMK,Eşin Var âşiyâ Var,Mehmet Kemiksiz,337606,1921,1921,0.766,0.453,0.559,0.0104,0.213,-8.072,0.0329,156.077,0.47,1.0,9.0,0,False,"ilahiler, sufi chant"
+5FfgNwdEMR9buAFPnDAfwM,El Ultimo Adiós - Remasterizado,Ignacio Corsini,163533,1921-03-20,1921,0.948,0.348,0.345,0.856,0.11,-21.624,0.0654,65.854,0.73,0.0,6.0,0,False,vintage tango
+0sIGoVO1yuIfpikLaKqqVY,Por Ella - Remasterizado,Ignacio Corsini,130199,1921-03-20,1921,0.992,0.286,0.177,0.932,0.11,-25.772,0.0431,167.352,0.425,1.0,7.0,0,False,vintage tango
+4xW0jB5jaR5OkfRaRURXGi,Peacefully,"Tha Homie Jai, JEMIAH CLAY, E tha Turflord",161619,1921-10-01,1921,0.0572,0.534,0.576,0.0,0.148,-10.46,0.475,169.188,0.485,0.0,9.0,0,True,
+6ofW2Gi0wmu0BCmwF7TF3s,Margie,Gene Rodemich,201248,1921-02-08,1921,0.996,0.411,0.183,0.918,0.39,-13.371,0.0369,98.71,0.693,1.0,10.0,0,False,
+3LeS51R27nBYsvszpT1jCE,Romance,Victor Concert Orchestra,267494,1921-05-30,1921,0.995,0.196,0.124,0.879,0.195,-20.336,0.0409,79.715,0.187,0.0,10.0,0,False,
+6C4k9IlSaSwJKIcHMwjB8A,Tea Cup Girl,Eddie Elkins,159165,1921-02-09,1921,0.995,0.726,0.398,0.92,0.296,-13.712,0.0516,97.923,0.854,1.0,5.0,0,False,
+5YuXc3zMaGwSz4gnZVkk1G,Swanee,Gene Rodemich,200177,1921-02-08,1921,0.995,0.557,0.291,0.904,0.337,-13.591,0.044,137.84,0.766,1.0,5.0,0,False,
+466tD4dbdgo4CgSzKAmdE3,Манеры,"Arzinz, Eyzi",184607,1921,1921,0.00671,0.842,0.485,0.0,0.0923,-8.617,0.391,82.523,0.507,1.0,8.0,0,True,
+62CBLlwNCQiaVmpOw9s3fR,Pahu Iti E,Corinne Tiatia,208626,1921-06-02,1921,0.486,0.569,0.445,2.16e-06,0.0968,-15.317,0.0454,155.077,0.796,1.0,2.0,2,False,
+1APt8Ev4aqrGqQW9cs744r,Love Comes so Easy with You,Mia Manchester,214395,1921,1921,0.879,0.693,0.319,3.57e-06,0.101,-10.897,0.0391,80.063,0.668,1.0,5.0,0,False,
+6dYaWvzw63KfxtQgBN7iS2,Castle Walk,James Europe's Society Orchestra,168774,1921-04-12,1921,0.996,0.523,0.275,0.888,0.272,-20.616,0.0683,149.12,0.584,1.0,3.0,0,False,
+31doreNgeesE6UESGbZkni,Too Much Mustard,James Europe's Society Orchestra,224988,1921-04-12,1921,0.996,0.778,0.515,0.803,0.137,-13.3,0.0595,133.596,0.473,0.0,2.0,0,False,
+3XOfikJBmAB0LbORzQsGAn,Castle House Rag,James Europe's Society Orchestra,209224,1921-04-12,1921,0.996,0.43,0.415,0.801,0.121,-16.667,0.0939,127.589,0.388,0.0,2.0,0,False,
+3PIJWavJkuVBtoSsQmRsl6,Sunshine,Jablak el,218711,1921-08-21,1921,0.559,0.702,0.869,0.0,0.0778,-6.881,0.043,90.002,0.951,1.0,5.0,0,False,
+38iWg7IcG1EXrxbibvq8Ox,Ne İçin Mahzun,Hanende İbrahim Efendi,155633,1921-12-18,1921,0.995,0.264,0.287,0.935,0.248,-13.323,0.0356,74.301,0.33,1.0,2.0,0,False,
+3gQfXD5LDn3keUN2pCQ5eq,Realz The Rebel (Emotional),Realz the Rebel,198687,1921-06-25,1921,0.645,0.72,0.812,0.0,0.108,-7.746,0.228,144.95,0.824,0.0,11.0,0,True,
+59uGmwqrztk4PDSdUuvM5Q,Fidgety Feet,Fletcher Henderson,173013,1921-12-17,1921,0.943,0.682,0.533,0.84,0.249,-9.017,0.248,122.514,0.96,1.0,3.0,22,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+6LQUyKvytl0BhLbA5RY2XU,Sing You Sinners,Fletcher Henderson,159280,1921-12-17,1921,0.926,0.757,0.504,0.928,0.261,-8.157,0.0416,94.325,0.944,1.0,1.0,31,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1pbfCGqNxVHaa9eoib2ogy,Shanghai Shuffle,Fletcher Henderson,178480,1921-12-17,1921,0.97,0.723,0.539,0.899,0.0965,-9.905,0.0461,128.567,0.928,1.0,6.0,21,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+7eYM7hEIqkJlOMPIHosb3y,Stockholm Stomp,Fletcher Henderson,179266,1921-12-17,1921,0.957,0.784,0.487,0.901,0.249,-8.65,0.146,125.457,0.967,1.0,0.0,17,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+4FnIN7uRqwDCFW1FczdbjS,Wrappin' It Up,Fletcher Henderson,161266,1921-12-17,1921,0.978,0.701,0.578,0.904,0.0919,-9.531,0.0823,105.864,0.878,1.0,6.0,17,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+688jadVgNeSrI5hG60nbIS,Riffin',Fletcher Henderson,141893,1921-12-17,1921,0.821,0.786,0.581,0.896,0.13,-5.394,0.0519,96.521,0.931,1.0,10.0,12,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2mMx7ZZ4RRK1037eaa41p5,Sugar Foot Stomp,Fletcher Henderson,170240,1921-12-17,1921,0.99,0.813,0.249,0.153,0.101,-9.059,0.0801,102.351,0.821,1.0,10.0,9,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1bxXr0DqWxys9emrmylR37,Stampede,Fletcher Henderson,195146,1921-12-17,1921,0.985,0.661,0.618,0.935,0.327,-7.706,0.0661,112.567,0.884,0.0,5.0,13,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+0ETpXH7sThJjm2k5CGprMa,King Porter Stomp,Fletcher Henderson,176773,1921-12-17,1921,0.986,0.539,0.366,0.237,0.159,-11.284,0.126,174.349,0.84,1.0,1.0,13,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1Dnahb4COJWoXoZyhEeFHt,Hop Off,Fletcher Henderson,178720,1921-12-17,1921,0.988,0.756,0.585,0.806,0.174,-8.51,0.179,116.298,0.958,1.0,1.0,4,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+29ZtXxNuYDYUgRWXrJPmBE,Knock Knock Who's There?,Fletcher Henderson,182973,1921-12-17,1921,0.942,0.704,0.572,0.672,0.28,-9.153,0.095,109.301,0.678,0.0,9.0,4,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1h7NqI5ZijR6SrrABv3bDO,Hocus Pocus,Fletcher Henderson,198906,1921-12-17,1921,0.99,0.729,0.38,0.911,0.108,-11.996,0.0439,93.174,0.879,1.0,1.0,5,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+25D3c69g3pXj8u5eTP8uWw,Moonrise on the Lowlands,Fletcher Henderson,161773,1921-12-17,1921,0.843,0.556,0.48,0.814,0.0445,-4.907,0.0494,173.591,0.933,1.0,3.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2Q8Jfz2OAHOfk7yBykjmfh,Henderson Stomp,Fletcher Henderson,175453,1921-12-17,1921,0.984,0.645,0.398,0.952,0.13,-12.107,0.0785,110.906,0.888,1.0,2.0,5,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2Hqab9SUCb4Wyz8Vsea6ZH,New King Porter Stomp,Fletcher Henderson,188120,1921-12-17,1921,0.948,0.58,0.295,0.389,0.085,-13.845,0.214,203.689,0.667,1.0,8.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+5ZleW4YB2eNdGd3d7AOu8n,Moten Stomp (Moten Swing),Fletcher Henderson,159853,1921-12-17,1921,0.968,0.677,0.639,0.587,0.126,-7.955,0.12,109.649,0.893,1.0,8.0,4,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+59iGPWXWsEtmqJcoOcKknA,"Sing, Sing, Sing",Fletcher Henderson,152493,1921-12-17,1921,0.856,0.779,0.56,0.723,0.0422,-5.384,0.0529,108.51,0.941,1.0,7.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+5SrzCzMoDwFxcHu6Rw6beD,Rhythm of the Tambourine,Fletcher Henderson,157253,1921-12-17,1921,0.982,0.658,0.658,0.907,0.696,-6.747,0.0697,125.308,0.826,1.0,5.0,3,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+1pyIuVAyQPY5OI0ffriUC6,Whiteman Stomp,Fletcher Henderson,168133,1921-12-17,1921,0.993,0.693,0.377,0.852,0.461,-11.253,0.0915,107.857,0.786,1.0,3.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+3y2Nlt8KRMsrYg2s3bBVwJ,Grand Terrace Rhythm,Fletcher Henderson,161973,1921-12-17,1921,0.878,0.73,0.415,0.867,0.255,-5.069,0.0389,89.84,0.863,1.0,9.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+2JXcHKl2wfUkLvtDZ2nasX,Yeah Man!,Fletcher Henderson,173014,1921-12-17,1921,0.896,0.52,0.782,0.304,0.145,-6.656,0.0678,137.835,0.892,0.0,4.0,2,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+6CAYYh8vlO6Xx46eYNv420,St Louis Shuffle,Fletcher Henderson,171013,1921-12-17,1921,0.965,0.736,0.494,0.703,0.0712,-7.793,0.0661,113.999,0.976,0.0,1.0,4,False,"big band, dixieland, harlem renaissance, hot jazz, jazz piano, ragtime, swing, vintage jazz"
+55c6JQPVtzpDSsO1itoFIf,My Fate Is in Your Hands,James P. Johnson,174253,1921-05-06,1921,0.983,0.8,0.0831,0.879,0.126,-19.082,0.0529,95.188,0.353,0.0,5.0,1,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+3EKPnIcRaLOo2nwlcwUeQ1,ParacetaMoney,Fanzypapaya,187768,1921-06-10,1921,0.0849,0.742,0.715,0.000294,0.111,-5.448,0.137,95.04,0.85,1.0,10.0,9,False,igbo pop
+31sTtRBhwG3cKgXPrzeSI3,Fabuloso - Remix,ianlsDJ,144004,1921-05-01,1921,0.0451,0.693,0.588,0.0186,0.0709,-7.963,0.0933,99.983,0.44,1.0,6.0,0,True,
+0IsMAXSn4rxnGxQJ2fxuCT,Friend in Me,Corinne Tiatia,260799,1921-06-02,1921,0.712,0.654,0.442,6.5e-06,0.0731,-14.034,0.034,164.001,0.806,0.0,8.0,0,False,
+5P7A2fzJIJiCK7bRWqBLqO,Fímílè jó,Sezua,223760,1921-09-07,1921,0.087,0.66,0.827,0.0,0.102,-5.142,0.0368,100.005,0.506,1.0,4.0,0,False,
+0SK1upzAP6NvIgF0uGh6z2,Flor Marchita - Remasterizado,Ignacio Corsini,154240,1921-03-20,1921,0.995,0.648,0.0995,0.846,0.112,-22.429,0.105,71.978,0.422,1.0,11.0,0,False,vintage tango
+5ez2VYpmgycNZA1XWRpOpn,Look for the Silver Lining,Marion Harris,155508,1921-04-08,1921,0.993,0.339,0.262,0.0,0.248,-13.915,0.0407,75.559,0.574,1.0,9.0,0,False,"torch song, vaudeville, vintage jazz"
+1T2NGVgAoXjQPEjxTGFRZV,Love for Guns,THE GUY,404062,1921-09-11,1921,0.185,0.577,0.422,0.0349,0.178,-11.108,0.0575,79.997,0.544,1.0,1.0,0,True,
+24llZYWlLnxq7laJo2wtYA,One Flute over the Cuckoo's Nest,Allesandre Cardenas,189374,1921-09-28,1921,0.0265,0.808,0.585,0.914,0.084,-12.681,0.0584,127.994,0.934,0.0,6.0,0,False,
+7BcHE3MKjE2ymwNFKfuH3j,Une Fleur Une Rose,Corinne Tiatia,242066,1921-06-02,1921,0.691,0.602,0.458,7.68e-05,0.144,-12.524,0.0307,120.034,0.515,1.0,2.0,0,False,
+47QOOWUrPggkTdXuxWRLRU,No More Games,Foster C K,223166,1921,1921,0.349,0.703,0.232,4.62e-06,0.084,-14.247,0.12,80.972,0.658,1.0,0.0,0,False,
+3kM7Jt37eRSlenZU0u4jaR,Mali.,"Clive-S, Felexjackson",240218,1921-06-09,1921,0.641,0.807,0.824,0.00262,0.0711,-3.887,0.0503,105.989,0.894,1.0,6.0,0,False,
+06R0xwgaBQnuIhWs16Vp1T,growing pains,Flake$,162000,1921-01-02,1921,0.269,0.686,0.469,0.0,0.062,-17.277,0.183,76.6,0.607,1.0,4.0,0,True,
+6h8fbX06zP4pk1ROR6vODX,Maareva Te Fenua,Corinne Tiatia,232106,1921-06-02,1921,0.63,0.669,0.457,9.26e-06,0.117,-11.982,0.0313,99.995,0.783,1.0,6.0,1,False,
+3QyZdXuHuvFzPnEhcav2Tb,I Know Tha Future I,Young Astronauts Club,600000,1921-01-01,1921,0.323,0.626,0.102,0.819,0.0811,-18.425,0.0742,140.015,0.0372,1.0,2.0,0,False,
+0oJBuvDv41VKG2PKlGJkMj,So Long + Thanks 4 All Tha Fish II,Young Astronauts Club,600000,1921-01-01,1921,0.0184,0.521,0.52,0.842,0.0853,-17.943,0.0462,139.993,0.102,1.0,1.0,0,False,
+0ECA77yka2sStOH5bTNCdP,So Long + Thanks 4 All Tha Fish I,Young Astronauts Club,600000,1921-01-01,1921,0.00207,0.529,0.523,0.974,0.0268,-20.898,0.0329,140.01,0.463,1.0,1.0,0,False,
+2DzmNyroGZOuwr0LksRJ1o,Capítulo 1.3 & Capítulo 2.1 - La tía Tula,Miguel De Unamuno,206142,1921,1921,0.933,0.636,0.148,0.0,0.13,-25.939,0.942,85.005,0.885,1.0,1.0,0,False,
+5rkmU4ppXKdrkszhAG8sIo,Capítulo 1.1 - La tía Tula,Miguel De Unamuno,193100,1921,1921,0.966,0.631,0.209,0.0,0.189,-22.498,0.948,82.945,0.949,1.0,11.0,0,False,
+1AqL0AYn3QfhMwjW50Rubf,Capítulo 23.3 & Capítulo 24.1 - La tía Tula,Miguel De Unamuno,187992,1921,1921,0.926,0.696,0.185,0.0,0.136,-24.258,0.938,73.791,0.907,1.0,1.0,0,False,
+0rfLA6GRLjDcuMIYyaKdJe,Capítulo 21.2 - La tía Tula,Miguel De Unamuno,198200,1921,1921,0.874,0.717,0.134,0.0,0.249,-24.16,0.9,118.121,0.927,1.0,1.0,0,False,
+3KgDJ8Ca0omEkQPsse1oSJ,Capítulo 27.2 & Capítulo 28.1 - La tía Tula,Miguel De Unamuno,202531,1921,1921,0.882,0.633,0.119,0.0,0.14,-24.561,0.909,85.34,0.888,1.0,9.0,0,False,
+1ID4hNKqUjRcv7wZC8EARG,Capítulo 14.2 - La tía Tula,Miguel De Unamuno,187800,1921,1921,0.863,0.661,0.186,0.0,0.12,-23.336,0.932,68.578,0.811,1.0,1.0,0,False,
+1Q7ILjYgakn6Y5WqKbvZ1k,Keep off the Grass,James P. Johnson,158800,1921-05-06,1921,0.932,0.735,0.391,0.831,0.157,-16.723,0.0635,126.325,0.902,0.0,2.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5rnqsslN8XrCkEdZWzFWSS,Gham Khariyan,Sartaj Khan,263157,1921-07-10,1921,0.742,0.638,0.409,0.0,0.0765,-7.126,0.0375,85.456,0.633,1.0,4.0,0,False,
+7D97NlUR1DwwNRSbZD0ei0,Gati Mardawa,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,464065,1921,1921,0.977,0.277,0.143,0.885,0.159,-13.089,0.0302,99.407,0.061,1.0,9.0,0,False,javanese gamelan
+6oXKID9RCMj3y2Dee57FNP,Gati Sangaskara,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,380055,1921,1921,0.693,0.29,0.283,0.46,0.142,-12.114,0.0349,129.828,0.0737,1.0,9.0,0,False,javanese gamelan
+3C8IMx8BgWGiQE9bIuqCvP,Gati Kumencar,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,460068,1921,1921,0.982,0.316,0.15,0.909,0.093,-14.79,0.0333,99.526,0.0443,1.0,9.0,0,False,javanese gamelan
+5oBrfFrhnPn207qrhS0m0s,Gati Mrak Ati,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,354063,1921,1921,0.967,0.39,0.13,0.867,0.183,-15.466,0.0355,115.774,0.0388,1.0,3.0,0,False,javanese gamelan
+2OlwTxNQ9kSkbPFC7tQN5x,Gati Hendrakusuma,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,378070,1921,1921,0.923,0.396,0.3,0.61,0.135,-11.768,0.0353,110.746,0.072,1.0,9.0,0,False,javanese gamelan
+2xMpQnfWIgRFjzrRXOl4zT,Gati Harjuna Mangsah,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,544052,1921,1921,0.896,0.476,0.677,0.644,0.4,-11.628,0.108,116.572,0.115,1.0,4.0,0,False,javanese gamelan
+1OicZEUVSwpiAosSQm16D8,Gati Main-main,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,401057,1921,1921,0.975,0.37,0.196,0.945,0.143,-15.531,0.0449,116.65,0.0608,1.0,4.0,0,False,javanese gamelan
+7GH0i9aPD7ZGNxoIVS4Fhf,Gati Raja,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,448052,1921,1921,0.971,0.264,0.22,0.922,0.0894,-13.305,0.0328,111.811,0.0515,1.0,8.0,2,False,javanese gamelan
+7fhrYSQB5m0hqAGUbwsTFT,Ghost,"Megan Curtis, Young Nomad",161071,1921-04-16,1921,0.611,0.66,0.272,0.0032,0.133,-12.536,0.0279,84.979,0.299,1.0,2.0,0,True,
+2tDwnNWXjupxNEjTTb9qDQ,Gati Kridha,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,494053,1921,1921,0.922,0.27,0.266,0.802,0.0938,-11.077,0.0323,100.771,0.0447,1.0,9.0,0,False,javanese gamelan
+7agPeo1jNiA5OEXGFDzl7I,Gati Wiwaha,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,496065,1921,1921,0.916,0.261,0.164,0.0574,0.104,-11.019,0.0331,105.664,0.0494,1.0,9.0,0,False,javanese gamelan
+2c6cN8mcYzqvFbLnzuPI4K,Gati Mares,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,414066,1921,1921,0.935,0.36,0.145,0.384,0.0903,-17.269,0.0383,110.354,0.0769,0.0,6.0,0,False,javanese gamelan
+2xJPXDxhBbcI8d4KraRJmT,Gati Padasih,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,416052,1921,1921,0.943,0.212,0.215,0.442,0.1,-13.368,0.0392,65.926,0.0358,1.0,3.0,0,False,javanese gamelan
+4jFzCDBChPFeun3uO9K9nM,Gati Helmus,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,524068,1921,1921,0.941,0.314,0.209,0.473,0.0979,-14.655,0.033,107.781,0.0718,1.0,3.0,0,False,javanese gamelan
+2c0PkKLfG5HKvB5L1wJciC,Girls,Poppy Rossi,215431,1921-04-01,1921,0.238,0.731,0.24,0.000302,0.145,-17.587,0.0334,109.998,0.34,1.0,7.0,0,False,
+6QDEivvdUMxH42QVxfSsSK,Gati Lumaksana,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,454060,1921,1921,0.951,0.255,0.192,0.0381,0.245,-15.753,0.0379,98.729,0.0542,1.0,3.0,0,False,javanese gamelan
+4pyw9DVHGStUre4J6hPngr,Gati Mardika,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,395075,1921,1921,0.579,0.697,0.346,0.168,0.13,-12.506,0.07,119.824,0.196,1.0,2.0,1,False,javanese gamelan
+6iCJVUEFqy3waLDQLNxDzx,Get high,Sezua,270706,1921-09-07,1921,0.103,0.582,0.709,0.0,0.0819,-5.833,0.0286,159.887,0.417,1.0,5.0,0,False,
+4H4Fkp4DXxPAWVKygZD67V,Gölcük March,Kaxözæ,114090,1921,1921,0.715,0.623,0.176,0.948,0.125,-15.223,0.0343,110.964,0.527,1.0,8.0,3,False,
+4xNH9J3iUrUTD7ldKrW5Yy,Gelato,Yung Schnooty,110712,1921-08-08,1921,0.498,0.561,0.767,7.31e-06,0.427,-5.852,0.152,104.772,0.862,0.0,4.0,0,True,
+6T9dM3UsHEkXv5Q6diEm3r,Return/Gone,THE GUY,224287,1921-09-11,1921,0.0169,0.713,0.42,0.488,0.107,-11.957,0.0322,119.973,0.191,0.0,7.0,0,True,
+3YVy92W44JmU6KeF6UMldm,Tigers,THE GUY,323840,1921-09-11,1921,0.588,0.341,0.256,0.157,0.105,-16.012,0.0461,121.051,0.0779,1.0,9.0,0,True,
+5txMKuf1lMNmu8g5bsVrc7,I'm Gonna Jazz My Way Right Straight Thru Paradise,Mary Stafford and her Jazz Band,189310,1921-10-11,1921,0.995,0.459,0.336,0.000229,0.381,-13.552,0.0599,114.498,0.351,1.0,7.0,0,False,
+1qmXkw1WhSvvIL5IqBnW82,Kasr-ı Gülşen,Mehmet Kemiksiz,249652,1921,1921,0.709,0.516,0.576,0.226,0.11,-7.197,0.0303,123.853,0.752,0.0,6.0,0,False,"ilahiler, sufi chant"
+2xRAzeh9R6zNdXdVhCXMxj,Prabu Mataram,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,546032,1921,1921,0.478,0.28,0.0294,0.00569,0.0439,-28.522,0.0324,106.083,0.25,0.0,2.0,2,False,javanese gamelan
+2X6BN8RXjr4ArIEhjGa6QV,Tedhak Saking,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,301356,1921,1921,0.653,0.727,0.0116,3.78e-05,0.204,-32.959,0.22,132.413,0.231,0.0,3.0,1,False,javanese gamelan
+7Mm3oBeXxTv6CvjHc23PNk,Queen,GT SPESHY,206837,1921-03-08,1921,0.0173,0.659,0.598,3.54e-05,0.133,-10.205,0.152,104.916,0.768,1.0,6.0,0,False,
+0yxeAe7MlS0UWZVdNZVZWw,Raja Manggala,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,686663,1921,1921,0.505,0.233,0.00817,0.000203,0.109,-37.311,0.0305,108.143,0.185,1.0,8.0,2,False,javanese gamelan
+35eVH8c7u6LGwyksBGMQCp,Sri Kondur,KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat,255377,1921,1921,0.465,0.758,0.0148,1.94e-05,0.349,-30.842,0.133,77.031,0.29,0.0,0.0,1,False,javanese gamelan
+4BhaRYtAMd1owrQasZOagV,Sajan Ke Ghare Jaibu,"The Regional Cafee, Abhas Chaturvedi",300774,1921-06-21,1921,0.227,0.806,0.752,1.37e-06,0.248,-5.933,0.0323,118.008,0.956,1.0,1.0,0,False,
+7jcRC7GOyRZneG3TdXNJ0C,Ice Cream Gelato,Yung Schnooty,204545,1921-08-08,1921,0.0845,0.725,0.951,4.94e-05,0.278,-5.491,0.328,93.947,0.217,0.0,11.0,0,True,
+4GaJNvSwIT9ZfVqtZaZLye,Take It Away Real Gently,Marigold Rose,227535,1921,1921,0.119,0.64,0.529,0.0,0.206,-7.436,0.0261,103.016,0.577,1.0,7.0,0,False,
+0u3odChKZ3DDSmR0yvlCBg,Honey - Live,Trakk sessions,185250,1921-03-19,1921,0.259,0.651,0.233,2.92e-06,0.0924,-10.929,0.0531,138.69,0.324,1.0,8.0,0,False,
+0kyMq8FoozwrjievRJJAN5,Other Side - Live,Trakk sessions,290000,1921-03-19,1921,0.219,0.567,0.318,0.000153,0.102,-10.912,0.0434,120.408,0.572,0.0,11.0,0,False,
+0EBuLL7u2fmOaJdKecimoR,"Matilde di Shabran: Atto I - Versione originale ""Roma 1821""; registrazione dal vivo: Genova, Teatro Margherita, 27 Marzo 1974","Gioachino Rossini, Bruno Martinotti, Orchestra del Teatro Comunale dell'Opera di Genova",3107553,1921,1921,0.734,0.432,0.321,0.0199,0.692,-15.134,0.265,128.628,0.271,1.0,7.0,0,False,"classical, italian opera, italian romanticism"
+4fQrWxvTBZRM5swbb2ExRw,"Matilde di Shabran: Atto III - Versione originale ""Roma 1821""; registrazione dal vivo: Genova, Teatro Margherita, 27 Marzo 1974","Gioachino Rossini, Bruno Martinotti, Orchestra del Teatro Comunale dell'Opera di Genova",3028716,1921,1921,0.736,0.32,0.217,0.00687,0.2,-20.223,0.251,66.59,0.234,1.0,2.0,0,False,"classical, italian opera, italian romanticism"
+1ptNlxCB0ZxYNCpNj99VRs,"Matilde di Shabran: Atto II - Versione originale ""Roma 1821""; registrazione dal vivo: Genova, Teatro Margherita, 27 Marzo 1974","Gioachino Rossini, Bruno Martinotti, Orchestra del Teatro Comunale dell'Opera di Genova",2085460,1921,1921,0.776,0.495,0.304,0.000659,0.665,-16.11,0.265,121.98,0.286,1.0,8.0,0,False,"classical, italian opera, italian romanticism"
+3tvOkDD8CLIrZPc6ML2nZX,Honey Hole,Tyree Neal,190249,1921-03-17,1921,0.482,0.761,0.615,0.0,0.218,-5.508,0.0643,90.994,0.646,0.0,9.0,2,False,southern soul blues
+1RTXam3nlPyvexWb1mwryL,if only i had someone to listen to my head,odihu,70008,1921-03-26,1921,2.14e-05,0.252,0.538,0.0301,0.351,-1.93,0.0641,157.473,0.374,1.0,5.0,6,False,
+6avpxKv65uIYc7NasZwpPp,Honeysuckle Rose,James P. Johnson,159520,1921-05-06,1921,0.98,0.729,0.334,0.86,0.0919,-15.472,0.0515,104.695,0.932,1.0,5.0,2,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5knPOoBS2MdWw5bAQSoXoE,Home,Sezua,270001,1921-09-07,1921,0.243,0.61,0.446,0.00274,0.112,-5.973,0.026,179.98,0.368,1.0,1.0,0,False,
+7fcsVwJ3BgZAUDdWqopdeN,New Hope,Young Astronauts Club,940000,1921-01-15,1921,0.928,0.391,0.155,0.933,0.084,-23.937,0.0329,140.036,0.0344,1.0,9.0,0,False,
+27LYINFAjaKGMWQc6EfAtT,Mis Harapos - Remasterizado,Ignacio Corsini,178346,1921-03-20,1921,0.996,0.655,0.119,0.474,0.143,-22.774,0.127,106.511,0.558,1.0,11.0,0,False,vintage tango
+2knLl2uZZzYU3xMcf7KzsM,7+2+1,"heydexter, Lil Spooky",206256,1921-04-20,1921,0.00156,0.958,0.44,0.0,0.0624,-5.023,0.253,135.024,0.762,0.0,8.0,0,True,
+0uagZavBOkeWQobT9gvOL8,"Musical Moment, Op 11/ No. 1","Henryk Pachulski, Matthew Cooper Compositions",169970,1921,1921,0.995,0.522,0.00631,0.925,0.0759,-25.65,0.0701,132.139,0.231,0.0,11.0,0,False,
+1MjvHZmXtCD1obr1rqT993,No Tou Here,Corinne Tiatia,201200,1921-06-02,1921,0.678,0.668,0.408,6.81e-05,0.105,-14.082,0.0296,125.024,0.861,1.0,5.0,1,False,
+6cVkAH7v8XzMqNoSA46bl3,L'hirondelle,Michel Stella,227091,1921-08-19,1921,0.942,0.445,0.184,0.842,0.115,-15.55,0.0463,120.384,0.11,1.0,5.0,0,False,
+4KvoVsBmogxuX2ZRmfaWhG,I Wanna Love You More,Chozen Princess,324310,1921-05-08,1921,0.665,0.586,0.53,3.89e-06,0.123,-8.327,0.0341,126.108,0.516,1.0,0.0,0,False,
+6sSItX9ZbwSSS1LxiwVUEu,If Only,Malcontent,367007,1921-03-05,1921,0.058,0.566,0.465,0.000145,0.0999,-10.646,0.0366,128.502,0.103,0.0,8.0,0,False,
+7ErwCjoOcyGsXWfQ7YHWti,I live i rule and reign,Sezua,270706,1921-09-07,1921,0.657,0.59,0.311,0.0,0.0834,-9.921,0.0295,142.624,0.385,1.0,1.0,0,False,
+2KSsFZP5Y6HEL6K34JNjzz,Infinity II,Young Astronauts Club,540055,1921-01-03,1921,0.422,0.332,0.122,0.847,0.0593,-26.53,0.0388,105.044,0.0396,0.0,5.0,0,False,
+6ddZEvmBmc5EIptCkmu2t4,Infinity I,Young Astronauts Club,525061,1921-01-03,1921,3.89e-05,0.604,0.6,0.701,0.0807,-17.946,0.0577,140.022,0.062,1.0,10.0,0,False,
+6GuRBnR6BN0xseg8cwn8BQ,Ivyland,Young Astronauts Club,2660571,1921-01-15,1921,0.824,0.455,0.101,0.831,0.0959,-23.623,0.0368,140.056,0.108,1.0,8.0,0,False,
+6z8txhd3ozQtdUJ4pmqFsv,Infinity III,Young Astronauts Club,525061,1921-01-03,1921,0.00213,0.816,0.141,0.29,0.0933,-22.311,0.0994,139.977,0.0327,1.0,7.0,0,False,
+1eDKYnTAGIOufLJ28HxBLK,The Idiot,Young Astronauts Club,105000,1921-01-15,1921,0.989,0.508,0.173,0.657,0.265,-21.504,0.24,145.508,0.671,1.0,5.0,0,False,
+0y9yTRLs0uhsCXxAmetUCe,It's You,Joseph C Smith,181708,1921-11-22,1921,0.996,0.381,0.222,0.88,0.471,-17.011,0.057,170.079,0.694,1.0,5.0,0,False,
+2XLZsWf9Nivj7v7J9bAWDH,Istanbul,Young Astronauts Club,305000,1921-01-03,1921,0.0023,0.818,0.074,0.823,0.102,-21.225,0.0502,140.091,0.23,1.0,1.0,0,False,
+6z1LtPEtDYQX6S2V0bMKga,Mis Ilusiones Perdidas - Remasterizado,Ignacio Corsini,162333,1921-03-20,1921,0.995,0.323,0.111,0.781,0.102,-24.571,0.0418,99.349,0.667,0.0,5.0,0,False,vintage tango
+2wWdqViSBhRvE9nqvAdXfm,Nafix I,Young Astronauts Club,960052,1921-01-13,1921,0.278,0.641,0.00905,0.892,0.101,-32.209,0.0625,139.956,0.159,1.0,7.0,0,False,
+4FFxgO98bGJrKypsoTyOez,Nafix II,Young Astronauts Club,960052,1921-01-13,1921,0.000474,0.742,0.467,0.845,0.102,-17.942,0.132,140.076,0.0705,1.0,7.0,0,False,
+6v6FhKJd8EafxQrNNL0Dor,Nafix III,Young Astronauts Club,960052,1921-01-13,1921,0.00271,0.741,0.812,0.886,0.0918,-13.71,0.107,140.103,0.0743,1.0,7.0,0,False,
+6q9D6T7X9FocdLtQwr2u8D,Jesse I / Jesse II,Young Astronauts Club,320000,1921-01-07,1921,0.938,0.225,0.282,0.868,0.335,-15.079,0.0481,73.341,0.0311,1.0,8.0,0,False,
+0IFbQ0WfbSpFkUDqtE0nhy,Vrix I,Young Astronauts Club,900000,1921-01-14,1921,0.861,0.309,0.00454,0.922,0.0965,-32.306,0.041,79.321,0.0379,0.0,11.0,0,False,
+6vhGUjeJIFgtbsdCRm7lSC,Vostok III,Young Astronauts Club,215054,1921-01-15,1921,0.000257,0.602,0.62,0.213,0.0304,-20.87,0.0826,157.935,0.0375,1.0,8.0,0,False,
+4f2gOViTZuwWxsS4qYGboQ,Vostok II,Young Astronauts Club,215054,1921-01-15,1921,5.06e-06,0.894,0.576,0.766,0.0322,-15.063,0.126,118.398,0.153,1.0,1.0,0,False,
+5nVP84gGO1cl4bZmgL0LAw,Nafix I,Young Astronauts Club,960040,1921-01-15,1921,0.318,0.635,0.00974,0.908,0.107,-32.417,0.0631,139.988,0.148,1.0,7.0,0,False,
+3uUcDZ0J0ej6guKw8CSfuy,Vostok I,Young Astronauts Club,215054,1921-01-15,1921,3.24e-05,0.887,0.478,0.818,0.0322,-14.846,0.15,118.378,0.175,1.0,1.0,0,False,
+2tmux1vkt412JNTNavZD5Q,Nafix III,Young Astronauts Club,960040,1921-01-15,1921,0.00275,0.767,0.81,0.867,0.0923,-13.7,0.111,140.084,0.0786,1.0,7.0,0,False,
+1Dk5RBRJPjRlaFuxBK4FNA,Nafix II,Young Astronauts Club,960040,1921-01-15,1921,0.0005,0.701,0.468,0.86,0.0921,-17.914,0.126,140.072,0.0673,1.0,7.0,0,False,
+0wLsFErdgFa8leiKKI7HAW,Tefana I Ahurai,Corinne Tiatia,205133,1921-06-02,1921,0.776,0.662,0.376,5.81e-05,0.356,-14.664,0.0298,119.936,0.568,1.0,4.0,0,False,
+05xDjWH9ub67nJJk82yfGf,La Mañanita - Remasterizado,Ignacio Corsini,161520,1921-03-20,1921,0.996,0.485,0.13,0.151,0.104,-21.508,0.0483,64.678,0.721,0.0,5.0,0,False,vintage tango
+7xeH7l1BpezoHDCerjLBIe,La Payasa - Remasterizado,Ignacio Corsini,139506,1921-03-20,1921,0.996,0.514,0.127,0.958,0.109,-26.264,0.0688,69.873,0.659,1.0,0.0,0,False,vintage tango
+1s6QwBiqGcedNZnld0OIJV,Un Lamento - Remasterizado,Ignacio Corsini,198200,1921-03-20,1921,0.993,0.396,0.158,0.738,0.115,-24.309,0.0734,134.614,0.537,0.0,3.0,0,False,vintage tango
+3nX4gFJqhxKT61sYkB029F,Pobre Mi China - Remasterizado,Ignacio Corsini,171213,1921-03-20,1921,0.983,0.366,0.231,0.905,0.112,-24.963,0.283,63.241,0.429,1.0,4.0,0,False,vintage tango
+2F9giG3Sziq3kJJl9n0GJi,Lamento - Remasterizado,Ignacio Corsini,155986,1921-03-20,1921,0.956,0.293,0.232,0.712,0.109,-20.828,0.0679,87.417,0.619,0.0,5.0,0,False,vintage tango
+3xsF8H3vQvJd2sYB6e2Mpi,Look up,Sezua,259578,1921-09-07,1921,0.0763,0.672,0.751,0.000404,0.0205,-5.976,0.0302,180.038,0.914,1.0,2.0,0,False,
+0QLsf82sKCqAJBdwNeI1Zk,Live love learn,Sezua,400404,1921-09-07,1921,0.85,0.561,0.267,3.15e-05,0.11,-13.818,0.0263,97.503,0.325,1.0,5.0,0,False,
+3g6M4eAkVgMnFeJdWUSavX,Santos Vega - Remasterizado,Ignacio Corsini,166280,1921-03-20,1921,0.995,0.496,0.124,0.0986,0.231,-21.261,0.0505,82.858,0.598,0.0,11.0,0,False,vintage tango
+3EOZYPETcAbvpB270WnGIx,Recordando - Remasterizado,Ignacio Corsini,162906,1921-03-20,1921,0.994,0.382,0.105,0.48,0.107,-23.237,0.0408,91.581,0.43,0.0,11.0,0,False,vintage tango
+3d3nDmLDOck1Nucaflpoqt,Tortolita y Chingolo - Remasterizado,Ignacio Corsini,196506,1921-03-20,1921,0.992,0.464,0.154,0.9,0.112,-25.444,0.192,85.405,0.603,1.0,4.0,0,False,vintage tango
+6ezfrdI5jp5q2OQDRMSAkf,Na so,Sezua,244427,1921-09-07,1921,0.104,0.542,0.786,0.0,0.136,-3.838,0.0665,120.029,0.599,1.0,6.0,0,False,
+2i12cpPvPCB6ptbZzFY5qB,سنوات الضياع ، شجرة الزيزفون Ihlamurlai Altinda - Serbest Jajan & Sivan Alshaker,Serbest Jajan سربست جاجان,92496,1921-03-19,1921,0.96,0.659,0.475,0.773,0.223,-9.681,0.0348,126.044,0.591,0.0,10.0,0,False,
+2Flhrz6YVeSKXIjeUir1kF,Jakarta - Somnoplexic Remix I - Tokyo Single I,Macintosh,420048,1921-01-03,1921,0.00164,0.648,0.469,0.792,0.207,-16.174,0.0338,120.025,0.0689,1.0,8.0,0,False,
+605PWeglZhpm2o910waShO,Jakarta - Somnoplexic Remix II - Tokyo Single I,Macintosh,420048,1921-01-04,1921,0.00145,0.697,0.538,0.707,0.391,-19.255,0.0458,119.944,0.412,0.0,5.0,0,False,
+40hlqLEcSmbMnHtgXIO9nW,Shaping Tha Sea - Clankz Remix I,Young Astronauts Club,510000,1921-01-12,1921,0.0263,0.339,0.434,0.846,0.673,-19.71,0.0716,140.026,0.139,0.0,10.0,0,False,
+2NXgTXMHRK0dmuuO1ADbvp,Shaping Tha Sea - Radio Remix I,Young Astronauts Club,510000,1921-01-12,1921,0.00162,0.504,0.529,0.946,0.16,-15.459,0.0315,69.997,0.564,1.0,3.0,0,False,
+7BdHzqbQV975nDZGuFOnmb,Valencia - Tapedriven Remix I,Young Astronauts Club,315000,1921-01-01,1921,0.0076,0.599,0.787,0.966,0.161,-9.383,0.106,141.121,0.388,1.0,4.0,0,False,
+0VhIFYGSpY0Z8IAIA3C6bX,Ney Taksimi,Mehmet Kemiksiz,86987,1921,1921,0.97,0.269,0.143,0.469,0.166,-9.003,0.0413,141.386,0.41,1.0,4.0,0,False,"ilahiler, sufi chant"
+1hFb6XRPWrUzjM3f5c4Eiq,Outtro,Young Astronauts Club,60000,1921-01-14,1921,0.0918,0.35,0.397,1.99e-05,0.0996,-20.292,0.0613,134.912,0.0699,0.0,5.0,0,False,
+0osXBirvQzPRfKSUDzHPCv,Korkma Sönmez,Mehmet Kemiksiz,155062,1921,1921,0.388,0.685,0.698,1.97e-06,0.0768,-8.184,0.0421,133.951,0.723,0.0,4.0,0,False,"ilahiler, sufi chant"
+6mxCwwJqYhjGElnCFSnfUt,Open,Young Astronauts Club,295000,1921-01-14,1921,0.835,0.506,0.145,0.498,0.206,-15.778,0.0293,85.137,0.156,0.0,5.0,0,False,
+0LcXzABeA84EgudqpNUN1I,Ud Taksimi,Mehmet Kemiksiz,184973,1921,1921,0.912,0.415,0.42,0.89,0.108,-10.766,0.114,70.758,0.212,0.0,8.0,0,False,"ilahiler, sufi chant"
+1oOC25TPjQ50S29aWJlmAa,Купалiнка (cover),Anastasia Rydlevskaya,184000,1921-01-01,1921,0.989,0.376,0.178,0.00121,0.0838,-11.898,0.0325,69.902,0.117,0.0,9.0,0,False,
+41CTYgnZEk1cqWQQib5Eih,Jako,Packa Ranks,176796,1921-10-15,1921,0.0407,0.664,0.611,0.376,0.0936,-8.986,0.108,128.876,0.184,1.0,2.0,5,False,
+5oS4grc8R2kZ0uTqSjhgW8,Steeplechase Rag,James P. Johnson,147335,1921-05-06,1921,0.977,0.379,0.451,0.88,0.122,-13.475,0.0381,136.416,0.912,1.0,5.0,9,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+4mMKDAh1BWZI8kEPkuSFXL,Jingles,James P. Johnson,207053,1921-05-06,1921,0.99,0.543,0.527,0.829,0.183,-13.381,0.0409,129.309,0.836,0.0,2.0,1,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+1pw1OY16BfLSNjo8s2Hbpz,Squeeze Me,James P. Johnson,169373,1921-05-06,1921,0.973,0.825,0.149,0.866,0.186,-17.52,0.084,105.219,0.495,1.0,2.0,1,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5yqHx0JkVn10NNvMYT4a0I,Riffs,James P. Johnson,190493,1921-05-06,1921,0.976,0.753,0.258,0.857,0.102,-17.585,0.0584,100.275,0.693,1.0,10.0,0,False,"dixieland, harlem renaissance, ragtime, stride, swing, tin pan alley, vintage jazz"
+5fSQWtfkdCqHPtYWqMlCrf,Japanese Moon,Paul Specht,179096,1921-08-23,1921,0.995,0.827,0.338,0.85,0.0742,-13.076,0.0673,95.668,0.761,0.0,7.0,0,False,vintage jazz
+6gz6TLXnSQECJggI4Am9p7,Johannesberg,Young Astronauts Club,205714,1921-01-03,1921,0.023,0.484,0.88,0.91,0.171,-11.47,0.054,140.3,0.221,0.0,8.0,0,False,
+4hZ8rZrWJINrbrvVLNBP89,Murals prod. Jusdave,Jusdave,241554,1921-09-17,1921,0.469,0.786,0.572,0.0,0.122,-7.535,0.559,160.023,0.748,0.0,5.0,0,True,
+1Mca47DLKKmdWFykVbkUTb,Tell Me,Joseph C Smith,188370,1921-11-22,1921,0.996,0.33,0.18,0.087,0.427,-14.927,0.0344,88.574,0.549,1.0,10.0,0,False,
+63oVfQfqHtOQrowKKeqlxA,Live Phrom Tha Surface Ov Tha Moon,Young Astronauts Club,480000,1921-01-01,1921,0.0609,0.456,0.545,0.925,0.158,-14.935,0.0444,80.037,0.144,1.0,5.0,0,False,
+4D7Ukaa8PgLg6d1wHpNUg9,Zurich,Young Astronauts Club,320000,1921-01-01,1921,0.576,0.646,0.385,0.926,0.14,-14.418,0.0318,130.002,0.27,1.0,7.0,0,False,
+5rqOrTCrI2jA2SF97WWmwT,Valencia,Young Astronauts Club,315000,1921-01-01,1921,7.92e-05,0.677,0.498,0.949,0.484,-13.856,0.205,119.932,0.127,0.0,5.0,0,False,
+0FI27EG832eolEK4CU0xv2,Scar Song - Airstrip Studios Version,Young Astronauts Club,255000,1921-01-01,1921,0.969,0.518,0.0098,0.177,0.0943,-26.387,0.0437,139.462,0.11,1.0,10.0,0,False,
+28LZZ8Mt0hmS1hBYS4ren1,1945,Young Astronauts Club,240000,1921-01-01,1921,0.00021,0.586,0.502,0.864,0.118,-14.46,0.0371,140.217,0.129,1.0,10.0,0,False,
+1nZH1ICDjA29iDn2w5rXVk,Subject 11,Young Astronauts Club,1044999,1921-01-01,1921,0.0763,0.124,0.506,0.634,0.094,-17.735,0.0632,69.769,0.188,0.0,10.0,0,False,
+3R0mAP2Fldz3XsqcHDLRPv,London,Young Astronauts Club,235000,1921-01-03,1921,0.224,0.754,0.579,0.00809,0.351,-9.574,0.0884,107.106,0.724,0.0,1.0,0,False,
+4xWqvtKkAKxtp81PwF7mbG,Tomorrow Land,Sterling Trio,190903,1921-10-10,1921,0.967,0.315,0.226,0.0,0.303,-13.204,0.0315,96.97,0.365,1.0,10.0,0,False,
+6nnJnUGelqs4OZcPutSZv4,Memory Loss (Curse Remix),Yung Schnooty,257091,1921-08-08,1921,0.301,0.726,0.732,0.041,0.121,-8.23,0.125,116.985,0.387,1.0,6.0,0,True,
+79J2JzckQ9C0kx95pckEQI,Mamma Whip! Mamma Spank!,Mamie Smith,195266,1921-02-09,1921,0.983,0.404,0.429,7.33e-05,0.913,-11.555,0.253,81.841,0.526,1.0,9.0,0,False,"harlem renaissance, traditional blues"
+4JUrQyz9KVuacYrvFLs7in,Meet Me on the 3rd,Allesandre Cardenas,228923,1921-09-28,1921,0.000238,0.797,0.892,0.943,0.0906,-12.212,0.0609,130.01,0.138,1.0,1.0,0,False,
+153qjX01pTQqKiB54JHpvV,Murder,Plantation Jazz Orchestra,184112,1921-10-18,1921,0.996,0.404,0.264,0.00535,0.306,-10.981,0.0409,206.756,0.61,1.0,3.0,0,False,
+27LKhK2L1TVXtHwX61b9nJ,MO-TECH,Allesandre Cardenas,203205,1921-09-28,1921,0.000255,0.8,0.723,0.938,0.0577,-14.544,0.0688,132.272,0.185,1.0,7.0,0,False,
+5OYjtiouwCm5ufHQtcEiXl,Mama Tou Turui Raa,Corinne Tiatia,234400,1921-06-02,1921,0.536,0.668,0.338,0.0192,0.152,-16.935,0.032,126.986,0.542,1.0,9.0,0,False,
+6qVPgbuP5khwJqbgpKsije,Montréal,Young Astronauts Club,365049,1921-01-15,1921,0.391,0.293,0.397,0.873,0.139,-12.536,0.0594,149.66,0.164,1.0,1.0,0,False,
+09l0Wu3SBlJikzQuAlto1h,Tomorrow Saves Me,Majentta,259066,1921,1921,0.000913,0.543,0.695,0.00268,0.281,-4.224,0.034,117.964,0.359,0.0,6.0,0,False,
+5vcMXnfIEc6HwTlaPpLufU,Piritiya Me,"The Regional Cafee, Abhas Chaturvedi",259299,1921-06-21,1921,0.663,0.618,0.507,3.8e-05,0.383,-13.074,0.035,129.945,0.704,0.0,9.0,0,False,
+1jcImtvDrrB7bzwdFFvyUm,SNO SEALS,Allesandre Cardenas,227368,1921-09-28,1921,3.44e-05,0.801,0.45,0.899,0.0877,-14.758,0.0802,132.972,0.676,1.0,7.0,0,False,
+6CMpQEcJ6L04LXdH1z1bHM,Yerevan,Young Astronauts Club,335000,1921-01-03,1921,0.762,0.222,0.0537,0.498,0.0767,-17.731,0.0666,67.551,0.0622,1.0,7.0,0,False,
+4KJQTZTXDNtYhuwFcDVrAq,Space (Remix),MostlongRiver,430686,1921-11-14,1921,0.841,0.644,0.722,0.939,0.0951,-9.773,0.0314,140.005,0.211,1.0,1.0,0,False,
+023lXGxNBgBpPznvaKwG4K,we paid,Marlino,80117,1921-08-16,1921,0.00801,0.935,0.452,5.13e-05,0.1,-9.159,0.255,135.071,0.218,1.0,8.0,0,False,
+1Nhk6W58gOpkLhKprZN4nS,Washington,Young Astronauts Club,520560,1921-01-03,1921,0.262,0.671,0.502,0.000646,0.243,-15.355,0.0663,149.998,0.632,1.0,4.0,0,False,
+5BjObdzoRIcXQMonijsPmD,That Will Never Change,"Trishul R. Manoj, Sanatani Manoj",190166,1921-05-31,1921,0.393,0.772,0.461,0.208,0.114,-14.568,0.0467,110.043,0.275,1.0,7.0,0,False,
+08ohKobgyUtwqrim6IN4pc,Te Rai Tahiti Nui,Corinne Tiatia,232373,1921-06-02,1921,0.443,0.647,0.547,0.0711,0.158,-13.633,0.0276,135.114,0.87,1.0,8.0,3,False,
+117N2pjcqTkgIJbhg3kM7k,Orange Creamsicle,Yung Schnooty,72074,1921-08-08,1921,0.964,0.416,0.363,0.946,0.116,-12.423,0.0447,139.878,0.173,0.0,6.0,0,False,
+05o3eTfm99qNccpGqpztgu,Pirates of the Caribbean,Asterixo,84000,1921-01-22,1921,0.336,0.617,0.712,0.952,0.21,-4.363,0.0336,105.883,0.536,0.0,2.0,0,False,
+4cAxCLjPLojDKuihPNLiCJ,Perestij,Safiye Ayla,182334,1921-04-12,1921,0.994,0.362,0.315,0.636,0.38,-14.111,0.0646,91.551,0.286,1.0,2.0,2,False,"rumeli turkuleri, turk sanat muzigi"
+3Ss3w1Rv1edAnLkKH0Erbf,Runtz,Yung Schnooty,146378,1921-08-08,1921,0.286,0.531,0.758,0.0,0.0663,-8.36,0.426,135.29,0.491,1.0,0.0,0,True,
+4v1VRRezCXB15aSrsmkTDW,Cherry Cheesecake,Yung Schnooty,131517,1921-08-08,1921,0.374,0.644,0.605,0.0,0.099,-7.535,0.405,129.489,0.566,1.0,1.0,0,True,
+4EpQgtBPEqAjzYB9VFcqQu,Severance,Young Astronauts Club,7200040,1921-01-15,1921,,,,,,,,,,,,0,False,
+1S4B3vsbPaKSbTd0xpNL4h,Tükenmişlik Senfonisi,Bünyamin Can Polat,169331,1921-09-23,1921,0.75,0.808,0.455,0.0,0.114,-13.043,0.479,86.974,0.439,0.0,0.0,0,True,
+5Z0LhftALlhW3JyZkMxIcc,Tevatron,sHeFf_pOLy,244615,1921-03-02,1921,0.928,0.34,0.126,0.912,0.0977,-26.684,0.256,69.502,0.0381,1.0,0.0,0,False,
+0R1L3kvOWqk7WwbnET8ITt,លើសពីមិត្ត,TyroMatt,106318,1921-07-27,1921,0.376,0.745,0.358,0.0014,0.186,-11.584,0.0411,140.087,0.307,1.0,1.0,0,False,
+77Cz4Nm053zauyEBdwkOy5,Vox,Young Astronauts Club,300343,1921-01-15,1921,0.908,0.68,0.818,0.96,0.402,-16.891,0.0375,100.12,0.425,0.0,8.0,0,False,
+5cab4e6EXftsyaFJUL1brY,Ventolin,Young Astronauts Club,345039,1921-01-15,1921,0.53,0.602,0.506,0.0775,0.111,-12.651,0.0346,129.905,0.283,0.0,5.0,0,False,
