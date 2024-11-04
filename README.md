@@ -11,5 +11,6 @@ Archivos y proyectos del curso
 <p>Avances del proyecto, priemera entrega:
 <a href= "https://colab.research.google.com/drive/1XBrZGAdhuQjTePV4IR9DrC48BG_Iwkjx?usp=sharing">Tracks de Spotify</a> 
 </p>
+<img src="url" alt="alternatetext">
 </body>
 </html>
