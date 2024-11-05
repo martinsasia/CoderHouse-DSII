@@ -13,7 +13,7 @@ Archivos y proyectos del curso
 <h4>Notebook del proyecto final</h4>
 <p>Avances del proyecto, primera entrega:
 <a href= "https://colab.research.google.com/drive/1XBrZGAdhuQjTePV4IR9DrC48BG_Iwkjx?usp=sharing">Notebook. Tracks de Spotify</a>
-<br><img src="Primera_Entrega/PortadaV3.png" alt="Word cloud de géneros">
+<div><img src="Primera_Entrega/PortadaV3.png" alt="Word cloud de géneros"> </div> 
 Nube de géneros.
 </p>
 </body>
