@@ -2,7 +2,7 @@
 Archivos y proyectos del curso
 <h3>Casos de estudio para la detección de fraudes</h3>
 
-<p>por Martín Sasia. Noviembre 2024<p> 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="martinsasiads" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/martinsasiads?trk=profile-badge">Martín Ariel Sasia</a> Noviembre 2024</div>
 
 <body>
 <h4>Presentación del proyecto final</h4>
@@ -12,8 +12,8 @@ Archivos y proyectos del curso
 
 <h4>Notebook del proyecto final</h4>
 <p>Avances del proyecto, primera entrega:
-<a href= "https://colab.research.google.com/drive/1XBrZGAdhuQjTePV4IR9DrC48BG_Iwkjx?usp=sharing">Notebook. Tracks de Spotify</a> 
+<a href= "https://colab.research.google.com/drive/1XBrZGAdhuQjTePV4IR9DrC48BG_Iwkjx?usp=sharing">Notebook. Tracks de Spotify</a>
+<br><img src="Primera_Entrega/PortadaV3.png" alt="Word cloud de géneros">
+Nube de géneros.
 </p>
-<img src="Primera_Entrega/PortadaV3.png" alt="Word cloud de géneros">
 </body>
-
